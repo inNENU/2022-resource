@@ -1,0 +1,109 @@
+title: 寝室
+grey: true
+author: Mr.Hope
+time: 2021年8月15日
+shareable: true
+content:
+  - tag: list
+    header: 寝室分布
+    content:
+      - text: 本部校区本科寝室
+        icon: locate
+        path: locate/benbu
+
+      - text: 本部校区研究生寝室
+        icon: locate
+        path: locate/benbu-master
+
+      - text: 净月校区本科寝室
+        icon: locate
+        path: locate/jingyue
+
+      - text: 净月校区研究生寝室
+        icon: locate
+        path: locate/jingyue-master
+
+  - tag: list
+    content:
+      - text: 寝室分配
+        desc: 是否可以选择寝室
+        icon: faq
+        path: choose
+
+  - tag: list
+    header: 寝室详细介绍
+    content:
+      - text: 室内环境介绍
+        icon: environment
+        path: detail/env
+
+      - text: 个人区域介绍
+        icon: environment
+        path: detail/person
+
+  - tag: list
+    header: 配套设置
+    content:
+      - text: 热水房
+        icon: hot-water
+        path: detail/hot-water
+
+      - text: 洗漱间
+        icon: washing
+        path: detail/washing
+
+      - text: 电梯
+        icon: lift
+        path: detail/lift
+
+      - text: 自习室
+        icon: study
+        path: detail/self-study
+
+      - text: 卫生间
+        icon: toilet
+        path: detail/toilet
+
+      - text: 洗衣机
+        icon: washer
+        path: detail/washer
+
+  - tag: list
+    header: 供电供网
+    content:
+      - text: 供电时间
+        icon: time
+        path: electricity/time
+
+      - text: 功率限制
+        icon: power
+        path: electricity/power
+
+      - text: 缴纳电费
+        icon: money
+        path: electricity/pay
+
+      - text: 寝室供网
+        icon: network
+        path: network
+
+  - tag: list
+    header: 规章制度
+    content:
+      - text: 寝室门禁
+        icon: door-guard
+        path: door
+
+      - text: 走读与调宿
+        icon: info
+        path: day-reading
+
+      - text: 违禁物品
+        icon: ban
+        path: ban
+
+  - tag: list
+    content:
+      - text: Mr.Hope の建议
+        icon: idea
+        path: advice

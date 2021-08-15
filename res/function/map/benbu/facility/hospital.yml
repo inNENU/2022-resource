@@ -1,0 +1,17 @@
+title: 校医院
+author: fy
+desc: "来源: 东北师范大学校医院官网"
+time: 2020年9月1日
+content:
+  - tag: title
+    text: 简介
+
+  - tag: p
+    text: 校医院位于西大门北侧、行政楼背后、地铁出站口旁。
+
+  - tag: list
+    header: false
+    content:
+      - text: 校医院介绍
+        icon: hospital
+        path: /intro/apartment/hospital/

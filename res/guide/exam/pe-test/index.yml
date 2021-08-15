@@ -1,0 +1,29 @@
+title: 体测
+grey: true
+author: Mr.Hope
+time: 2021年8月15日
+shareable: true
+content:
+  - tag: p
+    heading: " "
+    text: |-
+      2021 年本科生新生体测时间:
+      预计 8 月末或 9 月初进行，请等待学校进一步通知
+
+  - tag: list
+    content:
+      - text: 体测简介
+        icon: basketball
+        path: intro
+
+      - text: 测试成绩说明
+        icon: intro
+        path: explain
+
+      - text: 测试项目评分表
+        icon: score
+        path: score
+
+      - text: 申请免测/缓测的条件及程序
+        icon: apply
+        path: exempt

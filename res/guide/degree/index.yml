@@ -1,0 +1,19 @@
+title: 学位
+author: Mr.Hope
+time: 2021年8月15日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      # - text: 学位介绍
+      #   icon: intro
+      #   path: intro
+
+      - text: 双学位与辅修
+        icon: degree
+        path: double-degree
+
+      - text: 第二学士学位
+        icon: degree
+        path: second-degree

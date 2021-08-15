@@ -1,0 +1,39 @@
+title: 生活
+author: Mr.Hope
+time: 2021年8月15日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 理发
+        icon: haircut
+        path: haircut
+
+      - text: 照相
+        icon: photo
+        path: photo
+
+      - text: 打印
+        icon: print
+        path: print
+
+      - text: 交通出行
+        icon: traffic
+        path: traffic/
+
+      - text: 存取款
+        icon: atm
+        path: atm
+
+      - text: 就医
+        icon: hospital
+        path: hostpital
+
+      - text: SIM 卡
+        icon: sim
+        path: sim/
+
+      - text: 校园周边
+        icon: nearby
+        path: nearby/

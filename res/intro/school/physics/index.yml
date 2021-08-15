@@ -1,0 +1,18 @@
+title: 物理学院
+author: Mr.Hope
+time: 2021年8月15日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 学院简介
+        icon: about
+        path: intro
+
+      - text: 专业介绍
+        icon: intro
+        path: enroll
+
+  - tag: copy
+    header: 官网地址
+    text: http://www.phy.nenu.edu.cn/
