@@ -1,14 +1,15 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月22日
 shareable: true
 content:
-  - tag: p
+  - tag: text
     heading: " "
-    text: |-
-      2021 年本科生新生体测时间:
-      预计 8 月末或 9 月初进行，请等待学校进一步通知
+    text:
+      - |-
+        2021 年本科生新生体测时间: 预计 9 月初进行，通常是开学后半个月。
+      - 由于疫情情况多变，请等待学校进一步通知
 
   - tag: list
     content:
