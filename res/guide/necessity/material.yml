@@ -1,6 +1,6 @@
 title: 证件材料类
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月22日
 shareable: true
 content:
   - tag: title
@@ -45,16 +45,14 @@ content:
       - 大学英语四六级报名要求蓝底电子照。
       - 寝室人员管理记录这种材料的照片贴什么底色都行。
 
-  - tag: p
+  - tag: text
     type: info
-    heading: · 艺术类考生
-    text: 需带《东北师范大学艺术类专业考试合格证》
+    heading: 若干现金
 
-  - tag: p
+  - tag: ul
     type: info
-    heading: · 若干现金
-
-  - tag: p
-    type: info
-    heading: · 公费师范生
-    text: 需带“本人或本人及其监护人签字的本协议书一式四份”
+    heading: 特殊考生
+    text:
+      - 艺术类考生需带《东北师范大学艺术类专业考试合格证》(如果有)
+      - 公费师范生需带“本人或本人及其监护人签字的公费师范生协议书一式四份”
+      - 优师专项生需带“本人或本人及其监护人签字的优师专项协议书一式五份”
