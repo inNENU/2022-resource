@@ -13,7 +13,7 @@ content:
         path: /intro/school/education/enroll
 
       - text: 优秀毕业生建议
-        icon: advice
+        icon: idea
         path: /intro/school/education/advice
 
   - tag: copy

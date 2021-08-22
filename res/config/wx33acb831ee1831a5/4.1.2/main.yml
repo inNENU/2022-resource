@@ -22,6 +22,10 @@ content:
         icon: about
         url: page?path=other/about/guide
 
+      - text: 常见问题
+        icon: faq
+        path: guide/faq/
+
   - tag: grid
     header: 您可能想关注
     content:
