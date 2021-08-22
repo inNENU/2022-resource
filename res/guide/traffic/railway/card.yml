@@ -15,5 +15,5 @@ content:
     header: 使用指南
     content:
       - text: 长春市轨道交通“一卡通”发行使用指南
-        icon: advice
+        icon: idea
         path: card-guide

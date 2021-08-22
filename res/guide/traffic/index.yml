@@ -16,7 +16,7 @@ content:
 
       - text: 火车站介绍
         icon: railway
-        path: train
+        path: train/
 
       - text: 机场介绍
         icon: plane
