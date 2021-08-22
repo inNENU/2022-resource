@@ -89,6 +89,9 @@ content:
     text:
       - 请参阅 “疫情管理调整”
 
+  - tag: list
+    header: false
+    content:
       - text: 疫情管理调整
         icon: virus
         path: /guide/epidemic/manage

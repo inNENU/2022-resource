@@ -1,6 +1,6 @@
 title: 交通
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月22日
 grey: true
 shareable: true
 content:
@@ -12,7 +12,7 @@ content:
 
       - text: 轨道交通介绍
         icon: train
-        path: railway
+        path: railway/
 
       - text: 火车站介绍
         icon: railway

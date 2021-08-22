@@ -1,15 +1,11 @@
-title: 长春轨道交通介绍
+title: E出行 App
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月22日
 shareable: true
 content:
-  - tag: text
-    type: warning
-    text:
-      - 制作中...
-
-  - tag: title
-    text: E出行 App
+  - tag: copy
+    header: 下载地址
+    text: https://appgallery.huawei.com/#/app/C101180615
 
   - tag: text
     text:
