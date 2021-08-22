@@ -24,17 +24,23 @@ content:
         icon: virus
         path: guide/epidemic/
 
+      - text: 需带物品
+        color: olive
+        name: Necessity
+        icon: necessity
+        path: guide/necessity/
+
       - text: 新生报到
         color: orange
         name: Check
         icon: check
         path: guide/check/
 
-      - text: 需带物品
-        color: olive
-        name: Necessity
-        icon: necessity
-        path: guide/necessity/
+      - text: 交通出行
+        color: grey
+        name: Traffic
+        icon: traffic
+        path: /guide/traffic/
 
       - text: 入学活动
         color: purple
