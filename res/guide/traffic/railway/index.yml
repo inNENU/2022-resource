@@ -36,3 +36,10 @@ content:
       - text: 长春市轨道交通管理条例
         icon: rule
         path: rule
+
+  - tag: list
+    header: 疫情管控
+    content:
+      - text: 在乘坐长春市的轨道交通时，需要出示“吉祥码”。
+      - text: 吉祥码注册与使用
+        path: /guide/epidemic/jixiang-code/

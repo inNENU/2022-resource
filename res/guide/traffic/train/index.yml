@@ -1,0 +1,24 @@
+title: 长春火车站介绍
+author: Mr.Hope
+time: 2021年8月22日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 站点介绍
+        icon: about
+        path: intro
+
+  - tag: list
+    header: 站点详情
+    content:
+      - text: 长春站
+        path: changchun
+
+      - text: 长春西站
+        path: changchun-west
+
+  - tag: list
+    header: 疫情管控
+    content:
+      - text: 在长春站出战时，需要测量体温、刷身份证查验健康码情况。需要隔离的会直接隔离。
