@@ -1,0 +1,18 @@
+title: 长春疫情管控地区
+author: Mr.Hope
+time: 2021年8月23日
+shareable: true
+content:
+  - tag: title
+    text: 长春疫情管控地区
+
+  - tag: ol
+    type: danger
+    heading: 特别注意
+    text:
+      - Mr.Hope 不保证每日更新此资讯。请自行关注微信公众号“长春疾控”查阅每日发布的最新消息。
+      # - 判定是按照对应日期所在地判定，也就是只要你到访或停留当天为管控地区，即会产生黄码，只有连续14天当天所在地区都并非管控地区，才会显示绿码。
+
+  - tag: doc
+    name: 长春疫情管控地区 (8.23)
+    url: https://mp.innenu.com/file/epidemic/changhun-restrict-0823.pdf

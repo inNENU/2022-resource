@@ -1,6 +1,6 @@
 title: “吉祥码”注册
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月23日
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
     text: 可打开微信“扫一扫”扫描右侧二维码(图1-2)，进入小程序首页。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-scan.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-scan.png
 
   - tag: title
     text: 注册流程
@@ -29,10 +29,10 @@ content:
       - 填写用户名、真实姓名及身份证号码，如果其中一项没有填写都不会进行下一步操作，如果此项操作中弹出错误提示，请根据提示进行相关修改。(图2-5)
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-register.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-register.png
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-fillin.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-fillin.png
 
   - tag: title
     text: 登录流程
@@ -50,7 +50,7 @@ content:
       - 点击“微信授权登录”按钮，登录进“吉事办”小程序首页。(图3-2-1)
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-login.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-login.png
 
   - tag: title
     text: 查看吉祥码流程
@@ -68,7 +68,7 @@ content:
     text: 点击首页，选择“查看吉祥码”(图4-2-1)
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-view.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-view.png
 
   - tag: title
     text: 个人信息上报流程
@@ -79,4 +79,4 @@ content:
       - 点击“个人信息上报”输入“近两周是否有以下症状”，若有选择对应症状，输入体温，输入家庭所在地区，输入家庭详细住址，输入备注信息，点击“提交”完成个人健康信息上报。(图5-2)
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jixiang-code-upload.png
+    src: https://mp.innenu.com/img/epidemic/jixiang-code-upload.png

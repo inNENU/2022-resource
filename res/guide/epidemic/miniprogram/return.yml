@@ -1,6 +1,6 @@
 title: 返校打卡
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月23日
 shareable: true
 content:
   - tag: title
@@ -9,12 +9,14 @@ content:
   - tag: text
     text:
       - 返校打卡使用学校官方微信小程序 “东师 e 起战疫”。
-      - 学生返校前需要每天如实上报自己的情况，连续完成 14 天打卡后，方能获得绿色的返校码进行返校或报道。
+      - 学生返校前需要每天如实上报自己的情况，不得错报瞒报。
+      - 连续完成 14 天打卡后，符合学校返校要求的，可以获得绿色的返校码申请返校或报道。
 
   - tag: text
     type: danger
     text:
-      - 请您务必重视打卡，若您在开学前未能在小程序上不间断打卡满14天，您将不能按时报到或返校！
+      - 请您务必重视打卡！
+      - 若您在开学前未能在小程序上不间断打卡满14天，或者并未正确报送信息，您将不能按时报到或返校！
 
   - tag: title
     text: 使用说明
@@ -32,7 +34,7 @@ content:
       - 填写完毕后，勾选本人承诺选项可点击提交即可。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/miniprogram-use.png
+    src: https://mp.innenu.com/img/epidemic/miniprogram-use.png
 
   - tag: ul
     type: warning
