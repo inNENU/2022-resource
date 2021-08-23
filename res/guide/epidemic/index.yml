@@ -68,3 +68,7 @@ content:
       - text: 返校打卡
         icon: check
         path: miniprogram/return
+
+      - text: 返校码说明
+        icon: intro
+        path: miniprogram/return-code
