@@ -1,6 +1,6 @@
 title: 易班客户端注册流程
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月23日
 shareable: true
 content:
   - tag: title
@@ -48,5 +48,5 @@ content:
   - tag: text
     type: warning
     text:
-      - 请注意我们学校只导入了学号，使用其他方式无法成功验证！
+      - 请注意我们学校只导入了学号，使用其他方式无法成功验证!
       - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。

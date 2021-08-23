@@ -6,7 +6,7 @@ content:
   - tag: title
     text: 长春疫情管控地区
 
-  - tag: ol
+  - tag: text
     type: danger
     heading: 特别注意
     text:
