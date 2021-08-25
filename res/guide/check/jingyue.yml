@@ -1,6 +1,6 @@
 title: 净月校区校门
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月25日
 shareable: true
 content:
   - tag: title
@@ -27,7 +27,7 @@ content:
 
   - tag: text
     type: danger
-    text: 疫情报道期间此门关闭!
+    text: 疫情报到期间此门关闭!
 
   - tag: img
     src: https://mp.innenu.com/img/scenery/jingyue/gate/north.jpg

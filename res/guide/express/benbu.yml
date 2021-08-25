@@ -1,6 +1,6 @@
 title: 本部校区快递
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月25日
 shareable: true
 content:
   - tag: text
@@ -19,6 +19,11 @@ content:
 
   - tag: text
     text: 如果要寄快递的话最好选择它们。
+
+  - tag: text
+    type: tip
+    text:
+      - 为了方便学生，在新生报到期间，中通在校内设置临时取件点。
 
   - tag: title
     text: 菜鸟驿站

@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月25日
 shareable: true
 content:
   - tag: title
@@ -8,14 +8,14 @@ content:
 
   - tag: text
     type: tip
-    heading: 本科新生报道
+    heading: 本科新生报到
     text:
       - 报到时间为 2021 年 9 月 3 日 星期五 6:00 - 22:00
       - 火车站将设有新生接待处
 
   - tag: text
     type: tip
-    heading: 研究生新生报道
+    heading: 研究生新生报到
     text:
       - 报到时间为 2021 年 9 月 1 日 星期三
 
@@ -25,11 +25,12 @@ content:
   #   text:
   #     - 体育教育、体育教育(公费师范)、运动训练、武术与民族传统体育专业报到时间为 2021 年 8 月 27 日。
 
-  - tag: text
-    type: info
+  - tag: ul
+    type: warning
+    heading: 因疫情防控需要
     text:
-      - 学校通常会在新生报到前 10 天左右开会确定新生报到的具体的工作安排，所以目前 Mr.Hope 现在没法给您具体的地点。
-      - 因疫情防控需要，学生家长、亲友不能陪同学生进入校园。新生报到时，校园内配备服务车转运行李，学生志愿者提供服务保障。
+      - (动植物公园对面)，净月校区只开放正门 (1号门)。
+      - 学生家长、亲友不能陪同学生进入校园。新生报到时，校园内配备服务车转运行李，学生志愿者提供服务保障。
 
   - tag: title
     text: 可以早到么
