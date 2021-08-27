@@ -104,7 +104,9 @@ const getQRCode = (name: string): Promise<void> => {
 
               // 判断 scene 长度
               if (scene.length > 32) {
-                console.error(`\nLong Scene: ${scene}\n`);
+                console.error(
+                  `\nLong Scene: ${scene} with length ${scene.length}\n`
+                );
 
                 return new Promise((resolve) => resolve());
               }

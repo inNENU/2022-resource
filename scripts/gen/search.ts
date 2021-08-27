@@ -61,7 +61,7 @@ const createSearchMap = (folder: string): SearchInfo => {
       if (element.tag === "card" && element.type === "web")
         searchMap[pathName].card.push({
           title: element.title,
-          desc: element.desc,
+          ...(element.desc ? { desc: element.desc } : {}),
         });
 
       if (element.tag === "doc")

@@ -1,8 +1,11 @@
 import axios from "axios";
+import { config } from "dotenv";
 import { appIDInfo } from "./info";
 import { getFileList } from "./util/file";
 
 const appidList = Object.keys(appIDInfo);
+
+config();
 
 export const pushPages = (): Promise<void> => {
   const fileList = getFileList("./res/guide", "yml")

@@ -1,5 +1,6 @@
 import { execSync } from "child_process";
 import { sync as del } from "del";
+import { config } from "dotenv";
 import { convertYml2Json } from "../util/yml2json";
 import { resolvePage } from "../components/page";
 import { count } from "./count";
@@ -10,6 +11,8 @@ import { genQRCode } from "./qrcode";
 import { genSearchMap } from "./search";
 import { resolveMarker } from "./marker";
 import { genResource } from "./resource";
+
+config();
 
 // 删除旧的文件
 del([

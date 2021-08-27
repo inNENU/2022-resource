@@ -1,7 +1,10 @@
+# Node modules
 node_modules/
 
+# Backup files
 other/bak/
+
+# Server Info
 service/info/
 
-scripts/**/*.js
-scripts/**/info.ts
+.env

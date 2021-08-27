@@ -14,7 +14,7 @@ const genMarker = (
 ): MarkerData => ({
   id,
   ...marker,
-  path: marker.path ? `${category}/${marker.path}` : undefined,
+  ...(marker.path ? { path: `${category}/${marker.path}` } : {}),
 });
 
 interface MarkerOption {
