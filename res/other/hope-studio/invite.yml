@@ -2,21 +2,25 @@ title: Hope Studio 招新
 shareable: true
 content:
   - tag: text
-    text: 希望工作室长期招新，有意者请点击下方对应链接联系 Mr.Hope
+    text: 希望工作室长期招新，有意者请
 
   - tag: advanced-list
     header: false
     content:
-      - text: QQ 小程序
+      - text: 联系 Mr.Hope
         icon: contact
         type: button
         openType: addFriend
         openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq
 
-      - text: 微信小程序
+      - text: 联系 Mr.Hope
         icon: contact
         type: button
         openType: contact
+        env:
+          - wechat
 
   - tag: title
     text: 优势
