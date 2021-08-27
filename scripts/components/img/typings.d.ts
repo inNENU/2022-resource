@@ -1,6 +1,6 @@
-import { ImageMode } from "../common";
+import type { BaseComponentConfig, ImageMode } from "../common";
 
-export interface ImageComponentConfig {
+export interface ImageComponentConfig extends BaseComponentConfig {
   tag: "img";
   /** 图片的本地路径或在线网址 */
   src: string;

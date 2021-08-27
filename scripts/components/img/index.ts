@@ -32,6 +32,8 @@ export const resolveImg = (
           undefined,
         ],
       },
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

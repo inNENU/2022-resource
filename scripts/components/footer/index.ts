@@ -12,6 +12,8 @@ export const resolveFooter = (
       author: ["string", "undefined"],
       time: ["string", "undefined"],
       desc: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

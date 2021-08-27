@@ -20,6 +20,8 @@ export const resolveMedia = (
       startTime: ["number", "undefined"],
       "danmu-list": ["array", "undefined"],
       "danmu-btn": ["number", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

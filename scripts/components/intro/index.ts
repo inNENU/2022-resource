@@ -12,6 +12,8 @@ export const resolveIntro = (
       name: "string",
       logo: "string",
       desc: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

@@ -1,4 +1,6 @@
-export interface GridComponentItemComfig {
+import type { BaseComponentConfig } from "../common";
+
+export interface GridComponentItemComfig extends BaseComponentConfig {
   /** 网格文字 */
   text: string;
   /** 网格图标的在线路径或本地路径 */
@@ -15,7 +17,7 @@ export interface GridComponentItemComfig {
   url?: string;
 }
 
-export interface GridComponentConfig {
+export interface GridComponentConfig extends BaseComponentConfig {
   tag: "grid";
   header?: string | false;
   content: GridComponentItemComfig[];

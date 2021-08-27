@@ -1,4 +1,6 @@
-interface MediaBaseComponentConfig {
+import type { BaseComponentConfig } from "../common";
+
+interface MediaBaseComponentConfig extends BaseComponentConfig {
   tag: "media";
   /** 媒体文件的在线网址或本地路径	 */
   src: string;

@@ -20,7 +20,7 @@ export const resolveText = (
   if (typeof element.text === "string") element.text = [element.text];
 
   // 处理段落缩进
-  if (element.type === "p" || element.tag === "p")
+  if (element.tag === "p")
     element.style = `text-indent: 1.5em; ${element.style || ""}`;
 
   checkKeys(
@@ -35,6 +35,8 @@ export const resolveText = (
       text: ["string[]", "undefined"],
       style: ["string", "undefined"],
       align: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

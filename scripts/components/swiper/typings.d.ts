@@ -1,6 +1,6 @@
-import { ImageMode } from "../common";
+import type { BaseComponentConfig, ImageMode } from "../common";
 
-export interface SwiperComponentConfig {
+export interface SwiperComponentConfig extends BaseComponentConfig {
   tag: "swiper";
   /** swiper 展示的图片的在线网址或本地路径 */
   url: string[];

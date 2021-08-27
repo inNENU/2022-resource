@@ -1,4 +1,6 @@
-export interface TitleComponentConfig {
+import type { BaseComponentConfig } from "../common";
+
+export interface TitleComponentConfig extends BaseComponentConfig {
   tag: "title";
   /** 标题文字 */
   text: string;

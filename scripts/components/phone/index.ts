@@ -35,6 +35,8 @@ export const resolvePhone = (
       website: ["string", "undefined"],
       email: ["string", "undefined"],
       homeNum: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

@@ -16,6 +16,8 @@ export const resolveCard = (
       desc: ["string", "undefined"],
       logo: ["string", "undefined"],
       name: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

@@ -14,6 +14,8 @@ export const resolveGrid = (
       header: { type: ["string", "undefined"], additional: [false] },
       content: "array",
       footer: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );
@@ -41,6 +43,8 @@ export const resolveGrid = (
         name: "string",
         path: ["string", "undefined"],
         url: ["string", "undefined"],
+        hidden: ["boolean", "undefined"],
+        env: ["string[]", "undefined"],
       },
       `${location}.content`
     );

@@ -1,4 +1,6 @@
-export interface FooterComponentConfig {
+import type { BaseComponentConfig } from "../common";
+
+export interface FooterComponentConfig extends BaseComponentConfig {
   tag: "footer";
   /** 作者 */
   author?: string;

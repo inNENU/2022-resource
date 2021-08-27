@@ -5,5 +5,13 @@ export const resolveLoading = (
   element: LoadingComponentConfig,
   location = ""
 ): void => {
-  checkKeys(element, { tag: "string" }, location);
+  checkKeys(
+    element,
+    {
+      tag: "string",
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
+    },
+    location
+  );
 };

@@ -17,6 +17,8 @@ export const resolveList = (
       header: ["string", "boolean", "undefined"],
       content: "array",
       footer: ["string", "undefined"],
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );
@@ -31,7 +33,6 @@ export const resolveList = (
             icon: ["string", "undefined"],
             base64Icon: ["string", "undefined"],
             desc: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             type: {
               type: "string",
               enum: ["navigator"],
@@ -53,6 +54,8 @@ export const resolveList = (
               enum: ["self", "miniProgram", undefined],
             },
             url: ["string", "undefined"],
+            hidden: ["boolean", "undefined"],
+            env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
         );
@@ -64,7 +67,6 @@ export const resolveList = (
             icon: ["string", "undefined"],
             base64Icon: ["string", "undefined"],
             desc: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             type: {
               type: "string",
               enum: ["switch"],
@@ -72,6 +74,8 @@ export const resolveList = (
             key: "string",
             handler: ["string", "undefined"],
             color: ["string", "undefined"],
+            hidden: ["boolean", "undefined"],
+            env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
         );
@@ -83,7 +87,6 @@ export const resolveList = (
             icon: ["string", "undefined"],
             base64Icon: ["string", "undefined"],
             desc: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             type: {
               type: "string",
               enum: ["slider"],
@@ -93,6 +96,8 @@ export const resolveList = (
             min: ["number", "undefined"],
             max: ["number", "undefined"],
             step: ["number", "undefined"],
+            hidden: ["boolean", "undefined"],
+            env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
         );
@@ -104,7 +109,6 @@ export const resolveList = (
             icon: ["string", "undefined"],
             base64Icon: ["string", "undefined"],
             desc: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             type: {
               type: "string",
               enum: ["picker"],
@@ -114,6 +118,8 @@ export const resolveList = (
             handler: ["string", "undefined"],
             single: ["boolean", "undefined"],
             inlay: ["boolean", "undefined"],
+            hidden: ["boolean", "undefined"],
+            env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
         );
@@ -125,7 +131,6 @@ export const resolveList = (
             icon: ["string", "undefined"],
             base64Icon: ["string", "undefined"],
             desc: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             type: {
               type: "string",
               enum: ["button"],
@@ -153,6 +158,8 @@ export const resolveList = (
             openId: ["string", "undefined"],
             groupId: ["string", "undefined"],
             disabled: ["boolean", "undefined"],
+            hidden: ["boolean", "undefined"],
+            env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
         );
@@ -181,9 +188,10 @@ export const resolveList = (
           icon: ["string", "undefined"],
           base64Icon: ["string", "undefined"],
           desc: ["string", "undefined"],
-          hidden: ["boolean", "undefined"],
           path: ["string"],
           url: ["string", "undefined"],
+          hidden: ["boolean", "undefined"],
+          env: ["string[]", "undefined"],
         },
         `${location}.content[${index}]`
       );
@@ -195,8 +203,9 @@ export const resolveList = (
           icon: ["string", "undefined"],
           base64Icon: ["string", "undefined"],
           desc: ["string", "undefined"],
-          hidden: ["boolean", "undefined"],
           url: ["string", "undefined"],
+          hidden: ["boolean", "undefined"],
+          env: ["string[]", "undefined"],
         },
         `${location}.content[${index}]`
       );

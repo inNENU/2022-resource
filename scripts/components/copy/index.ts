@@ -7,7 +7,13 @@ export const resolveCopy = (
 ): void => {
   checkKeys(
     element,
-    { tag: "string", header: ["string", "undefined"], text: "string" },
+    {
+      tag: "string",
+      header: ["string", "undefined"],
+      text: "string",
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
+    },
     location
   );
 };

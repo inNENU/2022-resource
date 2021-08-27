@@ -1,4 +1,6 @@
-export interface IntroComponentConfig {
+import type { BaseComponentConfig } from "../common";
+
+export interface IntroComponentConfig extends BaseComponentConfig {
   tag: "intro";
   /** 主体名称 */
   name: string;

@@ -44,6 +44,8 @@ export const resolveSwiper = (
           undefined,
         ],
       },
+      hidden: ["boolean", "undefined"],
+      env: ["string[]", "undefined"],
     },
     location
   );

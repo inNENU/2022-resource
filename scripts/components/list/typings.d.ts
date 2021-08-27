@@ -1,4 +1,6 @@
-export interface BaseListComponentItemConfig {
+import type { BaseComponentConfig } from "../common";
+
+export interface BaseListComponentItemConfig extends BaseComponentConfig {
   /** 列表单元的显示文字 */
   text: string;
   /** 列表图标的本地路径或在线网址 */
@@ -22,7 +24,7 @@ export interface ListComponentItemConfig extends BaseListComponentItemConfig {
   url?: string;
 }
 
-export interface ListComponentConfig {
+export interface ListComponentConfig extends BaseComponentConfig {
   tag: "list";
   /** 列表标题 */
   header?: string | false;
@@ -186,7 +188,7 @@ export type AdvancedListComponentItemConfig =
   | SliderListComponentItemConfig
   | ButtonListComponnetItemConfig;
 
-export interface AdvancedListComponentConfig {
+export interface AdvancedListComponentConfig extends BaseComponentConfig {
   tag: "advanced-list";
   /** 列表标题 */
   header?: string | false;
