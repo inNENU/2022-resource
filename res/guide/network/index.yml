@@ -1,7 +1,7 @@
 title: 校园网
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月28日
 shareable: true
 content:
   - tag: text
@@ -27,6 +27,10 @@ content:
 
       - text: 计费
         icon: money
+        path: fee
+
+      - text: 充值
+        icon: pay
         path: fee
 
       - text: 统一身份认证
