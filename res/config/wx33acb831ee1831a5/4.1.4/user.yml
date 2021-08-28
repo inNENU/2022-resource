@@ -44,8 +44,3 @@ content:
         icon: contact
         type: button
         openType: contact
-
-      - text: 添加到桌面
-        icon: send
-        type: button
-        openType: addToDesktop

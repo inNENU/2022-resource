@@ -29,11 +29,11 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 新生入学教育
-        color: blue
-        name: Course
-        icon: study
-        path: guide/yiban/
+      - text: 疫情相关
+        color: mauve
+        name: Epidemic
+        icon: virus
+        path: guide/epidemic/
 
       - text: 每日健康上报
         color: purple
@@ -41,17 +41,29 @@ content:
         icon: apply
         path: guide/epidemic/miniprogram/
 
-      - text: 入学准备
-        color: red
-        name: Prepare
-        icon: prepare
-        path: guide/prepare/
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: express
+        path: guide/express/
 
-      - text: 需带物品
-        color: olive
-        name: Necessity
-        icon: necessity
-        path: guide/necessity/
+      - text: 新生报到
+        color: orange
+        name: Check
+        icon: check
+        path: guide/check/
+
+      # - text: 入学准备
+      #   color: red
+      #   name: Prepare
+      #   icon: prepare
+      #   path: guide/prepare/
+
+      # - text: 需带物品
+      #   color: olive
+      #   name: Necessity
+      #   icon: necessity
+      #   path: guide/necessity/
 
       - text: 专业介绍
         color: olive
@@ -102,19 +114,3 @@ content:
         path: guide/dining/
 
     footer: 更多内容请详见下方其他 Tab 页
-
-  - tag: text
-    heading: " "
-    text: "   如果您还有什么疑问，欢迎加入 in 东师咨询群 (1139044856) 进行咨询。\n   小程序都是 Mr.Hope 个人开发编写，现已花费 Mr.Hope 超 2000 小时，文字数量超过 40 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。"
-    style:
-      color: "#888"
-      font-size: 14px
-
-  - tag: advanced-list
-    header: false
-    content:
-      - text: 联系 Mr.Hope
-        type: button
-        icon: contact
-        openType: contact
-    footer: " "
