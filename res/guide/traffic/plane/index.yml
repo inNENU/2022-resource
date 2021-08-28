@@ -11,6 +11,14 @@ content:
         icon: intro
         path: intro
 
+      - text: 联系方式
+        icon: phone
+        path: contact
+
+      - text: 服务介绍
+        icon: service
+        path: service
+
       - text: 值机介绍
         icon: check
         path: check-in
@@ -19,7 +27,30 @@ content:
     header: 通勤
     content:
       - text: 从机场出发
+        icon: take-off
         path: depart
 
       - text: 到达机场
+        icon: landing
         path: arrive
+
+  - tag: list
+    header: 换乘
+    content:
+      - text: Mr.Hope 建议首选动车。
+
+      - text: 长春龙嘉机场动车组
+        icon: train
+        path: train
+
+      - text: 机场巴士介绍
+        icon: bus
+        path: bus
+
+      - text: 机场出租车介绍
+        icon: taxi
+        path: taxi
+
+      - text: 停车场介绍
+        icon: parking
+        path: parking

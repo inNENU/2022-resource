@@ -69,7 +69,7 @@ count();
 
 // 生成 tab 页
 convertYml2Json("./res/config", "./resource/config", (data, filePath) =>
-  /(function|guide|intro|main)/u.exec(filePath)
+  /(function|guide|intro|main|user)/u.exec(filePath)
     ? resolvePage(data, filePath)
     : (data as unknown)
 );

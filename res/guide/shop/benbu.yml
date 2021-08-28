@@ -1,8 +1,12 @@
 title: 本部校内超市
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月28日
 shareable: true
 content:
+  - tag: text
+    type: warning
+    text: 兴学园超市合约与2021年暑假到期，天猫超市现已入驻。Mr.Hope 会尽快更新本页面。
+
   - tag: title
     text: 兴学园超市
 
