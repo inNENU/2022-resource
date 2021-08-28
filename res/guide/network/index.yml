@@ -30,8 +30,8 @@ content:
         path: fee
 
       - text: 充值
-        icon: pay
-        path: fee
+        icon: charge
+        path: charge
 
       - text: 统一身份认证
         icon: about
