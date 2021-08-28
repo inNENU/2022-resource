@@ -6,7 +6,7 @@ time: 2021年8月28日
 shareable: true
 content:
   - tag: text
-    text: 国内航盘到达长春龙嘉国际机场后停泊在2号航站楼。
+    text: 国内航班到达长春龙嘉国际机场后停泊在2号航站楼。
 
   - tag: title
     text: 6部自动步道
@@ -36,12 +36,43 @@ content:
       - 2号航站楼至长春龙嘉高铁站地下连廊总距离600余米，由2号通廊、3号通廊及部分1号通廊组成。乘坐高铁的旅客，需到地下一层，顺着换乘通道按标识指引向前走，步行向西至3号通廊和1号通廊交界处，向南走便可到达龙嘉高铁站了。
       - 至高铁站步行只需10分钟。
 
+  - tag: list
+    header: false
+    content:
+      - text: 详情
+        icon: train
+        path: train
+
   - tag: text
     heading: 乘机场巴士
     text:
       - 售票处在9号门旁，票价每张25元。
 
+  - tag: list
+    header: false
+    content:
+      - text: 详情
+        icon: bus
+        path: bus
+
   - tag: text
     heading: 亲戚朋友来接站
     text:
       - 接站的社会车辆可按照标识标牌引导进入停车场，接站后分别沿1号航站楼停车场主路、2号航站楼前主路直行，驶离机场。
+
+  - tag: list
+    header: false
+    content:
+      - text: 收费详情
+        icon: parking
+        path: parking
+
+  - tag: text
+    heading: 乘坐出租车
+
+  - tag: list
+    header: false
+    content:
+      - text: 详情
+        icon: taxi
+        path: taxi
