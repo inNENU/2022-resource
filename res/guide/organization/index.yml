@@ -1,6 +1,6 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月30日
 shareable: true
 grey: true
 content:
@@ -8,7 +8,7 @@ content:
     header: 学生组织
     content:
       - text: 学生会
-        icon: https://mp.innenu.com/img/nenuyouth.png
+        icon: https://mp.innenu.com/img/studentOrg/nenuyouth.png
         path: student-union
 
       - text: 研究生会
@@ -28,7 +28,7 @@ content:
         path: hope
 
       - text: 校新媒体中心
-        icon: https://mp.innenu.com/img/nenuyouth.png
+        icon: https://mp.innenu.com/img/studentOrg/nenuyouth.png
         path: new-media-center
 
       - text: 《东师青年》报社
