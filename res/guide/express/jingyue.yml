@@ -1,6 +1,6 @@
 title: 净月快递
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: text
@@ -31,7 +31,7 @@ content:
     text: 净月快递站 (又叫近邻宝) 位于秋华公寓对面的二食堂一层(基本餐为二楼)，周围是一些商家和京东便利店。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue-express-center.jpg
+    src: https://mp.innenu.com/img/express/jingyue-express-center.jpg
 
   - tag: text
     heading: 营业时间
@@ -47,10 +47,10 @@ content:
       - 物流量大时，快递中心会在门外搭设临时快递点。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue-express-detail1.jpg
+    src: https://mp.innenu.com/img/express/jingyue-express-detail1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue-express-detail2.jpg
+    src: https://mp.innenu.com/img/express/jingyue-express-detail2.jpg
 
   - tag: text
     heading: 取件
@@ -61,7 +61,7 @@ content:
     text: 每个快递柜配有一个交互操作台，同学们可通过输入密钥或扫码的方式打开专属快递柜，也可通过小程序内部打开指定快递柜(由于小程序不能准确获得您的地理位置，所以提示您离快递柜距离超过20米是正常现象)。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue-express-shelf.jpg
+    src: https://mp.innenu.com/img/express/jingyue-express-shelf.jpg
     desc: 智能快递柜
 
   - tag: phone
