@@ -108,7 +108,7 @@ content:
         type: button
         openType: contact
         env:
-          - wechat
+          - wx
 
       - text: 联系 Mr.Hope
         icon: contact

@@ -20,7 +20,7 @@ content:
         type: button
         openType: contact
         env:
-          - wechat
+          - wx
 
   - tag: title
     text: 优势
