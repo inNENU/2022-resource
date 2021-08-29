@@ -1,6 +1,6 @@
 title: 大学第一天
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月29日
 shareable: true
 content:
   - tag: p
@@ -16,7 +16,7 @@ content:
         path: /guide/check/locate
 
       - text: "第二部: 出发并到达校区"
-        path: /guide/check/arrival/
+        path: /guide/arrival/
 
   - tag: title
     text: 办理入学和住宿手续

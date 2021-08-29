@@ -55,4 +55,4 @@ content:
       - text: 添加到桌面
         icon: send
         type: button
-        action: addToDesktop
+        handler: addToDesktop

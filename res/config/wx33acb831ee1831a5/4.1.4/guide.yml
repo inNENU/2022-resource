@@ -36,11 +36,11 @@ content:
         icon: check
         path: guide/check/
 
-      - text: 交通出行
+      - text: 到校路线
         color: grey
-        name: Traffic
-        icon: traffic
-        path: /guide/traffic/
+        name: Arrival
+        icon: locate
+        path: /guide/arrival/
 
       - text: 入学活动
         color: purple
@@ -125,6 +125,12 @@ content:
         name: Life
         icon: life
         path: guide/life/
+
+      - text: 交通出行
+        color: grey
+        name: Traffic
+        icon: traffic
+        path: /guide/traffic/
 
   - tag: grid
     header: 学在东师

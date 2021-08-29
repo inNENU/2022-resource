@@ -1,6 +1,6 @@
 title: 交通
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年8月29日
 shareable: true
 content:
   - tag: title
@@ -46,24 +46,6 @@ content:
   - tag: p
     heading: 出租车
     text: 约 30 元，时间 30 分钟左右(可能会堵车)。
-
-  - tag: title
-    text: 本部/净月-火车站
-
-  - tag: list
-    header: false
-    content:
-      - text: 查看详情
-        path: /guide/check/arrival/train/
-
-  - tag: title
-    text: 本部/净月-飞机
-
-  - tag: list
-    header: false
-    content:
-      - text: 查看详情
-        path: /guide/check/arrival/plane/
 
   - tag: title
     text: 本部/净月-主要商业圈

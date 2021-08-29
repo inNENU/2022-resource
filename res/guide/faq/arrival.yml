@@ -1,6 +1,6 @@
 title: 到校相关问答
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月29日
 shareable: true
 content:
   - tag: title
@@ -38,4 +38,4 @@ content:
     content:
       - text: 到校路线
         icon: gate
-        path: /guide/check/arrival/
+        path: /guide/arrival/
