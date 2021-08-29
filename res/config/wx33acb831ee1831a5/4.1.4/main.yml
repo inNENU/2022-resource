@@ -15,6 +15,17 @@ content:
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
 
+  - tag: list
+    header: 使用必读
+    content:
+      - text: 小程序使用须知
+        icon: about
+        url: page?path=other/about/guide
+
+      - text: 常见问题
+        icon: faq
+        path: guide/faq/
+
   - tag: grid
     header: 您可能想关注
     content:
@@ -103,3 +114,14 @@ content:
         path: guide/dining/
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: list
+    header: 到达长春后
+    content:
+      - type: navigator
+        text: 到本部
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
+
+      - type: navigator
+        text: 到净月
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71'
