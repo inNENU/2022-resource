@@ -27,7 +27,7 @@ content:
 
       - text: 从长春西站
         icon: train
-        path: train/benbu2
+        path: train-west-benbu/
 
       - text: 从龙嘉机场
         icon: plane
