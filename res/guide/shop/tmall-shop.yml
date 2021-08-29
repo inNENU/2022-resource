@@ -33,6 +33,10 @@ content:
     text:
       - 需要自行将商品扫码，并使用支付宝支付码进行支付
 
+  - tag: img
+    src: https://mp.innenu.com/img/shop/tmall-shop-pay.jpg
+    desc: 自助结账处
+
   - tag: text
     heading: 人工
     text:
