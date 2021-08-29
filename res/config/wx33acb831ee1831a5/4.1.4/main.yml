@@ -115,7 +115,7 @@ content:
 
     footer: 更多内容请详见下方其他 Tab 页
 
-  - tag: list
+  - tag: advanced-list
     header: 到达长春后
     content:
       - type: navigator
