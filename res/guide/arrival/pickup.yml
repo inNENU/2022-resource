@@ -15,7 +15,7 @@ content:
     header: false
     content:
       - text: 机场动车
-        icon: train
+        icon: railway
         path: train/
 
   # - tag: text

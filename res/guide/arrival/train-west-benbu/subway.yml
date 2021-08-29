@@ -7,7 +7,7 @@ content:
     type: tip
     text: 地铁是最快最便捷的方式，推荐大家选择地铁，票价三元。
 
-  - tag: p
+  - tag: text
     type: warning
     heading: 运营时间
     text:
@@ -26,10 +26,10 @@ content:
   - tag: title
     text: 路线流程
 
-  - tag: ul
+  - tag: ol
     heading: 路程流程
     text:
-      - 从长春站出战
+      - 从长春站出站
       - 前往地铁2号线“长春西站”站点
       - 登上开往往东方广场方向(东)的列车
       - 乘坐 9 站到解放大路下车
@@ -49,7 +49,7 @@ content:
     text:
       - 长春西站只有一个出站口方向，请直接按照指示出站即可。
 
-  - tag: p
+  - tag: text
     type: info
     heading: 疫情相关
     text:
@@ -62,7 +62,7 @@ content:
     text:
       - 从长春西站出站后，过马路对面即是地铁 2 号线“长春西站”站点。
 
-  - tag: p
+  - tag: text
     type: info
     heading: 疫情相关
     text:

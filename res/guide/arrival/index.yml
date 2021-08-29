@@ -1,6 +1,7 @@
 title: 如何到达自己的校区
 author: Mr.Hope
 time: 2021年8月29日
+grey: true
 shareable: true
 content:
   - tag: list
@@ -22,11 +23,11 @@ content:
     header: 到本部校区
     content:
       - text: 从长春站
-        icon: train
+        icon: railway
         path: train-benbu/
 
       - text: 从长春西站
-        icon: train
+        icon: railway
         path: train-west-benbu/
 
       - text: 从龙嘉机场
@@ -41,11 +42,11 @@ content:
     header: 到净月校区
     content:
       - text: 从长春站
-        icon: train
+        icon: railway
         path: train/jingyue
 
       - text: 从长春西站
-        icon: train
+        icon: railway
         path: train/jingyue2
 
       - text: 从龙嘉机场

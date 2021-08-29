@@ -13,7 +13,7 @@ content:
     header: false
     content:
       - text: 长春站-本部
-        icon: train
+        icon: railway
         path: /guide/arrival/train/benbu
 
   - tag: title

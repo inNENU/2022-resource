@@ -2,7 +2,7 @@
 title: 到达龙嘉机场
 desc: 相关资料来自长春市龙嘉国际机场官网
 author: Mr.Hope
-time: 2021年8月28日
+time: 2021年8月29日
 shareable: true
 content:
   - tag: text
@@ -40,7 +40,7 @@ content:
     header: false
     content:
       - text: 详情
-        icon: train
+        icon: railway
         path: train
 
   - tag: text

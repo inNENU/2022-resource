@@ -7,7 +7,7 @@ content:
     type: tip
     text: 地铁是最快最便捷的方式，推荐大家选择地铁。
 
-  - tag: p
+  - tag: text
     type: warning
     heading: 运营时间
     text: 请注意开往红嘴子方向的地铁运营时间是 6:06 - 21:46，其他时间请选择打车去宾馆 (别想着报到了)。
@@ -19,10 +19,10 @@ content:
   - tag: title
     text: 路线流程
 
-  - tag: ul
+  - tag: ol
     heading: 路程流程
     text:
-      - 从长春站北出站口出战
+      - 从长春站北出站口出站
       - 前往地铁一号线“长春站北”车站
       - 登上开往往红嘴子方向(南)的列车
       - 乘坐 4 站到东北师大下车 (最快 8 分钟可到达)
@@ -41,7 +41,7 @@ content:
       - 长春站南出站口对应的地铁站点是长春站，进入 1 号线站台没有北侧方便。
       - 所以请大家进入出站地道后，向北出站口方向行进。
 
-  - tag: p
+  - tag: text
     type: info
     heading: 疫情相关
     text:
@@ -52,26 +52,33 @@ content:
 
   - tag: text
     heading: 识别出站口
+
+  - tag: text
+    type: info
     text:
       - 长春站共有两条出站通道，对应 1、2；出站通道有两个方向，南侧为 A，北侧为 B。
+
+  - tag: text
+    type: tip
+    text:
       - 请您从北出站口 B1、B2 中就近选择出站。
 
   - tag: text
     heading: 概述
     text:
       - 从地下一层北出站口出站后(此时您面朝北)，您身处的地点是地下一楼。
-      - 需要继续向北行进前往地下二楼的综合换乘中心乘坐地铁。
+      - 您需要继续向北行进前往地下二楼的综合换乘中心乘坐地铁。
 
   - tag: ul
+    heading: 详情
     text:
       - 如果您从 B1 出站口出站，您可以在右前方找到前往地下二层的楼梯与电梯。
       - 如果您从 B2 出站口出站，您需要左转直行，直行途中会在右手边找到前往地下二层的楼梯与电梯。
 
-  - tag: p
+  - tag: text
     heading: 地铁口位置
     text:
-      - 进入地下二层后，您可以在地上和墙上找到非常醒目的一号线位置提示，请跟着箭头方向行进即可。
-      - 您需要前往西北方向进入地铁一号线。
+      - 进入地下二层后，您可以在地上和墙上找到非常醒目的一号线位置提示，请跟着箭头方向行进即可。总的来说，您需要向西北方向行进进入地铁一号线。
 
   - tag: img
     src: https://mp.innenu.com/img/check/subway-chang-chun-north.jpg
@@ -81,7 +88,7 @@ content:
     type: warning
     text: 请注意不要走错到轻轨 4 号线。
 
-  - tag: p
+  - tag: text
     type: info
     heading: 疫情相关
     text:
