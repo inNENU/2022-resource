@@ -4,9 +4,25 @@ time: 2021年8月29日
 shareable: true
 content:
   - tag: title
+    text: 新生接待处
+
+  - tag: text
+    text:
+      - 学校在长春站北出站口设置新生接待处，提供新生咨询服务。
+
+  - tag: text
+    type: tip
+    text:
+      - 由于新冠疫情，学校不再安排大巴进行统一接送。新生同学需要自行选择并乘坐交通工具到达学校参与报到。
+
+  - tag: text
+    text: 同学们主要有三种交通方式到达净月校区。
+
+  - tag: title
     text: 轨道交通换乘(推荐)
 
   - tag: text
+    type: tip
     text: 轨道交通是最便捷最快的的方式。票价 5 元。
 
   - tag: ol

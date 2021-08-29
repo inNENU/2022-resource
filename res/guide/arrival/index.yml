@@ -43,11 +43,11 @@ content:
     content:
       - text: 从长春站
         icon: railway
-        path: train/jingyue
+        path: train-jingyue/
 
       - text: 从长春西站
         icon: railway
-        path: train/jingyue2
+        path: train-west-jingyue/
 
       - text: 从龙嘉机场
         icon: plane

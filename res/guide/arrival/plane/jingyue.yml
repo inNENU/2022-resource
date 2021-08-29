@@ -7,14 +7,14 @@ content:
     text: 动车-其他(最优推荐)
 
   - tag: p
-    text: 先坐动车到长春站，约 15 分钟，每天大约有 16 趟车，之后从火车站前往净月。
+    text: 先坐动车到长春站，约 15 分钟，每天大约有 16 趟车，之后从长春站前往净月。
 
   - tag: list
     header: false
     content:
-      - text: 火车站-净月
+      - text: 长春站-净月
         icon: railway
-        path: /guide/arrival/train/jingyue
+        path: /guide/arrival/train-jingyue/
 
   - tag: title
     text: 打车

@@ -14,7 +14,7 @@ content:
     content:
       - text: 长春站-本部
         icon: railway
-        path: /guide/arrival/train/benbu
+        path: /guide/arrival/train-benbu/
 
   - tag: title
     text: 机场巴士 - 公交
@@ -33,7 +33,7 @@ content:
     src: https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
     desc: 图为东北师范大学正门
 
-  - tag: p
+  - tag: text
     heading: 提示
     text: 由于疫情原因，今年报到仅开放学校北门，所以请您步行向北，走到十字路口时向东行进，即可看到学校北门。
 
