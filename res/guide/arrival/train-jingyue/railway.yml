@@ -1,6 +1,6 @@
 title: 长春站-到净月-轨道交通
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: text
@@ -31,7 +31,7 @@ content:
         path: /guide/epidemic/jixiang-code/
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-1.png
+    src: https://mp.innenu.com/img/traffic/subway-1.png
     desc: 图为 1 号线站点
 
   - tag: title
@@ -57,9 +57,9 @@ content:
     text: 从出站口出站后到地下二楼的换乘中心，进入轻轨四号线，从长春站北上车到卫星路下车，并在站内换乘 3 号线，坐到东北师范大学站(轻轨 3、4 号线运营时间均为 6:00 — 21:00)
 
   - tag: img
-    src: https://mp.innenu.com/img/life/railway-3.jpg
+    src: https://mp.innenu.com/img/traffic/railway-3.jpg
     desc: 轻轨 3 号线路线图
 
   - tag: img
-    src: https://mp.innenu.com/img/life/railway-4.png
+    src: https://mp.innenu.com/img/traffic/railway-4.png
     desc: 轻轨 4 号线路线图

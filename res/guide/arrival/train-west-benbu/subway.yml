@@ -1,6 +1,6 @@
 title: 长春西站-到本部乘坐地铁
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: text
@@ -16,11 +16,11 @@ content:
       - 其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-1-time.jpg
+    src: https://mp.innenu.com/img/traffic/subway-1-time.jpg
     desc: 地铁 1 号线时刻表
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-2-time.jpg
+    src: https://mp.innenu.com/img/traffic/subway-2-time.jpg
     desc: 地铁 2 号线时刻表
 
   - tag: title
@@ -130,11 +130,11 @@ content:
     text: 请不要忘记在“东北师大”站准时下车!
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-2.png
+    src: https://mp.innenu.com/img/traffic/subway-2.png
     desc: 地铁 2 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-1.png
+    src: https://mp.innenu.com/img/traffic/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img

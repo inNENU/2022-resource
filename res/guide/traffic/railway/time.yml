@@ -2,35 +2,35 @@
 title: 长春轨道交通运营时间
 desc: 数据来自长春市轨道交通集团有限公司官网
 author: Mr.Hope
-time: 2021年8月28日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: title
     text: 地铁1号线运营时间
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-1-time.jpg
+    src: https://mp.innenu.com/img/traffic/subway-1-time.jpg
 
   - tag: title
     text: 地铁2号线运营时间
 
   - tag: img
-    src: https://mp.innenu.com/img/life/subway-2-time.jpg
+    src: https://mp.innenu.com/img/traffic/subway-2-time.jpg
 
   - tag: title
     text: 轻轨3号线运营时间
 
   - tag: img
-    src: https://mp.innenu.com/img/life/railway-3-time.jpg
+    src: https://mp.innenu.com/img/traffic/railway-3-time.jpg
 
   - tag: title
     text: 轻轨4号线运营时间
 
   - tag: img
-    src: https://mp.innenu.com/img/life/railway-4-time.jpg
+    src: https://mp.innenu.com/img/traffic/railway-4-time.jpg
 
   - tag: title
     text: 轻轨8号线运营时间
 
   - tag: img
-    src: https://mp.innenu.com/img/life/railway-8-time.png
+    src: https://mp.innenu.com/img/traffic/railway-8-time.png

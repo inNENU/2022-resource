@@ -2,7 +2,7 @@
 title: 长春龙嘉机场动车组
 desc: 相关资料来自长春市龙嘉国际机场官网
 author: Mr.Hope
-time: 2021年8月28日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: title
@@ -43,9 +43,9 @@ content:
       - 以下时刻仅供参考，请以 12306 网站最终安排为准
 
   - tag: img
-    src: http://mp.innenu.com/img/life/train-changchun-airport.png
+    src: http://mp.innenu.com/img/traffic/train-changchun-airport.png
     desc: 长春 - 龙嘉 - 吉林
 
   - tag: img
-    src: http://mp.innenu.com/img/life/train-airport-changchun.png
+    src: http://mp.innenu.com/img/traffic/train-airport-changchun.png
     desc: 吉林 - 龙嘉 - 长春
