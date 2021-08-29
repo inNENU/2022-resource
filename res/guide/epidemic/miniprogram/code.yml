@@ -1,12 +1,12 @@
 title: 返校码介绍
 author: Mr.Hope
-time: 2021年8月27日
+time: 2021年8月29日
 shareable: true
 content:
   - tag: title
     text: 颜色说明
 
-  - tag: text
+  - tag: ul
     text:
       - 只有绿码才能返校申请并返校，其他颜色都不能来长春报到或返校。
       - 黄码一律暂缓返校，需要继续打卡打到自动变绿为止才能申请返校。

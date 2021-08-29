@@ -34,23 +34,21 @@ content:
   - tag: title
     text: 打车
 
-  - tag: ul
-    text:
-      - 40 分钟左右，约 40 元。
-      - 由于轨道交通可以直达，如果想要节约资金的话直接选择轨道交通即可。当行李超长超重无法通过地铁安检时再考虑打车。
-
   - tag: list
     header: false
     content:
-      - text: 打车的建议
+      - text: 查看详情
         icon: taxi
-        path: /guide/arrival/taxi
+        path: taxi
 
   - tag: title
-    text: 公交 (很不推荐)
+    text: 公交 (极其不推荐)
 
-  - tag: p
-    text: 由于公交很大概率没有座，时间也比轨道交通慢上很多，所以。
+  - tag: text
+    type: danger
+    text:
+      - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
+      - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交！
 
   - tag: ul
     heading: 路线
