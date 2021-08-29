@@ -32,11 +32,7 @@ content:
 
       - text: 从龙嘉机场
         icon: plane
-        path: plane/
-
-      - text: 出租车
-        icon: taxi
-        path: taxi
+        path: plane-benbu/
 
   - tag: list
     header: 到净月校区
@@ -51,15 +47,15 @@ content:
 
       - text: 从龙嘉机场
         icon: plane
-        path: plane/
-
-      - text: 出租车
-        icon: taxi
-        path: taxi
+        path: plane-jingyue/
 
   - tag: list
     header: 更多
     content:
+      - text: 关于出租车
+        icon: taxi
+        path: taxi
+
       - text: 关于接站
         icon: pickup
         path: pickup

@@ -6,15 +6,12 @@ content:
   - tag: title
     text: 动车-地铁(最优)
 
-  - tag: p
-    text: 先坐动车到长春站，约 15 分钟，再从长春站到东北师范大学。一定要查好班车时间，提前规划。
-
   - tag: list
     header: false
     content:
-      - text: 长春站-本部
+      - text: 详情
         icon: railway
-        path: /guide/arrival/train-benbu/
+        path: railway
 
   - tag: title
     text: 机场巴士 - 公交

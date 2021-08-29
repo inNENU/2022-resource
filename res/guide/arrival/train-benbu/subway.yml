@@ -166,3 +166,16 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/check/subway-nenu.jpg
     desc: 东北师大站C出口
+
+  - tag: title
+    text: 到达校门
+
+  - tag: text
+    heading: 提示
+    text: 由于疫情原因，今年报到仅开放学校北门。
+
+  - tag: ul
+    text:
+      - 请您出站后掉头 (向北)
+      - 走到人民大街与自由大路交汇十字路口时右转(向东)
+      - 继续行进即可在右手边 (南侧) 看到学校北门。

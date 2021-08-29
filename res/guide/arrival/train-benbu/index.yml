@@ -35,6 +35,11 @@ content:
   - tag: title
     text: 打车
 
+  - tag: text
+    text:
+      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 在其他情况下，我们推荐您使用轨道交通。
+
   - tag: list
     header: false
     content:

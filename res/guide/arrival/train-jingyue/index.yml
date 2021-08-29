@@ -34,6 +34,11 @@ content:
   - tag: title
     text: 打车
 
+  - tag: text
+    text:
+      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 由于轨道交通可以直达，我们推荐您使用轨道交通。当行李超长超重无法通过地铁安检时再考虑打车。
+
   - tag: list
     header: false
     content:
@@ -50,9 +55,9 @@ content:
       - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
       - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交！
 
-  - tag: ul
-    heading: 路线
-    text:
-      - 票价 2 元，车程约 1 小时。
-      - 南出站口乘 160 路到东北师范大学站。
-      - 下车的站名为站名东北师范大学，千万不要在动植物公园站或者体育场站下车，那个是本部校区!
+  - tag: list
+    header: false
+    content:
+      - text: 查看详情
+        icon: bus
+        path: bus
