@@ -6,7 +6,7 @@ content:
   - tag: title
     text: 腾讯地图导航
 
-  - tag: list
+  - tag: advanced-list
     header: false
     content:
       - type: navigator
