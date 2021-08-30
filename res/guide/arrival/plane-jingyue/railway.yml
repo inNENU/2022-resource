@@ -1,6 +1,6 @@
 title: 坐飞机-到净月-动车
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: text
@@ -15,19 +15,22 @@ content:
     text: 动车价格便宜，车次频繁，速度快，全程约 15 分钟，每 45 分钟一班。每天大约有 16 趟车
 
   - tag: img
-    src: https://mp.innenu.com/img/check/train-schedule.png
-    desc: 图为龙嘉到长春动车时刻表
+    src: http://mp.innenu.com/img/traffic/train-airport-changchun.png
+    desc: 吉林-龙嘉-长春 动车时刻表
 
   - tag: ul
     heading: 动车价格
     text:
       - |-
-        一等座: ￥10.5
+        一等座: ￥15
       - |-
         二等座: ￥8.5
 
-  - tag: p
-    text: 下飞机之后，需要走出机场，经过天桥即是动车站。可以提前在 12306 APP 或支付宝首页 “出行”上购买动车票。
+  - tag: text
+    type: info
+    text:
+      - 下飞机之后，需要走出机场，经过天桥即是动车站。
+      - 可以提前在 12306 APP 或支付宝首页 “出行”上购买动车票。
 
   - tag: text
     type: tip

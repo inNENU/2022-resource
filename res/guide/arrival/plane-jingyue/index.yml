@@ -1,6 +1,6 @@
 title: 坐飞机-到净月
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: title
@@ -19,8 +19,22 @@ content:
   - tag: p
     text: 机场-市内 80 - 90 元(不含高速费)，市内-净月校区 ￥20，讲价完大约 100 多点。可以走机场高速-长平高速，到净月收费站下，40 分钟左右。
 
-  - tag: title
-    text: 机场大巴-公交
+  - tag: text
+    type: tip
+    text: 请注意，高速过路费需要您自行支付。
 
-  - tag: p
-    text: 乘坐机场大巴到人民广场 (￥20)，转乘 160(￥2) 至东北师范大学站。全程 2 小时左右。
+  - tag: title
+    text: 机场巴士 - 公交
+
+  - tag: text
+    type: tip
+    text:
+      - 机场会为所有航班(包括末班)提供机场巴士。
+      - 所以如果您到达的时间已经不能乘坐动车前往市内，请考虑乘坐机场巴士。
+
+  - tag: list
+    header: false
+    content:
+      - text: 查看详情
+        icon: bus
+        path: bus

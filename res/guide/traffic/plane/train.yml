@@ -44,8 +44,8 @@ content:
 
   - tag: img
     src: http://mp.innenu.com/img/traffic/train-changchun-airport.png
-    desc: 长春 - 龙嘉 - 吉林
+    desc: 长春-龙嘉-吉林
 
   - tag: img
     src: http://mp.innenu.com/img/traffic/train-airport-changchun.png
-    desc: 吉林 - 龙嘉 - 长春
+    desc: 吉林-龙嘉-长春
