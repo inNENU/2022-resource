@@ -1,34 +1,39 @@
-title: 长春站-到本部乘坐地铁
+title: 长春站-到净月-1转3
 author: Mr.Hope
 time: 2021年8月30日
 shareable: true
 content:
   - tag: text
     type: tip
-    text: 地铁是最快最便捷的方式，推荐大家选择地铁。
+    text: 通过轨道交通 1 号线转 3 号线是最方便快捷的乘坐方式，票价 4 元。
 
   - tag: text
     type: warning
     heading: 运营时间
-    text: 请注意开往红嘴子方向的地铁运营时间是 6:06 - 21:46，其他时间请选择打车去宾馆 (别想着报到了)。
+    text: 请注意轨道交通的运营时间，其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
     src: https://mp.innenu.com/img/traffic/subway-1-time.jpg
     desc: 地铁 1 号线时刻表
 
-  - tag: title
-    text: 路线流程
+  - tag: img
+    src: https://mp.innenu.com/img/traffic/railway-3-time.jpg
+    desc: 轻轨 3 号线时刻表
 
-  - tag: ol
-    heading: 路程流程
+  - tag: title
+    text: 路线描述
+
+  - tag: ul
+    heading:
     text:
       - 从长春站北出站口出站
       - 前往地铁一号线“长春站北”车站
       - 登上开往红嘴子方向(南)的列车
-      - 乘坐 5 站到东北师大下车 (最快 8 分钟可到达)
-      - 下车后从 C 出站口出站
-      - 出站后掉头向北走至[人民大街-自由大路]十字路口(站口向南)
-      - 右转延自由大路直行，即可在右手边找到北门。
+      - 乘坐 8 站到到卫星广场站换乘
+      - 通过通道在卫星广场站内移动至 3 号线
+      - 登上开放长影世纪城方向的列车
+      - 乘坐 8 站到博硕路站下车
+      - 下车出站后右转(向西南)直行，即可在右手侧看到 1 号门
 
   - tag: title
     text: 火车站出站提示
@@ -116,7 +121,7 @@ content:
     text: 购票相关
 
   - tag: text
-    text: 从 长春站北 / 长春站 到 东北师大 票价 2 元。
+    text: 从 长春站北 / 长春站 到 博硕路 票价 4 元。
 
   - tag: text
     type: tip
@@ -133,7 +138,7 @@ content:
     type: tip
     text:
       - 长春的地铁票和其他地方一样，票只是是按价格来的不分特定出口。
-      - 而如果您第一次使用售票机，在上面快速找到东北师大站显然会很困难，所以请直接在屏幕右侧选择 ￥2 和所需的张数，之后点击现金支付或扫码支付即可!
+      - 而如果您第一次使用售票机，在上面快速找到博硕路站显然会很困难，所以请直接在屏幕右侧选择 ￥4 和所需的张数，之后点击现金支付或扫码支付即可!
 
   - tag: img
     src: https://mp.innenu.com/img/check/ticket-machine.jpg
@@ -153,29 +158,28 @@ content:
 
   - tag: text
     type: tip
-    text: 请不要忘记在“东北师大”站准时下车!
+    text: 请不要忘记在“卫星广场”站准时下车换乘，以及在“博硕路”站下车!
 
   - tag: img
     src: https://mp.innenu.com/img/traffic/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-env.jpg
-    desc: 地铁内部环境
+    src: https://mp.innenu.com/img/traffic/railway-3.png
+    desc: 轻轨 3 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-nenu.jpg
-    desc: 东北师大站C出口
+    src: https://mp.innenu.com/img/check/subway-env.jpg
+    desc: 地铁内部环境
 
   - tag: title
     text: 到达校门
 
   - tag: text
     heading: 提示
-    text: 由于疫情原因，今年报到仅开放学校北门。
+    text: 由于疫情原因，今年报到仅开放学校 1 号门。
 
   - tag: ul
     text:
-      - 请您出站后掉头 (向北)
-      - 走到人民大街与自由大路交汇十字路口时右转(向东)
-      - 继续行进即可在右手边 (南侧) 看到学校北门。
+      - 请您出站后右转 (向西南)
+      - 继续执行即可在右手边 (西南侧) 看到学校 1 号门。

@@ -21,7 +21,7 @@ content:
     env:
       - wx
 
-  - tag: tip
+  - tag: text
     type: warning
     env:
       - qq
@@ -47,7 +47,7 @@ content:
     text: 轨道交通
 
   - tag: text
-    text: 乘坐轨道交通是最快最便捷的方式，推荐大家选择轨道交通。
+    text: 乘坐轨道交通是最快最便捷的方式，推荐大家选择轨道交通中的1号线转3号线。
 
   - tag: list
     header: false
