@@ -114,3 +114,9 @@ content:
         path: guide/dining/
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: list
+    content:
+      - text: 到校路线
+        icon: locate
+        path: /guide/arrival/
