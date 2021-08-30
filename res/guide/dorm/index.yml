@@ -1,26 +1,22 @@
 title: 寝室
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年8月30日
 shareable: true
 content:
   - tag: list
     header: 寝室分布
     content:
       - text: 本部校区本科寝室
-        icon: locate
         path: locate/benbu
 
       - text: 本部校区研究生寝室
-        icon: locate
         path: locate/benbu-master
 
       - text: 净月校区本科寝室
-        icon: locate
         path: locate/jingyue
 
       - text: 净月校区研究生寝室
-        icon: locate
         path: locate/jingyue-master
 
   - tag: list

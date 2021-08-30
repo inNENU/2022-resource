@@ -1,8 +1,33 @@
 title: 长春站-到本部
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月30日
 shareable: true
 content:
+  - tag: title
+    text: 腾讯地图导航
+
+  - tag: list
+    header: false
+    content:
+      - type: navigator
+        text: 长春站B1出口导航到本部
+        openType: navigate
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&startPoint={"latitude":43.912228,"longitude":125.32342,"name":"长春站B1出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
+
+      - type: navigator
+        text: 长春站B2出口导航到本部
+        openType: navigate
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&startPoint={"latitude":43.912183,"longitude":125.325853,"name":"长春站B2出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
+    env:
+      - wx
+
+  - tag: tip
+    type: warning
+    env:
+      - qq
+    text:
+      - 导航功能仅在微信小程序上提供!
+
   - tag: title
     text: 新生接待处
 
