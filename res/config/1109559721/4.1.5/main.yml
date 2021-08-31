@@ -15,17 +15,6 @@ content:
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: list
-    header: 使用必读
-    content:
-      - text: 小程序使用须知
-        icon: about
-        url: page?path=other/about/guide
-
-      - text: 常见问题
-        icon: faq
-        path: guide/faq/
-
   - tag: grid
     header: 您可能想关注
     content:
