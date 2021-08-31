@@ -37,6 +37,10 @@ content:
     src: https://mp.innenu.com/img/arrival/train-west-taxi-way.jpg
     desc: 长春西站出租车乘降中心位置
 
+  - tag: text
+    type: tip
+    text: 由于疫情原因，您必须先出站，之后右转掉头往回走，才能到达出租车乘降中心，请特别注意。
+
   - tag: img
     src: https://mp.innenu.com/img/arrival/train-west-taxi-entrance.jpg
     desc: 长春西站出租车乘降中心入口

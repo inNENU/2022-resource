@@ -63,7 +63,19 @@ content:
 
   - tag: text
     text:
-      - 从长春西站出站后，过马路对面即是地铁 2 号线“长春西站”站点。
+      - 从长春西站出站后，右转即是地铁 2 号线“长春西站”站点。
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-subway-entrance1.jpg
+    desc: 2号线“长春西站”入口
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-subway-entrance2.jpg
+    desc: 2号线“长春西站”站台扶梯入口
+
+  - tag: text
+    text:
+      - 进站后左转下楼，做右手边的“东方广场”方向地铁。
 
   - tag: text
     type: info
@@ -127,6 +139,13 @@ content:
     text:
       - 刷单程票进站时，出站时需将单程票放入回收口
       - 扫码进站时，出站也需扫相同的码
+
+  - tag: ul
+    heading: 2号线转1号线换乘提示
+    text:
+      - 请注意解放大路站开另一侧的门，地铁铁路在站台中间，乘客在两侧站台下车。
+      - 下车走过通道后，请左转掉头下楼乘坐 1 号线，不要错误刷卡或扫码直行出站。
+      - 下楼后，左侧的方向是开往红嘴子的正确方向。
 
   - tag: text
     type: tip
