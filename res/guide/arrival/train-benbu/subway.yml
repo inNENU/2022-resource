@@ -76,6 +76,18 @@ content:
       - 如果您从 B2 出站口出站，您需要左转直行，直行途中会在右手边找到前往地下二层的楼梯与电梯。
 
   - tag: text
+    type: warning
+    heading: 不小心从南出站口出站
+    text: 如果您不小心从南出站口出站，请遵循以下流程进地铁站!
+
+  - tag: list
+    header: false
+    content:
+      - text: 长春站南出站口进1号线
+        icon: ban
+        path: south-1
+
+  - tag: text
     heading: 地铁口位置
     text:
       - 进入地下二层后，您可以在地上和墙上找到非常醒目的一号线位置提示，请跟着箭头方向行进即可。总的来说，您需要向西北方向行进进入地铁一号线。
