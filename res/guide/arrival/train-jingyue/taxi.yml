@@ -1,6 +1,6 @@
 title: 长春站-到本部-打车
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月31日
 shareable: true
 content:
   - tag: text
@@ -64,10 +64,6 @@ content:
     text:
       - 在出租车乘降中心请排队等待上车。
       - 请不要被乘降中心附近拉客拼车的人吸引! 队伍在非恶劣天气下会前进的很快，恶劣天气最多等待半个小时(因为这个时候打车来火车站的人也很多)，切勿不要听信在附近拉客的人的说辞。
-
-  - tag: img
-    src: https://mp.innenu.com/img/check/taxi.jpg
-    desc: 乘降中心指示牌
 
   - tag: list
     header: false

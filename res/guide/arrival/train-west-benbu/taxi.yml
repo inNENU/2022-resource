@@ -1,6 +1,6 @@
 title: 长春西站-到本部-打车
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年8月31日
 shareable: true
 content:
   - tag: text
@@ -24,9 +24,22 @@ content:
 
   - tag: ol
     text:
-      - 前往出租车乘降中心
+      - 出站并刷吉祥码和身份证完成核验
+      - 右侧掉头并前往出租车乘降中心
       - 排队候车并上车
       - 告知师傅到人民大街的东北师范大学，动植物公园对面的门下车
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-exit.jpg
+    desc: 长春西站出站口
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-taxi-way.jpg
+    desc: 长春西站出租车乘降中心位置
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-taxi-entrance.jpg
+    desc: 长春西站出租车乘降中心入口
 
   - tag: text
     type: tip

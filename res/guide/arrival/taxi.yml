@@ -1,6 +1,6 @@
 title: 打车提示
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年8月31日
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
       - 另外，上车师傅问您到哪，就是到“东北师大本部”或者“东北师大净月校区”。如果师傅分不清楚哪个校区，就说“人民大街与自由大路交汇那个东北师大”(本部)或者“博硕路上面那个”(净月)。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/taxi.jpg
+    src: https://mp.innenu.com/img/arrival/train-north-taxi.jpg
     desc: 乘降中心指示牌
 
   - tag: title

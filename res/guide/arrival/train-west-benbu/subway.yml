@@ -1,6 +1,6 @@
 title: 长春西站-到本部乘坐地铁
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年8月31日
 shareable: true
 content:
   - tag: text
@@ -52,7 +52,11 @@ content:
     type: info
     heading: 疫情相关
     text:
-      - 由于新冠疫情，从长春西站出站时要测量体温、刷身份证，请提前做好准备。
+      - 由于新冠疫情，从长春西站出站时要测量体温、刷身份证、查验吉祥码，请提前做好准备。
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/train-west-exit.jpg
+    desc: 长春西站出站口
 
   - tag: title
     text: 前往地铁站
