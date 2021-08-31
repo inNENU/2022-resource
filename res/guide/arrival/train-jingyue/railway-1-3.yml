@@ -90,7 +90,7 @@ content:
     content:
       - text: 长春站南出站口进1号线
         icon: ban
-        path: south-1
+        path: /guide/arrival/train-benbu/south-1
 
   - tag: text
     heading: 地铁口位置
@@ -98,7 +98,7 @@ content:
       - 进入地下二层后，您可以在地上和墙上找到非常醒目的一号线位置提示，请跟着箭头方向行进即可。总的来说，您需要向西北方向行进进入地铁一号线。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-chang-chun-north.jpg
+    src: https://mp.innenu.com/img/arrival/subway-chang-chun-north.jpg
     desc: 地铁 1 号线门口
 
   - tag: text
@@ -153,11 +153,11 @@ content:
       - 而如果您第一次使用售票机，在上面快速找到博硕路站显然会很困难，所以请直接在屏幕右侧选择 ￥4 和所需的张数，之后点击现金支付或扫码支付即可!
 
   - tag: img
-    src: https://mp.innenu.com/img/check/ticket-machine.jpg
+    src: https://mp.innenu.com/img/arrival/ticket-machine.jpg
     desc: 自助售票机
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-ticket.jpg
+    src: https://mp.innenu.com/img/arrival/subway-ticket.jpg
     desc: 轨道交通票
 
   - tag: title
@@ -181,7 +181,7 @@ content:
     desc: 轻轨 3 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-env.jpg
+    src: https://mp.innenu.com/img/arrival/subway-env.jpg
     desc: 地铁内部环境
 
   - tag: title

@@ -37,7 +37,7 @@ content:
     text: 使用微信支付宝扫码乘车可直接刷吉祥码进行安检，否则需要站台外买票再进站。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-south-entrance1.jpg
+    src: https://mp.innenu.com/img/arrival/train-south-subway-entrance1.jpg
 
   - tag: text
     type: warning
@@ -46,5 +46,5 @@ content:
       - 只有这个入口有全程下行扶梯! 另一个后半程只能楼梯下楼!
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-south-entrance2.jpg
+    src: https://mp.innenu.com/img/arrival/train-south-subway-entrance2.jpg
     desc: 这个入口没有全程下行扶梯不要选择!

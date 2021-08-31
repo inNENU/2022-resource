@@ -30,10 +30,17 @@ content:
       - 净月的路线可能曲折一点。
       - 私家车进入师大校园是要收停车费的。
 
-  - tag: img
-    src: https://mp.innenu.com/img/check/benbu.jpg
-    desc: 本部校区
+  - tag: advanced-list
+    header: 导航
+    content:
+      - type: navigator
+        text: 导航到本部
+        openType: navigate
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
 
-  - tag: img
-    src: https://mp.innenu.com/img/check/jingyue.jpg
-    desc: 净月校区
+      - type: navigator
+        text: 导航到净月
+        openType: navigate
+        url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71'
+    env:
+      - wx

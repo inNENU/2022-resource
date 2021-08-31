@@ -128,7 +128,7 @@ content:
       - 如果你不方便使用微信，你可以使用人工窗口购票，请自备零钱。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/subway-ticket.jpg
+    src: https://mp.innenu.com/img/arrival/subway-ticket.jpg
     desc: 轨道交通票
 
   - tag: title
