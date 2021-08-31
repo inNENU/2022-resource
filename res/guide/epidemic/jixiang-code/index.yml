@@ -1,6 +1,6 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年8月31日
 grey: true
 shareable: true
 content:
@@ -17,3 +17,12 @@ content:
       - text: 吉祥码常见问题
         icon: faq
         path: faq
+
+  - tag: text
+    text:
+      - 目前长春各地点已经基本安放了扫码机器。
+      - 人员需要自行在机器上完成扫码。
+
+  - tag: img
+    src: https://mp.innenu.com/img/arrival/jixiang-code-scan.jpg
+    desc: 自助扫码机
