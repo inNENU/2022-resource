@@ -1,6 +1,6 @@
 title: 长春轨道交通介绍
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年8月31日
 grey: true
 shareable: true
 content:
@@ -15,11 +15,20 @@ content:
         icon: time
         path: time
 
+  - tag: list
+    header: 支付方式介绍
+    content:
+      - text: 扫码乘车
+        icon: scan
+        path: scan
+
       - text: 长春市轨道交通“一卡通”
+        desc: 不建议
         icon: card
         path: card
 
       - text: E 出行 App
+        desc: 不建议
         icon: app
         path: app
 

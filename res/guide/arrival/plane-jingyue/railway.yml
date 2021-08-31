@@ -5,7 +5,7 @@ shareable: true
 content:
   - tag: text
     type: tip
-    text: Mr.Hope 最推荐的方式是先做动车到长春站，再从长春站到净月校区。
+    text: Mr.Hope 推荐的方式是先做动车到长春站，再从长春站到净月校区。
 
   - tag: text
     text: 您需要先坐动车到长春站，再从长春站到净月校区。
