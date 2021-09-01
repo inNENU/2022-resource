@@ -1,22 +1,29 @@
-title: 缴费系统缴费
+title: 在手机上通过缴费系统缴费
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月1日
 shareable: true
 content:
   - tag: text
-    text: 新生可通过校园缴费平台自行线上缴费。
+    type: warning
+    text:
+      - 请注意，目前手机缴费暂仅支持微信。
+      - 如果您需要使用银行卡或支付宝，请使用 PC 进行缴费。如果您尚未购买笔记本电脑，可以前往图书馆的电子阅览室进行缴费。
+
+  - tag: text
+    text: 新生可通过校园缴费平台自行线上缴费。请在微信中打开下列网址。
+
+  - tag: text
+    type: tip
+    text: 可以把网址发送到文件传输助手、自己的小号或家庭群里，就可以点击打开了。
 
   - tag: copy
     text: http://pay.nenu.edu.cn
-
-  - tag: img
-    src: https://mp.innenu.com/img/check/pay-main.png
 
   - tag: title
     text: 登陆方式
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-login.jpg
+    src: https://mp.innenu.com/img/check/pay-mobile-login.jpg
 
   - tag: ul
     heading: 校内用户登录
@@ -37,13 +44,7 @@ content:
     text: 缴费方式
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-layout.jpg
-
-  - tag: ul
-    text: 选择下方的学费缴费，之后选择合适的方式进行缴费。
-
-  - tag: img
-    src: https://mp.innenu.com/img/check/pay-detail.jpg
+    src: https://mp.innenu.com/img/check/pay-mobile-interface.jpg
 
   - tag: ul
     text: 选择需要缴费的项目并进行缴费。
@@ -57,7 +58,7 @@ content:
     text: 之后选择合适的支付方式进行支付
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-select.jpg
+    src: https://mp.innenu.com/img/check/pay-mobile-select.jpg
 
   - tag: phone
     header: 咨询电话
