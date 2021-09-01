@@ -1,6 +1,6 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月1日
 shareable: true
 content:
   - tag: title
@@ -66,4 +66,4 @@ content:
     type: warning
     text:
       - 除在访问统一认证管理 (https://authserver.nenu.edu.cn/authserver/login) 需要使用学号获取自己的邮箱账号外，在其他的认证网页中，您最好全部使用邮箱作为用户名登录(不带 @nenu.edu.cn 后缀)。
-      - 很大一部分认证登录界面不支持使用学号作为用户名登陆 (⚠使用学号会提示用户名密码错误!)，所以建议您牢记自己的邮箱，并养成使用邮箱登录校内身
+      - 很大一部分认证登录界面不支持使用学号作为用户名登陆 (⚠使用学号会提示用户名密码错误!)，所以建议您牢记自己的邮箱。

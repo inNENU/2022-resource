@@ -1,6 +1,6 @@
 title: 长春站-到本部-打车
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年9月1日
 shareable: true
 content:
   - tag: text
@@ -35,7 +35,7 @@ content:
   - tag: title
     text: 价格与时间
 
-  - tag: p
+  - tag: text
     text:
       - 从长春站约 13—17 元
       - 早晚高峰期在路上可能会堵车，不堵就很快，平均用时应该在 20 分钟左右。

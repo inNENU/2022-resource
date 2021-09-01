@@ -1,19 +1,16 @@
 title: 校园网认证
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月1日
 shareable: true
 content:
   - tag: title
     text: 认证方式
 
-  - tag: p
-    text: 校园网使用网页认证方式，认证网址为“10.100.100.67” (或 http://portal.nenu.edu.cn)。
+  - tag: text
+    text: 校园网使用网页认证方式，认证网址为“10.100.100.67”。
 
   - tag: copy
     text: "10.100.100.67"
-
-  - tag: copy
-    text: http://portal.nenu.edu.cn
 
   - tag: title
     text: 认证账户
