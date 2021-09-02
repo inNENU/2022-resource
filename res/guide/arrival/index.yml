@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年9月2日
 grey: true
 shareable: true
 content:
@@ -65,7 +65,7 @@ content:
       - wx
 
   - tag: list
-    header: 更多
+    header: 注意事项
     content:
       - text: 关于出租车
         icon: taxi
@@ -74,3 +74,22 @@ content:
       - text: 关于接站
         icon: pickup
         path: pickup
+
+  - tag: list
+    header: 更多
+    content:
+      - text: 公交介绍
+        icon: bus
+        path: /guide/traffic/bus
+
+      - text: 轨道交通介绍
+        icon: train
+        path: /guide/traffic/railway/
+
+      - text: 火车站介绍
+        icon: railway
+        path: /guide/traffic/train/
+
+      - text: 机场介绍
+        icon: plane
+        path: /guide/traffic/plane/
