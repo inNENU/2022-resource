@@ -15,25 +15,6 @@ content:
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: text
-    type: danger
-    heading: 请各位研究生注意
-    text:
-      - 本小程序是 Mr.Hope 的个人制作，属于公益服务。
-      - 各位都已经读过4年的本科的成年人了，所以我不会将诸位当小孩子惯着。
-      - 请不要过来把我当学校骂，否则我会骂回去＋拉黑!
-      - 请不要摆出一副臭脸像我欠你钱一样，否则我也不会搭理你直接拉黑!
-      - 我很忙，我也有自己的事情要做，提问之前先搜索小程序，已有的内容我不会进行解答。另外我不保证回复的时效，我有空的时候自然会回。
-      - 如果你确定你的问题无法通过小程序解决，欢迎通过下方按钮咨询我。
-
-  - tag: advanced-list
-    header: false
-    content:
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-
   - tag: list
     header: 使用必读
     content:
@@ -181,3 +162,25 @@ content:
       #   path: guide/prepare/cheat
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: text
+    type: danger
+    heading: 请各位研究生新生注意
+    text:
+      - 本小程序是 Mr.Hope 的个人制作，属于公益服务。
+      - 各位都已经读过4年的本科的成年人了，所以我不会将诸位当小孩子惯着。
+      - 请不要过来把我当学校骂，否则我会骂回去＋拉黑!
+      - 请不要摆出一副臭脸像我欠你钱一样，否则我也不会搭理你直接拉黑!
+      - 我很忙，我也有自己的事情要做，提问之前先搜索小程序，已有的内容我不会进行解答。另外我不保证回复的时效，我有空的时候自然会回。
+
+  - tag: text
+    text:
+      - 如果你的问题没能通过小程序解决，欢迎通过下方按钮咨询我。
+
+  - tag: advanced-list
+    header: false
+    content:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
