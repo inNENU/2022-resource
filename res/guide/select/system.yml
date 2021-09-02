@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月2日
 shareable: true
 content:
   - tag: title
@@ -22,14 +22,24 @@ content:
     src: https://mp.innenu.com/img/course/ie.png
 
   - tag: text
+    heading: 本科生
     text: 打开浏览器输入 http://xk.nenu.edu.cn/ 直接进入选课页面。
+
+  - tag: copy
+    text: http://xk.nenu.edu.cn/
+
+  - tag: text
+    heading: 研究生
+    text: 打开浏览器输入 http://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
+
+  - tag: copy
+    text: http://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: list
     header: false
     content:
       - text: 选课系统使用说明
         icon: idea
-
         path: guide
 
   - tag: text
