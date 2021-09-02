@@ -45,7 +45,7 @@ content:
         icon: system
         path: system
 
-      - text: 本科选课系统使用说明
+      - text: 选课系统使用说明
         icon: idea
         path: guide
 

@@ -48,23 +48,11 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 疫情相关
-        color: mauve
-        name: Epidemic
-        icon: virus
-        path: guide/epidemic/
-
-      - text: 每日健康上报
-        color: purple
-        name: Report
-        icon: apply
-        path: guide/epidemic/miniprogram/
-
-      - text: 快递
-        color: mauve
-        name: Express
-        icon: express
-        path: guide/express/
+      - text: 到校路线
+        color: grey
+        name: Arrival
+        icon: locate
+        path: /guide/arrival/
 
       - text: 新生报到
         color: orange
@@ -72,53 +60,11 @@ content:
         icon: check
         path: guide/check/
 
-      # - text: 入学准备
-      #   color: red
-      #   name: Prepare
-      #   icon: prepare
-      #   path: guide/prepare/
-
-      # - text: 需带物品
-      #   color: olive
-      #   name: Necessity
-      #   icon: necessity
-      #   path: guide/necessity/
-
-      - text: 专业介绍
-        color: olive
-        name: Major
-        icon: about
-        path: intro/school/major
-
-      - text: 学校介绍
+      - text: 快递
         color: mauve
-        name: Intro
-        icon: about
-        path: intro/about/
-
-      - text: 转专业
-        color: orange
-        name: Change Major
-        icon: change
-        path: guide/change-major/
-
-      - text: 学位
-        color: blue
-        name: Degree
-        icon: degree
-        path: guide/degree/
-
-      - text: 新生群
-        color: purple
-        name: QQ Group
-        icon: qq-group
-        path: guide/prepare/qq-group/
-
-      - text: 谨防诈骗
-        color: blue
-        name: Protection
-        icon: alert
-        path: guide/prepare/cheat
+        name: Express
+        icon: express
+        path: guide/express/
 
       - text: 寝室
         color: grey
@@ -132,10 +78,106 @@ content:
         icon: dining
         path: guide/dining/
 
-    footer: 更多内容请详见下方其他 Tab 页
+      - text: 超市
+        color: olive
+        name: Shop
+        icon: shop
+        path: guide/shop/
 
-  - tag: list
-    content:
-      - text: 到校路线
-        icon: locate
-        path: /guide/arrival/
+      - text: 洗浴
+        color: red
+        name: Bath
+        icon: bath
+        path: guide/bath/
+
+      - text: 生活
+        color: purple
+        name: Life
+        icon: life
+        path: guide/life/
+
+      - text: 账户
+        color: blue
+        name: Account
+        icon: authorize
+        path: guide/account/
+
+      - text: 校园卡
+        color: red
+        name: Card
+        icon: card
+        path: guide/card/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: network
+        path: guide/network/
+
+      - text: 选课
+        color: cyan
+        name: Select
+        icon: select
+        path: guide/select/
+
+      # - text: 疫情相关
+      #   color: mauve
+      #   name: Epidemic
+      #   icon: virus
+      #   path: guide/epidemic/
+
+      # - text: 每日健康上报
+      #   color: purple
+      #   name: Report
+      #   icon: apply
+      #   path: guide/epidemic/miniprogram/
+
+      # - text: 入学准备
+      #   color: red
+      #   name: Prepare
+      #   icon: prepare
+      #   path: guide/prepare/
+
+      # - text: 需带物品
+      #   color: olive
+      #   name: Necessity
+      #   icon: necessity
+      #   path: guide/necessity/
+
+      # - text: 专业介绍
+      #   color: olive
+      #   name: Major
+      #   icon: about
+      #   path: intro/school/major
+
+      # - text: 学校介绍
+      #   color: mauve
+      #   name: Intro
+      #   icon: about
+      #   path: intro/about/
+
+      # - text: 转专业
+      #   color: orange
+      #   name: Change Major
+      #   icon: change
+      #   path: guide/change-major/
+
+      # - text: 学位
+      #   color: blue
+      #   name: Degree
+      #   icon: degree
+      #   path: guide/degree/
+
+      # - text: 新生群
+      #   color: purple
+      #   name: QQ Group
+      #   icon: qq-group
+      #   path: guide/prepare/qq-group/
+
+      # - text: 谨防诈骗
+      #   color: blue
+      #   name: Protection
+      #   icon: alert
+      #   path: guide/prepare/cheat
+
+    footer: 更多内容请详见下方其他 Tab 页
