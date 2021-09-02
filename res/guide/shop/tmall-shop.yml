@@ -1,7 +1,7 @@
 title: 本部天猫超市
 desc: 分布图与照片由晴子提供
 author: Mr.Hope，晴子
-time: 2021年8月30日
+time: 2021年9月2日
 shareable: true
 content:
   - tag: text
@@ -29,7 +29,7 @@ content:
     text: 支付方式
 
   - tag: text
-    heading: 自动付款（支付宝）
+    heading: 自动付款(支付宝)
     text:
       - 需要自行将商品扫码，并使用支付宝支付码进行支付
 

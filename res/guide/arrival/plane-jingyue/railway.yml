@@ -1,6 +1,6 @@
 title: 坐飞机-到净月-动车
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年9月2日
 shareable: true
 content:
   - tag: text
@@ -29,7 +29,8 @@ content:
       - 买票并乘坐高铁到长春站
       - 后续流程见页尾
 
-  - tag: info
+  - tag: text
+    type: info
     heading: 动车时刻表
     text:
       - 动车价格便宜，车次频繁，速度快，全程约 15 分钟，每 45 分钟一班。每天大约有 16 趟车。

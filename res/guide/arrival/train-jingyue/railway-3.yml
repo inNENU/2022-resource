@@ -34,7 +34,6 @@ content:
     text: 路线描述
 
   - tag: ul
-    heading:
     text:
       - 从长春站南出站口出站
       - 前往轻轨 3 号线“长春站”车站
