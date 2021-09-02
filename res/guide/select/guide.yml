@@ -1,6 +1,6 @@
 title: 选课系统使用说明
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月2日
 shareable: true
 content:
   - tag: title
@@ -12,7 +12,12 @@ content:
       - 进入选课网站
 
   - tag: copy
+    header: 本科生
     text: http://xk.nenu.edu.cn/
+
+  - tag: copy
+    header: 研究生
+    text: http://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: ul
     text:

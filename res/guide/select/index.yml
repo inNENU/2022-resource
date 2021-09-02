@@ -1,6 +1,6 @@
 title: 选课
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月2日
 grey: true
 shareable: true
 content:
@@ -45,7 +45,7 @@ content:
         icon: system
         path: system
 
-      - text: 选课系统使用说明
+      - text: 本科选课系统使用说明
         icon: idea
         path: guide
 
