@@ -1,6 +1,6 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2021年8月25日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
     text: 由于疫情原因，只会开放特定的校门。
 
   - tag: title
-    text: 本部北门(动植物园对面)
+    text: 本部东北门(动植物园对面)
 
   - tag: img
     src: https://mp.innenu.com/img/scenery/benbu/gate/north.jpg
@@ -48,7 +48,7 @@ content:
       # - 如果下车到了这个门，那么您需要走的路是最远的，当然学校不是太大，所以您不会走太久。要去报到的话从图书馆北侧那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
 
   - tag: title
-    text: 本部西北门(东师会馆、幼儿园旁)
+    text: 本部北门(东师会馆、幼儿园旁)
 
   - tag: text
     type: danger

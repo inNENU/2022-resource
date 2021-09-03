@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -29,8 +29,15 @@ content:
     type: warning
     heading: 因疫情防控需要
     text:
-      - 本部仅开放北门 (动植物公园对面)，净月校区仅开放正门 (1号门)。
+      - 本部仅开放东北门 (动植物公园正门对面)
+      - 净月校区仅开放正门 (1号门)。
       - 学生家长、亲友不能陪同学生进入校园。新生报到时，校园内配备服务车转运行李，学生志愿者提供服务保障。
+
+  - tag: list
+    header: false
+    content:
+      - text: 认准校区校门
+        path: locate
 
   - tag: title
     text: 可以早到么
@@ -72,7 +79,7 @@ content:
   #   name: 摆台分布示意图
   #   url: https://mp.innenu.com/file/checkin2019.pdf
   - tag: text
-    text: 本部校区在北门(动植物公园对面)进门的街道
+    text: 本部校区在东北门(动植物公园正门对面)进门的街道
 
     # text: 本部校区在同心路上(化院、排球场门前对着的那条路)
   # - tag: img
