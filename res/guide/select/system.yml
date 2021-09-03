@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -36,7 +36,7 @@ content:
     text: http://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: list
-    header: false
+    header: 使用说明
     content:
       - text: 选课系统使用说明
         icon: idea
