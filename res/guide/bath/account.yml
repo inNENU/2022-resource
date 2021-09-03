@@ -1,8 +1,31 @@
-title: 计费方式
+title: 浴池账户
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月3日
 shareable: true
 content:
+  - tag: title
+    text: 浴池提供商
+
+  - tag: text
+    type: info
+    text:
+      - 学校浴池的服务是由学校委托第三方提供的。
+      - 所以浴池需要关注提供商“台州博诚”，并有自己独立的账户和小钱包，❌不支持一卡通。
+      - 为了正常使用洗浴服务，您需要自己关注浴池账户并自行充值到浴池钱包。
+
+  - tag: text
+    heading: 具体操作
+    text: 您需要在微信搜索并关注该公众号微信公众号“台州博诚”。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/account.jpg
+    desc: 公众号
+
+  - tag: phone
+    header: 反馈电话
+    fName: 浴池反馈电话
+    num: "18767449975"
+
   - tag: title
     text: 洗浴价格
 
@@ -25,7 +48,7 @@ content:
   - tag: title
     text: 浴池终端简介
 
-  - tag: p
+  - tag: text
     text:
       - 每个浴池单间中配备一个控制终端，终端支持密码、刷卡、扫码、FC、蓝牙五种认证方式出水，比较简便的是使用密码。
       - 您可以通过终端控制浴池的进出水，同时终端会自动根据您的方式在计费后完成扣费。

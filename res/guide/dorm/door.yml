@@ -1,14 +1,14 @@
 title: 宿舍开门时间
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
     text: 本部校区
   - tag: ul
     text:
-      - "三舍 ABC 区: 5:30—22:30"
-      - "六舍: 5:30—22:30"
+      - "三舍 ABC 区: 6:00—22:30"
+      - "六舍: 6:00—22:30"
       - "体育公寓: 5:30—21:50(查寝时间: 21:50—22:10 熄灯时间: 22:10)"
 
   - tag: title

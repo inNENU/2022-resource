@@ -1,6 +1,6 @@
 title: 校园网认证
 author: Mr.Hope
-time: 2021年9月1日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -47,13 +47,10 @@ content:
   - tag: text
     heading: 地址
     text:
-      - 访问 “10.100.100.67:8900” (或 http://portal.nenu.edu.cn:8900)。
+      - 访问 “10.100.100.67:8900”
 
   - tag: copy
     text: "10.100.100.67:8900"
-
-  - tag: copy
-    text: http://portal.nenu.edu.cn:8900
 
   - tag: ul
     heading: 功能
