@@ -101,7 +101,7 @@ content:
   #   desc: 本部摆台旁的学生证展板(Mr.Hope 本人)
 
   - tag: text
-    text: 净月校区在净月图书馆门前广场
+    text: 净月校区在正门通道处
 
-  - tag: img
-    src: https://mp.innenu.com/img/check/jingyue-stage.jpg
+  # - tag: img
+  #   src: https://mp.innenu.com/img/check/jingyue-stage.jpg

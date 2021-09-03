@@ -92,20 +92,77 @@ content:
   # - tag: title
   #   text: 报到当天来
 
+  # - tag: text
+  #   # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+  #   text: 在校门查验“吉祥码”“返校码”、测温合格后入校
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 签订防疫承诺书
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+  #   text: (本部)到东北门入口处/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 到宿舍放置行李
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 在宿舍一楼的自助终端机处修改密码、进行充值
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  # - tag: text
+  #   text: 晚上按时归寝等待导员查寝
+  #   align: center
+
+  # - tag: p
+  #   type: warning
+  #   heading: 因故不能按时报到
+  #   text:
+  #     - 须提供相关证明向录取学院请假，请假时间一般不得超过两周。
+  #     - 未请假或逾期不报到者除因不可抗力等正当事由外，视为自动放弃入学资格。
+
   - tag: text
     # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
-    text: 在校门查验“吉祥码”“返校码”、测温合格后入校
-    align: center
-
-  - tag: text
-    text: 👇
-    align: center
-    style:
-      font-weight: "500"
-      font-size: 20px
-
-  - tag: text
-    text: 签订防疫承诺书
+    text: 在校门查验核酸检查报告、吉祥码、返校码
     align: center
 
   - tag: text
@@ -117,7 +174,7 @@ content:
 
   - tag: text
     # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
-    text: (本部)到东北门入口处/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    text: 测温合格、完成行李消杀后入校
     align: center
 
   - tag: text
@@ -128,7 +185,35 @@ content:
       font-size: 20px
 
   - tag: text
-    text: 到宿舍放置行李
+    # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    text: 拿出身份证并排队进行入校核酸检测
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  # - tag: text
+  #   text: 签订防疫承诺书
+  #   align: center
+
+  # - tag: text
+  #   text: 👇
+  #   align: center
+  #   style:
+  #     font-weight: "500"
+  #     font-size: 20px
+
+  - tag: text
+    # text: (本部)到排球场南边的同心路/(净月)图书馆门前那找自己学院的摆台处进行登记、领取一卡通、宿舍钥匙
+    text:
+      - |-
+        本部: 到东北门入口处找自己学院的摆台处进行登记，查验录取通知书并扫描返校码完成入校，同时领取寝室钥匙和校园卡
+      - |-
+        净月: 到正门前找自己学院的摆台处进行登记，查验录取通知书并扫描返校码完成入校，同时领取寝室入住卡和校园卡
     align: center
 
   - tag: text
@@ -139,7 +224,7 @@ content:
       font-size: 20px
 
   - tag: text
-    text: 在宿舍一楼的自助终端机处修改密码、进行充值
+    text: 由志愿者协助通过运输车将行李运送至寝室
     align: center
 
   - tag: text
@@ -150,10 +235,75 @@ content:
       font-size: 20px
 
   - tag: text
-    text: 晚上按时归寝等待导员查寝
+    text:
+      - |-
+        本部: 在宿管阿姨处完成登记(需一寸照片)后使用电梯将行李运送上楼
+      - |-
+        净月: 在各寝室楼下完成登记(需一寸照片)并领取寝室钥匙，之后请小伙伴互相协助将行李搬上楼
     align: center
 
-  - tag: p
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text: 在宿舍一楼、食堂(如寝室露下没有)的自助终端机处修改密码与消费限额
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text:
+      - 上楼并简单整理行李，之后提前完成下列工作
+      - 通过微信企业号或支付宝提前对校园卡完成充值 (充值高峰期到账有很大延迟)
+      - 可通过微信企业号校园卡栏目提前缴纳网费
+      - 到洗漱间和热水间检查是否可以刷出生活用水和饮用水 (生活用水白天不供应，但是应该会显示升数，不能使用会显示错误码)
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text:
+      - 前往校医院进行新生体检
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text:
+      - 按照小程序需带物品章节对自身携带物品进行核对，并列出购物清单前往学校超市进行购买
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text: 根据自身需求按需去浴池洗浴，晚上按时归寝等待导员查寝
+    align: center
+
+  - tag: text
     type: warning
     heading: 因故不能按时报到
     text:
