@@ -1,6 +1,6 @@
 title: 长春站-到本部-打车
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: text
@@ -13,7 +13,7 @@ content:
     content:
       - text: 轨道交通
         icon: train
-        path: subway
+        path: railway
 
   - tag: text
     type: tip

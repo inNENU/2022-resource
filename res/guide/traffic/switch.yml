@@ -1,6 +1,6 @@
 title: 交通
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -21,11 +21,11 @@ content:
     content:
       - text: 轨道交通运营线路
         icon: flow
-        path: line
+        path: railway/line
 
       - text: 轨道交通运营时间
         icon: time
-        path: time
+        path: railway/time
 
   - tag: p
     heading: 公交

@@ -1,7 +1,7 @@
 title: 校团委
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: list
@@ -13,10 +13,6 @@ content:
       - text: 规章制度
         icon: rule
         path: rule
-
-      - text: 相关文件
-        icon: file
-        path: file
 
   - tag: copy
     header: 官网
