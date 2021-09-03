@@ -15,7 +15,7 @@ content:
       - text: "第一步: 认清校区位置"
         path: /guide/check/locate
 
-      - text: "第二部: 出发并到达校区"
+      - text: "第二步: 出发并到达校区"
         path: /guide/arrival/
 
   - tag: title
