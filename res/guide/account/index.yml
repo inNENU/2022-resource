@@ -45,7 +45,7 @@ content:
 
       - text: 企业号认证
         icon: account
-        path: wechat/intro
+        path: wechat/authorize
 
       - text: 手机号更改
         icon: phone
