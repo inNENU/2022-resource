@@ -15,6 +15,13 @@ content:
   - tag: title
     text: 此处有搜索👆 您可以对小程序内容进行查找
 
+  - tag: card
+    type: page
+    src: http://mp.innenu.com/img/scenery/benbu-main.jpg
+    title: 大学第一天
+    logo: check
+    url: page?id=guide/check/first-day
+
   - tag: list
     header: 使用必读
     content:
