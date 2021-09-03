@@ -1,6 +1,7 @@
 title: 理发
+desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: title
@@ -20,6 +21,10 @@ content:
   - tag: text
     heading: 校内
     text: 二食堂楼下(书店、水果店旁)、浴池外洗衣房旁
+
+  - tag: img
+    src: https://mp.innenu.com/img/shop/jingyue-haircut.jpg
+    desc: 理发店
 
   - tag: text
     heading: 校外

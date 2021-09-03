@@ -1,6 +1,6 @@
 title: 常见问题
 author: Mr.Hope
-time: 2021年8月25日
+time: 2021年9月3日
 grey: true
 shareable: true
 content:
@@ -33,6 +33,14 @@ content:
   - tag: list
     header: 校园生活
     content:
+      - text: 校园卡
+        icon: card
+        path: card
+
+      - text: 校园网
+        icon: network
+        path: network
+
       - text: 寝室相关
         icon: dorm
         path: dorm

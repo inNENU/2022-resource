@@ -1,0 +1,24 @@
+title: 企业微信号
+grey: true
+author: Mr.Hope
+time: 2021年9月3日
+shareable: true
+content:
+  - tag: img
+    src: https://mp.innenu.com/img/card/wechat-follow.png
+    desc: 企业微信二维码
+
+  - tag: list
+    header: 企业微信
+    content:
+      - text: 企业号介绍
+        icon: intro
+        path: intro
+
+      - text: 企业号认证
+        icon: account
+        path: intro
+
+      - text: 手机号更改
+        icon: phone
+        path: change

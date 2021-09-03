@@ -1,0 +1,70 @@
+title: 校园卡相关问答
+author: Mr.Hope
+time: 2021年9月3日
+shareable: true
+content:
+  - tag: title
+    text: 初始密码
+
+  - tag: text
+    type: info
+    heading: 校园卡的初始密码是多少
+    text:
+      - 初始密码为身份证号后六位，末尾为 X 用 1 代替。
+
+  - tag: title
+    text: 充值与圈存
+
+  - tag: text
+    type: info
+    heading: 如何对校园卡进行充值? 是否需要圈存?
+    text:
+      - 你可以在支付宝和微信企业号“东北师范大学”对校园卡进行充值。
+      - 充值会有延迟到账的情况，通常为2-5分钟。由于微信企业号延迟较低，支付宝在充值高峰可以延迟到账超过 15分钟，推荐使用微信进行充值。
+
+  - tag: list
+    header: false
+    content:
+      - text: 校园卡充值
+        icon: charge
+        path: /guide/card/charge
+
+  - tag: title
+    text: 常见故障
+
+  - tag: text
+    type: info
+    heading: 我刷卡使用饮用水或生活用水出现错误，我应该怎么办?
+    text:
+      - 应按照下方页面进行操作。
+      - 大部分错误可以通过校园卡自助终端机进行解决；小部分可能需要携卡到学校信息化办公室进行处理。
+
+  - tag: list
+    header: false
+    content:
+      - text: 常见故障及解决办法
+        icon: error
+        path: /guide/card/malfunction
+
+      - text: 信息化办
+        icon: office
+        path: /guide/card/office
+
+  - tag: title
+    text: 校园卡丢失
+
+  - tag: text
+    type: info
+    heading: 我丢失了自己的校园卡怎么办?
+    text:
+      - 如果你的校园卡内有金额，请先到信息化办出的自助终端机进行挂失。
+      - 如果你确定找不到自己的旧卡，请携带有效证件(身份证、学生证)到信息化版进行补卡。补卡手续费为20元，需要现金或微信支付。
+      - 如果你后续找回了校园卡，请到相同的自助终端机刷卡并输入密码进行解挂。
+
+  - tag: list
+    header: false
+    content:
+      - text: 校园卡丢失
+        desc: 立即挂失
+        icon: lost
+        path: /guide/card/lost
