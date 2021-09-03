@@ -41,5 +41,14 @@ content:
       - text: "第四步: 激活校园卡"
         path: /guide/card/prepare
 
+  - tag: text
+    type: warning
+    text:
+      - 由于今天全天都会是充值高峰期，会有更大的到账延迟 (尤其是支付宝途径)。
+      - 所以请务必在使用前提前完成校园卡充值。
+
+  - tag: list
+    header: false
+    content:
       - text: "第五步: 准备各类用品"
         path: /guide/necessity/
