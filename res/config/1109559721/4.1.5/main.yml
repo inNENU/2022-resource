@@ -161,7 +161,15 @@ content:
 
   - tag: text
     type: info
+    heading: 微信小程序
     text: 微信小程序in东师提供校园地图与导航功能，拥有更好的性能且没有QQ小程序的开屏广告，欢迎大家使用。
+
+  - tag: card
+    type: page
+    src: http://mp.innenu.com/img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=guide/faq/
 
   - tag: list
     header: 使用必读
@@ -170,6 +178,8 @@ content:
         icon: about
         url: page?path=other/about/guide
 
-      - text: 常见问题
-        icon: faq
-        path: guide/faq/
+      # - text: 常见问题
+      #   icon: faq
+      #   path: guide/faq/
+
+    footer: " "

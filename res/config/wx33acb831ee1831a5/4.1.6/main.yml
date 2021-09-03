@@ -166,6 +166,13 @@ content:
     logo: map
     url: map
 
+  - tag: card
+    type: page
+    src: http://mp.innenu.com/img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=guide/faq/
+
   - tag: list
     header: 使用必读
     content:
@@ -173,6 +180,8 @@ content:
         icon: about
         url: page?path=other/about/guide
 
-      - text: 常见问题
-        icon: faq
-        path: guide/faq/
+      # - text: 常见问题
+      #   icon: faq
+      #   path: guide/faq/
+
+    footer: " "
