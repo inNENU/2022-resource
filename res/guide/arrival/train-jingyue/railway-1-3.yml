@@ -1,6 +1,6 @@
 title: 长春站-到净月-1转3
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: text
@@ -168,6 +168,15 @@ content:
     text:
       - 刷单程票进站时，出站时需将单程票放入回收口
       - 扫码进站时，出站也需扫相同的码
+
+  - tag: title
+    text: 换乘提示
+
+  - tag: ul
+    text:
+      - 乘坐1号线转3号线时，需要在卫星广场准时下车
+      - 下车后上一层楼，延西侧(就是你下车的列车那侧)换乘通道前往3号线
+      - 到达3号线站台后，从里侧(长影世纪城方向) 的楼梯下行前往轻轨站台
 
   - tag: text
     type: tip
