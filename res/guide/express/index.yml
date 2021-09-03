@@ -1,6 +1,6 @@
 title: 快递
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月3日
 shareable: true
 content:
   - tag: text
@@ -21,9 +21,9 @@ content:
     text: "130024"
 
   - tag: list
-    header: false
+    header: 更多详情
     content:
-      - text: 快递详情
+      - text: 本部快递详情
         path: benbu
 
   - tag: title
@@ -38,7 +38,7 @@ content:
     text: "130117"
 
   - tag: list
-    header: false
+    header: 更多详情
     content:
-      - text: 快递详情
+      - text: 净月快递详情
         path: jingyue

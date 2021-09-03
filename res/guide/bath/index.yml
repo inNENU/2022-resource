@@ -23,7 +23,7 @@ content:
   - tag: list
     header: 浴池账户
     content:
-      - text: 提供商与与计费
+      - text: 提供商与计费
         icon: account
         path: account
 
