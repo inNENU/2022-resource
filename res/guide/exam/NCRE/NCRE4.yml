@@ -1,6 +1,6 @@
 title: 计算机四级
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: text
@@ -10,8 +10,13 @@ content:
   - tag: title
     text: 考试科目
 
-  - tag: p
-    text: 网络工程师、数据库工程师、软件测试工程师、信息安全工程师与嵌入式系统开发工程师五个考核项目。其中，“软件测试工程师”科目自2018年3月起已经暂停考试。
+  - tag: ul
+    text:
+      - 网络工程师
+      - 数据库工程师
+      - Linux应用与开发开发工程师
+      - 信息安全工程师
+      - 嵌入式系统开发工程师
 
   - tag: title
     text: 考核内容
