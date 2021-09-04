@@ -65,5 +65,15 @@ export const count = (): void => {
 
       writeFileSync(resolve("./res/config/", filePath), newContent);
     }
+
+    const content = readFileSync("./res/other/guide/index.yml", {
+      encoding: "utf-8",
+    });
+    const newContent = content.replace(
+      /小程序现有字数为 .* 字，其中东师介绍部分 .* 字，东师指南部分 .* 字，功能大厅部分 .* 字，其他部分 .* 字。/u,
+      wordsTip
+    );
+
+    writeFileSync("./res/other/guide/index.yml", newContent);
   });
 };
