@@ -1,6 +1,6 @@
 title: 寝室相关问答
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,10 @@ content:
   - tag: text
     type: info
     heading: 寝室都是上床下桌么?
-    text: 是的，所有寝室都是上床下桌。
+    text:
+      - 本科生全部寝室均为上床下桌
+      - 研究生绝大部分寝室都是上床下桌。
+      - 收到疫情影响，部分少量临时改造的寝室为上下铺。(如本部七舍部分寝室)
 
   - tag: text
     type: info
