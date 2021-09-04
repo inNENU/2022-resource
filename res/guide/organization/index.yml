@@ -1,6 +1,6 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年9月5日
 shareable: true
 grey: true
 content:
@@ -33,7 +33,7 @@ content:
 
       - text: 《东师青年》报社
         icon: https://mp.innenu.com/img/studentOrg/baoShe.png
-        path: newspaper-office
+        path: newspaper/
 
       - text: “东师之声”校园广播站
         icon: https://mp.innenu.com/img/studentOrg/dongShiZhiSheng.png
