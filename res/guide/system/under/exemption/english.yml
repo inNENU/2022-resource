@@ -1,6 +1,6 @@
 title: 英语免修评定
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: title
@@ -25,6 +25,20 @@ content:
       - text: Web VPN 介绍
         icon: vpn
         path: /guide/network/vpn
+
+  - tag: text
+    type: warning
+    heading: 系统兼容性
+    text:
+      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器。
+      - 具体的限制及注意事项请见下方链接。
+
+  - tag: list
+    header: 系统使用限制
+    content:
+      - text: 选择合适的浏览器
+        icon: alert
+        path: /guide/system/limit/
 
   - tag: img
     src: https://mp.innenu.com/img/system/login.png

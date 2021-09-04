@@ -1,13 +1,15 @@
 title: 本科教学服务系统介绍
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: title
     text: 简介
 
-  - tag: p
-    text: 本科教学服务系统由湖南强智科技发展有限公司开发，版本很老，提供选课、考场查询、成绩查询、学籍管理、教学评价、考试管理、研究生推免、免修申请等功能。
+  - tag: text
+    text:
+      - 本科教学服务系统由湖南强智科技发展有限公司开发，版本很老。
+      - 系统提供选课、考场查询、成绩查询、学籍管理、教学评价、考试管理、研究生推免、免修申请等功能。
 
   - tag: ul
     heading: 进入系统
@@ -29,23 +31,19 @@ content:
         icon: vpn
         path: /guide/network/vpn
 
-  - tag: p
-    type: info
+  - tag: text
+    type: warning
     heading: 系统兼容性
     text:
-      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。
-      - Windows 10 系统可以在 “开始菜单” —— “Windows 附件” 中找到 “Internet Explorer”。
-      - 其他浏览器无法解析运行脚本，会出现“无法创建对象”的错误提示
+      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器。
+      - 具体的限制及注意事项请见下方链接。
 
-  - tag: text
-    type: danger
-    text:
-      - Microsoft Edge 不是 IE!
-      - Microsoft Edge 不是 IE!
-      - Microsoft Edge 不是 IE!
-
-  - tag: img
-    src: https://mp.innenu.com/img/course/ie.png
+  - tag: list
+    header: 系统使用限制
+    content:
+      - text: 选择合适的浏览器
+        icon: alert
+        path: /guide/system/limit/
 
   - tag: title
     text: 登陆方式

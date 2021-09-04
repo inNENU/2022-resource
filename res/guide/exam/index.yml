@@ -1,7 +1,7 @@
 title: 考试
 grey: true
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: list
@@ -59,7 +59,7 @@ content:
     content:
       - text: 计算机等级考试说明
         icon: office
-        path: NCRE/intro
+        path: NCRE/
 
   - tag: list
     header: 普通话
