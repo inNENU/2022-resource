@@ -1,6 +1,6 @@
 title: 欢迎加入新生群
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: p
@@ -60,7 +60,7 @@ content:
     header: false
     content:
       - text: 常见网上诈骗
-        path: guide/prepare/cheat
+        path: /guide/prepare/cheat
 
   - tag: text
     text: 如果您觉得您已准备好，请您

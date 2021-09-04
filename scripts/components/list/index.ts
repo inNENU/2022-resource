@@ -1,4 +1,5 @@
 import { checkKeys } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
 import { resolvePath } from "../utils";
 import type {
   AdvancedListComponentConfig,
@@ -171,14 +172,24 @@ export const resolveList = (
     }
     // 处理路径
     else if (listItem.path) {
-      if (listItem.path.startsWith("/"))
-        listItem.path = resolvePath(listItem.path);
-      else {
+      if (listItem.path.startsWith("/")) {
+        const path = resolvePath(listItem.path);
+
+        if (!existsSync(`./res/${path}.yml`))
+          console.error(`${path} not exists in ${location}`);
+
+        listItem.path = path;
+      } else {
         const paths = pageId.split("/");
 
         paths.pop();
 
-        listItem.path = resolvePath(`${paths.join("/")}/${listItem.path}`);
+        const path = resolvePath(`${paths.join("/")}/${listItem.path}`);
+
+        if (!existsSync(`./res/${path}.yml`))
+          console.error(`${path} not exists in ${location}`);
+
+        listItem.path = path;
       }
 
       checkKeys(

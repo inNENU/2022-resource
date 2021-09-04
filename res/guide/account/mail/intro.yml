@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
     content:
       - text: 统一身份认证
         icon: apply
-        path: authorize
+        path: /guide/account/authorize
 
   - tag: text
     type: tip

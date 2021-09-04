@@ -226,6 +226,6 @@ content:
         color: blue
         name: Advice
         icon: idea
-        path: guide/advice/
+        url: page?path=other/advice/
 
     footer: " "

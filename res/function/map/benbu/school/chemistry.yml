@@ -8,10 +8,10 @@ content:
   - tag: list
     content:
       - text: 学院简介
-        path: /intro/apartment/chemistry/intro
+        path: /intro/school/chemistry/intro
 
       - text: 专业介绍
-        path: /intro/apartment/chemistry/enroll
+        path: /intro/school/chemistry/enroll
 
   - tag: copy
     header: 官网地址

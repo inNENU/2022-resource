@@ -1,4 +1,5 @@
 import { checkKeys } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
 import { resolvePath } from "../utils";
 import type { GridComponentConfig } from "./typings";
 
@@ -23,14 +24,24 @@ export const resolveGrid = (
   element.content.forEach((gridItem) => {
     // 处理路径
     if (gridItem.path)
-      if (gridItem.path.startsWith("/"))
-        gridItem.path = resolvePath(gridItem.path);
-      else {
+      if (gridItem.path.startsWith("/")) {
+        const path = resolvePath(gridItem.path);
+
+        if (!existsSync(`./res/${path}.yml`))
+          console.error(`${path} not exists in ${location}`);
+
+        gridItem.path = path;
+      } else {
         const paths = pageId.split("/");
 
         paths.pop();
 
-        gridItem.path = resolvePath(`${paths.join("/")}/${gridItem.path}`);
+        const path = resolvePath(`${paths.join("/")}/${gridItem.path}`);
+
+        if (!existsSync(`./res/${path}.yml`))
+          console.error(`${path} not exists in ${location}`);
+
+        gridItem.path = path;
       }
 
     checkKeys(
