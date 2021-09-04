@@ -165,16 +165,3 @@ content:
     title: 常见问题
     logo: faq
     url: page?id=guide/faq/
-
-  - tag: list
-    header: 使用必读
-    content:
-      - text: 小程序使用须知
-        icon: about
-        url: page?path=other/about/guide
-
-      # - text: 常见问题
-      #   icon: faq
-      #   path: guide/faq/
-
-    footer: " "
