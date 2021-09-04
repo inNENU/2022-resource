@@ -1,0 +1,31 @@
+title: 校园网企业号 缴费
+author: Mr.Hope
+time: 2021年9月4日
+shareable: true
+content:
+  - tag: text
+    heading: 企业号
+    text: 您可以在东北师范大学微信企业号——【校园卡】栏目进行缴费。
+
+  - tag: img
+    src: https://mp.innenu.com/img/card/wechat-card-charge.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/network/pay.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/network/pay-list.jpg
+    desc: 点击上方的网费充值
+
+  - tag: img
+    src: https://mp.innenu.com/img/network/network-pay.jpg
+
+  - tag: text
+    text:
+      - 稍等片刻，输入框会自动填充你的学号以及对应的姓名、网费产品以及网费余额。
+      - 如果未能自动填充，请你自行输入
+
+  - tag: text
+    text:
+      - 在最下方的充值金额中输入相应的充值金额
+      - 点击支付即可使用微信支付完成网费的支付

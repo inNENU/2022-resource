@@ -1,6 +1,6 @@
 title: 东北师范大学企业号介绍
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: title
@@ -19,3 +19,14 @@ content:
       - 通过“教务助理中心”进行课表、考场、成绩的查询。
       - 通过校园卡查询流水、充值、挂失、网费充值等
       - 通过档案馆进行毕业生档案追踪等
+
+  - tag: list
+    header: 功能
+    content:
+      - text: 校园卡充值
+        icon: card
+        path: /guide/card/charge/wechat
+
+      - text: 校园网充值
+        icon: card
+        path: /guide/network/charge/wechat

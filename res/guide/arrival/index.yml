@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月4日
 grey: true
 shareable: true
 content:
@@ -28,7 +28,7 @@ content:
 
       - text: 从长春西站
         icon: railway
-        path: train-west-benbu/
+        path: train-w-benbu/
 
       - text: 从龙嘉机场
         icon: plane
@@ -43,7 +43,7 @@ content:
 
       - text: 从长春西站
         icon: railway
-        path: train-west-jingyue/
+        path: train-w-jingyue/
 
       - text: 从龙嘉机场
         icon: plane

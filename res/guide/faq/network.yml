@@ -1,6 +1,6 @@
 title: 校园网相关问答
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月4日
 shareable: true
 content:
   - tag: title
@@ -34,4 +34,4 @@ content:
     content:
       - text: 充值
         icon: charge
-        path: /guide/network/charge
+        path: /guide/network/charge/
