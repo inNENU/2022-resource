@@ -1,0 +1,41 @@
+title: 水果店
+author: Mr.Hope
+time: 2021年9月5日
+shareable: true
+content:
+  - tag: title
+    text: 本部
+
+  - tag: ul
+    heading: 校内
+    text:
+      - 浴池一楼
+      - 北苑超市旁
+
+  - tag: ul
+    heading: 校外
+    text:
+      - 北侧自由大路在幼儿园校门附近有一个京东超市
+      - 南侧文昌路在南门附近南侧有一家，向东走还有一家。
+
+  - tag: title
+    text: 净月
+
+  - tag: ul
+    heading: 校内
+    text:
+      - 浴池旁
+      - 二食堂一楼 (超市入口附近)
+      - 二食堂二楼基本餐楼层
+
+  - tag: img
+    src: https://mp.innenu.com/img/shop/jingyue-fruit-1.jpg
+    desc: 水果店，位于二食堂一楼
+
+  - tag: img
+    src: https://mp.innenu.com/img/shop/jingyue-fruit-2.jpg
+    desc: 水果店，位于二食堂二楼
+
+  - tag: text
+    heading: 校外
+    text: 暂无信息。

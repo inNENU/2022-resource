@@ -1,10 +1,18 @@
-import { ImageComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
+import type { ImageComponentConfig } from "./typings";
 
 export const resolveImg = (
   element: ImageComponentConfig,
   location = ""
 ): void => {
+  if (
+    element.src?.startsWith("https://mp.innenu.com") &&
+    !existsSync(element.src.replace("https://mp.innenu.com/", "./"))
+  ) {
+    console.warn(`${element.src} not exist in ${location}`);
+  }
+
   checkKeys(
     element,
     {

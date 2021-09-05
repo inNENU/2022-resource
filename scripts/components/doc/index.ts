@@ -1,5 +1,6 @@
-import { DocComponentConfig } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
+import type { DocComponentConfig } from "./typings";
 
 /**
  * 获得文档图标
@@ -36,6 +37,13 @@ export const resolveDoc = (
   location = ""
 ): void => {
   element.icon = getDocIcon(element.url);
+
+  if (
+    element.url?.startsWith("https://mp.innenu.com") &&
+    !existsSync(element.url.replace("https://mp.innenu.com/", "./"))
+  ) {
+    console.warn(`${element.url} not exist in ${location}`);
+  }
 
   checkKeys(
     element,

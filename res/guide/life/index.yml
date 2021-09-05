@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年9月5日
 grey: true
 shareable: true
 content:
@@ -17,6 +17,10 @@ content:
       - text: 打印
         icon: print
         path: print
+
+      - text: 水果
+        icon: fruit
+        path: fruit
 
       - text: 交通出行
         icon: traffic
