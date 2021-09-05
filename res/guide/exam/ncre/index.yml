@@ -1,6 +1,6 @@
 title: NCRE 说明
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年9月5日
 grey: true
 shareable: true
 content:
@@ -14,15 +14,15 @@ content:
     content:
       - text: 计算机二级
         icon: office
-        path: NCRE2
+        path: ncre2
 
       - text: 计算机三级
         icon: office
-        path: NCRE3
+        path: ncre3
 
       - text: 计算机四级
         icon: office
-        path: NCRE4
+        path: ncre4
 
   - tag: list
     content:
