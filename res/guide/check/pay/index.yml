@@ -1,18 +1,16 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2021年9月1日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: text
     type: danger
-    text: 报到时不缴费!
+    text: 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!!
 
   - tag: ul
     type: warning
     text:
-      - 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!
       - 如果有人要求您现场缴纳学费，请稳住他记住他的相貌并第一时间反馈给保卫科。
-      - 如果您缴纳学费有困难，请通过绿色通道进行入学。
 
   - tag: list
     header: false
@@ -21,6 +19,14 @@ content:
         icon: safe
         path: /intro/apartment/defend
 
+  - tag: ul
+    type: warning
+    text:
+      - 如果您缴纳学费有困难，请通过绿色通道进行入学。
+
+  - tag: list
+    header: false
+    content:
       - text: 绿色通道
         icon: green-tunnel
         path: /guide/check/green-tunnel
@@ -28,7 +34,7 @@ content:
   - tag: title
     text: 缴费方式
 
-  - tag: p
+  - tag: text
     text: 学生需要通过缴费系统自行缴费。
 
   - tag: list

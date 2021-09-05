@@ -1,6 +1,6 @@
-title: 在手机上通过缴费系统缴费
+title: 手机使用缴费系统缴费
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: text
@@ -30,6 +30,10 @@ content:
     text:
       - 请选择“本校师生”
       - 默认账号为学号，初始密码为学号。
+
+  - tag: text
+    type: tip
+    text: 首次登陆时会要求填写接收发票的邮箱和手机，请准确填写自己正在使用的，并填写相关验证码。
 
   - tag: text
     heading: 校外用户登录
