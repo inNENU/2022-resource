@@ -1,13 +1,13 @@
 title: 领导机构
 desc: "2021年3月16日更新，由学校办公室提供"
-time: 2021年8月15日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: title
-    text: 党　委
+    text: 党委
 
   - tag: text
-    heading: 书　记
+    heading: 书记
     text: 杨晓慧
 
   - tag: copy
@@ -27,7 +27,7 @@ content:
       - 兰恒斌
 
   - tag: ul
-    heading: 常　委
+    heading: 常委
     text:
       - 杨晓慧
       - 刘益春
@@ -36,7 +36,7 @@ content:
       - 韩东育
       - 郭建华
       - 兰恒斌
-      - 常　青
+      - 常 青
       - 王占仁
       - 徐海阳
       - 柏维春
@@ -44,10 +44,10 @@ content:
       - 艾春明
 
   - tag: title
-    text: 行  政
+    text: 行政
 
   - tag: text
-    heading: 校  长
+    heading: 校长
     text: 刘益春
 
   - tag: copy
@@ -77,12 +77,12 @@ content:
   - tag: ul
     heading: 校长助理
     text:
-      - 于　伟
+      - 于伟
       - 薛利锋
 
   - tag: title
-    text: 纪　委
+    text: 纪委
 
   - tag: text
-    heading: 书　记
+    heading: 书记
     text: 兰恒斌
