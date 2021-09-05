@@ -18,17 +18,17 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 到校路线
-        color: grey
-        name: Arrival
-        icon: locate
-        path: /guide/arrival/
-
-      - text: 新生报到
+      - text: 学费缴纳
         color: orange
-        name: Check
-        icon: check
-        path: guide/check/
+        name: Pay
+        icon: money
+        path: guide/check/pay/
+
+      - text: 入学活动
+        color: purple
+        name: Activity
+        icon: activity
+        path: guide/activity/
 
       - text: 快递
         color: mauve
