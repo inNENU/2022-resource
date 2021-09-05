@@ -1,6 +1,6 @@
 title: 常见故障及解决办法
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,10 @@ content:
     heading: 地点
     text:
       - 各寝室楼一楼入口处墙上
-      - (不是自助终端机，是一个绿色的置于墙上的机器)
+
+  - tag: img
+    src: https://mp.innenu.com/img/card/water-terminal.jpg
+    desc: 生活用水补助机
 
   - tag: text
     heading: 其他情况

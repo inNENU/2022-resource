@@ -1,6 +1,6 @@
 title: 新卡使用前准备
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: text
@@ -21,6 +21,10 @@ content:
   - tag: p
     heading: 机器外观
     text: 生活用水补助机不是自助终端机，是一个绿色的挂于墙上的机器。机器开关是其顶部的一个按钮。
+
+  - tag: img
+    src: https://mp.innenu.com/img/card/water-terminal.jpg
+    desc: 生活用水补助机
 
   - tag: p
     heading: 激活方式

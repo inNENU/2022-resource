@@ -1,15 +1,19 @@
 title: 选课
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月5日
 grey: true
 shareable: true
 content:
   - tag: list
     header: 关于选课
     content:
-      - text: 选课介绍
+      - text: 选/注课介绍
         icon: intro
         path: intro
+
+      - text: 选/注课原则
+        icon: rule
+        path: rule
 
       - text: 选课内容
         icon: list
