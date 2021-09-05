@@ -1,6 +1,6 @@
 title: 在PC上通过缴费系统缴费
 author: Mr.Hope
-time: 2021年9月1日
+time: 2021年9月5日
 shareable: true
 content:
   - tag: text
@@ -48,7 +48,7 @@ content:
   - tag: ul
     text: 选择需要缴费的项目并进行缴费。
 
-  - tag: p
+  - tag: text
     type: tip
     heading: Mr.Hope の 提示
     text: 每笔缴费最高为一万元，如果您的学费超过了 1 万元，请您分批缴费(选择部分缴费)。
