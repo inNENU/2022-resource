@@ -41,4 +41,9 @@ content:
   - tag: text
     heading: Window 11, macOS, Linux
     text:
-      - Windows 11 系统可以通过Chrome在浏览器中下载IETab插件
+      - Windows 11 系统、macOS 和 Linux 可以通过 Chrome 在浏览器中下载 IETab 插件
+
+  - tag: list
+    content:
+      - text: 查看详情
+        path: ietab

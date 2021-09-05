@@ -12,8 +12,7 @@ content:
     type: tip
     heading: 2021年下半年时间安排
     text:
-      - 2021年下半年中小学教师资格考试（笔试）报名工作将于9月2日开始。
-      - 考试时间定位 2021年10月30日星期六。
+      - 2021年下半年中小学教师资格考试（笔试）报名工作将于9月2日开始，考试时间为 2021年10月30日星期六。
 
   - tag: list
     header: 介绍
@@ -23,7 +22,7 @@ content:
         path: intro
 
       - text: 考试科目
-        icon: subject
+        icon: bookshelf
         path: subject
 
   - tag: list
@@ -34,7 +33,7 @@ content:
         path: enroll
 
       - text: 笔试详情
-        icon: exam
+        icon: test
         path: writing
 
       - text: 面试详情
