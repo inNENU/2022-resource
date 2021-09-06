@@ -1,6 +1,6 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
-import type { DocComponentConfig } from "./typings";
+import type { DocComponentOptions } from "./typings";
 
 /**
  * 获得文档图标
@@ -33,7 +33,7 @@ const getDocIcon = (url: string): string => {
 };
 
 export const resolveDoc = (
-  element: DocComponentConfig,
+  element: DocComponentOptions,
   location = ""
 ): void => {
   element.icon = getDocIcon(element.url);

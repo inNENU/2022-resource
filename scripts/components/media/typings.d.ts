@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-interface MediaBaseComponentConfig extends BaseComponentConfig {
+interface MediaBaseComponentOptions extends BaseComponentOptions {
   tag: "media";
   /** 媒体文件的在线网址或本地路径	 */
   src: string;
@@ -18,7 +18,7 @@ interface MediaBaseComponentConfig extends BaseComponentConfig {
   controls?: boolean;
 }
 
-export interface AudioConponentConfig extends MediaBaseComponentConfig {
+export interface AudioConponentOptions extends MediaBaseComponentOptions {
   type: "audio";
   /**
    * 音频名字
@@ -40,7 +40,7 @@ interface DamuListItem {
   time: number;
 }
 
-export interface VideoComponentConfig extends MediaBaseComponentConfig {
+export interface VideoComponentOptions extends MediaBaseComponentOptions {
   type: "video";
   /**
    * 视频封面的图片网络资源地址
@@ -67,4 +67,6 @@ export interface VideoComponentConfig extends MediaBaseComponentConfig {
   "danmu-btn"?: boolean;
 }
 
-export type MediaComponentConfig = AudioConponentConfig | VideoComponentConfig;
+export type MediaComponentOptions =
+  | AudioConponentOptions
+  | VideoComponentOptions;

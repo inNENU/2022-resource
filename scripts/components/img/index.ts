@@ -1,9 +1,9 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
-import type { ImageComponentConfig } from "./typings";
+import type { ImageComponentOptions } from "./typings";
 
 export const resolveImg = (
-  element: ImageComponentConfig,
+  element: ImageComponentOptions,
   location = ""
 ): void => {
   if (

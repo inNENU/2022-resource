@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface CardComponentConfig extends BaseComponentConfig {
+export interface CardComponentOptions extends BaseComponentOptions {
   tag: "card";
   /** 卡片类型 */
   type: "web" | "page";

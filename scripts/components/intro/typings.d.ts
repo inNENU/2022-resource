@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface IntroComponentConfig extends BaseComponentConfig {
+export interface IntroComponentOptions extends BaseComponentOptions {
   tag: "intro";
   /** 主体名称 */
   name: string;

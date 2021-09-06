@@ -11,14 +11,12 @@ content:
   #   url: music
 
   - tag: card
-    type: page
     src: http://mp.innenu.com/img/tab/calendar.jpg
     title: 校历
     logo: calendar
     url: calendar
 
   - tag: card
-    type: page
     src: http://mp.innenu.com/img/tab/sport-field.jpg
     title: 体测计算器
     logo: calculate

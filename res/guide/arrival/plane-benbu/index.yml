@@ -1,6 +1,6 @@
 title: 坐飞机-到本部
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,6 @@ content:
     content:
       - type: navigator
         text: 龙嘉机场导航到本部
-        openType: navigate
         url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&startPoint={"latitude":43.997996,"longitude":125.701892,"name":"龙嘉机场T2航站楼"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
     env:
       - wx

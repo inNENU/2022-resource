@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface PhoneComponentConfig extends BaseComponentConfig {
+export interface PhoneComponentOptions extends BaseComponentOptions {
   tag: "phone";
   /** 标题 */
   header?: string;

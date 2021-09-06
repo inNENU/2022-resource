@@ -1,12 +1,12 @@
-import { PhoneComponentConfig } from "./typings";
+import { PhoneComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolvePhone = (
-  element: PhoneComponentConfig,
+  element: PhoneComponentOptions,
   location = ""
 ): void => {
   for (const key in element)
-    if (typeof element[key as keyof PhoneComponentConfig] === "number")
+    if (typeof element[key as keyof PhoneComponentOptions] === "number")
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
       // eslint-disable-next-line

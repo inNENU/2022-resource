@@ -2,12 +2,12 @@ import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
 import { resolvePath } from "../utils";
 import type {
-  AdvancedListComponentConfig,
-  ListComponentConfig,
+  AdvancedListComponentOptions,
+  ListComponentOptions,
 } from "./typings";
 
 export const resolveList = (
-  element: ListComponentConfig | AdvancedListComponentConfig,
+  element: ListComponentOptions | AdvancedListComponentOptions,
   pageId: string,
   location = ""
 ): void => {
@@ -25,7 +25,9 @@ export const resolveList = (
 
   element.content.forEach((listItem, index) => {
     if ("type" in listItem) {
-      if (listItem.type === "navigator")
+      if (listItem.type === "navigator") {
+        if (!listItem.openType) listItem.openType = "navigate";
+
         checkKeys(
           listItem,
           {
@@ -58,7 +60,7 @@ export const resolveList = (
           },
           `${location}.content[${index}]`
         );
-      else if (listItem.type === "switch")
+      } else if (listItem.type === "switch")
         checkKeys(
           listItem,
           {

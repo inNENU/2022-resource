@@ -1,9 +1,9 @@
-import { TextAlign, TextComponentConfig } from "./typings";
+import { TextAlign, TextComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 import { resolveStyle } from "../utils";
 
 export const resolveText = (
-  element: TextComponentConfig,
+  element: TextComponentOptions,
   location = ""
 ): void => {
   if (

@@ -1,20 +1,20 @@
-import { CardComponentConfig } from "./card/typings";
-import { CopyComponentConfig } from "./copy/typings";
-import { DocComponentConfig } from "./doc/typings";
-import { FooterComponentConfig } from "./footer/typings";
-import { GridComponentConfig } from "./grid/typings";
-import { ImageComponentConfig } from "./img/typings";
-import { IntroComponentConfig } from "./intro/typings";
+import { CardComponentOptions } from "./card/typings";
+import { CopyComponentOptions } from "./copy/typings";
+import { DocComponentOptions } from "./doc/typings";
+import { FooterComponentOptions } from "./footer/typings";
+import { GridComponentOptions } from "./grid/typings";
+import { ImageComponentOptions } from "./img/typings";
+import { IntroComponentOptions } from "./intro/typings";
 import {
-  AdvancedListComponentConfig,
-  ListComponentConfig,
+  AdvancedListComponentOptions,
+  ListComponentOptions,
 } from "./list/typings";
-import { LoadingComponentConfig } from "./loading/typings";
-import { MediaComponentConfig } from "./media/typings";
-import { PhoneComponentConfig } from "./phone/typings";
-import { SwiperComponentConfig } from "./swiper/typings";
-import { TextComponentConfig } from "./text/typings";
-import { TitleComponentConfig } from "./title/typings";
+import { LoadingComponentOptions } from "./loading/typings";
+import { MediaComponentOptions } from "./media/typings";
+import { PhoneComponentOptions } from "./phone/typings";
+import { SwiperComponentOptions } from "./swiper/typings";
+import { TextComponentOptions } from "./text/typings";
+import { TitleComponentOptions } from "./title/typings";
 
 import { GeneralScopeData } from "./scopeData/typings";
 
@@ -26,6 +26,7 @@ export * from "./grid/typings";
 export * from "./img/typings";
 export * from "./intro/typings";
 export * from "./list/typings";
+export * from "./loading/typings";
 export * from "./media/typings";
 export * from "./phone/typings";
 export * from "./swiper/typings";
@@ -48,22 +49,22 @@ export type PageTag =
   | "media"
   | "swiper";
 
-export type ComponentConfig =
-  | TitleComponentConfig
-  | TextComponentConfig
-  | ImageComponentConfig
-  | ListComponentConfig
-  | AdvancedListComponentConfig
-  | GridComponentConfig
-  | FooterComponentConfig
-  | DocComponentConfig
-  | PhoneComponentConfig
-  | SwiperComponentConfig
-  | MediaComponentConfig
-  | CardComponentConfig
-  | CopyComponentConfig
-  | LoadingComponentConfig
-  | IntroComponentConfig;
+export type ComponentOptions =
+  | TitleComponentOptions
+  | TextComponentOptions
+  | ImageComponentOptions
+  | ListComponentOptions
+  | AdvancedListComponentOptions
+  | GridComponentOptions
+  | FooterComponentOptions
+  | DocComponentOptions
+  | PhoneComponentOptions
+  | SwiperComponentOptions
+  | MediaComponentOptions
+  | CardComponentOptions
+  | CopyComponentOptions
+  | LoadingComponentOptions
+  | IntroComponentOptions;
 
 /** 页面配置 */
 export interface PageConfig {
@@ -80,7 +81,7 @@ export interface PageConfig {
   /** 是否是灰色背景 */
   grey?: boolean;
   /** 页面内容 */
-  content: ComponentConfig[];
+  content: ComponentOptions[];
   /** 页面图片 */
   images?: string[];
   /**

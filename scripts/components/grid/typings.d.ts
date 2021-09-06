@@ -1,12 +1,10 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface GridComponentItemComfig extends BaseComponentConfig {
+export interface GridComponentItemOptions extends BaseComponentOptions {
   /** 网格文字 */
   text: string;
   /** 网格图标的在线路径或本地路径 */
   icon: string;
-  /** Base64 icon 路径 */
-  base64Icon?: string;
   /** 九宫格背景颜色 (仅 Android 主题) */
   color: string;
   /** 对应的英文名 */
@@ -17,10 +15,10 @@ export interface GridComponentItemComfig extends BaseComponentConfig {
   url?: string;
 }
 
-export interface GridComponentConfig extends BaseComponentConfig {
+export interface GridComponentOptions extends BaseComponentOptions {
   tag: "grid";
   header?: string | false;
-  content: GridComponentItemComfig[];
+  content: GridComponentItemOptions[];
   /** 网格页脚 */
   footer?: string;
 }

@@ -1,8 +1,8 @@
 import { checkKeys } from "@mr-hope/assert-type";
-import type { LoadingComponentConfig } from "./typings";
+import type { LoadingComponentOptions } from "./typings";
 
 export const resolveLoading = (
-  element: LoadingComponentConfig,
+  element: LoadingComponentOptions,
   location = ""
 ): void => {
   checkKeys(

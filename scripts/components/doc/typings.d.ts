@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface DocComponentConfig extends BaseComponentConfig {
+export interface DocComponentOptions extends BaseComponentOptions {
   tag: "doc";
   /** 文档名称 */
   name: string;

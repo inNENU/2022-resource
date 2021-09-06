@@ -1,8 +1,8 @@
-import { IntroComponentConfig } from "./typings";
+import { IntroComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveIntro = (
-  element: IntroComponentConfig,
+  element: IntroComponentOptions,
   location = ""
 ): void => {
   checkKeys(

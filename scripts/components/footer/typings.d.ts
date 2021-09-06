@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface FooterComponentConfig extends BaseComponentConfig {
+export interface FooterComponentOptions extends BaseComponentOptions {
   tag: "footer";
   /** 作者 */
   author?: string;

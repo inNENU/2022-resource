@@ -1,5 +1,5 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface LoadingComponentConfig extends BaseComponentConfig {
+export interface LoadingComponentOptions extends BaseComponentOptions {
   tag: "loading";
 }

@@ -1,9 +1,9 @@
 import { existsSync } from "fs";
 import { checkKeys } from "@mr-hope/assert-type";
-import type { CardComponentConfig } from "./typings";
+import type { CardComponentOptions } from "./typings";
 
 export const resolveCard = (
-  element: CardComponentConfig,
+  element: CardComponentOptions,
   location = ""
 ): void => {
   if (
@@ -14,6 +14,8 @@ export const resolveCard = (
   ) {
     console.warn(`${element.logo} not exist in ${location}`);
   }
+
+  element.type = element.url.match(/^https?:\/\//) ? "web" : "page";
 
   checkKeys(
     element,

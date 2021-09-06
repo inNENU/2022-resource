@@ -1,12 +1,10 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface BaseListComponentItemConfig extends BaseComponentConfig {
+export interface BaseListComponentItemOptions extends BaseComponentOptions {
   /** 列表单元的显示文字 */
   text: string;
   /** 列表图标的本地路径或在线网址 */
   icon?: string;
-  /** Base64 icon 路径 */
-  base64Icon?: string;
   /** 列表内容的描述 */
   desc?: string;
   /**
@@ -17,25 +15,25 @@ export interface BaseListComponentItemConfig extends BaseComponentConfig {
   hidden?: boolean;
 }
 
-export interface ListComponentItemConfig extends BaseListComponentItemConfig {
+export interface ListComponentItemOptions extends BaseListComponentItemOptions {
   /** 对应界面的文件路径 */
   path?: string;
   /** 列表指向的界面路径或短名称 */
   url?: string;
 }
 
-export interface ListComponentConfig extends BaseComponentConfig {
+export interface ListComponentOptions extends BaseComponentOptions {
   tag: "list";
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */
-  content: ListComponentItemConfig[];
+  content: ListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }
 
-export interface NaviagatorListComponentItemConfig
-  extends BaseListComponentItemConfig {
+export interface NaviagatorListComponentItemOptions
+  extends BaseListComponentItemOptions {
   type: "navigator";
   /** 小程序提供的开放能力 */
   openType?:
@@ -51,8 +49,8 @@ export interface NaviagatorListComponentItemConfig
   url?: string;
 }
 
-export interface SwitchListComponentItemConfig
-  extends BaseListComponentItemConfig {
+export interface SwitchListComponentItemOptions
+  extends BaseListComponentItemOptions {
   type: "switch";
   /** 所控变量在 storage 中的 key 值 */
   key: string;
@@ -64,12 +62,10 @@ export interface SwitchListComponentItemConfig
   handler?: string;
   /** 开关颜色 */
   color?: string;
-  /** 开关状态 */
-  status?: boolean;
 }
 
-export interface SliderListComponentItemConfig<T = unknown>
-  extends BaseListComponentItemConfig {
+export interface SliderListComponentItemOptions
+  extends BaseListComponentItemOptions {
   type: "slider";
   /** 滑块所控变量在 storage 中的 key 值 */
   key: string;
@@ -93,15 +89,11 @@ export interface SliderListComponentItemConfig<T = unknown>
    * @default 1
    */
   step?: number;
-  /** 滑块对应的值*/
-  value?: T;
-  /** 是否显示滑块 */
-  visible?: boolean;
 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export interface PickerListComponentItemConfig<T = any>
-  extends BaseListComponentItemConfig {
+export interface PickerListComponentItemOptions<T = any>
+  extends BaseListComponentItemOptions {
   type: "picker";
   /** 选择器中包含的值 */
   select: T[];
@@ -127,18 +119,13 @@ export interface PickerListComponentItemConfig<T = any>
    * 设置 `true` 时为嵌入式 picker
    */
   inlay?: boolean;
-  /** 是否显示选择器 */
-  visible?: boolean;
-  /** picker 选择器对应的键 */
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  currentValue?: T extends any[] ? number[] : number;
   /** picker 选择器对应的值 */
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   value?: T;
 }
 
-export interface ButtonListComponnetItemConfig
-  extends BaseListComponentItemConfig {
+export interface ButtonListComponnetItemOptions
+  extends BaseListComponentItemOptions {
   type: "button";
   /**
    * 按钮函数名
@@ -170,30 +157,22 @@ export interface ButtonListComponnetItemConfig
   openId?: string;
   /** 打开群资料卡片开放能力 */
   groupId?: string;
-
-  /**
-   * 是否禁用按钮
-   *
-   * @default false
-   */
-
-  disabled?: boolean;
 }
 
-export type AdvancedListComponentItemConfig =
-  | ListComponentItemConfig
-  | NaviagatorListComponentItemConfig
-  | SwitchListComponentItemConfig
-  | PickerListComponentItemConfig
-  | SliderListComponentItemConfig
-  | ButtonListComponnetItemConfig;
+export type AdvancedListComponentItemOptions =
+  | ListComponentItemOptions
+  | NaviagatorListComponentItemOptions
+  | SwitchListComponentItemOptions
+  | PickerListComponentItemOptions
+  | SliderListComponentItemOptions
+  | ButtonListComponnetItemOptions;
 
-export interface AdvancedListComponentConfig extends BaseComponentConfig {
+export interface AdvancedListComponentOptions extends BaseComponentOptions {
   tag: "advanced-list";
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */
-  content: AdvancedListComponentItemConfig[];
+  content: AdvancedListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }

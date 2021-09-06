@@ -1,4 +1,4 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
 export type TextAlign =
   | "text-align: left;"
@@ -6,7 +6,7 @@ export type TextAlign =
   | "text-align: right;"
   | "text-align: justify;";
 
-export interface TextComponentConfig extends BaseComponentConfig {
+export interface TextComponentOptions extends BaseComponentOptions {
   /** 文字标签 */
   tag: "text" | "p" | "ol" | "ul";
   /** 段落类型 */

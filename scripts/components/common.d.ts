@@ -13,7 +13,7 @@ export type ImageMode =
   | "bottom left"
   | "bottom right";
 
-export interface BaseComponentConfig {
+export interface BaseComponentOptions {
   /** 显示的环境 */
   env?: string[];
 }

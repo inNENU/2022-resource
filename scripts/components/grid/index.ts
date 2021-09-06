@@ -1,10 +1,10 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
 import { resolvePath } from "../utils";
-import type { GridComponentConfig } from "./typings";
+import type { GridComponentOptions } from "./typings";
 
 export const resolveGrid = (
-  element: GridComponentConfig,
+  element: GridComponentOptions,
   pageId: string,
   location = ""
 ): void => {

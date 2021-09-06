@@ -1,6 +1,6 @@
-import type { BaseComponentConfig } from "../common";
+import type { BaseComponentOptions } from "../common";
 
-export interface CopyComponentConfig extends BaseComponentConfig {
+export interface CopyComponentOptions extends BaseComponentOptions {
   tag: "copy";
   /** 标题 */
   header?: string;

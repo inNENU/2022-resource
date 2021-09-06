@@ -1,8 +1,8 @@
-import { CopyComponentConfig } from "./typings";
+import { CopyComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveCopy = (
-  element: CopyComponentConfig,
+  element: CopyComponentOptions,
   location = ""
 ): void => {
   checkKeys(

@@ -1,8 +1,8 @@
-import { SwiperComponentConfig } from "./typings";
+import { SwiperComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
 export const resolveSwiper = (
-  element: SwiperComponentConfig,
+  element: SwiperComponentOptions,
   location = ""
 ): void => {
   checkKeys(

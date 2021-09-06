@@ -1,7 +1,7 @@
 import {
   PageConfig,
-  TitleComponentConfig,
-  TextComponentConfig,
+  TitleComponentOptions,
+  TextComponentOptions,
 } from "../typings";
 
 const getText = (page: PageConfig): string => {
@@ -12,7 +12,7 @@ const getText = (page: PageConfig): string => {
         element.tag === "p" ||
         element.tag === "ul" ||
         element.tag === "ol"
-    ) as TextComponentConfig[]
+    ) as TextComponentOptions[]
   )
     .map(
       (element) =>
@@ -29,7 +29,7 @@ const getTags = (page: PageConfig): string[] => {
   const titles = (
     page.content.filter(
       (element) => element.tag === "title"
-    ) as TitleComponentConfig[]
+    ) as TitleComponentOptions[]
   ).map((element) => element.text);
 
   return titles.length <= 10 ? titles : titles.slice(0, 10);
