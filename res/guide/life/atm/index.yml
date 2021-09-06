@@ -1,0 +1,17 @@
+title: 存取款
+author: Mr.Hope
+time: 2021年9月6日
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 为方便学生存取款，两校区校内均设有 ATM 机，供同学们使用。
+
+  - tag: list
+    content:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

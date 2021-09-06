@@ -1,13 +1,13 @@
 title: 长春站-到净月-4号线转3号线
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: text
     type: tip
     text:
       - 通过轨道交通 1 号线转 3 号线是最方便快捷的乘坐方式，票价 4 元。
-      - 只有你携带了无法通过地铁安检的物品，再考虑此方案。
+      - 只有您携带了无法通过地铁安检的物品，再考虑此方案。
 
   - tag: list
     header: false
@@ -126,7 +126,7 @@ content:
   - tag: text
     heading: 其他方式
     text:
-      - 如果你不方便使用微信，你可以使用人工窗口购票，请自备零钱。
+      - 如果您不方便使用微信，您可以使用人工窗口购票，请自备零钱。
 
   - tag: img
     src: https://mp.innenu.com/img/arrival/subway-ticket.jpg

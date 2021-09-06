@@ -72,7 +72,7 @@ content:
     type: danger
     text:
       - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
-      - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交！
+      - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交!
 
   - tag: list
     header: false

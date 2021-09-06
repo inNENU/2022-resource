@@ -8,7 +8,7 @@ content:
     type: tip
     text:
       - 生活页面仍在整合中，Mr.Hope 正在努力整理并更新两校区相关信息、照片，目前所列出的内容可能不全。
-      - 如果你想要帮助订正，或想直接提供相关照片，欢迎联系我。
+      - 如果您想要帮助订正，或想直接提供相关照片，欢迎联系我。
 
   - tag: list
     header: 衣
@@ -81,7 +81,7 @@ content:
 
       - text: 存取款
         icon: atm
-        path: atm
+        path: atm/
 
       - text: 就医
         icon: hospital

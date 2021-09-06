@@ -1,6 +1,6 @@
 title: 录取相关问答
 author: Mr.Hope
-time: 2021年8月28日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -72,7 +72,7 @@ content:
     heading: 为什么我在省招办可以查询到录取，但是在此网页查不到?
     text:
       - 此网站的作用是明确录取专业，并提供录取通知书单号查询。
-      - 此网站录入消息会有严重滞后，只要你在省招办查询到录取，即为录取。
+      - 此网站录入消息会有严重滞后，只要您在省招办查询到录取，即为录取。
 
   - tag: text
     type: info

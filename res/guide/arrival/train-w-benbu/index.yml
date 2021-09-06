@@ -77,7 +77,7 @@ content:
     type: danger
     text:
       - 乘坐公交比较麻烦，路途花费的时间也更长。
-      - Mr.Hope 不认为任何人会差这点钱! 不要坐公交！
+      - Mr.Hope 不认为任何人会差这点钱! 不要坐公交!
 
   - tag: list
     header: false
