@@ -27,7 +27,7 @@ export const resolveGrid = (
         const path = resolvePath(gridItem.path);
 
         if (!existsSync(`./res/${path}.yml`))
-          console.error(`${path} not exists in ${location}`);
+          console.error(`Path ${path} not exists in ${location}`);
 
         gridItem.path = path;
       } else {
@@ -38,7 +38,7 @@ export const resolveGrid = (
         const path = resolvePath(`${paths.join("/")}/${gridItem.path}`);
 
         if (!existsSync(`./res/${path}.yml`))
-          console.error(`${path} not exists in ${location}`);
+          console.error(`Path ${path} not exists in ${location}`);
 
         gridItem.path = path;
       }
@@ -49,7 +49,7 @@ export const resolveGrid = (
       !gridItem.icon.match(/\./) &&
       !existsSync(`./res/icon/${gridItem.icon}.svg`)
     ) {
-      console.warn(`${gridItem.icon} not exist in ${location}`);
+      console.warn(`Icon ${gridItem.icon} not exist in ${location}`);
     }
 
     checkKeys(

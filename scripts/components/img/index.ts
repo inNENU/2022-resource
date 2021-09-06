@@ -10,7 +10,7 @@ export const resolveImg = (
     element.src?.startsWith("https://mp.innenu.com") &&
     !existsSync(element.src.replace("https://mp.innenu.com/", "./"))
   ) {
-    console.warn(`${element.src} not exist in ${location}`);
+    console.warn(`Image ${element.src} not exist in ${location}`);
   }
 
   checkKeys(

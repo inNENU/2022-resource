@@ -1,10 +1,21 @@
 title: 选课流程
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月6日
 shareable: true
 content:
-  - tag: text
-    heading: "提示: 新生第一学期选课为注课，不用抢课"
+  - tag: title
+    text: 完成流程
 
   - tag: img
     src: https://mp.innenu.com/img/course/register.png
+
+  - tag: title
+    text: 相关提示
+
+  - tag: text
+    type: info
+    text: 选课系统每日 7:00 - 23:00 开放，其他时间关闭。
+
+  - tag: text
+    type: tip
+    text: 新生第一学期选课为注课，不用抢课。

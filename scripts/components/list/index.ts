@@ -172,7 +172,7 @@ export const resolveList = (
         const path = resolvePath(listItem.path);
 
         if (!existsSync(`./res/${path}.yml`))
-          console.error(`${path} not exists in ${location}`);
+          console.error(`Path ${path} not exists in ${location}`);
 
         listItem.path = path;
       } else {
@@ -183,7 +183,7 @@ export const resolveList = (
         const path = resolvePath(`${paths.join("/")}/${listItem.path}`);
 
         if (!existsSync(`./res/${path}.yml`))
-          console.error(`${path} not exists in ${location}`);
+          console.error(`Path ${path} not exists in ${location}`);
 
         listItem.path = path;
       }
@@ -194,7 +194,7 @@ export const resolveList = (
         !listItem.icon.match(/\./) &&
         !existsSync(`./res/icon/${listItem.icon}.svg`)
       ) {
-        console.warn(`${listItem.icon} not exist in ${location}`);
+        console.warn(`Icon ${listItem.icon} not exist in ${location}`);
       }
 
       checkKeys(

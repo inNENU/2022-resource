@@ -1,6 +1,6 @@
 title: 教学服务系统限制
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -33,17 +33,20 @@ content:
     text: 各系统找到IE
 
   - tag: text
+    type: info
     heading: Window 10 及以前
     text:
       - Windows 10 系统可以在 “开始菜单” —— “Windows 附件” 中找到 “Internet Explorer”。
       - 其他系统可以在开始菜单中直接找到“Internet Explorer”。
 
   - tag: text
+    type: info
     heading: Window 11, macOS, Linux
     text:
       - Windows 11 系统、macOS 和 Linux 可以通过 Chrome 在浏览器中下载 IETab 插件
 
   - tag: list
+    header: false
     content:
       - text: 查看详情
         path: ietab

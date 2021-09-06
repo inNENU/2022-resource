@@ -12,7 +12,7 @@ export const resolveCard = (
     !element.logo.match(/\./) &&
     !existsSync(`./res/icon/${element.logo}.svg`)
   ) {
-    console.warn(`${element.logo} not exist in ${location}`);
+    console.warn(`Icon ${element.logo} not exist in ${location}`);
   }
 
   element.type = element.url.match(/^https?:\/\//) ? "web" : "page";

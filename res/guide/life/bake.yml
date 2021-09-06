@@ -1,0 +1,44 @@
+title: 烘焙坊
+desc: 特别鸣谢小艺学长提供部分照片
+author: Mr.Hope
+time: 2021年9月6日
+shareable: true
+content:
+  - tag: title
+    text: 本部
+
+  - tag: text
+    heading: 校内
+    text:
+      - 浴池一楼有一家烘焙坊。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-shop2.jpg
+    desc: 梅小姐私房烘焙店
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu-bath-haircut.jpg
+    desc: 梅小姐私房烘焙店店内照片
+
+  - tag: title
+    text: 净月
+
+  - tag: text
+    heading: 校内
+    text:
+      - 二食堂一楼有一家
+
+  - tag: swiper
+    url:
+      - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
+      - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
+
+  - tag: text
+    text: 烘培坊
+    align: center
+    style:
+      font-size: 14px
+
+  - tag: text
+    heading: 校外
+    text: 暂无信息。

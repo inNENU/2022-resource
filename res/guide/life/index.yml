@@ -1,11 +1,56 @@
 title: 生活
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月6日
 grey: true
 shareable: true
 content:
+  - tag: text
+    type: tip
+    text:
+      - 生活页面仍在整合中，Mr.Hope 正在努力整理并更新两校区相关信息、照片，目前所列出的内容可能不全。
+      - 如果你想要帮助订正，或想直接提供相关照片，欢迎联系我。
+
   - tag: list
+    header: 衣
     content:
+      - text: 洗衣店
+        icon: washer
+        path: washing
+
+      - text: 眼镜店
+        icon: glasses
+        path: glasses
+
+  - tag: list
+    header: 食
+    content:
+      - text: 食堂
+        icon: dining
+        path: /guide/dining/
+
+      - text: 水果
+        icon: fruit
+        path: fruit
+
+      - text: 烘焙坊
+        icon: bake
+        path: bake
+
+      - text: 饮品店
+        icon: drink
+        path: drink
+
+  - tag: list
+    header: 住
+    content:
+      - text: 寝室
+        icon: dorm
+        path: /guide/dorm/
+
+      - text: 浴池
+        icon: bath
+        path: /guide/bath/
+
       - text: 理发
         icon: haircut
         path: haircut
@@ -18,10 +63,18 @@ content:
         icon: print
         path: print
 
-      - text: 水果
-        icon: fruit
-        path: fruit
+      - text: 电子产品配件与维修
+        icon: digital
+        path: digital
 
+      - text: 营业厅
+        desc: 手机卡
+        icon: sim
+        path: sim/
+
+  - tag: list
+    header: 行
+    content:
       - text: 交通出行
         icon: traffic
         path: /guide/traffic/
@@ -33,10 +86,6 @@ content:
       - text: 就医
         icon: hospital
         path: hostpital
-
-      - text: SIM 卡
-        icon: sim
-        path: sim/
 
       - text: 校园周边
         icon: nearby

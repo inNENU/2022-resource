@@ -42,7 +42,7 @@ export const resolveDoc = (
     element.url?.startsWith("https://mp.innenu.com") &&
     !existsSync(element.url.replace("https://mp.innenu.com/", "./"))
   ) {
-    console.warn(`${element.url} not exist in ${location}`);
+    console.warn(`File ${element.url} not exist in ${location}`);
   }
 
   checkKeys(
