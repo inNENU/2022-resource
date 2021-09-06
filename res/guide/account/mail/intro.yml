@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -24,6 +24,11 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/account/email-login.jpg
     desc: 邮箱登录页面
+
+  - tag: text
+    type: warning
+    text:
+      - 账号只需输入别名，无需且不要输入 "@nenu.edu.cn"
 
   - tag: img
     src: https://mp.innenu.com/img/account/email.jpg
