@@ -1,7 +1,7 @@
 title: 校园网
 grey: true
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: text
@@ -11,12 +11,19 @@ content:
       - 很多系统只针对校园网内部开放，比如图书馆数据库、选课系统、本科教学服务系统等。
 
   - tag: list
-    header: 了解更多
+    header: 认证
     content:
-      - text: 认证相关
+      - text: 网络认证
         icon: about
         path: authorize
 
+      - text: 无感知认证
+        icon: about
+        path: auto
+
+  - tag: list
+    header: 上网方式
+    content:
       - text: 有线上网
         icon: ethernet
         path: lan
@@ -25,17 +32,16 @@ content:
         icon: wifi
         path: wlan
 
-      - text: 计费
+  - tag: list
+    header: 缴费计费
+    content:
+      - text: 价格
         icon: money
         path: fee
 
       - text: 充值
         icon: charge
         path: charge/
-
-      - text: 统一身份认证
-        icon: about
-        path: /guide/account/authorize
 
   - tag: list
     header: 校外访问

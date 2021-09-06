@@ -1,10 +1,13 @@
 title: iOS邮件客户端设置
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月6日
 shareable: true
 content:
-  - tag: p
-    text: 以 iPhone 上的原生(自带)邮件客户端为例
+  - tag: text
+    type: tip
+    text:
+      - 以下步骤将指导您在 iPhone 的邮件客户端上添加学校邮箱。
+      - 本教程以原生(自带)邮件客户端为例
 
   - tag: ul
     text: 选择 “密码与账户”

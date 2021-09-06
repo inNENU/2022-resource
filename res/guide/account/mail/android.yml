@@ -1,11 +1,13 @@
 title: 安卓邮件客户端设置
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: text
     type: tip
-    text: 以安卓手机上的 Gmail 客户端为例
+    text:
+      - 以下步骤将指导您在安卓手机邮件客户端上添加学校邮箱。
+      - 本教程以 Gmail 客户端为例
 
   - tag: ul
     text: 选择 “添加其他账号”
@@ -21,7 +23,7 @@ content:
 
   - tag: ul
     text:
-      - 输入电子邮箱地址
+      - 输入学校电子邮箱地址
       - 点击左下角的手动设置
 
   - tag: img
