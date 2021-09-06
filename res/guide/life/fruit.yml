@@ -1,6 +1,6 @@
 title: 水果店
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -12,10 +12,14 @@ content:
       - 浴池一楼
       - 北苑超市旁
 
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-shop1.jpg
+    desc: 浴池一楼“心随果动”水果店
+
   - tag: ul
     heading: 校外
     text:
-      - 北侧自由大路在幼儿园校门附近有一个京东超市
+      - 北侧自由大路在幼儿园校门附近有一个京东超市。
       - 南侧文昌路在南门附近南侧有一家，向东走还有一家。
 
   - tag: title

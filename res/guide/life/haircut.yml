@@ -1,7 +1,7 @@
 title: 理发
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -9,7 +9,20 @@ content:
 
   - tag: text
     heading: 校内
-    text: 浴池一楼有一家。北苑超市旁也开了一家理发店。
+    text:
+      - 浴池一楼有一家觉起造型。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-shop1.jpg
+    desc: 觉起造型
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-bath-haircut.jpg
+    desc: 觉起造型店内照片
+
+  - tag: text
+    text:
+      - 北苑超市旁也开了一家理发店。
 
   - tag: text
     heading: 校外

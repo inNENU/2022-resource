@@ -1,6 +1,6 @@
 title: 存取款
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -9,6 +9,12 @@ content:
   - tag: text
     heading: ATM
     text: 区域位于北苑超市旁，目前已有 ATM 入驻的银行有交通银行(可存钱)、中国邮政储蓄银行、中国农业银行、长春农业银行、中国建设银行等
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu-atm1.jpg
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu-atm2.jpg
 
   - tag: ul
     heading: 校外银行

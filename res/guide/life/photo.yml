@@ -1,13 +1,21 @@
 title: 照相
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: ul
     heading: 本部
     text:
-      - 浴池一楼，专业摄影馆，照出来的照片效果还可以。
-      - 北苑复印店(但是他们家主营打印复印，照出来也不是很好看)
+      - 浴池一楼好又快图文可以拍照
+      - 北苑复印店
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-bath-photo.jpg
+    desc: 浴池好又快图文店
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-bath-photo.jpg
+    desc: 好又快图文店内照片
 
   - tag: ul
     heading: 净月

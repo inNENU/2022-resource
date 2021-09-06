@@ -1,6 +1,6 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2021年9月1日
+time: 2021年9月6日
 shareable: true
 content:
   - tag: title
@@ -38,7 +38,7 @@ content:
     text: Nenu + 身份证后六位，X 用 1 代替
 
   - tag: img
-    src: https://mp.innenu.com/img/account/account.png
+    src: https://mp.innenu.com/img/account/authserver.jpg
 
   - tag: title
     text: 修改密码及密保绑定
