@@ -9,7 +9,6 @@ export const resolveLoading = (
     element,
     {
       tag: "string",
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location

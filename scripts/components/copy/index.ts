@@ -11,7 +11,6 @@ export const resolveCopy = (
       tag: "string",
       header: ["string", "undefined"],
       text: "string",
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location

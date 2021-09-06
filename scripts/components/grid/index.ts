@@ -15,7 +15,6 @@ export const resolveGrid = (
       header: { type: ["string", "undefined"], additional: [false] },
       content: "array",
       footer: ["string", "undefined"],
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
@@ -44,6 +43,15 @@ export const resolveGrid = (
         gridItem.path = path;
       }
 
+    if (
+      gridItem.icon &&
+      !gridItem.icon.match(/^https?:\/\//) &&
+      !gridItem.icon.match(/\./) &&
+      !existsSync(`./res/icon/${gridItem.icon}.svg`)
+    ) {
+      console.warn(`${gridItem.icon} not exist in ${location}`);
+    }
+
     checkKeys(
       gridItem,
       {
@@ -54,7 +62,6 @@ export const resolveGrid = (
         name: "string",
         path: ["string", "undefined"],
         url: ["string", "undefined"],
-        hidden: ["boolean", "undefined"],
         env: ["string[]", "undefined"],
       },
       `${location}.content`

@@ -18,7 +18,6 @@ export const resolveList = (
       header: ["string", "boolean", "undefined"],
       content: "array",
       footer: ["string", "undefined"],
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
@@ -55,7 +54,6 @@ export const resolveList = (
               enum: ["self", "miniProgram", undefined],
             },
             url: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
@@ -75,7 +73,6 @@ export const resolveList = (
             key: "string",
             handler: ["string", "undefined"],
             color: ["string", "undefined"],
-            hidden: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
@@ -97,7 +94,6 @@ export const resolveList = (
             min: ["number", "undefined"],
             max: ["number", "undefined"],
             step: ["number", "undefined"],
-            hidden: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
@@ -119,7 +115,6 @@ export const resolveList = (
             handler: ["string", "undefined"],
             single: ["boolean", "undefined"],
             inlay: ["boolean", "undefined"],
-            hidden: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
@@ -159,7 +154,6 @@ export const resolveList = (
             openId: ["string", "undefined"],
             groupId: ["string", "undefined"],
             disabled: ["boolean", "undefined"],
-            hidden: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
           `${location}.content[${index}]`
@@ -192,6 +186,15 @@ export const resolveList = (
         listItem.path = path;
       }
 
+      if (
+        listItem.icon &&
+        !listItem.icon.match(/^https?:\/\//) &&
+        !listItem.icon.match(/\./) &&
+        !existsSync(`./res/icon/${listItem.icon}.svg`)
+      ) {
+        console.warn(`${listItem.icon} not exist in ${location}`);
+      }
+
       checkKeys(
         listItem,
         {
@@ -201,7 +204,6 @@ export const resolveList = (
           desc: ["string", "undefined"],
           path: ["string"],
           url: ["string", "undefined"],
-          hidden: ["boolean", "undefined"],
           env: ["string[]", "undefined"],
         },
         `${location}.content[${index}]`
@@ -215,7 +217,6 @@ export const resolveList = (
           base64Icon: ["string", "undefined"],
           desc: ["string", "undefined"],
           url: ["string", "undefined"],
-          hidden: ["boolean", "undefined"],
           env: ["string[]", "undefined"],
         },
         `${location}.content[${index}]`

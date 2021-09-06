@@ -35,7 +35,6 @@ export const resolveText = (
       text: ["string[]", "undefined"],
       style: ["string", "undefined"],
       align: ["string", "undefined"],
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location

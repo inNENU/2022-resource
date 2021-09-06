@@ -53,7 +53,6 @@ export const resolveDoc = (
       name: "string",
       url: "string",
       downloadable: { type: ["undefined"], additional: [true] },
-      hidden: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
