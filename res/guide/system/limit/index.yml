@@ -1,6 +1,6 @@
 title: 教学服务系统限制
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月7日
 shareable: true
 content:
   - tag: title
@@ -41,9 +41,17 @@ content:
 
   - tag: text
     type: info
-    heading: Window 11, macOS, Linux
+    heading: Window 11
     text:
-      - Windows 11 系统、macOS 和 Linux 可以通过 Chrome 在浏览器中下载 IETab 插件
+      - Windows 11 系统可以通过 Chrome 在浏览器中下载 IETab 插件
+
+  - tag: text
+    type: info
+    heading: 其它系统
+    text:
+      - 其他系统暂无较好的方式。
+      - Linux 和 macOS 建议安装双系统添加 Windows
+      - macOS M1 (ARM64) 建议安装虚拟机
 
   - tag: list
     header: false

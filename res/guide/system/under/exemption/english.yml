@@ -1,6 +1,7 @@
 title: 英语免修评定
+desc: 视频来自阮怀正
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月7日
 shareable: true
 content:
   - tag: title
@@ -43,29 +44,11 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/system/login.png
 
-  - tag: text
-    heading: 登陆系统
-    text: 输入邮箱用户名和密码完成登录
-
-  - tag: text
-    text: 双击【考试管理】
-
-  - tag: img
-    src: https://mp.innenu.com/img/system/english-examption1.png
-
-  - tag: ul
+  - tag: ol
     text:
-      - 点击【英语免修申请】
-      - 点击【查询】进行课程申请。
+      - 输入邮箱用户名和密码完成登录
+      - 按照视频流程进行操作
 
-  - tag: img
-    src: https://mp.innenu.com/img/system/english-examption2.png
-
-  - tag: ul
-    text:
-      - 点击增加
-      - 按照要求填写申请课程以及申请理由并上传成绩单
-      - 点击“保存”后仍可以修改。如需提交，须点击“保存并送审”，完成申请，不可修改。
-
-  - tag: img
-    src: https://mp.innenu.com/img/system/english-examption3.png
+  - tag: media
+    type: video
+    src: https://mp.innenu.com/file/system/english-exemption.mp4

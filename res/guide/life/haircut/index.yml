@@ -1,0 +1,12 @@
+title: 理发
+author: Mr.Hope
+time: 2021年9月7日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

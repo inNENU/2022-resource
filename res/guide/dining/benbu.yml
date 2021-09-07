@@ -1,0 +1,33 @@
+title: 本部食堂
+author: Mr.Hope
+time: 2021年9月7日
+shareable: true
+content:
+  - tag: text
+    text: 本部校区有北苑餐厅和南苑餐厅两个食堂。北苑餐厅共两层，南苑餐厅共三层。
+
+  - tag: img
+    src: https://mp.innenu.com/img/dining/dining1.jpg
+
+  - tag: list
+    header: false
+    content:
+      - text: 北苑餐厅
+        path: beiyuan/
+
+      - text: 南苑餐厅
+        path: nanyuan/
+
+  - tag: title
+    text: 美食节
+
+  - tag: text
+    text:
+      - 学校食堂每年都会举行美食节，届时会开展档口评选活动。
+      - 大家可以免费品尝大量的美食，食堂也会打折。
+
+  - tag: list
+    header: false
+    content:
+      - text: 美食节
+        path: festival/benbu
