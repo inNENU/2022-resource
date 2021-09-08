@@ -3,7 +3,26 @@ id: user
 grey: true
 hidden: true
 content:
+  - tag: list
+    content:
+      - text: 小程序使用指南
+        icon: idea
+        url: page?path=other/guide/
+
+      - text: 内容更新日志
+        icon: log
+        url: page?path=other/content-log/
+
+      - text: 小程序更新日志
+        icon: log
+        url: log
+
+      - text: 关于
+        icon: about
+        url: about
+
   - tag: advanced-list
+    header: 设置
     content:
       - type: picker
         icon: theme
@@ -25,32 +44,12 @@ content:
         icon: setting
         url: storage
 
-      - text: 更新日志
-        icon: log
-        url: log
-
-      - text: 关于
-        icon: about
-        url: about
-
   - tag: advanced-list
     content:
       - text: 分享小程序
         icon: share
         type: button
         openType: share
-
-      - text: 加入 in 东师咨询群
-        icon: qq-group
-        type: button
-        openType: openGroupProfile
-        groupId: "1139044856"
-
-      - text: 添加 Mr.Hope 好友
-        icon: qq
-        type: button
-        openType: addFriend
-        openId: "868D7B2F0C609B4285698EAB77A47BA1"
 
       - text: 添加到桌面
         icon: send

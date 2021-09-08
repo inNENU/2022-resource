@@ -1,7 +1,7 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2021年8月25日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: text
@@ -27,3 +27,9 @@ content:
       - text: 申请免测/缓测的条件及程序
         icon: apply
         path: exempt
+
+  - tag: card
+    src: http://mp.innenu.com/img/tab/sport-field.jpg
+    title: 体测计算器
+    logo: calculate
+    url: PEcal
