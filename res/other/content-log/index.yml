@@ -7,7 +7,7 @@ content:
     heading: 9/8
     text:
       - 完善了邮箱的一些相关提示
-      - 应信息化办要求，数处建议优先使用密码
+      - 提示了系统登陆账号的问题
 
   - tag: ul
     heading: 9/7
@@ -63,13 +63,3 @@ content:
       - text: 查看详情
         icon: idea
         url: page?path=other/content-log/plan
-
-  - tag: title
-    text: 暂不接受的反馈
-
-  - tag: text
-    type: info
-    heading: 更新社团名单
-    text:
-      - 相关内容由校社联管理，且应被公开公示。但对方已经数年未公开社团名录，并履行必要的手续。
-      - 由于往年出现过他人伪造不存在的社团聚众举办活动和骗取入团费的情况，小程序同时暂不接收任何不能明确证明自己社团还在运营的任何信息提交与更新。

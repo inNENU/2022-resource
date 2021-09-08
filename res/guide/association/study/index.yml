@@ -1,0 +1,42 @@
+title: 社团
+author: Mr.Hope
+time: 2021年9月9日
+grey: true
+shareable: true
+content:
+  - tag: title
+    text: 本部校区
+
+  - tag: list
+    header: false
+    content:
+      - text: 天宇协会
+        path: astronomy
+
+      - text: 物院教师技能协会
+        path: teach
+
+      - text: 科技爱好者协会
+        path: technology
+
+      - text: 物理学术竞赛协会
+        path: phy-contest
+
+      - text: 数学建模协会
+        path: math-modal
+
+      - text: 乐群协会
+        path: lequn
+
+      - text: D.N.A协会
+        path: dna
+
+  - tag: list
+    header: 净月校区
+    content:
+      - text: 待更新
+
+  - tag: text
+    type: info
+    heading: 入驻说明
+    text: 欢迎社团入驻本页面，请联系 QQ 1178522294

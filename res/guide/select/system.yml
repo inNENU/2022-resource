@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年9月9日
 shareable: true
 content:
   - tag: title
@@ -44,8 +44,12 @@ content:
 
   - tag: text
     text:
-      - "选课系统用户名为学号，密码为统一身份认证密码。"
+      - "选课系统用户名为邮箱，密码为统一身份认证密码。"
       - 如果忘记用户名或密码，请登录统一身份认证 (https://ids.nenu.edu.cn/amserver/UI/Login) 点击忘记密码尝试通过手机号、微信等辅助验证方式找回。如果实在不能找回，请尽快与学校信息化管理与规划办公室联系，以免耽误选课。
+
+  - tag: text
+    type: warning
+    text: 请注意，密码并不是邮箱密码!
 
   - tag: list
     header: false
