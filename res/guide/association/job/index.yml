@@ -1,7 +1,6 @@
 title: 创新创业社团
 author: Mr.Hope
 time: 2021年9月9日
-grey: true
 shareable: true
 content:
   - tag: title
@@ -13,12 +12,10 @@ content:
       - text: “V·梦” 创新创业协会
         path: vdream
 
+  - tag: title
+    text: 净月校区
+
   - tag: list
-    header: 净月校区
+    header: false
     content:
       - text: 待更新
-
-  - tag: text
-    type: info
-    heading: 入驻说明
-    text: 欢迎社团入驻本页面，请联系 QQ 1178522294

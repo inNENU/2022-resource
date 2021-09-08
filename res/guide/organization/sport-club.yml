@@ -1,6 +1,11 @@
 title: 大学生体育俱乐部
 shareable: true
 content:
+  - tag: intro
+    name: 大学生体育俱乐部
+    logo: https://mp.innenu.com/img/studentOrg/daTi.png
+    desc: 东北师范大学大学生体育俱乐部
+
   - tag: p
     heading: " "
     text:

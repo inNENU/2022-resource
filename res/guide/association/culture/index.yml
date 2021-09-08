@@ -1,7 +1,6 @@
 title: 文化体育类社团
 author: Mr.Hope
 time: 2021年9月9日
-grey: true
 shareable: true
 content:
   - tag: title
@@ -10,6 +9,18 @@ content:
   - tag: list
     header: false
     content:
+      - text: 师说曲艺社
+        icon: https://mp.innenu.com/img/corporation/quyi.png
+        path: shishuoquyi
+
+      - text: 青音吉他社
+        icon: https://mp.innenu.com/img/corporation/guitar.jpg
+        path: guitar
+
+      - text: 英语协会
+        icon: https://mp.innenu.com/img/corporation/ea.jpg
+        path: english
+
       - text: 安仁国风社
         path: anren
 
@@ -31,23 +42,11 @@ content:
       - text: 锅庄舞协会
         path: zang
 
-      - text: 英语协会
-        icon: https://mp.innenu.com/img/corporation/ea.jpg
-        path: english
-
       - text: 爱创影视协会
         path: aichuang
 
       - text: 殉玉书法社
         path: shufa
-
-      - text: 师说曲艺社
-        icon: https://mp.innenu.com/img/corporation/quyi.png
-        path: shishuoquyi
-
-      - text: 青音吉他社
-        icon: https://mp.innenu.com/img/corporation/guitar.jpg
-        path: guitar
 
       - text: 全英辩论俱乐部
         path: en-debate
@@ -64,8 +63,11 @@ content:
       - text: 千格刀笔油画协会
         path: paint
 
+  - tag: title
+    text: 净月校区
+
   - tag: list
-    header: 净月校区
+    header: false
     content:
       - text: 待更新
 

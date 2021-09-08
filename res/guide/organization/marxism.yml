@@ -1,6 +1,11 @@
 title: 青马学会
 shareable: true
 content:
+  - tag: intro
+    name: 青马学会
+    logo: https://mp.innenu.com/img/studentOrg/qingMaXueHui.png
+    desc: 东北师范大学青年马克思主义者学习研究会
+
   - tag: p
     heading: " "
     text:

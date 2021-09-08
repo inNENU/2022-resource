@@ -1,6 +1,11 @@
 title: “东师之声”校园广播站
 shareable: true
 content:
+  - tag: intro
+    name: “东师之声”校园广播站
+    logo: https://mp.innenu.com/img/studentOrg/dongShiZhiSheng.png
+    desc: 东北师范大学“东师之声”校园广播站
+
   - tag: title
     text: 纳新简介
   - tag: p

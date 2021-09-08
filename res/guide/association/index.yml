@@ -1,7 +1,6 @@
 title: 社团
 author: Mr.Hope
 time: 2021年9月9日
-grey: true
 shareable: true
 content:
   - tag: title
@@ -18,6 +17,9 @@ content:
 
       - text: 学术科技类
         path: study/
+
+      - text: 志愿服务类
+        desc: 更新中...
 
   - tag: list
     header: 其他
