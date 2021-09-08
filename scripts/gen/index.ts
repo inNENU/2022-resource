@@ -67,6 +67,13 @@ genLyric();
 // genSitemap();
 count();
 
+// 重新生成 guide
+convertYml2Json(
+  "./res/other/guide",
+  "./resource/other/guide",
+  (data, filePath) => resolvePage(data, filePath)
+);
+
 // 生成 tab 页
 convertYml2Json("./res/config", "./resource/config", (data, filePath) =>
   /(function|guide|intro|main|user)/u.exec(filePath)
