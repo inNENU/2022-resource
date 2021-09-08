@@ -29,7 +29,7 @@ content:
     text: 登陆地址
 
   - tag: copy
-    text: http://mail.nenu.edu.cn/
+    text: https://mail.nenu.edu.cn/
 
   - tag: text
     type: warning

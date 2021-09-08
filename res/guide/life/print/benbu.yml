@@ -1,6 +1,6 @@
 title: 本部打印复印
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -8,19 +8,47 @@ content:
 
   - tag: ul
     text:
-      - 北苑地下一楼
       - 浴池一楼
-      - 南苑西门
+      - 北苑地下一楼
+      - 南苑东门
       - 图书馆一楼
       - 图书馆电子阅览室
 
+  - tag: text
+    heading: 好又快图文店
+    text: 位于浴池一楼。
+
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu-bath-copy.jpg
+    src: https://mp.innenu.com/img/bath/benbu-shop2.jpg
     desc: 浴池好又快图文店
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu-bath-copy.jpg
+    src: https://mp.innenu.com/img/life/benbu/bath-copy.jpg
     desc: 好又快图文店内照片
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/bath-price.jpg
+    desc: 价格表
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/bath-activity.jpg
+    desc: 开学活动
+
+  - tag: text
+    heading: 北苑复印店
+    text: 位于北苑地下一楼，超市南侧。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/beiyuan-copy.jpg
+    desc: 北苑复印店
+
+  - tag: text
+    heading: 南苑复印店
+    text: 位于南苑东门北侧
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/nanyuan-copy.jpg
+    desc: 南苑复印店
 
   - tag: title
     text: 校外位置
