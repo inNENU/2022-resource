@@ -1,6 +1,6 @@
 title: 校园 VPN
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -21,7 +21,7 @@ content:
     text: 输入自己的统一身份认证账号(工号或学号、邮箱账号)，点击登录按钮。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/webvpn.png
+    src: https://mp.innenu.com/img/account/webvpn.jpg
     desc: VPN 功能页面
 
   - tag: text

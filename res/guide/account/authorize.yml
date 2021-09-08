@@ -1,6 +1,6 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -22,11 +22,11 @@ content:
   - tag: ul
     text:
       - 使用学号与默认密码进行登录。
-      - 登陆后，您可以在“身份和邮箱绑定”中通过别名获得自己的邮箱号✉
+      - 登陆后，您可以在“别名管理中”中通过别名获得自己的邮箱号✉
       - 邮箱地址统一为 “别名” + “@nenu.edu.cn”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/email-address.png
+    src: https://mp.innenu.com/img/account/email-address.jpg
     desc: 本例中邮箱为 "mr-hope@nenu.edu.cn"
 
   - tag: text
@@ -53,7 +53,7 @@ content:
     text: 点击“修改密码”，修改初始密码。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/reset-password.png
+    src: https://mp.innenu.com/img/account/reset-password.jpg
 
   - tag: ul
     type: tip
