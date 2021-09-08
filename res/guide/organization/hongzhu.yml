@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 红烛
-    logo: https://mp.innenu.com/img/studentOrg/hongZhu.png
+    logo: https://mp.innenu.com/img/organization/hongZhu.png
     desc: 东北师范大学红烛志愿者协会
 
   - tag: p

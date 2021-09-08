@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 师说曲艺社
-    logo: https://mp.innenu.com/img/corporation/quyi.png
+    logo: https://mp.innenu.com/img/association/quyi.png
     desc: 一起欢乐，一起进步
 
   - tag: title
@@ -17,8 +17,8 @@ content:
 
   - tag: swiper
     url:
-      - "https://mp.innenu.com/img/corporation/quyi1.jpg"
-      - "https://mp.innenu.com/img/corporation/quyi2.jpg"
-      - "https://mp.innenu.com/img/corporation/quyi3.jpg"
-      - "https://mp.innenu.com/img/corporation/quyi4.jpg"
-      - "https://mp.innenu.com/img/corporation/quyi5.jpg"
+      - "https://mp.innenu.com/img/association/quyi1.jpg"
+      - "https://mp.innenu.com/img/association/quyi2.jpg"
+      - "https://mp.innenu.com/img/association/quyi3.jpg"
+      - "https://mp.innenu.com/img/association/quyi4.jpg"
+      - "https://mp.innenu.com/img/association/quyi5.jpg"

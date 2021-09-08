@@ -3,10 +3,10 @@ shareable: true
 content:
   - tag: intro
     name: 团委融媒体中心
-    logo: https://mp.innenu.com/img/studentOrg/nenuyouth.png
+    logo: https://mp.innenu.com/img/organization/nenuyouth.png
 
   - tag: card
-    logo: https://mp.innenu.com/img/studentOrg/nenuyouth.png
+    logo: https://mp.innenu.com/img/organization/nenuyouth.png
     name: 东师青年
     title: 纳新 | 青春遇见梦想，你我刚好在场
     desc: 校会君期待着你的到来

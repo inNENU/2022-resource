@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 研究生会
-    logo: https://mp.innenu.com/img/studentOrg/yanHui.png
+    logo: https://mp.innenu.com/img/organization/yanHui.png
     desc: 东北师范大学研究生会
 
   - tag: p

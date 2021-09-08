@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 大学生创业中心
-    logo: https://mp.innenu.com/img/studentOrg/daChuang.png
+    logo: https://mp.innenu.com/img/organization/daChuang.png
     desc: 东北师范大学大学生创业中心
 
   - tag: p

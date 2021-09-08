@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 国协
-    logo: https://mp.innenu.com/img/corporation/NISA.png
+    logo: https://mp.innenu.com/img/association/NISA.png
     desc: 东北师范大学国际学生交流协会
 
   - tag: title
@@ -15,7 +15,7 @@ content:
       word-wrap: break-word
 
   - tag: img
-    src: https://mp.innenu.com/img/corporation/NISA.jpg
+    src: https://mp.innenu.com/img/association/NISA.jpg
     desc: "NISA 是国际学生交流协会的简称，是 NENU International Students Association 的缩写，NISA 四个字母分别代表了国协的四条协会精神: Normal (表率)、Interactivity (交流)、Sincerity (真诚)、Accountability (责任)"
 
   - tag: title

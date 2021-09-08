@@ -25,15 +25,15 @@ content:
     header: 其他
     content:
       - text: 卓音网络工作室
-        icon: https://mp.innenu.com/img/corporation/joinin.png
+        icon: https://mp.innenu.com/img/association/joinin.png
         path: joinin
 
       - text: 大学生记者团
-        icon: https://mp.innenu.com/img/corporation/jizhetuan.png
+        icon: https://mp.innenu.com/img/association/jizhetuan.png
         path: news-group
 
       - text: 东北师范大学国际学生交流协会
-        icon: https://mp.innenu.com/img/corporation/NISA.png
+        icon: https://mp.innenu.com/img/association/NISA.png
         path: NISA
 
   - tag: title
@@ -43,11 +43,11 @@ content:
     header: false
     content:
       - text: 5A 职业发展协会
-        icon: https://mp.innenu.com/img/corporation/5Alogo.png
+        icon: https://mp.innenu.com/img/association/5Alogo.png
         path: 5A
 
       - text: 师说曲艺社
-        icon: https://mp.innenu.com/img/corporation/quyi.png
+        icon: https://mp.innenu.com/img/association/quyi.png
         path: shishuoquyi
 
   - tag: text

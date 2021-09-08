@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 卓音
-    logo: https://mp.innenu.com/img/corporation/joinin.png
+    logo: https://mp.innenu.com/img/association/joinin.png
     desc: 卓音网络工作室
 
   - tag: text
@@ -20,13 +20,13 @@ content:
     text: "卓音工作室有三个部门: 产品部、设计部、技术部。产品部主要职责有支持所有部门开展日常工作、策划新项目、组织会议、管理固定资产和日常开销、参与新项目的初步设计和开发。设计部主要负责照片后期、易拉宝、海报、宣传折页、网页的设计和制作、视频剪辑和制作等。技术部负责参与新项目的初步设计和开发、参与项目的技术开发和维护、负责记录和存档项目、负责技术攻关和研发、确保服务器和工作用机运转正常、为服务器运行和开发搭建平台、定期整理服务器、定期备份数据库等。"
 
   - tag: img
-    src: https://mp.innenu.com/img/corporation/joinin1.jpg
+    src: https://mp.innenu.com/img/association/joinin1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/corporation/joinin2.jpg
+    src: https://mp.innenu.com/img/association/joinin2.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/corporation/joinin3.jpg
+    src: https://mp.innenu.com/img/association/joinin3.jpg
     desc: 工作室工作条件
 
   - tag: title

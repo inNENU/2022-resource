@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 学生会
-    logo: https://mp.innenu.com/img/studentOrg/nenuyouth.png
+    logo: https://mp.innenu.com/img/organization/nenuyouth.png
     desc: 东北师范大学学生会
 
   - tag: p

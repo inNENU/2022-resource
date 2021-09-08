@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: 社联
-    logo: https://mp.innenu.com/img/studentOrg/sheLian.png
+    logo: https://mp.innenu.com/img/organization/sheLian.png
     desc: 东北师范大学学生社团联合会
 
   - tag: p

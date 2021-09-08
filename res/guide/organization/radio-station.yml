@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: intro
     name: “东师之声”校园广播站
-    logo: https://mp.innenu.com/img/studentOrg/dongShiZhiSheng.png
+    logo: https://mp.innenu.com/img/organization/dongShiZhiSheng.png
     desc: 东北师范大学“东师之声”校园广播站
 
   - tag: title
@@ -15,9 +15,9 @@ content:
       - 叫醒耳朵，这里是你声音的归宿!“东师之声”，听你的!校园广播站在打造校园精品传媒的同时，还致力于为所有热爱广播，热爱媒体事业的同学提供一个锻炼自己、展示自己声音魅力的舞台。不论你的声音是端庄严肃还是诙谐幽默，不论你的风格是知性优雅还是灵活随性，只要你对话筒充满诚挚的热爱，我们随时欢迎你的加入!
 
   - tag: img
-    src: https://mp.innenu.com/img/studentOrg/broadcast1.jpg
+    src: https://mp.innenu.com/img/organization/broadcast1.jpg
   - tag: img
-    src: https://mp.innenu.com/img/studentOrg/broadcast2.jpg
+    src: https://mp.innenu.com/img/organization/broadcast2.jpg
 
   - tag: title
     text: 组织简介
