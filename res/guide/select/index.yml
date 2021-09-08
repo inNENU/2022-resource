@@ -1,6 +1,6 @@
 title: 选课
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月8日
 grey: true
 shareable: true
 content:
@@ -29,6 +29,10 @@ content:
       - text: 流程介绍
         icon: intro
         path: flow
+
+      - text: 新生注课
+        icon: flow
+        path: register
 
       - text: 预选
         icon: flow
