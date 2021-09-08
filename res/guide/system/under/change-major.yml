@@ -1,6 +1,6 @@
 title: 转专业申请
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -41,11 +41,11 @@ content:
         path: /guide/system/limit/
 
   - tag: img
-    src: https://mp.innenu.com/img/system/login.png
+    src: https://mp.innenu.com/img/system/login.jpg
 
   - tag: text
     heading: 登陆系统
-    text: 输入邮箱用户名和密码完成登录
+    text: 输入学号和密码完成登录
 
   - tag: text
     text: 双击【学籍管理】

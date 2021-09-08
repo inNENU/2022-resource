@@ -1,6 +1,6 @@
 title: 本科教学服务系统介绍
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -50,7 +50,7 @@ content:
 
   - tag: text
     text:
-      - "本科教学服务系统用户名、密码均为学校统一认证的邮箱用户名和密码。(注: 就是上网账号和密码，账号不加“@nenu.edu.cn”)"
+      - "本科教学服务系统用户名为学号，密码为统一身份认证密码。"
       - 如果忘记用户名或密码，请登录统一身份认证 (https://ids.nenu.edu.cn/amserver/UI/Login) 点击忘记密码尝试通过手机号、微信等辅助验证方式找回。如果实在不能找回，请与学校信息化管理与规划办公室联系，以重置为默认密码。
 
   - tag: list
