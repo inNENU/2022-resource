@@ -1,20 +1,40 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月8日
 shareable: true
 content:
+  - tag: title
+    text: 账号获取
+
+  - tag: list
+    header: false
+    content:
+      - text: 邮箱账户获取
+        icon: apply
+        path: /guide/account/authorize
+
+  - tag: text
+    type: info
+    heading: 邮箱默认密码
+    text:
+      - 同统一身份认证，为Nenu + 身份证后六位，X 用 1 代替
+
+  - tag: text
+    type: warning
+    text:
+      - 我校邮箱使用网易企业邮，邮箱拥有自己的账号系统。
+      - 换言之，你需要在邮箱内部的“设置”中进行密码管理，且该密码不与学校统一身份认证同步。
+
   - tag: title
     text: 登陆地址
 
   - tag: copy
     text: http://mail.nenu.edu.cn/
 
-  - tag: list
-    header: 账号获取
-    content:
-      - text: 统一身份认证
-        icon: apply
-        path: /guide/account/authorize
+  - tag: text
+    type: warning
+    text:
+      - 账号只需输入别名，无需且不要输入 "@nenu.edu.cn"
 
   - tag: text
     type: tip
@@ -25,10 +45,13 @@ content:
     src: https://mp.innenu.com/img/account/email-login.jpg
     desc: 邮箱登录页面
 
+  - tag: title
+    text: 邮箱使用
+
   - tag: text
-    type: warning
     text:
-      - 账号只需输入别名，无需且不要输入 "@nenu.edu.cn"
+      - 和其他邮箱一样，学校邮箱并没有什么特殊的功能。
+      - 其特殊的 .edu.cn 后缀，是其作为教育邮箱的提现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
 
   - tag: img
     src: https://mp.innenu.com/img/account/email.jpg

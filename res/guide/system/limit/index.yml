@@ -1,6 +1,6 @@
 title: 教学服务系统限制
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月8日
 shareable: true
 content:
   - tag: title
@@ -45,6 +45,12 @@ content:
     text:
       - Windows 11 系统可以通过 Chrome 在浏览器中下载 IETab 插件
 
+  - tag: list
+    header: false
+    content:
+      - text: 查看详情
+        path: ietab
+
   - tag: text
     type: info
     heading: 其它系统
@@ -52,9 +58,3 @@ content:
       - 其他系统暂无较好的方式。
       - Linux 和 macOS 建议安装双系统添加 Windows
       - macOS M1 (ARM64) 建议安装虚拟机
-
-  - tag: list
-    header: false
-    content:
-      - text: 查看详情
-        path: ietab
