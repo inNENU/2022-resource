@@ -18,17 +18,17 @@ content:
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 到校路线
-        color: grey
-        name: Arrival
-        icon: locate
-        path: /guide/arrival/
-
-      - text: 新生报到
+      - text: 学费缴纳
         color: orange
-        name: Check
-        icon: check
-        path: guide/check/
+        name: Pay
+        icon: money
+        path: guide/check/pay/
+
+      - text: 入学活动
+        color: purple
+        name: Activity
+        icon: activity
+        path: guide/activity/
 
       - text: 快递
         color: mauve
@@ -151,3 +151,14 @@ content:
       #   path: guide/prepare/cheat
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: card
+    src: http://mp.innenu.com/img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=guide/faq/
+
+  - tag: text
+    type: info
+    heading: 微信小程序
+    text: 微信小程序in东师提供校园地图与导航功能，拥有更好的性能且没有QQ小程序的开屏广告，欢迎大家使用。
