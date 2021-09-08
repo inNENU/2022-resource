@@ -3,13 +3,19 @@ content:
   - tag: title
     text: 近期内容变动
 
-  - tag: text
+  - tag: ul
+    heading: 9/8
+    text:
+      - 完善了邮箱的一些相关提示
+      - 应信息化办要求，数处建议优先使用密码
+
+  - tag: ul
     heading: 9/7
     text:
       - 更正了英语免修流程
       - 更新了生活页面结构
 
-  - tag: text
+  - tag: ul
     heading: 9/6
     text:
       - 重构了生活板块并准备后续更新
@@ -17,7 +23,7 @@ content:
       - 进一步完善校园网，更新无感知认证相关介绍
       - 添加了选课的详细说明
 
-  - tag: text
+  - tag: ul
     heading: 9/5
     text:
       - 添加了了教师资格证相关说明
@@ -25,13 +31,13 @@ content:
       - 进一步完善校园网，更新无感知认证相关介绍
       - 新增水果店介绍
 
-  - tag: text
+  - tag: ul
     heading: 9/4
     text:
       - 完善净月校区超市介绍
       - 重构校园卡、校园网页面的服务相关描述，更新部分流程图片
 
-  - tag: text
+  - tag: ul
     heading: 9/3
     text:
       - 补充净月校区超市介绍

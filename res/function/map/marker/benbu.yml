@@ -241,8 +241,8 @@ building:
       detail: 东北师范大学就业指导中心
       path: career
 
-    - latitude: 43.86195
-      longitude: 125.32901
+    - latitude: 43.862221
+      longitude: 125.328998
       name: 逸夫教学楼
       detail: 东北师范大学逸夫教学楼
       path: yifu
@@ -265,8 +265,8 @@ building:
       detail: 东北师范大学综合实验楼
       path: experiment
 
-    - latitude: 43.863434
-      longitude: 125.333948
+    - latitude: 43.863553
+      longitude: 125.333851
       name: 师训大楼
       detail: 东北师范大学国际学术交流服务中心 / 师训大楼
       path: shixun
