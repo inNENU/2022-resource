@@ -17,10 +17,10 @@ export const genDonate = (data: Donate, filePath: string) => {
 
   const bestData = data.donations
     .filter((item) => item[1] >= 50)
-    .map((item) => `${item[0]} ${item[1]}元`);
+    .map((item) => `${item[0]} ￥${item[1]}`);
   const normalData = data.donations
     .filter((item) => item[1] < 50 && item[1] >= 10)
-    .map((item) => `${item[0]} ${item[1]}元`);
+    .map((item) => `${item[0]} ￥${item[1]}`);
   const specialData = data.donations
     .filter((item) => item[1] < 10)
     .map((item) => `${item[0]}`);
@@ -42,27 +42,42 @@ export const genDonate = (data: Donate, filePath: string) => {
         tag: "title",
         text: "最佳支持者",
       },
-      {
-        tag: "ol",
-        text: bestData.length ? bestData : ["暂无"],
-        style: "font-size: 18px",
-      },
+      bestData.length
+        ? {
+            tag: "ol",
+            text: bestData,
+            style: "font-size: 18px",
+          }
+        : {
+            tag: "text",
+            text: ["暂无"],
+          },
       {
         tag: "title",
         text: "杰出支持者",
       },
-      {
-        tag: "ol",
-        text: normalData.length ? normalData : ["暂无"],
-      },
+      normalData.length
+        ? {
+            tag: "ol",
+            text: normalData,
+          }
+        : {
+            tag: "text",
+            text: ["暂无"],
+          },
       {
         tag: "title",
         text: "特别支持者",
       },
-      {
-        tag: "ol",
-        text: specialData.length ? specialData : ["暂无"],
-      },
+      specialData.length
+        ? {
+            tag: "ol",
+            text: specialData,
+          }
+        : {
+            tag: "text",
+            text: ["暂无"],
+          },
       {
         tag: "title",
         text: "统计",
