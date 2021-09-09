@@ -1,6 +1,6 @@
 title: 社团
 desc: |-
-  社团名录来自需学生社团发展管理中心
+  社团名录来自学生社团发展管理中心
 author: Mr.Hope
 time: 2021年9月9日
 shareable: true
@@ -21,7 +21,7 @@ content:
         path: study/
 
       - text: 志愿服务类
-        desc: 更新中...
+        path: volunteer/
 
   - tag: list
     header: 其他
@@ -52,10 +52,25 @@ content:
         icon: https://mp.innenu.com/img/association/quyi.png
         path: shishuoquyi
 
-  - tag: text
-    type: info
-    heading: 入驻说明
-    text: 欢迎社团入驻本页面，请联系 QQ 1178522294
+  - tag: advanced-list
+    header: 入驻说明
+    content:
+      - text: 欢迎社团入驻本页面，请联系 QQ 1178522294
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq
 
   # - tag: list
   #   header: 本部入驻中...
