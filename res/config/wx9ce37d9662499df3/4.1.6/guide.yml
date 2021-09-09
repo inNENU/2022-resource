@@ -24,17 +24,23 @@ content:
         icon: virus
         path: guide/epidemic/
 
-      - text: 新生报到
-        color: orange
-        name: Check
-        icon: check
-        path: guide/check/
-
       - text: 需带物品
         color: olive
         name: Necessity
         icon: necessity
         path: guide/necessity/
+
+      - text: 到校路线
+        color: grey
+        name: Arrival
+        icon: locate
+        path: /guide/arrival/
+
+      - text: 新生报到
+        color: orange
+        name: Check
+        icon: check
+        path: guide/check/
 
       - text: 入学活动
         color: purple
@@ -119,6 +125,12 @@ content:
         name: Life
         icon: life
         path: guide/life/
+
+      - text: 交通出行
+        color: grey
+        name: Traffic
+        icon: traffic
+        path: /guide/traffic/
 
   - tag: grid
     header: 学在东师
@@ -219,13 +231,13 @@ content:
         icon: archive
         path: guide/archive/
 
-  - tag: grid
-    header: Mr.Hope 漫谈
-    content:
-      - text: 个人建议
-        color: blue
-        name: Advice
-        icon: idea
-        url: page?path=other/advice/
+    # - tag: grid
+    #   header: Mr.Hope 漫谈
+    #   content:
+    #     - text: 个人建议
+    #       color: blue
+    #       name: Advice
+    #       icon: idea
+    #       url: page?path=other/advice/
 
     footer: " "
