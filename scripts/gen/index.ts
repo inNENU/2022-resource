@@ -4,6 +4,7 @@ import { config } from "dotenv";
 import { convertYml2Json } from "../util/yml2json";
 import { resolvePage } from "../components/page";
 import { count } from "./count";
+import { genDonate } from "./donate";
 import { genIcon } from "./icon";
 import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
@@ -62,6 +63,15 @@ genSearchMap();
 
 // 生成歌词
 genLyric();
+
+// 生成捐赠
+
+// 捐赠
+convertYml2Json(
+  "./res/config/donate",
+  "./resource/other/donate",
+  (data, filePath) => genDonate(data, filePath)
+);
 
 // 生成 Sitemap
 // genSitemap();
