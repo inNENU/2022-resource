@@ -15,7 +15,7 @@ content:
         path: zhiyuan
 
       - text: 数院明日乡支教团
-        path: mingrixiang
+        path: mingri
 
       - text: 山海之行支教团
         path: shanhai
@@ -24,7 +24,7 @@ content:
         path: yinghuo
 
       - text: 红丝带
-        path: red-ribbon
+        path: redribbon
 
       - text: “播爱·蒲公英”协会
         path: dandelion
