@@ -1,4 +1,7 @@
 title: 文化体育类社团
+desc: |-
+  社团名录来自需学生社团发展管理中心
+  1个社团因某些原因不予显示
 author: Mr.Hope
 time: 2021年9月9日
 shareable: true
@@ -45,8 +48,8 @@ content:
       - text: 爱创影视协会
         path: aichuang
 
-      - text: 殉玉书法社
-        path: shufa
+      # - text: 珣玉书法社
+      #   path: shufa
 
       - text: 全英辩论俱乐部
         path: en-debate
