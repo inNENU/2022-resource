@@ -15,13 +15,6 @@ content:
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: card
-    src: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc4IJp1vBknfXts0OgyGesur3vUZEZhVAGM1KE8M48sWHKqGTyGXN9vhhecNnON6KUQVsFrmTSqyVA/0?wx_fmt=jpeg
-    url: https://mp.weixin.qq.com/s/08NvcTE5L9e1HsyqOsJpKw
-    title: 向珣玉书法社的公开致歉
-    logo: https://mp.innenu.com/img/inNENU.png
-    name: in东师
-
   - tag: grid
     header: 您可能想关注
     content:
