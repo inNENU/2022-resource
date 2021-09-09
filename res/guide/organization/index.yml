@@ -5,7 +5,7 @@ shareable: true
 grey: true
 content:
   - tag: list
-    header: 学生组织
+    header: 校团委
     content:
       - text: 学生会
         icon: https://mp.innenu.com/img/organization/nenuyouth.png
@@ -54,3 +54,10 @@ content:
       - text: 青年马克思主义者学习研究会
         icon: https://mp.innenu.com/img/organization/qingMaXueHui.png
         path: marxism
+
+  - tag: list
+    header: 资助管理中心
+    content:
+      - text: 爱心学校
+        icon: https://mp.innenu.com/img/organization/love-school.png
+        path: love-school
