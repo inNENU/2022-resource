@@ -2,7 +2,7 @@ title: 学术科技类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月9日
+time: 2021年9月10日
 shareable: true
 content:
   - tag: title
@@ -41,10 +41,8 @@ content:
       - text: 待更新
 
   - tag: advanced-list
-    header: 入驻说明
+    header: 欢迎社团入驻本页面
     content:
-      - text: 欢迎社团入驻本页面，请联系 QQ 1178522294
-
       - text: 联系 Mr.Hope
         icon: contact
         type: button

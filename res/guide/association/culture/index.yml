@@ -2,7 +2,7 @@ title: 文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月9日
+time: 2021年9月10日
 shareable: true
 content:
   - tag: title
@@ -11,9 +11,13 @@ content:
   - tag: list
     header: false
     content:
+      - text: 卓音网络工作室
+        icon: https://mp.innenu.com/img/association/joinin.png
+        path: joinin
+
       - text: 师说曲艺社
         icon: https://mp.innenu.com/img/association/quyi.png
-        path: shishuoquyi
+        path: quyi
 
       - text: 青音吉他社
         icon: https://mp.innenu.com/img/association/guitar.jpg
@@ -74,10 +78,8 @@ content:
       - text: 待更新
 
   - tag: advanced-list
-    header: 入驻说明
+    header: 欢迎社团入驻本页面
     content:
-      - text: 欢迎社团入驻本页面，请联系 QQ 1178522294
-
       - text: 联系 Mr.Hope
         icon: contact
         type: button

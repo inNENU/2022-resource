@@ -1,0 +1,85 @@
+title: 本部文化体育类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2021年9月10日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 卓音网络工作室
+        icon: https://mp.innenu.com/img/association/joinin.png
+        path: joinin
+
+      - text: 师说曲艺社
+        icon: https://mp.innenu.com/img/association/quyi.png
+        path: quyi
+
+      - text: 青音吉他社
+        icon: https://mp.innenu.com/img/association/guitar.jpg
+        path: guitar
+
+      - text: 英语协会
+        icon: https://mp.innenu.com/img/association/ea.jpg
+        path: english
+
+      - text: 安仁国风社
+        path: anren
+
+      - text: 饮风文学社
+        path: yinfeng
+
+      - text: 中华古诗词吟诵团
+        path: gushici
+
+      - text: 爱踏足旅游协会
+        path: travel
+
+      - text: 翩鸿汉服社
+        path: hanfu
+
+      - text: 史学协会
+        path: history
+
+      - text: 锅庄舞协会
+        path: zang
+
+      - text: 爱创影视协会
+        path: aichuang
+
+      - text: 珣玉书法社
+        path: shufa
+
+      - text: 全英辩论俱乐部
+        path: en-debate
+
+      - text: 辩论与演说协会
+        path: debate
+
+      - text: 清雨坊书画协会
+        path: shuhua
+
+      - text: 心理协会
+        path: psychology
+
+      - text: 千格刀笔油画协会
+        path: paint
+
+  - tag: advanced-list
+    header: 欢迎社团入驻本页面
+    content:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

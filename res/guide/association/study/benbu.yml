@@ -1,0 +1,48 @@
+title: 本部学术科技类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2021年9月10日
+grey: true
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 天宇协会
+        path: astronomy
+
+      - text: 物院教师技能协会
+        path: teach
+
+      - text: 科技爱好者协会
+        path: technology
+
+      - text: 物理学术竞赛协会
+        path: phy-contest
+
+      - text: 数学建模协会
+        path: math-modal
+
+      - text: 乐群协会
+        path: lequn
+
+      - text: D.N.A协会
+        path: dna
+
+  - tag: advanced-list
+    header: 欢迎社团入驻本页面
+    content:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq
