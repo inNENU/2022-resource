@@ -38,13 +38,6 @@ content:
       - text: 志愿服务类
         path: volunteer/benbu
 
-  - tag: list
-    header: 其他
-    content:
-      - text: 大学生记者团
-        icon: https://mp.innenu.com/img/association/jizhetuan.png
-        path: news-group
-
   - tag: title
     text: 净月校区
 

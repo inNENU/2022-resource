@@ -1,9 +1,16 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年9月9日
+time: 2021年9月10日
 shareable: true
 grey: true
 content:
+  - tag: list
+    header: 校党委
+    content:
+      - text: 大学生记者团
+        icon: https://mp.innenu.com/img/association/jizhetuan.png
+        path: news-group
+
   - tag: list
     header: 校团委
     content:
