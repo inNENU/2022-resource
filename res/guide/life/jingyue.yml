@@ -76,7 +76,7 @@ content:
         name: Photo
         color: cyan
         icon: photo
-        path: photo
+        path: photo/jingyue
 
       - text: 打印复印
         name: Print
