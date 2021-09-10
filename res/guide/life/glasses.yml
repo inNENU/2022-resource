@@ -1,6 +1,6 @@
 title: 眼镜店
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: title
@@ -48,7 +48,7 @@ content:
       - 所以本部的同学们如果在校内因为视力下降、是眼镜严重损坏或是款式等需求想要更换眼镜，Mr.Hope 强力推荐你去这家店看看。
 
   - tag: text
-    type: tip
+    type: info
     heading: 净月校区
     text:
       - 净月校区暂无眼镜店

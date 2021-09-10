@@ -1,6 +1,6 @@
 title: 热水房
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: title
@@ -30,6 +30,16 @@ content:
 
   - tag: p
     text: 本部热水房还设有鞋架和晾衣架，可供大家晾鞋或晾衣服。
+
+  - tag: title
+    text: 常见错误及解决办法
+
+  - tag: list
+    header: false
+    content:
+      - text: 查看详情
+        icon: error
+        path: /guide/card/malfunction
 
   - tag: title
     text: Mr.Hope の 吐槽
