@@ -1,6 +1,6 @@
 title: 净月生活
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月10日
 shareable: true
 content:
   - tag: text
@@ -43,7 +43,7 @@ content:
         name: Bake
         color: purple
         icon: bake
-        path: bake
+        path: bake/jingyue
 
       - text: 饮品店
         name: Drink

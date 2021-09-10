@@ -1,27 +1,28 @@
 title: 本部洗衣店
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月10日
 shareable: true
 content:
-  - tag: text
-    type: tip
+  - tag: title
+    text: 校内位置
+
+  - tag: ul
     text:
-      - Mr.Hope 正在整理此信息并欢迎您的协助。
-      - 此处需包含洗衣店、干洗店等相关校内外店铺。
+      - 北苑地下一楼
+      - 浴池一楼
 
-  - tag: advanced-list
-    content:
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-        env:
-          - wx
+  - tag: text
+    heading: 糖果洗衣
+    text: 位于浴池一楼。
 
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
-        env:
-          - qq
+  - tag: img
+    src: https://mp.innenu.com/img/bath/benbu-shop4.jpg
+    desc: 糖果洗衣
+
+  - tag: text
+    heading: 北苑洗衣
+    text: 位于北苑地下一楼。
+
+  - tag: img
+    src: https://mp.innenu.com/img/bath/beiyuan-washing-price.jpg
+    desc: 北苑洗衣价格

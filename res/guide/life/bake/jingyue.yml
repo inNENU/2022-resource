@@ -1,0 +1,30 @@
+title: 烘焙坊
+desc: 特别鸣谢小艺学长提供部分照片
+author: Mr.Hope
+time: 2021年9月10日
+shareable: true
+content:
+  - tag: title
+    text: 校内位置
+
+  - tag: text
+    heading: 校内
+    text:
+      - 二食堂一楼
+
+  - tag: swiper
+    url:
+      - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
+      - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
+
+  - tag: text
+    text: 烘培坊
+    align: center
+    style:
+      font-size: 14px
+
+  - tag: title
+    text: 校外
+
+  - tag: text
+    text: 暂无信息。

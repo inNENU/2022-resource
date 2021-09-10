@@ -12,8 +12,8 @@ content:
   #     - text: 招新详情
   #       url: page?path=other/hope-studio/invite
 
-  - tag: title
-    text: 此处有搜索👆 您可以对小程序内容进行查找
+  # - tag: title
+  #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
   - tag: grid
     header: 您可能想关注
