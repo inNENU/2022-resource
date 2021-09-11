@@ -6,6 +6,12 @@ content:
     logo: https://mp.innenu.com/img/organization/love-school.png
     desc: 耐心育人以学识，爱心助人以成才
 
+  - tag: card
+    src: https://mp.innenu.com/img/organization/love-schoo-cover.png
+    logo: https://mp.innenu.com/img/organization/love-school.png
+    title: 我们纳新啦
+    url: page?id=guide/organization/love-school/intake
+
   - tag: p
     heading: " "
     text:

@@ -1,6 +1,6 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月11日
 shareable: true
 grey: true
 content:
@@ -67,4 +67,4 @@ content:
     content:
       - text: 爱心学校
         icon: https://mp.innenu.com/img/organization/love-school.png
-        path: love-school
+        path: love-school/

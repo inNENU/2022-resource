@@ -2,7 +2,7 @@ title: 本部文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月11日
 grey: true
 shareable: true
 content:
@@ -22,16 +22,17 @@ content:
 
       - text: 英语协会
         icon: https://mp.innenu.com/img/association/ea.jpg
-        path: english
+        path: ea
+
+      - text: 中华古诗词吟诵团
+        icon: https://mp.innenu.com/img/association/gushici.png
+        path: gushici
 
       - text: 安仁国风社
         path: anren
 
       - text: 饮风文学社
         path: yinfeng
-
-      - text: 中华古诗词吟诵团
-        path: gushici
 
       - text: 爱踏足旅游协会
         path: travel
