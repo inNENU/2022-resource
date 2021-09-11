@@ -1,0 +1,34 @@
+title: 本部眼镜店
+author: Mr.Hope
+time: 2021年9月11日
+shareable: true
+content:
+  - tag: title
+    text: 校内
+
+  - tag: text
+    text: 本部校区内现有一家镜舍眼镜店，位于浴池一楼。
+
+  - tag: text
+    heading: 店铺位置
+    text:
+      - 位于浴池一楼正门内。
+      - 您需要走进浴池正门，即可在右面看到镜舍的店门。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/jingshe-location.jpg
+    desc: 镜舍位置
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/jingshe.jpg
+
+  - tag: list
+    content:
+      - text: 店铺详情
+        path: jingshe
+
+  - tag: title
+    text: 校外
+
+  - tag: text
+    text: 文昌路上有一家查尔斯眼镜店。

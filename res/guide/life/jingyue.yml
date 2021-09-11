@@ -1,6 +1,6 @@
 title: 净月生活
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: text
@@ -22,7 +22,7 @@ content:
         name: Glasses
         color: blue
         icon: glasses
-        path: glasses
+        path: glasses/
 
   - tag: grid
     header: 食
