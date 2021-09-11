@@ -1,6 +1,7 @@
 name: 东师物院团委
 desc: 东北师范大学物理学院团委公众号
 logo: http://mp.innenu.com/img/wechat/physics.png
+authorized: false
 content:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/tQpNkibhyMBaKzaJWWeVVYLHeD9ESicF3TWicc1vGyiaoSOZT3eQpJezECpFDRc3aCwbzicwWgUA2M8d4fxX25A004A/0?wx_fmt=jpeg
     title: 迎新特辑 | NO.5 学校风采篇 —— 美食享受
