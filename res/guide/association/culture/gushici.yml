@@ -6,17 +6,11 @@ content:
     logo: https://mp.innenu.com/img/association/gushici.png
     desc: 薪火相传，舍我其谁
 
-  # - tag: card
-  #   src: https://mp.innenu.com/img/association/gushici-cover.jpg
-  #   logo: https://mp.innenu.com/img/association/gushici.png
-  #   title: 我们纳新了
-  #   url: page?id=guide/association/culture/gushici-intake
-
-  - tag: list
-    header: 纳新
-    content:
-      - text: 我们纳新啦~
-        path: gushici-intake
+  - tag: card
+    src: https://mp.innenu.com/img/association/gushici-cover.jpg
+    logo: https://mp.innenu.com/img/association/gushici.png
+    title: 我们纳新了
+    url: page?id=guide/association/culture/shici-intake
 
   - tag: title
     text: 简介
