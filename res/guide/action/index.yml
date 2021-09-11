@@ -1,6 +1,6 @@
 title: 服务办理
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月11日
 grey: true
 shareable: true
 content:
@@ -11,9 +11,45 @@ content:
         icon: wrench
         path: repair
 
+      - text: 班车激活
+        icon: bus
+        path: bus
+
   - tag: list
     header: 学习相关
     content:
+      - text: 本科生选课
+        icon: select
+        path: select
+
+      - text: 本科生补考、免修
+        icon: exemption
+        path: exemption
+
+      - text: 本科生缓考
+        icon: time
+        path: aftertake
+
+      - text: 本科生试卷查阅
+        icon: search
+        path: test-recheck
+
+      - text: 本科生转专业
+        icon: degree
+        path: change-major
+
+      - text: 本科交流成绩认定
+        icon: change
+        path: exchange-score
+
+      - text: 本科入学资格复查
+        icon: plan
+        path: school-roll
+
+      - text: 本科生处分
+        icon: punish
+        path: sanction
+
       - text: 本部图书馆学术沙龙座位预约
         icon: time
         path: benbu-salon
@@ -21,6 +57,10 @@ content:
       - text: 毕业生图书馆离校手续办理
         icon: leave
         path: library-leave
+
+      - text: 博士生申请国际学术会议资助
+        icon: apply
+        path: doctor-conference
 
   - tag: list
     header: 证件与材料

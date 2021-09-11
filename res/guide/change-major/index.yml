@@ -1,6 +1,6 @@
 title: 转专业
 author: Mr.Hope
-time: 2021年8月23日
+time: 2021年9月11日
 grey: true
 shareable: true
 content:
@@ -14,6 +14,10 @@ content:
       - text: 本科生转专业实施办法解读
         icon: intro
         path: explain
+
+      - text: 本科生转专业执行流程
+        icon: flow
+        path: flow
 
       - text: 常见问题
         icon: faq

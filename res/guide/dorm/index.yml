@@ -1,7 +1,7 @@
 title: 寝室
 grey: true
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: list
@@ -97,6 +97,10 @@ content:
       - text: 违禁物品
         icon: ban
         path: ban
+
+  - tag: copy
+    header: 故障报修
+    text: http://gyglxt.nenu.edu.cn/?typeName=repair
 
   - tag: list
     content:

@@ -1,0 +1,26 @@
+title: 本科入学资格复查
+author: Mr.Hope
+time: 2021年9月11日
+shareable: true
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: https://mp.innenu.com/img/action/school-roll.jpg
+
+  - tag: title
+    text: 申报材料
+
+  - tag: text
+    text: 新生入学资格复查表
+
+  - tag: title
+    text: 相关内容
+
+  - tag: list
+    header: false
+    content:
+      - text: 本科学籍注册
+        desc: 制作中
+        path: /guide/system/under/

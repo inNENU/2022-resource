@@ -1,7 +1,7 @@
 title: 学习
 grey: true
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: list
@@ -11,9 +11,13 @@ content:
         icon: time
         path: location-and-time
 
-      - text: 补考、缓考
+      - text: 补考
         icon: change
         path: retake
+
+      - text: 缓考
+        icon: time
+        path: aftertake
 
       - text: 课程免修
         icon: exemption

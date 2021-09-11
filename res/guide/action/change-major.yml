@@ -1,0 +1,20 @@
+title: 本科生转专业流程
+author: Mr.Hope
+time: 2021年9月11日
+shareable: true
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: https://mp.innenu.com/img/action/change-major.jpg
+
+  - tag: title
+    text: 相关内容
+
+  - tag: list
+    header: false
+    content:
+      - text: 转专业
+        icon: degree
+        path: /guide/change-major/

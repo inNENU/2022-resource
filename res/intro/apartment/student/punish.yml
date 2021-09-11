@@ -1,6 +1,6 @@
 title: 关于处分
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月11日
 shareable: true
 content:
   - tag: title
@@ -64,16 +64,10 @@ content:
     text: 以上也是同学们常犯的问题，希望同学们要注意，不要因为这个影响到自己的大学学习生活。
 
   - tag: title
-    text: 相关文件
+    text: 相关详情
 
-  - tag: doc
-    name: 处分工作流程
-    url: https://mp.innenu.com/file/student/process.png
-
-  - tag: doc
-    name: 检讨书
-    url: https://mp.innenu.com/file/student/review-book.pdf
-
-  - tag: doc
-    name: 学生纪律处分呈报表
-    url: https://mp.innenu.com/file/student/sanction.docx
+  - tag: list
+    header: false
+    content:
+      - text: 本科生处分
+        path: /guide/action/sanction
