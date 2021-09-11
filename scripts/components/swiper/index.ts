@@ -1,10 +1,20 @@
-import { SwiperComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
+import type { SwiperComponentOptions } from "./typings";
 
 export const resolveSwiper = (
   element: SwiperComponentOptions,
   location = ""
 ): void => {
+  element.url?.forEach((link) => {
+    if (
+      link.startsWith("https://mp.innenu.com") &&
+      !existsSync(link.replace("https://mp.innenu.com/", "./"))
+    ) {
+      console.warn(`Image ${link} not exist in ${location}`);
+    }
+  });
+
   checkKeys(
     element,
     {
