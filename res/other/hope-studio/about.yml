@@ -30,5 +30,7 @@ content:
   - tag: list
     header: 工作室招新
     content:
-      - text: 招新详情
+      - type: navigator
+        text: 招新详情
+        openType: redirect
         url: page?path=other/hope-studio/invite
