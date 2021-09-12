@@ -3,8 +3,8 @@ detail: 东北师范大学团委、学生会！
 desc: 青春、遇见、梦想
 id: nenuxsh40
 logo: https://mp.innenu.com/img/organization/nenuyouth.png
-qrcode: https://mp.innenu.com/img/media/nenuyouth-qrcode.jpg
-authorize: true
+qrcode: img/media/nenuyouth-qrcode.jpg
+authorized: true
 follow: https://mp.weixin.qq.com/s/BeK2n3irkKLO-67d5Or8Zw
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJm9CFXhtaiasbrrvOecTvI5r2B1ibKVmFt1OE77gia2Y8bichR3JGronLlhcHaWG0FGVGV7VNmiaItoncg/0?wx_fmt=jpeg
