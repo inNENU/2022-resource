@@ -67,7 +67,7 @@ export const genAccount = (filePath: string): Promise<void> => {
 const fileList = getFileList("./res/function/account", "yml");
 
 fileList
-  .filter((item) => item !== "wechat.yml" && item !== "qq.yml")
+  .filter((item) => item !== "wx.yml" && item !== "qq.yml")
   .forEach((item) => {
     genAccount(item);
   });

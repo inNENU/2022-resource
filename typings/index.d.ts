@@ -9,12 +9,16 @@ export interface WechatDetail {
   desc: string;
   /** 公众号 Logo */
   logo: string;
+  /** 公众号 ID */
+  id: string;
+  /** 公众号 二维码 */
+  qrcode: string;
   /** 是否关联 */
   authorized?: boolean;
   /** 关注链接 */
   follow?: string;
   /** 图文列表 */
-  content: {
+  article: {
     /** 标题 */
     title: string;
     /** 图文摘要 */
