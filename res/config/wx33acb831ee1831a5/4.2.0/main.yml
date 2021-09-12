@@ -12,17 +12,23 @@ content:
   #     - text: 招新详情
   #       url: page?path=other/hope-studio/invite
 
-  - tag: title
-    text: 此处有搜索👆 您可以对小程序内容进行查找
+  # - tag: title
+  #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 学费缴纳
+      - text: 学生组织
+        color: blue
+        name: Orgnazation
+        icon: student-org
+        path: guide/organization/
+
+      - text: 社团
         color: orange
-        name: Pay
-        icon: money
-        path: guide/check/pay/
+        name: Association
+        icon: association
+        path: guide/association/
 
       - text: 入学活动
         color: purple
@@ -84,11 +90,11 @@ content:
         icon: network
         path: guide/network/
 
-      - text: 选课
-        color: cyan
-        name: Select
-        icon: select
-        path: guide/select/
+      # - text: 选课
+      #   color: cyan
+      #   name: Select
+      #   icon: select
+      #   path: guide/select/
 
       # - text: 疫情相关
       #   color: mauve

@@ -16,12 +16,6 @@ content:
     url: calendar
 
   - tag: card
-    src: http://mp.innenu.com/img/tab/sport-field.jpg
-    title: 体测计算器
-    logo: calculate
-    url: PEcal
-
-  - tag: card
     src: http://mp.innenu.com/img/tab/headphone.jpg
     title: 音悦东师
     logo: cd
@@ -34,7 +28,19 @@ content:
     url: video?type=video
 
   - tag: card
-    src: http://mp.innenu.com/img/tab/wechat.jpg
-    title: 校园公众号
+    src: http://mp.innenu.com/img/tab/sport-field.jpg
+    title: 体测计算器
+    logo: calculate
+    url: PEcal
+
+  - tag: card
+    src: http://mp.innenu.com/img/tab/account.jpg
+    title: 校园媒体
     logo: account
     url: account
+
+  - tag: card
+    src: http://mp.innenu.com/img/tab/website.jpg
+    title: 东师网站
+    logo: network
+    url: website
