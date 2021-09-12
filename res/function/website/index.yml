@@ -1,10 +1,10 @@
 - name: 主页
-  account:
+  website:
     - name: 学校主页
       link: https://www.nenu.edu.cn/
 
 - name: 教学机构
-  account:
+  website:
     - name: 教育学部
       link: https://edu.nenu.edu.cn/
 
@@ -69,7 +69,7 @@
       link: http://newark.nenu.edu.cn/
 
 - name: 管理机构
-  account:
+  website:
     - name: 学校办公室（法律事务办公室）、信访工作办公室、保密工作办公室、净月校区党工委	发展规划处
       link: http://office.nenu.edu.cn/
 
@@ -140,7 +140,7 @@
       link: http://youth.nenu.edu.cn/
 
 - name: 直附属其它机构
-  account:
+  website:
     - name: 信息化管理与规划办公室
       link: http://xxhb.nenu.edu.cn/
 
