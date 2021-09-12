@@ -1,14 +1,20 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年9月12日
 shareable: true
 content:
   - tag: text
-    heading: " "
+    heading: 2021年
     text:
       - |-
-        2021 年本科生新生体测时间: 9月11日，12日。
+        新生体测时间: 9月11日，12日。
+        新生体测补测: 9月19日
+        本部2019级体测: 10月10日
+        净月2019级体测: 10月16日
+        本部2020级体测: 10月17日
+        净月2020级体测: 10月24日
+        老生补测: 10月30日
 
   - tag: list
     content:
@@ -27,6 +33,12 @@ content:
       - text: 申请免测/缓测的条件及程序
         icon: apply
         path: exempt
+
+  - tag: list
+    content:
+      - text: Mr.Hope 的个人建议
+        icon: idea
+        path: advice
 
   - tag: card
     src: http://mp.innenu.com/img/tab/sport-field.jpg

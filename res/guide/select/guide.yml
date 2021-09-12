@@ -1,6 +1,6 @@
 title: 选课系统使用说明
 author: Mr.Hope
-time: 2021年9月2日
+time: 2021年9月12日
 shareable: true
 content:
   - tag: title
@@ -21,8 +21,21 @@ content:
 
   - tag: ul
     text:
-      - 输入用户名(校园邮箱的用户名，不带后缀)和密码
+      - 输入用户名和密码
       - 点击【登录系统】按钮
+
+  - tag: text
+    type: info
+    heading: 用户名
+    text:
+      - 本科生用户名为校园邮箱的用户名 (不带后缀)
+      - 研究生的用户名为学号
+
+  - tag: text
+    type: info
+    heading: 密码
+    text:
+      - 所有学生用户名均为统一身份认证密码，非校园邮箱密码
 
   - tag: img
     src: https://mp.innenu.com/img/select/login.png
