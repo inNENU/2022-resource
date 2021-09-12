@@ -1,5 +1,5 @@
 - name: 学校机构
-  member:
+  account:
     - name: 东北师范大学
       desc: 东北师范大学官方微信公众号
       logo: http://mp.innenu.com/img/media/official.png
@@ -11,7 +11,7 @@
       path: pingan
 
 - name: 学院
-  member:
+  account:
     - name: 东师物院团委
       desc: 东北师范大学物理学院团委公众号
       logo: http://mp.innenu.com/img/media/physics.png
@@ -28,7 +28,7 @@
       path: pe
 
 - name: 学生组织
-  member:
+  account:
     - name: 东师青年
       desc: 东北师范大学校学生会官方微信公众号
       logo: https://mp.innenu.com/img/organization/nenuyouth.png
@@ -40,10 +40,10 @@
       path: zhiyuandongshi
 
 - name: 学生社团
-  member:
+  account:
     - name: 心里有你
       desc: 东北师范大学心理协会
-      logo: https://mp.innenu.com/img/media/xinli.png
+      logo: https://mp.innenu.com/img/media/xinli.jpg
       path: xinli
 
     - name: 乐群学社
@@ -52,8 +52,8 @@
       path: lequn
 
 - name: 其他
-  member:
+  account:
     - name: 苏东吴东北师大物业服务驿站
       desc: 主动、热情、优质、高效，我们是东吴物业。
-      logo: https://mp.innenu.com/img/media/sudonghao.png
+      logo: https://mp.innenu.com/img/media/sudonghao.jpg
       path: donghao
