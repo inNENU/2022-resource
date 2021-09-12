@@ -1,0 +1,59 @@
+- name: 学校机构
+  member:
+    - name: 东北师范大学
+      desc: 东北师范大学官方微信公众号
+      logo: http://mp.innenu.com/img/media/official.png
+      path: official
+
+    - name: 平安东师
+      desc: 东北师范大学保卫处微信公众号
+      logo: http://mp.innenu.com/img/media/pingan.jpg
+      path: pingan
+
+- name: 学院
+  member:
+    - name: 东师物院团委
+      desc: 东北师范大学物理学院团委公众号
+      logo: http://mp.innenu.com/img/media/physics.png
+      path: physics
+
+    - name: 东师地科
+      desc: 愿地科君常伴地科人
+      logo: http://mp.innenu.com/img/media/geography.jpg
+      path: geography
+
+    - name: 青年力量
+      desc: 东北师范大学体育学院公众号
+      logo: http://mp.innenu.com/img/media/pe.png
+      path: pe
+
+- name: 学生组织
+  member:
+    - name: 东师青年
+      desc: 东北师范大学校学生会官方微信公众号
+      logo: https://mp.innenu.com/img/organization/nenuyouth.png
+      path: nenuyouth
+
+    - name: 志愿东师
+      desc: 东北师范大学红烛志愿者协会
+      logo: http://mp.innenu.com/img/media/zhiyuandongshi.jpg
+      path: zhiyuandongshi
+
+- name: 学生社团
+  member:
+    - name: 心里有你
+      desc: 东北师范大学心理协会
+      logo: https://mp.innenu.com/img/media/xinli.png
+      path: xinli
+
+    - name: 乐群学社
+      desc: 东北师范大学乐群学社
+      logo: https://mp.innenu.com/img/media/lequn.png
+      path: lequn
+
+- name: 其他
+  member:
+    - name: 苏东吴东北师大物业服务驿站
+      desc: 主动、热情、优质、高效，我们是东吴物业。
+      logo: https://mp.innenu.com/img/media/sudonghao.png
+      path: donghao

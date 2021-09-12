@@ -5,7 +5,7 @@
   "description": "inNENU 小程序资源文件",
   "scripts": {
     "generate": "ts-node ./scripts/gen",
-    "generate:wechat": "ts-node ./scripts/gen/wechat",
+    "generate:account": "ts-node ./scripts/gen/account",
     "lint": "prettier --check --write . && eslint --fix --ext .ts .",
     "lint:check": "prettier --check . && eslint --ext .ts .",
     "prepare": "husky install",
