@@ -2,32 +2,6 @@ import axios from "axios";
 import { readFileSync, writeFileSync } from "fs";
 import { getFileList } from "../util";
 
-export interface WechatConfig {
-  /** 公众号名称 */
-  name: string;
-  /** 公众号描述 */
-  desc: string;
-  /** 公众号 ID */
-  id: string;
-  /** 公众号 Logo */
-  logo: string;
-  /** 是否关联 */
-  authorized?: boolean;
-  /** 关注链接 */
-  follow?: string;
-  /** 图文列表 */
-  article: {
-    /** 标题 */
-    title?: string;
-    /** 图文摘要 */
-    desc?: string;
-    /** 图文封面 */
-    cover?: string;
-    /** 图文地址 */
-    url: string;
-  }[];
-}
-
 export const genAccount = (filePath: string): Promise<void> => {
   let content = readFileSync(`./res/function/account/${filePath}`, {
     encoding: "utf-8",

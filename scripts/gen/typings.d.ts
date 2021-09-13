@@ -81,3 +81,31 @@ export interface VersionInfo {
   /** 大小 */
   size: Record<string, number>;
 }
+
+export interface WechatConfig {
+  /** 公众号名称 */
+  name: string;
+  /** 公众号描述 */
+  desc: string;
+  /** 公众号 Logo */
+  logo: string;
+  /** 公众号 ID */
+  id: string;
+  /** 二维码地址 */
+  qrcode: string;
+  /** 是否关联 */
+  authorized?: boolean;
+  /** 关注链接 */
+  follow?: string;
+  /** 图文列表 */
+  article: {
+    /** 标题 */
+    title: string;
+    /** 图文摘要 */
+    desc?: string;
+    /** 图文封面 */
+    cover: string;
+    /** 图文地址 */
+    url: string;
+  }[];
+}
