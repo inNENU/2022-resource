@@ -2,7 +2,7 @@ name: 东北师大萤火支教团
 detail: 东北师范大学萤火支教团
 desc: 用生命感动生命
 id: yinghuozhijiao
-logo: https://mp.innenu.com/img/media/aixinshizhe.png
+logo: https://mp.innenu.com/img/association/yinghuo.png
 qrcode: https://mp.innenu.com/img/media/yinghuo-wx-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/icxv22eW8RQe3sFZr8jSON4AOHF3ftu83gibWDBCKEdNTzgdpAnODnOLYZm9SagPNB2TT7R5OrQ9OcgWtwh3jCjw/0?wx_fmt=jpeg
@@ -70,12 +70,7 @@ article:
     url: https://mp.weixin.qq.com/s/itJ-riyGA6gRatWC7qsMrA
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/icxv22eW8RQficCNibnpXcBicVUpcm7GMWkEdOlsGmdia0Q34BuPLrbuEfGcMHT8rBiaOQLUpKTxDlUmibzPw5uCiaViaRQ/0?wx_fmt=jpeg
-    title: 支教札记：来日仍有晴空万里 飘于远方你我路上
-    desc: 徐徐回望 曾属于彼此的晚上  红红仍是你 赠予我的心中艳阳 一瞬太短 有太多东西要讲 如今只可回忆这最美的时光。
-    url: https://mp.weixin.qq.com/s/4yH8ftPG-UZ2HjWl-wY_zA
-
-  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/icxv22eW8RQficCNibnpXcBicVUpcm7GMWkEdOlsGmdia0Q34BuPLrbuEfGcMHT8rBiaOQLUpKTxDlUmibzPw5uCiaViaRQ/0?wx_fmt=jpeg
-    title: 支教札记：来日仍有晴空万里 飘于远方你我路上
+    title: "支教札记: 来日仍有晴空万里 飘于远方你我路上"
     desc: 徐徐回望 曾属于彼此的晚上  红红仍是你 赠予我的心中艳阳 一瞬太短 有太多东西要讲 如今只可回忆这最美的时光。
     url: https://mp.weixin.qq.com/s/4yH8ftPG-UZ2HjWl-wY_zA
 

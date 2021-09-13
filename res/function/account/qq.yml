@@ -27,5 +27,12 @@
       desc: 用生命感动生命
       logo: https://mp.innenu.com/img/association/yinghuo.png
       id: 3550392854
-      openid: 658885C34ABE00C771CD9CA5ACFC60A0
+      openid: 8507E3EA960DDE8979AE5EB56CB1ED37
       qrcode: https://mp.innenu.com/img/media/yinghuo-qq-qrcode.jpg
+
+    - name: 绿色动力环保志愿者协会
+      desc: 天地你我共有，环保大家一起上
+      logo: https://mp.innenu.com/img/association/green.png
+      id: 1913856914
+      # openid: 658885C34ABE00C771CD9CA5ACFC60A0
+      # qrcode: https://mp.innenu.com/img/media/yinghuo-qq-qrcode.jpg
