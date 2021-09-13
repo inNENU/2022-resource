@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2021年8月29日
+time: 2021年9月13日
 shareable: true
 content:
   - tag: list
@@ -28,7 +28,7 @@ content:
 
       - text: 缴费相关
         icon: money
-        path: pay/
+        path: pay
 
       - text: 绿色通道
         icon: green-tunnel
@@ -57,9 +57,9 @@ content:
         icon: more
         path: hukou
 
-      - text: 保险与其他
-        icon: more
-        path: others
+      - text: 保险
+        icon: insurance
+        path: insurance
 
   - tag: list
     header: 防盗防骗攻略

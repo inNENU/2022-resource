@@ -1,6 +1,6 @@
 title: 转专业申请
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年9月13日
 shareable: true
 content:
   - tag: title
@@ -84,7 +84,7 @@ content:
   - tag: title
     text: 撤销申请
 
-  - tag: p
+  - tag: text
     text: 如的确因为某种原因不适应新专业需要撤销申请，请下载、打印并填写下表，提交到教务处。
 
   - tag: doc

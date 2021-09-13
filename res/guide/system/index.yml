@@ -1,6 +1,6 @@
 title: 教务系统
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年9月13日
 grey: true
 shareable: true
 content:
@@ -14,6 +14,10 @@ content:
       - text: 英语免修申请
         icon: exemption
         path: under/exemption/english
+
+      - text: 学籍注册
+        icon: rule
+        path: under/school-roll
 
       - text: 转专业申请
         icon: flow
