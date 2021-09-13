@@ -19,7 +19,7 @@ export const resolveStyle = (styleObj: Record<string, string>): string => {
   let result = "";
 
   for (const key in styleObj)
-    result += `${camelCase2kebabCase(key)}: ${styleObj[key]};`;
+    result += `${camelCase2kebabCase(key)}:${styleObj[key]};`;
 
   return result;
 };
