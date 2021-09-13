@@ -93,7 +93,7 @@ content:
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
-    src: http://mp.innenu.com/img/tab/faq.png
+    src: https://mp.innenu.com/img/tab/faq.png
     title: 常见问题
     logo: faq
     url: page?id=guide/faq/
