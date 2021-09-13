@@ -36,12 +36,15 @@ content:
 
   - title: 11 月
     icon: ./icon/study.svg
-    text: 无
+    text: |-
+      CET口试: 2021年11月20至21日
 
   - title: 12 月
     icon: ./icon/study.svg
     text: |-
-      12 月 25、26 日: 研究生考试
+      CET笔试: 2021年12月18日
+      CET笔试: 2021年12月18日
+      研究生初试: 12 月 25、26 日
 
   - title: 1 月
     icon: ./icon/study.svg
