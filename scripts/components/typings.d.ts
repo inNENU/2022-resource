@@ -1,23 +1,25 @@
-import { CardComponentOptions } from "./card/typings";
-import { CopyComponentOptions } from "./copy/typings";
-import { DocComponentOptions } from "./doc/typings";
-import { FooterComponentOptions } from "./footer/typings";
-import { GridComponentOptions } from "./grid/typings";
-import { ImageComponentOptions } from "./img/typings";
-import { IntroComponentOptions } from "./intro/typings";
-import {
+import type { AccountComponentOptions } from "./account/typings";
+import type { CardComponentOptions } from "./card/typings";
+import type { CopyComponentOptions } from "./copy/typings";
+import type { DocComponentOptions } from "./doc/typings";
+import type { FooterComponentOptions } from "./footer/typings";
+import type { GridComponentOptions } from "./grid/typings";
+import type { ImageComponentOptions } from "./img/typings";
+import type { IntroComponentOptions } from "./intro/typings";
+import type {
   AdvancedListComponentOptions,
   ListComponentOptions,
 } from "./list/typings";
-import { LoadingComponentOptions } from "./loading/typings";
-import { MediaComponentOptions } from "./media/typings";
-import { PhoneComponentOptions } from "./phone/typings";
-import { SwiperComponentOptions } from "./swiper/typings";
-import { TextComponentOptions } from "./text/typings";
-import { TitleComponentOptions } from "./title/typings";
+import type { LoadingComponentOptions } from "./loading/typings";
+import type { MediaComponentOptions } from "./media/typings";
+import type { PhoneComponentOptions } from "./phone/typings";
+import type { SwiperComponentOptions } from "./swiper/typings";
+import type { TextComponentOptions } from "./text/typings";
+import type { TitleComponentOptions } from "./title/typings";
 
-import { GeneralScopeData } from "./scopeData/typings";
+import type { GeneralScopeData } from "./scopeData/typings";
 
+export * from "./account/typings";
 export * from "./card/typings";
 export * from "./copy/typings";
 export * from "./doc/typings";
@@ -47,6 +49,7 @@ export type PageTag =
   | "doc"
   | "phone"
   | "media"
+  | "account"
   | "swiper";
 
 export type ComponentOptions =
@@ -63,8 +66,9 @@ export type ComponentOptions =
   | MediaComponentOptions
   | CardComponentOptions
   | CopyComponentOptions
-  | LoadingComponentOptions
-  | IntroComponentOptions;
+  | AccountComponentOptions
+  | IntroComponentOptions
+  | LoadingComponentOptions;
 
 /** 页面配置 */
 export interface PageConfig {
