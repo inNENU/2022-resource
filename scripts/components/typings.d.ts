@@ -1,4 +1,3 @@
-import type { AccountComponentOptions } from "./account/typings";
 import type { CardComponentOptions } from "./card/typings";
 import type { CopyComponentOptions } from "./copy/typings";
 import type { DocComponentOptions } from "./doc/typings";
@@ -19,7 +18,6 @@ import type { TitleComponentOptions } from "./title/typings";
 
 import type { GeneralScopeData } from "./scopeData/typings";
 
-export * from "./account/typings";
 export * from "./card/typings";
 export * from "./copy/typings";
 export * from "./doc/typings";
@@ -66,7 +64,6 @@ export type ComponentOptions =
   | MediaComponentOptions
   | CardComponentOptions
   | CopyComponentOptions
-  | AccountComponentOptions
   | IntroComponentOptions
   | LoadingComponentOptions;
 

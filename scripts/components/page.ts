@@ -17,7 +17,6 @@ import { resolveMedia } from "./media";
 import { genScopeData } from "./scopeData";
 
 import type { PageConfig } from "./typings";
-import { resolveAccount } from "./account";
 
 /**
  * 处理页面数据
@@ -99,8 +98,6 @@ export const resolvePage = (
       else if (element.tag === "card") resolveCard(element, position);
       // 检测复制
       else if (element.tag === "copy") resolveCopy(element, position);
-      // 检测账户
-      else if (element.tag === "account") resolveAccount(element, position);
       // 检测加载
       else if (element.tag === "loading") resolveLoading(element, position);
       else
