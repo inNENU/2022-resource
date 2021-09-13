@@ -46,16 +46,21 @@
 
     - name: 志愿东师
       desc: 东北师范大学红烛志愿者协会
-      logo: http://mp.innenu.com/img/media/zhiyuandongshi.jpg
+      logo: http://mp.innenu.com/img/media/zhiyuandongshi.png
       path: zhiyuandongshi
 
     - name: 爱心使者团
       desc: 东北师范大学爱心使者团
-      logo: http://mp.innenu.com/img/media/aixinshizhe.jpg
+      logo: http://mp.innenu.com/img/media/aixinshizhe.png
       path: aixinshizhe
 
 - name: 学生社团
   account:
+    - name: 东北师大萤火支教团
+      desc: 东北师范大学萤火支教团
+      logo: https://mp.innenu.com/img/association/yinghuo.png
+      path: yinghuo
+
     - name: 心里有你
       desc: 东北师范大学心理协会
       logo: https://mp.innenu.com/img/media/xinli.jpg
@@ -70,5 +75,5 @@
   account:
     - name: 苏东吴东北师大物业服务驿站
       desc: 主动、热情、优质、高效，我们是东吴物业。
-      logo: https://mp.innenu.com/img/media/sudonghao.jpg
+      logo: https://mp.innenu.com/img/media/sudonghao.png
       path: donghao

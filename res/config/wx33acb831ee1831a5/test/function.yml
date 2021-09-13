@@ -34,7 +34,7 @@ content:
     url: PEcal
 
   - tag: card
-    src: http://mp.innenu.com/img/tab/account.jpg
+    src: http://mp.innenu.com/img/tab/media.jpg
     title: 校园媒体
     logo: account
     url: account
@@ -44,3 +44,9 @@ content:
     title: 东师网站
     logo: network
     url: website
+
+  - tag: card
+    src: http://mp.innenu.com/img/tab/phone.jpg
+    title: 师大黄页
+    logo: phone
+    url: phone

@@ -1,6 +1,43 @@
 import axios from "axios";
-import { readFileSync, writeFileSync } from "fs";
+import { existsSync, readFileSync, writeFileSync } from "fs";
 import { getFileList } from "../util";
+
+interface AccountInfo {
+  name: string;
+  desc?: string;
+  logo: string;
+  path?: string;
+  id?: number;
+  qrcode?: string;
+  openid?: string;
+}
+
+interface AccountConfig {
+  name: string;
+  account: AccountInfo[];
+}
+
+export const checkAccount = (data: AccountConfig[]) => {
+  data.forEach((item) => {
+    item.account.forEach((config) => {
+      if (
+        config.logo?.startsWith("https://mp.innenu.com") &&
+        !existsSync(config.logo.replace("https://mp.innenu.com/", "./"))
+      ) {
+        console.warn(`Image ${config.logo} not exist`);
+      }
+
+      if (
+        config.qrcode?.startsWith("https://mp.innenu.com") &&
+        !existsSync(config.qrcode.replace("https://mp.innenu.com/", "./"))
+      ) {
+        console.warn(`Image ${config.qrcode} not exist`);
+      }
+    });
+  });
+
+  return data;
+};
 
 export const genAccount = (filePath: string): Promise<void> => {
   let content = readFileSync(`./res/function/account/${filePath}`, {

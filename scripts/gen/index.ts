@@ -3,6 +3,7 @@ import { sync as del } from "del";
 import { config } from "dotenv";
 import { convertYml2Json } from "../util/yml2json";
 import { resolvePage } from "../components/page";
+import { checkAccount } from "./account";
 import { count } from "./count";
 import { genDonate } from "./donate";
 import { genIcon } from "./icon";
@@ -34,6 +35,8 @@ convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
     ? resolvePage(data, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data)
+    : /account\/(qq|wx)/u.exec(filePath)
+    ? checkAccount(data)
     : (data as unknown)
 );
 
