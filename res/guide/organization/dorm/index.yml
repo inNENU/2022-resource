@@ -12,11 +12,12 @@ content:
     wxQRCode: https://mp.innenu.com/img/media/xiaowo-wechat.jpg
     path: xiaowo
 
-  - tag: list
-    header: false
-    content:
-      - text: 我们在纳新
-        path: intake
+  - tag: card
+    logo: https://mp.innenu.com/img/organization/xiaowo.png
+    name: 东师小窝
+    title: 我们在纳新
+    src: https://mp.innenu.com/img/media/join.png
+    url: page?id=/guide/organization/dorm/intake
 
   - tag: title
     text: 组织介绍

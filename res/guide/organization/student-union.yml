@@ -3,8 +3,14 @@ shareable: true
 content:
   - tag: intro
     name: 学生会
-    logo: https://mp.innenu.com/img/organization/nenuyouth.png
     desc: 东北师范大学学生会
+    logo: https://mp.innenu.com/img/organization/nenuyouth.png
+    qq: 1793612094
+    qqQRCode: https://mp.innenu.com/img/media/nenuyouth-qq-qrcode.png
+    wx: nenuxsh40
+    wxQRCode: https://mp.innenu.com/img/media/nenuyouth-qrcode.jpg
+    openid: E84B43674E54793277416D189D4780DD
+    path: nenuyouth
 
   - tag: p
     text:
