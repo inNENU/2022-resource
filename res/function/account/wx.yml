@@ -5,6 +5,16 @@
       logo: https://mp.innenu.com/img/media/official.png
       path: official
 
+    - name: 东北师范大学图书馆
+      desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态！
+      logo: https://mp.innenu.com/img/media/library.png
+      path: library
+
+    - name: 东北师范大学招生办公室
+      desc: 关注我们，及时获取招生动态，了解招生政策
+      logo: https://mp.innenu.com/img/media/official.png
+      path: enroll
+
     - name: 东北师范大学财务处
       desc: 东北师范大学财务处微信公众号
       logo: https://mp.innenu.com/img/media/official.png
@@ -23,9 +33,19 @@
       path: education
 
     - name: 青年力量
-      desc: 东北师范大学体育学院公众号
+      desc: 东北师范大学体育学院官方微信平台
       logo: https://mp.innenu.com/img/media/pe.png
       path: pe
+
+    - name: 东北师范大学物理学院
+      desc: 东北师范大学物理学院官方微信平台
+      logo: https://mp.innenu.com/img/media/phy.jpg
+      path: phy
+
+    - name: 东师传媒
+      desc: 东北师范大学传媒学院官方微信平台
+      logo: https://mp.innenu.com/img/media/media.png
+      path: media
 
     - name: 东师物院团委
       desc: 东北师范大学物理学院团委公众号
@@ -66,6 +86,20 @@
       logo: https://mp.innenu.com/img/association/mun.png
       path: mun
 
+- name: 其他
+  account:
+    - name: 苏东吴东北师大物业服务驿站
+      desc: 主动、热情、优质、高效，我们是东吴物业。
+      logo: https://mp.innenu.com/img/media/sudonghao.png
+      path: donghao
+
+- name: 已停更
+  account:
+    - name: 爱心使者团
+      desc: 东北师范大学爱心使者团
+      logo: https://mp.innenu.com/img/organization/aixinshizhe.png
+      path: aixinshizhe
+
     - name: 心里有你
       desc: 东北师范大学心理协会
       logo: https://mp.innenu.com/img/media/xinli.jpg
@@ -75,10 +109,3 @@
       desc: 东北师范大学乐群学社
       logo: https://mp.innenu.com/img/media/lequn.png
       path: lequn
-
-- name: 其他
-  account:
-    - name: 苏东吴东北师大物业服务驿站
-      desc: 主动、热情、优质、高效，我们是东吴物业。
-      logo: https://mp.innenu.com/img/media/sudonghao.png
-      path: donghao
