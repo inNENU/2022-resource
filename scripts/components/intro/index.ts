@@ -7,20 +7,20 @@ export const resolveIntro = (
   location = ""
 ): void => {
   if (
-    element.logo?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.logo.replace("https://mp.innenu.com/", "./"))
+    element.logo?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.logo.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
     console.warn(`Image ${element.logo} not exist in ${location}`);
   }
   if (
-    element.qqQRCode?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.qqQRCode.replace("https://mp.innenu.com/", "./"))
+    element.qqQRCode?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.qqQRCode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
     console.warn(`Image ${element.qqQRCode} not exist in ${location}`);
   }
   if (
-    element.wxQRCode?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.wxQRCode.replace("https://mp.innenu.com/", "./"))
+    element.wxQRCode?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.wxQRCode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
     console.warn(`Image ${element.wxQRCode} not exist in ${location}`);
   }

@@ -39,8 +39,8 @@ export const resolveDoc = (
   element.icon = getDocIcon(element.url);
 
   if (
-    element.url?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.url.replace("https://mp.innenu.com/", "./"))
+    element.url?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.url.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
     console.warn(`File ${element.url} not exist in ${location}`);
   }

@@ -17,7 +17,7 @@ export const resolveCard = (
 
   if (
     element.src?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.src.replace("https://mp.innenu.com/", "./"))
+    !existsSync(element.src.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
     console.warn(`Image ${element.src} not exist in ${location}`);
   }

@@ -21,15 +21,15 @@ export const checkAccount = (data: AccountConfig[]) => {
   data.forEach((item) => {
     item.account.forEach((config) => {
       if (
-        config.logo?.startsWith("https://mp.innenu.com") &&
-        !existsSync(config.logo.replace("https://mp.innenu.com/", "./"))
+        config.logo?.match(/https?:\/\/mp\.innenu\.com/) &&
+        !existsSync(config.logo.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
       ) {
         console.warn(`Image ${config.logo} not exist`);
       }
 
       if (
-        config.qrcode?.startsWith("https://mp.innenu.com") &&
-        !existsSync(config.qrcode.replace("https://mp.innenu.com/", "./"))
+        config.qrcode?.match(/https?:\/\/mp\.innenu\.com/) &&
+        !existsSync(config.qrcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
       ) {
         console.warn(`Image ${config.qrcode} not exist`);
       }

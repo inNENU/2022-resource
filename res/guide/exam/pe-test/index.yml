@@ -1,7 +1,7 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2021年9月12日
+time: 2021年9月14日
 shareable: true
 content:
   - tag: text
@@ -41,7 +41,7 @@ content:
         path: advice
 
   - tag: card
-    src: http://mp.innenu.com/img/tab/sport-field.jpg
+    src: https://mp.innenu.com/img/tab/sport-field.jpg
     title: 体测计算器
     logo: calculate
     url: PEcal

@@ -9,8 +9,8 @@ export const resolveSwiper = (
 ): void => {
   element.url?.forEach((link) => {
     if (
-      link.startsWith("https://mp.innenu.com") &&
-      !existsSync(link.replace("https://mp.innenu.com/", "./"))
+      link.match(/https?:\/\/mp\.innenu\.com/) &&
+      !existsSync(link.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
     ) {
       console.warn(`Image ${link} not exist in ${location}`);
     }
