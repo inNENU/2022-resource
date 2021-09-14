@@ -4,6 +4,12 @@ grey: true
 hidden: true
 content:
   - tag: card
+    src: https://mp.innenu.com/img/tab/map.jpg
+    title: 校园地图
+    logo: map
+    url: map
+
+  - tag: card
     src: https://mp.innenu.com/img/tab/calendar.jpg
     title: 校历
     logo: calendar
@@ -38,3 +44,9 @@ content:
     title: 东师网站
     logo: network
     url: website
+
+  - tag: card
+    src: https://mp.innenu.com/img/tab/phone.jpg
+    title: 师大黄页
+    logo: phone
+    url: phone

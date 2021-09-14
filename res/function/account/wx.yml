@@ -66,6 +66,11 @@
       logo: https://mp.innenu.com/img/association/yinghuo.png
       path: yinghuo
 
+    - name: 东师模联NENUMUN
+      desc: 东北师范大学模拟联合国协会
+      logo: https://mp.innenu.com/img/association/mun.png
+      path: mun
+
     - name: 心里有你
       desc: 东北师范大学心理协会
       logo: https://mp.innenu.com/img/media/xinli.jpg
