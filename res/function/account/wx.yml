@@ -54,11 +54,6 @@
       logo: https://mp.innenu.com/img/media/zhiyuandongshi.png
       path: zhiyuandongshi
 
-    - name: 爱心使者团
-      desc: 东北师范大学爱心使者团
-      logo: https://mp.innenu.com/img/media/aixinshizhe.png
-      path: aixinshizhe
-
 - name: 学生社团
   account:
     - name: 东北师大萤火支教团

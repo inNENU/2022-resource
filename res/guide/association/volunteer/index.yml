@@ -2,7 +2,7 @@ title: 志愿服务类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月14日
 shareable: true
 content:
   - tag: title
@@ -15,6 +15,14 @@ content:
         icon: https://mp.innenu.com/img/association/NISA.png
         path: NISA
 
+      - text: 萤火支教团
+        icon: https://mp.innenu.com/img/association/yinghuo.png
+        path: yinghuo
+
+      - text: 绿色动力环保志愿者协会
+        icon: https://mp.innenu.com/img/association/green.png
+        path: green
+
       - text: 志远支教团
         path: zhiyuan
 
@@ -23,9 +31,6 @@ content:
 
       - text: 山海之行支教团
         path: shanhai
-
-      - text: 萤火支教团
-        path: yinghuo
 
       - text: 红丝带
         path: redribbon
@@ -41,9 +46,6 @@ content:
 
       - text: 元晖支教团
         path: yuanhui
-
-      - text: 绿色动力环保志愿者协会
-        path: green
 
   - tag: title
     text: 净月校区
