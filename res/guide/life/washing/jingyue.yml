@@ -1,27 +1,22 @@
 title: 净月洗衣店
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月15日
 shareable: true
 content:
-  - tag: text
-    type: tip
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
     text:
-      - Mr.Hope 正在整理此信息并欢迎您的协助。
-      - 此处需包含洗衣店、干洗店等相关校内外店铺。
+      - 糖果洗衣
 
-  - tag: advanced-list
-    content:
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-        env:
-          - wx
+  - tag: text
+    heading: 糖果洗衣
+    text: 位于学生浴池旁
 
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
-        env:
-          - qq
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text:
+      - 暂无信息

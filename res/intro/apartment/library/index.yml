@@ -1,13 +1,13 @@
 title: 图书馆
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月15日
 shareable: true
 content:
-  - tag: list
-    header: 疫情相关
-    content:
-      - text: 目前，由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网或图书馆门口 LED 查看可入馆人数。
+  - tag: text
+    type: info
+    heading: 疫情相关
+    text: 由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网或图书馆门口 LED 查看可入馆人数。
 
   - tag: copy
     header: 图书馆官网
@@ -59,3 +59,10 @@ content:
       - text: 电子阅览室
         icon: office
         path: digit-room
+
+  - tag: list
+    header: 图书馆
+    content:
+      - text: 常见问题
+        icon: faq
+        path: faq

@@ -1,20 +1,41 @@
 title: 净月打印复印
 author: Mr.Hope
-time: 2021年9月9日
+time: 2021年9月15日
 shareable: true
 content:
   - tag: title
-    text: 校内位置
+    text: 校内店铺
 
   - tag: text
-    text: 二食堂超市对面师大图文复印店
+    text: 校内现有两家复印店。
+
+  - tag: ul
+    text:
+      - 师大图文复印店
+      - 知行图文
+
+  - tag: text
+    heading: 知行图文
+    text: 位于学生浴池旁。
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue/zhixing-copy.jpg
+    desc: 店铺照片
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/jingyue/zhixing-price.jpg
+    desc: 价格表
+
+  - tag: text
+    heading: 师大图文复印店
+    text: 位于二食堂超市对面
 
   - tag: img
     src: https://mp.innenu.com/img/shop/jingyue-copy.jpg
-    desc: 师大图文复印店，可以复印和打印
+    desc: 店铺照片
 
   - tag: title
-    text: 校外位置
+    text: 校外店铺
 
   - tag: text
     text: 暂无信息

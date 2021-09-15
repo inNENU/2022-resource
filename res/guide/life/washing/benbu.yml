@@ -1,6 +1,6 @@
 title: 本部洗衣店
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月15日
 shareable: true
 content:
   - tag: title
@@ -26,3 +26,10 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/life/benbu/beiyuan-washing-price.jpg
     desc: 北苑洗衣价格
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text:
+      - 暂无信息
