@@ -3,11 +3,11 @@ id: function
 grey: true
 hidden: true
 content:
-  - tag: card
-    src: https://mp.innenu.com/img/tab/map.jpg
-    title: 校园地图
-    logo: map
-    url: map
+  # - tag: card
+  #   src: https://mp.innenu.com/img/tab/map.jpg
+  #   title: 校园地图
+  #   logo: map
+  #   url: map
 
   - tag: card
     src: https://mp.innenu.com/img/tab/calendar.jpg
