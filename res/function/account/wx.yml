@@ -15,10 +15,25 @@
       logo: https://mp.innenu.com/img/media/official.png
       path: enroll
 
+    - name: 东北师大信息化办
+      desc: 精致服务，精细管理
+      logo: https://mp.innenu.com/img/media/xxhb.png
+      path: xxhb
+
     - name: 东北师范大学财务处
       desc: 东北师范大学财务处微信公众号
       logo: https://mp.innenu.com/img/media/official.png
       path: caiwuchu
+
+    - name: 东北师大综合体育馆
+      desc: 东北师范大学综合体育馆
+      logo: https://mp.innenu.com/img/media/gym.jpg
+      path: gym
+
+    - name: 东北师范大学党委教师工作部
+      desc: 教师思想政治工作，师德师风建设
+      logo: https://mp.innenu.com/img/media/official.png
+      path: league-teacher
 
     - name: 平安东师
       desc: 东北师范大学保卫处微信公众号
@@ -41,6 +56,11 @@
       desc: 东北师范大学物理学院官方微信平台
       logo: https://mp.innenu.com/img/media/phy.jpg
       path: phy
+
+    - name: 东北师范大学地理科学学院
+      desc: 东北师范大学地理科学学院官方公众号
+      logo: https://mp.innenu.com/img/media/geo.png
+      path: geo
 
     - name: 东师传媒
       desc: 东北师范大学传媒学院官方微信平台
@@ -85,6 +105,11 @@
       desc: 东北师范大学模拟联合国协会
       logo: https://mp.innenu.com/img/association/mun.png
       path: mun
+
+    - name: 东师锅庄林
+      desc: 东北师范大学锅庄舞协会
+      logo: https://mp.innenu.com/img/association/guozhuangwu.png
+      path: guozhuanglin
 
 - name: 其他
   account:
