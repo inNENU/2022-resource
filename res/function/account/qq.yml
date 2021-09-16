@@ -8,7 +8,7 @@
 - name: 学生组织
   account:
     - name: 东北师范大学学生会
-      desc: 大家好，这里是校会君！撒娇打滚卖萌求关注～
+      desc: 大家好，这里是校会君! 撒娇打滚卖萌求关注～
       logo: https://mp.innenu.com/img/organization/nenuyouth.png
       id: 1793612094
       openid: E84B43674E54793277416D189D4780DD
