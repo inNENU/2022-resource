@@ -8,6 +8,13 @@ content:
     logo: https://mp.innenu.com/img/association/nenudc.png
     desc: 英辩，世界万象的窗口，英语提升的良田，思想交流的盛宴。
 
+  - tag: card
+    logo: https://mp.innenu.com/img/association/nenudc.png
+    name: 全英辩论俱乐部
+    title: 我们在纳新
+    src: https://mp.innenu.com/img/media/join.png
+    url: page?id=/guide/association/culture/debate-in
+
   - tag: title
     text: 社团简介
 
@@ -41,22 +48,10 @@ content:
     text: 与其他学校进行沟通举行联谊比赛，沟通场地、协调
 
   - tag: title
-    text: 纳新
+    text: 社团主要活动
 
-  - tag: text
-    text: |-
-      Why shall we choose NENU Debate club?
-    align: center
-    style:
-      font-size: 18px
-
-  - tag: text
+  - tag: p
     text:
-      - 在这里
-      - 不用担心自己基础不好，因为我们有最基础的手把手教学，以及专业英国外教的指导
-      - 不用担心自己不善言辞，因为我们有最轻松的讨论氛围，以及最活跃沙雕的辩友裁判
-      - 不用担心自己欠缺知识，因为我们有最丰富的辩论资源，以及众多比赛帮你充分练习
-      - 这里不仅有头脑风暴的“战场”，更有文化交流融合的视听说盛宴
-      - 这不仅是一条让你应变能力、演讲口才飙升的康庄大道，更是一处助你夺得国家级英辩赛事桂冠的绝佳平台
-      - 这是结交辩友，接触大佬的活跃圈子，是逻辑思维碰撞的圣所
-      - 所以还在犹豫什么呢? 快来加入英辩社这个大家庭吧!
+      - 英辩社为了促进辩手之间思想的交流，每周六都会在外院举办辩论练习赛，并由Russ老师给予反馈和指导，是辩手们保持思维活跃的最佳练习场，也欢迎所有专业所有年级的同学来旁听。
+      - 英辩社的各类资源丰富，从社内成员case file的分享交流到各类大型英辩比赛资讯的汇总推送，不仅能让辩手们在报名参与比赛时更为便捷高效，更是能争取到很多优质比赛的参赛名额，是进入英辩圈子的不二之选。
+      - 英辩社成员也会通过各种渠道拓宽人脉，在与外教Russ的交流中你一定会收益颇丰，每学期末与Russ的聚餐也是一场舒心的跨文化交流；参与各种比赛也会让你认识到更多国际辩手和裁判，在与各类外语强校竞争的过程中你不仅能提升自我，更可以打入大佬内部，收获更优质的交友圈。

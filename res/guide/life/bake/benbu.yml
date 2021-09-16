@@ -1,6 +1,6 @@
 title: 本部烘焙坊
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年9月16日
 shareable: true
 content:
   - tag: title
@@ -10,6 +10,17 @@ content:
     text:
       - 北苑地下一楼
       - 浴池一楼
+
+  - tag: text
+    heading: 八度烘焙
+    text:
+      - 位于浴池一楼
+
+  - tag: list
+    header: false
+    content:
+      - text: 查看详情
+        path: badu
 
   - tag: text
     heading: 梅小姐私房烘焙店

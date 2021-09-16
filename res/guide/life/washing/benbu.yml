@@ -1,6 +1,6 @@
 title: 本部洗衣店
 author: Mr.Hope
-time: 2021年9月15日
+time: 2021年9月16日
 shareable: true
 content:
   - tag: title
@@ -20,11 +20,15 @@ content:
     desc: 糖果洗衣
 
   - tag: text
-    heading: 北苑洗衣
+    heading: 衣栈洗衣
     text: 位于北苑地下一楼。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/beiyuan-washing-price.jpg
+    src: https://mp.innenu.com/img/life/benbu/yizhan.jpg
+    desc: 北苑洗衣价格
+
+  - tag: img
+    src: https://mp.innenu.com/img/life/benbu/yizhan-price.jpg
     desc: 北苑洗衣价格
 
   - tag: title
