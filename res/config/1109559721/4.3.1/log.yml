@@ -2,6 +2,10 @@
   header: 近期更新
   content:
     - text: |-
+        V 4.3.0:
+        · 适配 iPad
+
+    - text: |-
         V 4.2.0:
         · 新增东师网站
         · 新增东师媒体号

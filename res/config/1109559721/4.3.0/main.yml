@@ -98,7 +98,7 @@ content:
     logo: faq
     url: page?id=guide/faq/
 
-  # - tag: text
-  #   type: info
-  #   heading: 微信小程序
-  #   text: 微信小程序in东师提供校园地图与导航功能，拥有更好的性能且没有QQ小程序的开屏广告，欢迎大家使用。
+  - tag: text
+    type: info
+    heading: 微信小程序
+    text: 微信小程序in东师提供校园地图与导航功能，拥有更好的性能且没有QQ小程序的开屏广告，欢迎大家使用。
