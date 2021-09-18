@@ -1,9 +1,17 @@
 title: 环境学院
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月18日
 shareable: true
 content:
+  - tag: intro
+    name: 环境学院
+    logo: https://mp.innenu.com/img/media/environment.png
+    detail: NENU环境学院
+    wx: dongshihuanjing
+    wxQRCode: https://mp.innenu.com/img/media/environment-wechat.jpg
+    path: environment
+
   - tag: list
     content:
       - text: 学院简介

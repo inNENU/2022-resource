@@ -1,9 +1,17 @@
 title: 传媒科学学院
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月18日
 shareable: true
 content:
+  - tag: intro
+    name: 传媒科学学院
+    logo: https://mp.innenu.com/img/media/media.png
+    detail: 东师传媒
+    wx: nenu_media
+    wxQRCode: https://mp.innenu.com/img/media/media-wechat.jpg
+    path: media
+
   - tag: list
     content:
       - text: 学院简介

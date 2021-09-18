@@ -119,6 +119,11 @@
       logo: https://mp.innenu.com/img/organization/xiaowo.png
       path: xiaowo
 
+    - name: 东师之声校园广播
+      desc: 东北师范大学“东师之声”校园广播站
+      logo: https://mp.innenu.com/img/organization/voice.png
+      path: voice
+
     - name: 志愿东师
       desc: 东北师范大学红烛志愿者协会
       logo: https://mp.innenu.com/img/media/zhiyuandongshi.png

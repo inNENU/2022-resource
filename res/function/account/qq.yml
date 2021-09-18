@@ -21,6 +21,13 @@
       openid: 56C702746F185FD58ABAE79A280ABF07
       qrcode: https://mp.innenu.com/img/media/xiaowo-qq.jpg
 
+    - name: 东师之声校园广播站
+      desc: 东师之声，说给你听
+      logo: https://mp.innenu.com/img/organization/voice.png
+      id: 3256974882
+      openid: 485F6B43DF35335DE39C618347D24389
+      qrcode: https://mp.innenu.com/img/media/voice-qq.png
+
     - name: 爱心使者团
       desc: 用爱心回报社会，用信心成就未来
       logo: https://mp.innenu.com/img/organization/aixinshizhe.png

@@ -1,9 +1,17 @@
 title: 教育学部
 grey: true
 author: Mr.Hope
-time: 2021年8月23日
+time: 2021年9月18日
 shareable: true
 content:
+  - tag: intro
+    name: 教育学部
+    logo: https://mp.innenu.com/img/media/education-wechat.png
+    detail: 东北师范大学教育学部
+    wx: edunenu
+    wxQRCode: https://mp.innenu.com/img/media/education-qrcode.jpg
+    path: education
+
   - tag: list
     content:
       - text: 学院简介
