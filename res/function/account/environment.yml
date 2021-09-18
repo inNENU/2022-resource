@@ -1,0 +1,66 @@
+name: NENU环境学院
+detail: 东北师范大学环境学院
+desc: 了解更多东师环境学院的信息与活动
+id: dongshihuanjing
+logo: https://mp.innenu.com/img/media/environment.png
+qrcode: https://mp.innenu.com/img/media/environment-wechat.jpg
+article:
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uH2fic0w5f6IuA3vghoWkZMJkldF1r09nhJEQYV8vsdBiau9jgkJahgt6l5Bjciay5wx7TIOvADuqdag/0?wx_fmt=jpeg
+    title: 勿忘国耻，兴我华夏
+    desc: 九一八，不可忘却的纪念
+    url: https://mp.weixin.qq.com/s/BB0SmJzVZmZ2qOuuQtccGg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uE7g4iaWLhjU44gh62oTASaqGtvduEIMY6Dt81O86of1vDvKpYzLrcZFCAE7KKl9BsADEgN6DTVO6Q/0?wx_fmt=jpeg
+    title: 迎新特辑|八方来客，相约九月
+    desc: 欢迎2021级的小伙伴们~
+    url: https://mp.weixin.qq.com/s/kSNG-SM5X_PY-EugVa7aqw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uFGRrwFaBr44cTXZmWicukAhicmzxSmTKchhpJicicIsyMQ879VcJP9pYXFx4c8xap0923KfKCEO3fhoA/0?wx_fmt=jpeg
+    title: 环境学院丨团学组织介绍（一）
+    desc: 团学组织介绍之研究生会、学生会，快来一起了解吧~
+    url: https://mp.weixin.qq.com/s/GLWZ9FJ-soBCcD9MsZJ4Uw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uEiaWTAtAjxYI7lyWH4WJuEAbrRckKJXjziaKZ7QzuickFLxroNVtaB1EySasFURicAajiciaIpFl8r1aHw/0?wx_fmt=jpeg
+    title: 新生特辑（三） | 开学季攻略之学习系列
+    url: https://mp.weixin.qq.com/s/3OprubxzvNS66Tkbm81BIg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uHGpb4zavl03LN5KjlVv4eJloSWVU8l2l4LeuT7pEwkKlCiasaZkMNA1JgJgkTw9ngWIQg5DlklTvg/0?wx_fmt=jpeg
+    title: 新生特辑（二）|开学季攻略之生活系列
+    url: https://mp.weixin.qq.com/s/SFSx26Sn7fW3t1cUkJisww
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uFvPXX45oBCUpoticgUaYZibwDxVmMuJ6R0FdRuA4HWrBFjqGgJ3uy16bWr3vScq0ClH4LzAiaPxzWMw/0?wx_fmt=jpeg
+    title: 新生特辑（一）|相遇东师环境
+    desc: 环境学院的小萌新们快来看看吧~
+    url: https://mp.weixin.qq.com/s/RTU86Z_QAzjRvSJamp4wpg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uFlO3mSicLZuTFgnjeFKFVCRab7QSed1iaJAnaKFvbARia0ECXJKicnL7GoqFAPHKeIH4fsyic03ibwFCzg/0?wx_fmt=jpeg
+    title: 喜报 | 我院在2021年吉林省大学生马克思主义自学组织联盟社会实践活动暨吉林省大学生“三下乡”活动中取得优异成绩
+    url: https://mp.weixin.qq.com/s/x8VQkvGzNyixZkTZUaehhA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uFnSic76QE8vnwjfQjTvkFia2ZZ2HH5BE9BKLZazuv7LpyEViaibNFicoXbG6x9sDRsqysHw5MLcHnHicXA/0?wx_fmt=jpeg
+    title: 环境学院2020年度科研项目结项评审会成功举办
+    url: https://mp.weixin.qq.com/s/88UiSK6jlcBhKcObWrX-aA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uFnSic76QE8vnwjfQjTvkFia2ApcvtYt7M5c7LicaibKMEicIlNPrScVfwQz3uicIStOv3wHiazkPWsyMc9w/0?wx_fmt=jpeg
+    title: 环境学院2021年度科研项目中期评审会成功举办
+    url: https://mp.weixin.qq.com/s/ReeUDPqTmsm5cQWG0n7ocQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uEDpMRbkJ4FUiap42ntjOvTibZWNJFP3v1Q4GCibnF9Dajy14HruC8Pmnp2fd2vK1T9uhbloiczLtyY1g/0?wx_fmt=jpeg
+    title: “环保在行动”绿色寝室创建活动之“绿色寝室秀”评比
+    url: https://mp.weixin.qq.com/s/sRnIfhY6i_LetWEt5ZO2kg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uF82vkhW5rXGWe1YaHI2SpicIr6XNKgOJYFJuY6ZQZFp5tlc4eVORxTj1FZy05Q4IibptqymT6QEWAA/0?wx_fmt=jpeg
+    title: 红歌合唱比赛|青春心向党，红歌齐飞扬
+    url: https://mp.weixin.qq.com/s/kwZY8oL1r16l52vzkC2fGA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uF82vkhW5rXGWe1YaHI2SpicQGsLKt7ZepQFyvc1xOe1EPfFL1VgKjS8Gme5RRATp8w3kob3Ticy75w/0?wx_fmt=jpeg
+    title: 5.25心理文化节丨解忧信箱丨你可以写下心底的话，每一封都会有回信哦
+    url: https://mp.weixin.qq.com/s/1n5C8G4GxbJcr2bc11rzOw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uF82vkhW5rXGWe1YaHI2Spicu5lQtMibRuRUZMdDyqeemIFEa9GZz65ZyedOZJKTibrymROT4DicwwAvA/0?wx_fmt=jpeg
+    title: “科学实验战”实验技能大赛圆满结束
+    url: https://mp.weixin.qq.com/s/WZUatnDyTv8oQa8BGAYnUg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uHZ7R7ymBUVvILueYQicyZyv1t4fibH3nF6iad2rgY0c1anlAgBiaJN8vRMLKKlAyiaeprFjmdmLaJsD3g/0?wx_fmt=jpeg
+    title: 饮水之安，等你来见——第三届水科普大赛决赛来袭
+    url: https://mp.weixin.qq.com/s/Xi9-jNapjy3RdbwSsaOY1g

@@ -5,6 +5,11 @@
       logo: https://mp.innenu.com/img/media/official.png
       path: official
 
+    - name: 东北师范大学团委
+      desc: 共青团东北师范大学委员会官方公众号
+      logo: https://mp.innenu.com/img/media/tuanwei.png
+      path: tuanwei
+
     - name: 东北师范大学图书馆
       desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态!
       logo: https://mp.innenu.com/img/media/library.png
@@ -24,6 +29,16 @@
       desc: 东北师范大学财务处微信公众号
       logo: https://mp.innenu.com/img/media/official.png
       path: caiwuchu
+
+    - name: 东师后勤
+      desc: 东北师范大学后勤保障部
+      logo: https://mp.innenu.com/img/media/logistics.jpg
+      path: archive
+
+    - name: 东师档案
+      desc: 东北师范大学档案、校史与校友服务
+      logo: https://mp.innenu.com/img/media/official.png
+      path: archive
 
     - name: 东北师大综合体育馆
       desc: 东北师范大学综合体育馆
@@ -52,13 +67,18 @@
       logo: https://mp.innenu.com/img/media/pe.png
       path: pe
 
+    - name: 东师化院
+      desc: 东北师范大学化学学院官方微信平台
+      logo: https://mp.innenu.com/img/media/chemistry.jpg
+      path: chemistry
+
     - name: 东北师范大学物理学院
       desc: 东北师范大学物理学院官方微信平台
       logo: https://mp.innenu.com/img/media/phy.jpg
       path: phy
 
     - name: 东北师范大学地理科学学院
-      desc: 东北师范大学地理科学学院官方公众号
+      desc: 东北师范大学地理科学学院官方微信平台
       logo: https://mp.innenu.com/img/media/geo.png
       path: geo
 
@@ -66,6 +86,16 @@
       desc: 东北师范大学传媒学院官方微信平台
       logo: https://mp.innenu.com/img/media/media.png
       path: media
+
+    - name: NENU环境学院
+      desc: 东北师范大学环境学院官方微信平台
+      logo: https://mp.innenu.com/img/media/environment.png
+      path: environment
+
+    - name: 东北师范大学职业与继续教育学院
+      desc: 东北师范大学职业与继续教育学院官方微信平台
+      logo: https://mp.innenu.com/img/media/vocation.png
+      path: vocation
 
     - name: 东师物院团委
       desc: 东北师范大学物理学院团委公众号
