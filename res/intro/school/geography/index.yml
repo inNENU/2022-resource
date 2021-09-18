@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: intro
     name: 地理科学学院
-    logo: https://mp.innenu.com/img/media/environment.png
+    logo: https://mp.innenu.com/img/media/geo.png
     detail: 东北师范大学地理科学学院
     wx: geonenu
     wxQRCode: https://mp.innenu.com/img/media/geo-wechat.jpg

@@ -1,8 +1,16 @@
 title: 物理学院
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年9月18日
 shareable: true
 content:
+  - tag: intro
+    name: 物理学院
+    logo: https://mp.innenu.com/img/media/phy.jpg
+    detail: 东北师范大学物理学院
+    wx: nenuphy
+    wxQRCode: https://mp.innenu.com/img/media/phy-wechat.jpg
+    path: phy
+
   - tag: list
     content:
       - text: 学院简介
