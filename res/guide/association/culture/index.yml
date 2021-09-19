@@ -2,7 +2,7 @@ title: 文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月15日
+time: 2021年9月20日
 shareable: true
 content:
   - tag: title
@@ -77,7 +77,12 @@ content:
   - tag: list
     header: false
     content:
-      - text: 待更新
+      - text: 师说曲艺社
+        icon: https://mp.innenu.com/img/association/quyi.png
+        path: quyi
+
+      - text: 逗号文学社
+        path: comma
 
   - tag: advanced-list
     header: 欢迎社团入驻本页面

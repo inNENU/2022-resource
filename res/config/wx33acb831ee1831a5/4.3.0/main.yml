@@ -15,6 +15,13 @@ content:
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
+  - tag: card
+    src: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7z7Zaq7P7PRw8ycuI57XibfbicHbb0XzcXic0jTAyOGdp1cCrHHdP9VPG11sBJ9ic3mnJNzeN1gKwcEQ/0?wx_fmt=jpeg
+    title: 警惕线上投票
+    logo: https://mp.innenu.com/img/inNENU.png
+    name: in东师
+    url: web?url=https://mp.weixin.qq.com/s/D4xn076BRR2Iw3qAMzv2Ig
+
   - tag: grid
     header: 您可能想关注
     content:
@@ -36,70 +43,10 @@ content:
         icon: activity
         path: guide/activity/
 
-      - text: 快递
-        color: mauve
-        name: Express
-        icon: express
-        path: guide/express/
-
-      - text: 寝室
-        color: grey
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: mauve
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
-      - text: 超市
-        color: olive
-        name: Shop
-        icon: shop
-        path: guide/shop/
-
-      - text: 洗浴
-        color: red
-        name: Bath
-        icon: bath
-        path: guide/bath/
-
       - text: 生活
-        color: purple
+        color: olive
         name: Life
         icon: life
         path: guide/life/
 
-      - text: 账户
-        color: blue
-        name: Account
-        icon: authorize
-        path: guide/account/
-
-      - text: 校园卡
-        color: red
-        name: Card
-        icon: card
-        path: guide/card/
-
-      - text: 校园网
-        color: purple
-        name: Network
-        icon: network
-        path: guide/network/
-
     footer: 更多内容请详见下方其他 Tab 页
-
-  - tag: card
-    src: https://mp.innenu.com/img/tab/map.jpg
-    title: 校园地图与导航
-    logo: map
-    url: map
-
-  - tag: card
-    src: https://mp.innenu.com/img/tab/faq.png
-    title: 常见问题
-    logo: faq
-    url: page?id=guide/faq/
