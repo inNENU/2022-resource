@@ -1,9 +1,9 @@
 import { existsSync } from "fs";
-import { IntroComponentOptions } from "./typings";
+import { AccountComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
 
-export const resolveIntro = (
-  element: IntroComponentOptions,
+export const resolveAccount = (
+  element: AccountComponentOptions,
   location = ""
 ): void => {
   if (

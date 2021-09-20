@@ -1,71 +1,76 @@
+import type { AccountComponentOptions } from "./account/typings";
 import type { CardComponentOptions } from "./card/typings";
+import type { CarouselComponentOptions } from "./carousel/typings";
 import type { CopyComponentOptions } from "./copy/typings";
 import type { DocComponentOptions } from "./doc/typings";
 import type { FooterComponentOptions } from "./footer/typings";
 import type { GridComponentOptions } from "./grid/typings";
 import type { ImageComponentOptions } from "./img/typings";
-import type { IntroComponentOptions } from "./intro/typings";
 import type {
-  AdvancedListComponentOptions,
+  FunctionalListComponentOptions,
   ListComponentOptions,
 } from "./list/typings";
 import type { LoadingComponentOptions } from "./loading/typings";
 import type { MediaComponentOptions } from "./media/typings";
 import type { PhoneComponentOptions } from "./phone/typings";
-import type { SwiperComponentOptions } from "./swiper/typings";
 import type { TextComponentOptions } from "./text/typings";
 import type { TitleComponentOptions } from "./title/typings";
 
 import type { GeneralScopeData } from "./scopeData/typings";
 
+export * from "./account/typings";
 export * from "./card/typings";
+export * from "./carousel/typings";
 export * from "./copy/typings";
 export * from "./doc/typings";
 export * from "./footer/typings";
 export * from "./grid/typings";
 export * from "./img/typings";
-export * from "./intro/typings";
 export * from "./list/typings";
 export * from "./loading/typings";
 export * from "./media/typings";
 export * from "./phone/typings";
-export * from "./swiper/typings";
 export * from "./text/typings";
 export * from "./title/typings";
 
 export type PageTag =
-  | "title"
-  | "text"
+  | "account"
+  | "card"
+  | "carousel"
+  | "copy"
+  | "doc"
+  | "footer"
+  | "functional-list"
+  | "grid"
   | "img"
   | "list"
-  | "footer"
-  | "grid"
-  | "card"
-  | "copy"
+  | "media"
+  | "title"
+  | "text"
+  | "phone"
+  /**
+   * @deprecated
+   */
   | "intro"
   | "advanced-list"
-  | "doc"
-  | "phone"
-  | "media"
-  | "account"
   | "swiper";
 
 export type ComponentOptions =
-  | TitleComponentOptions
-  | TextComponentOptions
-  | ImageComponentOptions
-  | ListComponentOptions
-  | AdvancedListComponentOptions
-  | GridComponentOptions
-  | FooterComponentOptions
-  | DocComponentOptions
-  | PhoneComponentOptions
-  | SwiperComponentOptions
-  | MediaComponentOptions
+  | AccountComponentOptions
+  | CarouselComponentOptions
   | CardComponentOptions
   | CopyComponentOptions
-  | IntroComponentOptions
-  | LoadingComponentOptions;
+  | DocComponentOptions
+  | FooterComponentOptions
+  | FunctionalListComponentOptions
+  | GridComponentOptions
+  | ListComponentOptions
+  | ImageComponentOptions
+  | MediaComponentOptions
+  | LoadingComponentOptions
+  | PhoneComponentOptions
+  | TextComponentOptions
+  | TitleComponentOptions;
 
 /** 页面配置 */
 export interface PageConfig {

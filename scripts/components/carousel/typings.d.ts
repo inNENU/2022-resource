@@ -1,7 +1,12 @@
 import type { BaseComponentOptions, ImageMode } from "../common";
 
-export interface SwiperComponentOptions extends BaseComponentOptions {
-  tag: "swiper";
+export interface CarouselComponentOptions extends BaseComponentOptions {
+  tag:
+    | "carousel"
+    /**
+     * @deprecated
+     */
+    | "swiper";
   /** swiper 展示的图片的在线网址或本地路径 */
   url: string[];
   /** swiper 的类名 */

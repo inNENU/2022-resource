@@ -159,7 +159,7 @@ export interface ButtonListComponnetItemOptions
   groupId?: string;
 }
 
-export type AdvancedListComponentItemOptions =
+export type FunctionalListComponentItemOptions =
   | ListComponentItemOptions
   | NaviagatorListComponentItemOptions
   | SwitchListComponentItemOptions
@@ -167,12 +167,17 @@ export type AdvancedListComponentItemOptions =
   | SliderListComponentItemOptions
   | ButtonListComponnetItemOptions;
 
-export interface AdvancedListComponentOptions extends BaseComponentOptions {
-  tag: "advanced-list";
+export interface FunctionalListComponentOptions extends BaseComponentOptions {
+  tag:
+    | "functional-list"
+    /**
+     * @deprecated
+     */
+    | "advanced-list";
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */
-  content: AdvancedListComponentItemOptions[];
+  content: FunctionalListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }

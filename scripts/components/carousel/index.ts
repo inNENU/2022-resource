@@ -1,10 +1,10 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
 import { resolveStyle } from "../utils";
-import type { SwiperComponentOptions } from "./typings";
+import type { CarouselComponentOptions } from "./typings";
 
-export const resolveSwiper = (
-  element: SwiperComponentOptions,
+export const resolveCarousel = (
+  element: CarouselComponentOptions,
   location = ""
 ): void => {
   element.url?.forEach((link) => {

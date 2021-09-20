@@ -2,12 +2,12 @@ import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
 import { resolvePath } from "../utils";
 import type {
-  AdvancedListComponentOptions,
+  FunctionalListComponentOptions,
   ListComponentOptions,
 } from "./typings";
 
 export const resolveList = (
-  element: ListComponentOptions | AdvancedListComponentOptions,
+  element: ListComponentOptions | FunctionalListComponentOptions,
   pageId: string,
   location = ""
 ): void => {
