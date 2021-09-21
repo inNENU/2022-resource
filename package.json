@@ -28,7 +28,7 @@
     "@types/node": "16.9.4",
     "@types/qrcode": "1.4.1",
     "@typescript-eslint/eslint-plugin": "4.31.1",
-    "@typescript-eslint/parser": "4.31.1",
+    "@typescript-eslint/parser": "4.31.2",
     "axios": "0.21.4",
     "del": "6.0.0",
     "dotenv": "10.0.0",
