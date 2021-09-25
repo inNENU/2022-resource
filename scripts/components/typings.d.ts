@@ -47,13 +47,7 @@ export type PageTag =
   | "media"
   | "title"
   | "text"
-  | "phone"
-  /**
-   * @deprecated
-   */
-  | "intro"
-  | "advanced-list"
-  | "swiper";
+  | "phone";
 
 export type ComponentOptions =
   | AccountComponentOptions

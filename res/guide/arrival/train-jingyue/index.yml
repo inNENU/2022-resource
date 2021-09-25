@@ -1,12 +1,12 @@
 title: 长春站-到净月
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月25日
 shareable: true
 content:
   - tag: title
     text: 腾讯地图导航
 
-  - tag: advanced-list
+  - tag: functional-list
     header: false
     content:
       - type: navigator

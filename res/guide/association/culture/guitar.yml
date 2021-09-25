@@ -1,11 +1,11 @@
 title: 青音吉他社
 shareable: true
 content:
-  - tag: intro
+  - tag: account
     name: 青音吉他社
     logo: https://mp.innenu.com/img/association/guitar.jpg
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/association/guitar1.jpg
       - https://mp.innenu.com/img/association/guitar2.jpg

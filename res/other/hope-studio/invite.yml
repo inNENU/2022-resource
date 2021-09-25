@@ -4,7 +4,7 @@ content:
   - tag: text
     text: 希望工作室长期招新，有意者请
 
-  - tag: advanced-list
+  - tag: functional-list
     header: false
     content:
       - text: 联系 Mr.Hope

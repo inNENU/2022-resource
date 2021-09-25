@@ -3,7 +3,7 @@ desc: |-
   来源: 2021年本科招生指南
 shareable: true
 content:
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/school/physic.jpg
       - https://mp.innenu.com/img/school/physic1.jpg

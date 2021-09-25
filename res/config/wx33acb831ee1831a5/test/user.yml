@@ -21,7 +21,7 @@ content:
         icon: about
         url: about
 
-  - tag: advanced-list
+  - tag: functional-list
     header: 设置
     content:
       - type: picker
@@ -51,7 +51,7 @@ content:
       color: "#888"
       font-size: 14px
 
-  - tag: advanced-list
+  - tag: functional-list
     content:
       - text: 分享小程序
         icon: share

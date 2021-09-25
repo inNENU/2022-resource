@@ -1,9 +1,9 @@
 title: 民族教育学院介绍
 desc: "来源: 东北师范大学民族教育学院官网"
-time: 2021年8月15日
+time: 2021年9月25日
 shareable: true
 content:
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/school/people.jpg
 

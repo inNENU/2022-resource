@@ -1,7 +1,7 @@
 title: 中华古诗词吟诵团
 shareable: true
 content:
-  - tag: intro
+  - tag: account
     name: 中华古诗词吟诵团
     logo: https://mp.innenu.com/img/association/gushici.png
     desc: 薪火相传，舍我其谁
@@ -20,7 +20,7 @@ content:
       - 中华古诗词吟诵团，成立于2007年，是文学院下属的专业学生活动组织，文学院特色社团，历来受文学院老师的推荐。
       - 社团以“薪火相传，舍我其谁”为口号，将诗词吟诵传统应用到语文教学以及人们的日常生活中，为中华古诗词教学与现代传播做出自己的努力。
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/association/gushici1.jpg
       - https://mp.innenu.com/img/association/gushici2.jpg

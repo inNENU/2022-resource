@@ -168,12 +168,7 @@ export type FunctionalListComponentItemOptions =
   | ButtonListComponnetItemOptions;
 
 export interface FunctionalListComponentOptions extends BaseComponentOptions {
-  tag:
-    | "functional-list"
-    /**
-     * @deprecated
-     */
-    | "advanced-list";
+  tag: "functional-list";
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */

@@ -1,6 +1,6 @@
 title: 本部饮品店
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年9月25日
 shareable: true
 content:
   - tag: text
@@ -9,7 +9,7 @@ content:
       - Mr.Hope 正在整理此信息并欢迎您的协助。
       - 此处需包含饮品店包括咖啡店、奶茶店等相关校内外店铺。
 
-  - tag: advanced-list
+  - tag: functional-list
     content:
       - text: 联系 Mr.Hope
         icon: contact

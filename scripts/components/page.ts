@@ -81,14 +81,7 @@ export const resolvePage = (
       // 设置文档
       else if (element.tag === "doc") resolveDoc(element, position);
       // 设置列表组件
-      else if (
-        element.tag === "list" ||
-        element.tag === "functional-list" ||
-        /**
-         * @deprecated
-         */
-        element.tag === "advanced-list"
-      )
+      else if (element.tag === "list" || element.tag === "functional-list")
         resolveList(element, page.id, position);
       // 设置网格组件
       else if (element.tag === "grid") resolveGrid(element, page.id, position);
@@ -97,23 +90,9 @@ export const resolvePage = (
       // 设置电话
       else if (element.tag === "phone") resolvePhone(element, position);
       // 设置轮播图
-      else if (
-        element.tag === "carousel" ||
-        /**
-         * @deprecated
-         */
-        element.tag === "swiper"
-      )
-        resolveCarousel(element, position);
+      else if (element.tag === "carousel") resolveCarousel(element, position);
       // 设置介绍
-      else if (
-        element.tag === "account" ||
-        /**
-         * @deprecated
-         */
-        element.tag === "intro"
-      )
-        resolveAccount(element, position);
+      else if (element.tag === "account") resolveAccount(element, position);
       // 设置媒体
       else if (element.tag === "media") resolveMedia(element, position);
       // 设置卡片

@@ -1,9 +1,9 @@
 title: 体育学院介绍
 desc: "来源: 东北师范大学体育学院官网"
-time: 2021年8月28日
+time: 2021年9月25日
 shareable: true
 content:
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/school/PE.jpg
       - https://mp.innenu.com/img/school/PE1.jpg

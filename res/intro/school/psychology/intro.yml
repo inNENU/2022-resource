@@ -1,10 +1,10 @@
 title: 心理学院介绍
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年8月15日
+time: 2021年9月25日
 shareable: true
 content:
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/school/psychology.jpg
 

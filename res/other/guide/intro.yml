@@ -61,7 +61,7 @@ content:
     src: https://mp.innenu.com/img/about/warning.png
     desc: 由于腾讯不允许个人小程序直接放置收款二维码，如果您想要捐赠，请联系 Mr.Hope
 
-  - tag: advanced-list
+  - tag: functional-list
     header: false
     content:
       - text: 联系 Mr.Hope

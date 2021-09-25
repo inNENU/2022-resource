@@ -2,7 +2,7 @@ title: 社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月14日
+time: 2021年9月25日
 shareable: true
 content:
   - tag: text
@@ -53,7 +53,7 @@ content:
       - text: 学术科技类
         path: study/jingyue
 
-  - tag: advanced-list
+  - tag: functional-list
     header: 欢迎社团入驻本页面
     content:
       - text: 联系 Mr.Hope

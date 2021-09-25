@@ -20,7 +20,7 @@ content:
         icon: search
         url: page?path=other/guide/search
 
-  - tag: advanced-list
+  - tag: functional-list
     header: 支持小程序
     content:
       - text: 小程序每年会产生开销，如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。

@@ -1,9 +1,9 @@
 title: 历史文化学院介绍
 desc: "来源: 东北师范大学历史文化学院官网"
-time: 2021年8月15日
+time: 2021年9月25日
 shareable: true
 content:
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/school/history.jpg
       - https://mp.innenu.com/img/school/history1.jpg

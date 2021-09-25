@@ -13,7 +13,7 @@ content:
     type: video
     src: https://mp.innenu.com/file/organization/lightshow.mp4
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/organization/lightshow-1.jpg
       - https://mp.innenu.com/img/organization/lightshow-2.jpg
@@ -32,7 +32,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/organization/21day-poster.jpg
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/organization/21day-1.jpg
       - https://mp.innenu.com/img/organization/21day-2.jpg

@@ -1,9 +1,9 @@
 title: 萤火支教团
 author: Mr.Hope
-time: 2021年9月14日
+time: 2021年9月25日
 shareable: true
 content:
-  - tag: intro
+  - tag: account
     name: 萤火支教团
     logo: https://mp.innenu.com/img/association/yinghuo.png
     desc: 用生命感动生命
@@ -79,7 +79,7 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
       - https://mp.innenu.com/img/association/yinghuo-zhijiao2.jpg

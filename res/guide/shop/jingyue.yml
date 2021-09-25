@@ -1,7 +1,7 @@
 title: 净月校内超市
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年9月25日
 shareable: true
 content:
   - tag: title
@@ -42,7 +42,7 @@ content:
   - tag: text
     text: 净月超市周边包括干果店、打印店、水果店、饮品店、仿吾书店、眼镜店、服装店、药店、移动运营店、电脑维修店等。
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/shop/jingyue-grocery1.jpg
       - https://mp.innenu.com/img/shop/jingyue-grocery2.jpg
@@ -54,7 +54,7 @@ content:
     style:
       font-size: 14px
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/shop/jingyue-stationery1.jpg
       - https://mp.innenu.com/img/shop/jingyue-stationery2.jpg
@@ -86,7 +86,7 @@ content:
     src: https://mp.innenu.com/img/shop/jingyue-haircut.jpg
     desc: 理发店
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/shop/jingyue-coffee1.jpg
       - https://mp.innenu.com/img/shop/jingyue-coffee2.jpg
@@ -97,7 +97,7 @@ content:
     style:
       font-size: 14px
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
       - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
@@ -108,7 +108,7 @@ content:
     style:
       font-size: 14px
 
-  - tag: swiper
+  - tag: carousel
     url:
       - https://mp.innenu.com/img/shop/jingyue-shop1.jpg
       - https://mp.innenu.com/img/shop/jingyue-shop2.jpg

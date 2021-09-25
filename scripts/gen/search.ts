@@ -73,8 +73,9 @@ const createSearchMap = (folder: string): SearchInfo => {
       if (element.tag === "img" && element.desc)
         searchMap[pathName].text.push(element.desc);
 
-      if (element.tag === "intro") {
+      if (element.tag === "account") {
         searchMap[pathName].heading.push(element.name);
+        if (element.detail) searchMap[pathName].text.push(element.detail);
         if (element.desc) searchMap[pathName].text.push(element.desc);
       }
     });

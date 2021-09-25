@@ -1,12 +1,7 @@
 import type { BaseComponentOptions } from "../common";
 
 export interface AccountComponentOptions extends BaseComponentOptions {
-  tag:
-    | "account"
-    /**
-     * @deprecated
-     */
-    | "intro";
+  tag: "account";
   /** 主体名称 */
   name: string;
   /** 图标地址 */

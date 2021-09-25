@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月25日
 grey: true
 shareable: true
 content:
@@ -49,7 +49,7 @@ content:
         icon: plane
         path: plane-jingyue/
 
-  - tag: advanced-list
+  - tag: functional-list
     header: 到达长春后
     content:
       - type: navigator

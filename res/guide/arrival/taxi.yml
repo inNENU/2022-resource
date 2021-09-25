@@ -1,6 +1,6 @@
 title: 打车提示
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年9月25日
 shareable: true
 content:
   - tag: title
@@ -29,7 +29,7 @@ content:
       - 净月东北门在净月大街上。
       # - 私家车进入师大校园是要收停车费的。
 
-  - tag: advanced-list
+  - tag: functional-list
     header: 导航
     content:
       - type: navigator
