@@ -1,7 +1,7 @@
 title: 东师e起战疫
 grey: true
 author: Mr.Hope
-time: 2021年8月27日
+time: 2021年9月29日
 shareable: true
 content:
   - tag: list
@@ -14,10 +14,28 @@ content:
         icon: account
         path: login
 
-      - text: 返校打卡
+  - tag: list
+    header: 返校相关
+    content:
+      - text: 每日健康打卡介绍
         icon: check
-        path: return
+        path: check
 
-      - text: 返校码说明
-        icon: intro
+      - text: 返校健康码
+        icon: code
         path: code
+
+  - tag: list
+    header: 在校相关
+    content:
+      - text: 在校健康检测
+        icon: plan
+        path: report
+
+      - text: 出校申请
+        icon: exit
+        path: exit
+
+      - text: 返校申请
+        icon: entrance
+        path: return

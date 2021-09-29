@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2021年8月27日
+time: 2021年9月29日
 shareable: true
 content:
   - tag: text
@@ -65,10 +65,22 @@ content:
         icon: account
         path: miniprogram/login
 
-      - text: 返校打卡
+      - text: 每日健康打卡介绍
         icon: check
-        path: miniprogram/return
+        path: miniprogram/check
 
       - text: 返校码说明
         icon: intro
         path: miniprogram/code
+
+      - text: 在校健康检测
+        icon: plan
+        path: miniprogram/report
+
+      - text: 出校申请
+        icon: exit
+        path: miniprogram/exit
+
+      - text: 返校申请
+        icon: entrance
+        path: miniprogram/return
