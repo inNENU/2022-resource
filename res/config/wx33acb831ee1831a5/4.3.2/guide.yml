@@ -75,6 +75,12 @@ content:
         icon: network
         path: guide/network/
 
+      - text: E起战疫
+        color: grey
+        name: MiniApp
+        icon: miniapp
+        path: guide/miniapp/
+
       - text: 学费缴纳
         color: olive
         name: Pay
