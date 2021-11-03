@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年11月3日
 shareable: true
 content:
   - tag: title
@@ -51,7 +51,7 @@ content:
   - tag: text
     text:
       - 和其他邮箱一样，学校邮箱并没有什么特殊的功能。
-      - 其特殊的 .edu.cn 后缀，是其作为教育邮箱的提现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
+      - 其特殊的 .edu.cn 后缀，是其作为教育邮箱的体现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
 
   - tag: img
     src: https://mp.innenu.com/img/account/email.jpg

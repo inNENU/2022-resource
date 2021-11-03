@@ -12,12 +12,12 @@ interface AccountInfo {
   openid?: string;
 }
 
-interface AccountConfig {
+export interface AccountConfig {
   name: string;
   account: AccountInfo[];
 }
 
-export const checkAccount = (data: AccountConfig[]) => {
+export const checkAccount = (data: AccountConfig[]): AccountConfig[] => {
   data.forEach((item) => {
     item.account.forEach((config) => {
       if (
@@ -51,7 +51,7 @@ export const genAccount = (filePath: string): Promise<void> => {
 
   return Promise.all(
     results.map((item) =>
-      axios.get(item).then(({ data }) => {
+      axios.get<string>(item).then(({ data }) => {
         const [, cover = ""] =
           /<meta property="og:image" content="(.*?)" \/>/.exec(data) || [];
         const [, title = ""] =

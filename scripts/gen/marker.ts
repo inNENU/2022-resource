@@ -1,4 +1,4 @@
-import { Marker, MarkerConfig, MarkerData } from "./typings";
+import type { Marker, MarkerConfig, MarkerData } from "./typings";
 
 /**
  * 处理 marker
@@ -17,7 +17,7 @@ const genMarker = (
   ...(marker.path ? { path: `${category}/${marker.path}` } : {}),
 });
 
-interface MarkerOption {
+export interface MarkerOption {
   [props: string]: {
     /** 分类名称 */
     name: string;

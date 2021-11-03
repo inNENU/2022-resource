@@ -13,6 +13,12 @@ import { genSearchMap } from "./search";
 import { resolveMarker } from "./marker";
 import { genResource } from "./resource";
 
+import type { AccountConfig } from "./account";
+import type { Donate } from "./donate";
+import type { PEConfig } from "./peScore";
+import type { MarkerOption } from "./marker";
+import type { PageConfig } from "../components/typings";
+
 // 删除旧的文件
 del([
   "./resource/function/**",
@@ -27,13 +33,13 @@ del([
 // 功能大厅
 convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
-    ? resolveMarker(data)
+    ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
-    ? resolvePage(data, filePath)
+    ? resolvePage(data as PageConfig, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
-    ? genPEScore(data)
+    ? genPEScore(data as PEConfig)
     : /account\/(qq|wx)/u.exec(filePath)
-    ? checkAccount(data)
+    ? checkAccount(data as AccountConfig[])
     : (data as unknown)
 );
 
@@ -42,17 +48,17 @@ const diffResult = execSync("git status -s").toString();
 
 // 东师介绍
 convertYml2Json("./res/intro", "./resource/intro", (data, filePath) =>
-  resolvePage(data, `intro/${filePath}`, diffResult)
+  resolvePage(data as PageConfig, `intro/${filePath}`, diffResult)
 );
 
 // 东师指南
 convertYml2Json("./res/guide", "./resource/guide", (data, filePath) =>
-  resolvePage(data, `guide/${filePath}`, diffResult)
+  resolvePage(data as PageConfig, `guide/${filePath}`, diffResult)
 );
 
 // 其他文件
 convertYml2Json("./res/other", "./resource/other", (data, filePath) =>
-  resolvePage(data, `other/${filePath}`, diffResult)
+  resolvePage(data as PageConfig, `other/${filePath}`, diffResult)
 );
 
 // 生成转码后的图标
@@ -70,7 +76,7 @@ genLyric();
 convertYml2Json(
   "./res/config/donate",
   "./resource/other/donate",
-  (data, filePath) => genDonate(data, filePath)
+  (data, filePath) => genDonate(data as Donate, filePath)
 );
 
 // 生成 Sitemap
@@ -81,13 +87,13 @@ count();
 convertYml2Json(
   "./res/other/guide",
   "./resource/other/guide",
-  (data, filePath) => resolvePage(data, filePath)
+  (data, filePath) => resolvePage(data as PageConfig, filePath)
 );
 
 // 生成 tab 页
 convertYml2Json("./res/config", "./resource/config", (data, filePath) =>
   /(function|guide|intro|main|user)/u.exec(filePath)
-    ? resolvePage(data, filePath)
+    ? resolvePage(data as PageConfig, filePath)
     : (data as unknown)
 );
 

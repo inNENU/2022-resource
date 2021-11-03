@@ -24,7 +24,7 @@ export const convertFolder = (
           /\\/gu,
           "/"
         )
-      ),
+      ) as string,
       { encoding: "utf-8" }
     );
   });

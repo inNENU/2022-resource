@@ -7,7 +7,7 @@ export interface Donate {
   donations: [string, number][];
 }
 
-export const genDonate = (data: Donate, filePath: string) => {
+export const genDonate = (data: Donate, filePath: string): PageConfig => {
   const baseName = basename(filePath);
 
   const donateAmmount = data.donations.reduce(
