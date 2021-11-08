@@ -1,6 +1,6 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年9月18日
+time: 2021年11月8日
 shareable: true
 grey: true
 content:
@@ -34,6 +34,10 @@ content:
         icon: https://mp.innenu.com/img/organization/houpu.png
         path: hope
 
+      - text: 研究生支教团
+        icon: https://mp.innenu.com/img/organization/yan-zhi.png
+        path: yan-zhi
+
       - text: 团委融媒体中心
         icon: https://mp.innenu.com/img/organization/nenuyouth.png
         path: new-media-center
@@ -59,7 +63,7 @@ content:
         path: career-center
 
       - text: 青年马克思主义者学习研究会
-        icon: https://mp.innenu.com/img/organization/qingMaXueHui.png
+        icon: https://mp.innenu.com/img/organization/marx.png
         path: marxism
 
   - tag: list
