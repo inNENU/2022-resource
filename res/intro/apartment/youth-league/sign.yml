@@ -29,3 +29,30 @@ content:
     text:
       - 团徽上团旗的旗面和绶带为红色，团旗的五角星和环绕它的圆圈、旗边、旗杆、齿轮、麦穗、初升的太阳及其光芒、“中国共青团”五个字为金色。红为正红，金为大赤金。“中国共青团”字体为毛体。
       - 团徽徽章的直径为2厘米。
+
+  - tag: title
+    text: 中国共产主义青年团团歌
+
+  - tag: img
+    src: https://mp.innenu.com/img/apartment/group-song.jpg
+
+  - tag: text
+    heading: 团歌视频
+
+  - tag: media
+    type: video
+    src: http://youth.nenu.edu.cn/__local/8/E9/E1/814F000EDE3259CAC2D9F8F2E60_B997AA3D_937010.mp4?e=.mp4
+
+  - tag: text
+    heading: 团歌合唱
+
+  - tag: media
+    type: music
+    src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077722652.mp3
+
+  - tag: text
+    heading: 团歌伴奏
+
+  - tag: media
+    type: music
+    src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077217403.mp3
