@@ -1,7 +1,7 @@
 title: 校团委规章制度
 desc: |-
   信息来源: 校团委官网
-time: 2021年8月15日
+time: 2021年11月8日
 shareable: true
 content:
   - tag: title
@@ -18,6 +18,13 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/apartment/outdoorActivity.jpg
     desc: 学生户外文化活动申报流程
+
+  - tag: title
+    text: 重要文件
+
+  - tag: doc
+    name: 团员教育管理工作条例
+    url: https://mp.innenu.com/file/youth-league/rule.pdf
 
   - tag: title
     text: 相关文件

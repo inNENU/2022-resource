@@ -1,27 +1,22 @@
 title: 净月饮品店
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月8日
 shareable: true
 content:
-  - tag: text
-    type: tip
+  - tag: title
+    text: 校内
+
+  - tag: ul
     text:
-      - Mr.Hope 正在整理此信息并欢迎您的协助。
-      - 此处需包含饮品店包括咖啡店、奶茶店等相关校内外店铺。
+      - 二食堂超市对面
+      - |-
+        瑞幸咖啡: 二食堂近邻宝旁
+      - |-
+        黑泷堂: 学生浴池门口左侧
 
-  - tag: functional-list
-    content:
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-        env:
-          - wx
+  - tag: title
+    text: 校外
 
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
-        env:
-          - qq
+  - tag: text
+    text:
+      - 暂无信息

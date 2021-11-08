@@ -1,6 +1,6 @@
 title: 本部烘焙坊
 author: Mr.Hope
-time: 2021年9月16日
+time: 2021年11月8日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
   - tag: text
     heading: 八度烘焙
     text:
-      - 位于浴池一楼
+      - 位于北苑地下一楼
 
   - tag: list
     header: false
@@ -30,10 +30,6 @@ content:
   - tag: img
     src: https://mp.innenu.com/img/bath/benbu-shop2.jpg
     desc: 梅小姐私房烘焙店
-
-  - tag: img
-    src: https://mp.innenu.com/img/life/benbu/bath-bake.jpg
-    desc: 梅小姐私房烘焙店店内环境
 
   - tag: title
     text: 校外
