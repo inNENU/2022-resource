@@ -124,20 +124,30 @@
       logo: https://mp.innenu.com/img/organization/voice.png
       path: voice
 
-    - name: 志愿东师
-      desc: 东北师范大学红烛志愿者协会
-      logo: https://mp.innenu.com/img/media/zhiyuandongshi.png
-      path: zhiyuandongshi
-
     - name: 东师青马
       desc: 东北师范大学青年马克思主义者学习研究会
       logo: https://mp.innenu.com/img/organization/marx.png
       path: youth-marx
 
+    - name: 志愿东师
+      desc: 东北师范大学红烛志愿者协会
+      logo: https://mp.innenu.com/img/media/zhiyuandongshi.png
+      path: zhiyuandongshi
+
     - name: 厚普公益学校
       desc: 东北师范大学厚普公益学校
       logo: https://mp.innenu.com/img/organization/houpu.png
       path: hope
+
+    - name: 东师大学生创业中心
+      desc: 东北师范大学大学生创新创业中心
+      logo: https://mp.innenu.com/img/organization/daChuang.png
+      path: career-center
+
+    - name: NENU东小青
+      desc: 东北师范大学《东师青年》报社
+      logo: https://mp.innenu.com/img/organization/newspaper.png
+      path: newspaper
 
 - name: 学生社团
   account:

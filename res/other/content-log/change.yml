@@ -4,8 +4,16 @@ content:
     text: 11/9
 
   - tag: ul
+    heading: 新增
+    text:
+      - 大学生创新创业中心微信公众号
+      - 报社微信公众号
+
+  - tag: ul
     heading: 更新
     text:
+      - 大学生创新创业中心介绍
+      - 报社介绍
       - 快递地址
 
   - tag: title
