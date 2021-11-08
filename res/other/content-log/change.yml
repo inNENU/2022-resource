@@ -1,6 +1,14 @@
 title: 近期变更日志
 content:
   - tag: title
+    text: 11/9
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 快递地址
+
+  - tag: title
     text: 11/8
 
   - tag: ul
@@ -178,10 +186,6 @@ content:
       - 体育课评分
       - 体育课选课
 
-  - tag: ul
-    heading: 修复
-    text:
-      -
   - tag: title
     text: 9/11
 

@@ -1,6 +1,6 @@
 title: 快递
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月9日
 shareable: true
 content:
   - tag: text
@@ -14,7 +14,7 @@ content:
 
   - tag: copy
     header: 邮寄地址
-    text: 吉林省长春市南岭街道人民大街 5268 号
+    text: 吉林省长春市南关区南岭街道人民大街 5268 号
 
   - tag: copy
     header: 邮编
@@ -31,7 +31,7 @@ content:
 
   - tag: copy
     header: 邮寄地址
-    text: 吉林省长春市净月大街 2555 号
+    text: 吉林省长春市南关区净月街道净月大街 2555 号
 
   - tag: copy
     header: 邮编

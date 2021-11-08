@@ -69,7 +69,7 @@ export interface SliderListComponentItemOptions
   type: "slider";
   /** 滑块所控变量在 storage 中的 key 值 */
   key: string;
-  /** 滑块对应的的函数名称 */
+  /** 滑块对应的函数名称 */
   handler?: string;
   /**
    * 滑块的最小值

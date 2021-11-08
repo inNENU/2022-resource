@@ -1,11 +1,7 @@
 title: 内容更新日志
-gery: true
+grey: true
 content:
-  - tag: title
-    text: 近期内容变动
-
   - tag: list
-    header: false
     content:
       - text: 近期内容变动
         icon: idea
