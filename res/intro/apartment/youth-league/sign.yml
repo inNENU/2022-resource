@@ -47,12 +47,12 @@ content:
     heading: 团歌合唱
 
   - tag: media
-    type: music
+    type: audio
     src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077722652.mp3
 
   - tag: text
     heading: 团歌伴奏
 
   - tag: media
-    type: music
+    type: audio
     src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077217403.mp3
