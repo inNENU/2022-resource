@@ -12,11 +12,19 @@ content:
 
       - text: 规章制度
         icon: rule
-        path: rule
+        path: manage
 
   - tag: list
     header: 团务知识
     content:
+      - text: 中国共产主义青年团章程
+        icon: rule
+        path: rule
+
+      - text: 标识
+        icon: activity
+        path: sign
+
       - text: 共青团热词
         icon: intro
         path: group
