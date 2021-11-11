@@ -9,7 +9,10 @@ export const resolveMedia = (
     element,
     {
       tag: "string",
-      type: "string",
+      type: {
+        type: "string",
+        enum: ["audio", "video"],
+      },
       src: "string",
       loop: ["boolean", "undefined"],
       controls: ["boolean", "undefined"],
