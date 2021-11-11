@@ -1,6 +1,23 @@
 title: 近期变更日志
 content:
   - tag: title
+    text: 11/11
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新一批校园媒体文章列表
+      - 东师之声校园广播站介绍
+
+  - tag: title
+    text: 11/10
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新一批校园媒体文章列表
+
+  - tag: title
     text: 11/9
 
   - tag: ul
