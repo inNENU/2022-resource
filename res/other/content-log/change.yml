@@ -1,6 +1,15 @@
 title: 近期变更日志
 content:
   - tag: title
+    text: 11/12
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新大学生艺术团介绍
+      - 更新大体介绍
+
+  - tag: title
     text: 11/11
 
   - tag: ul

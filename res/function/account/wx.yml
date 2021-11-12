@@ -149,6 +149,11 @@
       logo: https://mp.innenu.com/img/organization/newspaper.png
       path: newspaper
 
+    - name: NENU艺术团
+      desc: 东北师范大学生艺术团
+      logo: https://mp.innenu.com/img/organization/daYi.png
+      path: art-ensemble
+
 - name: 学生社团
   account:
     - name: 东北师大萤火支教团
