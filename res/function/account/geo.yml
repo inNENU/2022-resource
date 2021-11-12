@@ -6,7 +6,8 @@ qrcode: https://mp.innenu.com/img/media/geo-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeBIX0XDljBRraFPmXfZExBYZZibJ1Xhb8LsnWlv7XjWUrC4T8FWn9rpBwXtHgZsduia0NibYWBGCqgtA/0?wx_fmt=jpeg
     title: 喜报 | 我院研究生辅导员沈雯入选2021年吉林省高校辅导员年度人物
-    desc: 沈雯：将育人育才使命镌刻在祖国的大地上
+    desc: |-
+      沈雯: 将育人育才使命镌刻在祖国的大地上
     url: https://mp.weixin.qq.com/s/wdsL2WFXXldIV3CQTtLSLQ
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeBIX0XDljBRraFPmXfZExBYcCzPlkpj0Fjd4icteU6v5jRDW1icqYDzXfTmvJrIoMibPDWpo5r1ibIlIA/0?wx_fmt=jpeg
@@ -25,7 +26,8 @@ article:
     url: https://mp.weixin.qq.com/s/Br525vPyS07QkSB1LbwkbQ
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeDDZ2yW6QgQ7nFVbnHe09DC0ic3GpjfZriaOGZOaPP7pcic8q19MVoufibbqR3uzQ6GSUqXxliawODDqMQ/0?wx_fmt=jpeg
-    title: 优博速览 | 寇新昌：免耕条件下黑土微食物网对外源秸秆碳输入的响应机制
+    title:  |-
+      优博速览 | 寇新昌: 免耕条件下黑土微食物网对外源秸秆碳输入的响应机制
     url: https://mp.weixin.qq.com/s/YwjeENWF_qePN-mFX60W-w
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeDpIcia6lDibq1zsqUOCKp0MUfjzQkwAWP7QUo3yaJicGVKfJSaqH29RbY49BDGhX04DYg1PicoxxFppg/0?wx_fmt=jpeg
@@ -64,7 +66,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeDLUKerGRIZkZa9RicHK7AciaFMENxDCibtN3dzTSX3c9oicl203X3SHQ94h5HHEP14v9tep4nI6ibhbYA/0?wx_fmt=jpeg
     title: 学院新闻 | 我校“长白山地理过程与生态安全教育部重点实验室” 顺利通过验收
-    desc: 8月14日，受教育部科学技术与信息化司委托，吉林省教育厅组织召开了“长白山地理过程与生态安全教育部重点实验室（东北师范大学）”建设项目验收会议
+    desc: 8月14日，受教育部科学技术与信息化司委托，吉林省教育厅组织召开了“长白山地理过程与生态安全教育部重点实验室(东北师范大学)”建设项目验收会议
     url: https://mp.weixin.qq.com/s/J8-ILaQ7J7svRW06Ksn3Ag
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeDo5d94DGL6QrY8V1oSdMJPTqOVxYoibpPgM2WYQu7ZjQgcECgqHKic8TicWFQFKc4feBzxW3Vuj1m3A/0?wx_fmt=jpeg
@@ -73,11 +75,12 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeCKl7NYVNtb7bo3O8yUWDXRgXRkdAw8JoYcTiby8XIz4zmfofdCu1SZAw2adgtYULEuyjC23hGhthw/0?wx_fmt=jpeg
     title: 重磅 | 习近平在庆祝中国共产党成立一百周年大会上的讲话
-    desc: 习近平：在庆祝中国共产党成立一百周年大会上的讲话
+    desc:  |-
+      习近平: 在庆祝中国共产党成立一百周年大会上的讲话
     url: https://mp.weixin.qq.com/s/2yg2YKLSuk12XyfR505uOg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeDGsjNYa8agIIJeNhbuqosiaHmvhf86a2ZuNHOIoW0pbdl7j3YBYxian6vMlSLVysVtuCMUdQ7qLFvw/0?wx_fmt=jpeg
-    title: 会议通知 | 中国地理学会地理模型与地理信息分析专业委员会 2021年学术年会通知（第二轮）
+    title: 会议通知 | 中国地理学会地理模型与地理信息分析专业委员会 2021年学术年会通知(第二轮)
     desc: 中国地理学会地理模型与地理信息分析专业委员会拟于2021年9月在吉林省长春市举办学术年会。现发布会议第二轮通知，并邀请相关领域专家、学者、研究生参会，交流研究成果。
     url: https://mp.weixin.qq.com/s/jCwtq3MGHSLJc0RHWswgrA
 

@@ -1,6 +1,7 @@
 name: NENU东小青
 detail: 东北师范大学《东师青年》报社
-desc: 关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人！（原名：东北师范大学东师青年）
+desc: |-
+  关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人！(原名: 东北师范大学东师青年)
 id: nenu-youth
 logo: https://mp.innenu.com/img/organization/newspaper.png
 qrcode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
@@ -75,7 +76,8 @@ article:
     url: https://mp.weixin.qq.com/s/pTQeZqlZbEomCRK1Ck1_0w
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnpTLrVZRTF503404gl4Sw3JRLQ0s5rvcQpBv6lmwGqXsbNSdXC2oJmQic5YV4k16Bqibx2MJAp88zw/0?wx_fmt=jpeg
-    title: 青·街访|吉林省博物院：与君共赴 红色之约
+    title: |-
+      青·街访|吉林省博物院: 与君共赴 红色之约
     desc: 阳月菊风携喜讯，神州华诞良辰。蹒跚步履七二春，云楼从地起，踏步再长征。
     url: https://mp.weixin.qq.com/s/8u5knp_vnZMyn-wGXpgDoA
 
@@ -115,7 +117,7 @@ article:
     url: https://mp.weixin.qq.com/s/YpjNT9EVuwfZZ-t5dl9xVA
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlED11KeQqtODr9ylvqTu0mpl6TZ8JnHGtOIDAjicNYibseAHIQqiaOibt9jX9YPlMUO2gjP7uXUMQc8A/0?wx_fmt=jpeg
-    title: 美食节丨放箸未觉全盘空，与君美食复甘眠（美食节线上活动来啦）
+    title: 美食节丨放箸未觉全盘空，与君美食复甘眠(美食节线上活动来啦)
     desc: 世界上没有什么烦恼，是一顿饭解决不了的。如果有，就来我们的美食节逛逛！
     url: https://mp.weixin.qq.com/s/Y-mfzMFyJkU5wxJJmHr2bg
 
