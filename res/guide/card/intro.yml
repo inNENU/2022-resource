@@ -1,6 +1,6 @@
 title: 校园卡介绍
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: title
@@ -19,12 +19,11 @@ content:
   - tag: ul
     heading: 生活
     text:
-      - 宿舍网络的自助付费
+      - 学校门禁
       - 食堂消费
-      - 超市购物
-      - 浴池洗浴
-      - 洗漱间的生活用水
-      - 饮用水接取
+      - 生活用水
+      - 饮用水
+      - 校园网缴费付费
       - 体育馆门禁
 
   - tag: ul

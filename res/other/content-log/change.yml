@@ -1,6 +1,37 @@
 title: 近期变更日志
 content:
   - tag: title
+    text: 11/14
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 需带物品新增数码产品类
+
+  # - tag: ul
+  #   heading: 更新
+  #   text:
+  #     - 本部快递介绍更新
+
+  - tag: ul
+    heading: 修正
+    text:
+      - 修正一些排版和错字问题
+
+  - tag: title
+    text: 11/13
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新校园卡板块
+
+  - tag: ul
+    heading: 修正
+    text:
+      - 修正一些排版和错字问题
+
+  - tag: title
     text: 11/12
 
   - tag: ul

@@ -2,7 +2,7 @@ title: 校园卡自助终端机充值
 desc: |-
   部分图像来自20安徽历史杨
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: text
@@ -47,7 +47,7 @@ content:
 
   - tag: text
     type: tip
-    text: 校园卡每次最多充值 200 元，如果想要充值更多钱可以分次充值。
+    text: 校园卡每次最多充值 200 元。
 
   - tag: ul
     type: warning
@@ -60,4 +60,4 @@ content:
     type: danger
     text:
       - 校园卡总额务必不要达到 4 位数(即一千元以上)，否则无法刷卡，这是因为普通卡机显示页面没有千位，导致刷卡会报错。
-      - 如果不小心转账超过一千元，请本人持卡到信息化办处理。
+      - 如果不小心转账超过一千元，请本人持卡到信息化办进行部分退费处理。
