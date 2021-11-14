@@ -11,11 +11,11 @@ import type {
   ListComponentOptions,
 } from "./list/typings";
 import type { LoadingComponentOptions } from "./loading/typings";
+import type { LocationComponentOptions } from "./location/typings";
 import type { MediaComponentOptions } from "./media/typings";
 import type { PhoneComponentOptions } from "./phone/typings";
 import type { TextComponentOptions } from "./text/typings";
 import type { TitleComponentOptions } from "./title/typings";
-
 import type { GeneralScopeData } from "./scopeData/typings";
 
 export * from "./account/typings";
@@ -27,6 +27,7 @@ export * from "./footer/typings";
 export * from "./grid/typings";
 export * from "./img/typings";
 export * from "./list/typings";
+export * from "./location/typings";
 export * from "./loading/typings";
 export * from "./media/typings";
 export * from "./phone/typings";
@@ -59,6 +60,7 @@ export type ComponentOptions =
   | FunctionalListComponentOptions
   | GridComponentOptions
   | ListComponentOptions
+  | LocationComponentOptions
   | ImageComponentOptions
   | MediaComponentOptions
   | LoadingComponentOptions

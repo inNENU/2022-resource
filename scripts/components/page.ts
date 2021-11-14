@@ -10,6 +10,7 @@ import { resolveFooter } from "./footer";
 import { resolveGrid } from "./grid";
 import { resolveList } from "./list";
 import { resolveLoading } from "./loading";
+import { resolveLocation } from "./location";
 import { resolveImg } from "./img";
 import { resolveMedia } from "./media";
 import { resolvePhone } from "./phone";
@@ -99,6 +100,8 @@ export const resolvePage = (
       else if (element.tag === "card") resolveCard(element, position);
       // 检测复制
       else if (element.tag === "copy") resolveCopy(element, position);
+      // 检测地点
+      else if (element.tag === "location") resolveLocation(element, position);
       // 检测加载
       else if (element.tag === "loading") resolveLoading(element, position);
       else
