@@ -16,11 +16,11 @@ content:
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
   - tag: card
-    src: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7z7Zaq7P7PRw8ycuI57XibfbicHbb0XzcXic0jTAyOGdp1cCrHHdP9VPG11sBJ9ic3mnJNzeN1gKwcEQ/0?wx_fmt=jpeg
-    title: 警惕线上投票
+    src: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+    title: 招纳小程序志愿者
     logo: https://mp.innenu.com/img/inNENU.png
     name: in东师
-    url: web?url=https://mp.weixin.qq.com/s/D4xn076BRR2Iw3qAMzv2Ig
+    url: web?url=https://mp.weixin.qq.com/s/smstzxKp_YEmeRYNFPd-Kw
 
   - tag: grid
     header: 您可能想关注
