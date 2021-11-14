@@ -9,6 +9,8 @@ export interface LocationConfig {
   latitude: number;
   /** 经度 */
   longitude: number;
+  /** 地图模块中的路径 */
+  path?: string;
 }
 
 export interface LocationComponentOptions extends BaseComponentOptions {

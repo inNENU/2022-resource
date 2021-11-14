@@ -1,7 +1,7 @@
 title: 本部研究生寝室安排
 desc: 部分照片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: title
@@ -15,6 +15,39 @@ content:
       - "七舍: 所有男生"
       - "八舍: 文学院、化学学院、地理科学学院"
       - "九舍: 教育学部、心理学院"
+
+  - tag: location
+    title: 本部研究生寝室
+    points:
+      - latitude: 43.86359
+        longitude: 125.33286
+        name: 二舍
+        path: dorm2
+
+      - latitude: 43.860830
+        longitude: 125.337208
+        name: 五舍
+        path: dorm5
+
+      - latitude: 43.860096
+        longitude: 125.336292
+        name: 六舍
+        path: dorm6
+
+      - latitude: 43.85993
+        longitude: 125.334912
+        name: 七舍
+        path: dorm7
+
+      - latitude: 43.863105
+        longitude: 125.336730
+        name: 八舍
+        path: dorm8
+
+      - latitude: 43.86129
+        longitude: 125.33649
+        name: 九舍
+        path: dorm9
 
   - tag: img
     src: https://mp.innenu.com/img/dorm/dorm2.jpg

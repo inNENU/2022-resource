@@ -18,10 +18,11 @@ export const resolveLocation = (
 
   element.points.forEach((item) => {
     checkKeys(item, {
-      name: ["string", "undefined"],
-      detail: ["string", "undefined"],
       latitude: "number",
       longitude: "number",
+      name: ["string", "undefined"],
+      detail: ["string", "undefined"],
+      path: ["string", "undefined"],
     });
   });
 };
