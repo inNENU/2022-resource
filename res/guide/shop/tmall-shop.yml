@@ -1,7 +1,7 @@
 title: 本部天猫超市
 desc: 分布图与照片由晴子提供
 author: Mr.Hope，晴子
-time: 2021年9月25日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: text
@@ -31,7 +31,7 @@ content:
   - tag: text
     heading: 自动付款(支付宝)
     text:
-      - 需要自行将商品扫码，并使用支付宝支付码进行支付
+      - 需要自行将商品扫码，并使用支付宝扫码或刷脸进行支付
 
   - tag: img
     src: https://mp.innenu.com/img/shop/tmall-shop-pay.jpg
@@ -40,7 +40,7 @@ content:
   - tag: text
     heading: 人工
     text:
-      - 如使用微信需要使用人工付款。
+      - 如使用微信或现金需要使用人工付款。
 
   - tag: title
     text: 价格

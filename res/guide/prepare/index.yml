@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年9月13日
+time: 2021年11月14日
 grey: true
 shareable: true
 content:
@@ -24,7 +24,7 @@ content:
         icon: time
         path: check-in-time
 
-      - text: 录取通知书内容详情
+      - text: 录取通知书详情
         icon: letter
         path: admission-notice
 

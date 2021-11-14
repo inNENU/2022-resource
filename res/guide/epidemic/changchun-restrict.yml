@@ -1,17 +1,22 @@
 title: 长春疫情管控地区
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: title
     text: 长春疫情管控地区
 
   - tag: text
+    text: 请您在微信上关注“长春疾控”微信公众号，对长春市的疫情管控地区进行关注和查阅。
+
+  - tag: title
+    text: 相关文件
+
+  - tag: text
     type: danger
     heading: 特别注意
     text:
-      - Mr.Hope 不保证每日更新此资讯。请自行关注微信公众号“长春疾控”查阅每日发布的最新消息。
-      # - 判定是按照对应日期所在地判定，也就是只要您到访或停留当天为管控地区，即会产生黄码，只有连续14天当天所在地区都并非管控地区，才会显示绿码。
+      - Mr.Hope 不保证及时同步此文件。请自行关注微信公众号“长春疾控”查阅每日发布的最新消息。
 
   - tag: doc
     name: 长春疫情管控地区 (8.23)

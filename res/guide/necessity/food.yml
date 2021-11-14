@@ -1,6 +1,6 @@
 title: 饮食相关类
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: text
@@ -16,8 +16,16 @@ content:
     text: 上课喝水用
 
   - tag: text
-    heading: 饭盒、筷子、勺子
-    text: 吃泡面、生病的时候打饭、吃外卖的时候架着塑料袋的时候用
+    heading: 饭盒
+    text:
+      - 吃泡面、生病的时候打饭、吃廉价外卖的时候架着塑料袋的时候用。
+      - 目前大部份外卖和食堂档口都会给塑料盒或者桶，而且如果生活费富裕只是偶尔泡面的话，购买桶装也不是不可以。
+
+  - tag: text
+    heading: 筷子、勺子
+    text:
+      - 最好准备一个，在寝室叫外卖就别要餐具了。
+      - 虽然食堂大部分档口打包的时候都可以要一双一次性筷子，但环保要从小事做起。
 
   - tag: text
     heading: 洗洁精、钢丝球

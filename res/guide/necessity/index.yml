@@ -1,6 +1,6 @@
 title: 各类物品
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月14日
 shareable: true
 content:
   - tag: p
@@ -50,20 +50,9 @@ content:
         icon: star
         path: artifact
 
-  - tag: title
-    text: 是否需要带电脑
-
-  - tag: ol
-    heading: 电脑在大学生活中有如下需求
-    text:
-      - 进入大学参加社团以后会有各方面工作需要由电脑完成；
-      - 学习过程中写论文的需求；
-      - 选课、考试报名、网上提交作业等等。学校图书馆专门开设有电子阅览室可供同学使用，有时较拥挤，总体来说不如自己带电脑方便；
-      - 对于部分专业来说电脑是刚需。
-
-  - tag: text
-    heading: 电脑是必需品么
-    text: 不是，但是没有电脑会很不方便。如果您的家庭拮据，您可以选择不购买电脑。日常使用电脑时，前往图书馆的电子阅览室，或和室友商量临时借用即可。
+      - text: 数码产品类
+        icon: digital
+        path: digital
 
   - tag: title
     text: 违禁物品
@@ -83,5 +72,4 @@ content:
     content:
       - text: Mr.Hope 的建议
         icon: idea
-
         path: advice
