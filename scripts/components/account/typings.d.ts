@@ -28,6 +28,8 @@ export interface AccountComponentOptions extends BaseComponentOptions {
     latitude: number;
     longitude: number;
   };
+  /** 网站地址 */
+  link?: string;
 
   /** @deprecated 账户 微信号 */
   wx?: string;

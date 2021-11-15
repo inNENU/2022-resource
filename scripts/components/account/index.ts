@@ -50,6 +50,7 @@ export const resolveAccount = (
       wxcode: ["string", "undefined"],
       account: ["string", "undefined"],
       location: ["object", "undefined"],
+      link: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
