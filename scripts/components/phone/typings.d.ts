@@ -37,7 +37,7 @@ export interface PhoneComponentOptions extends BaseComponentOptions {
   /** 联系人的网站 */
   site?: string;
   /** 联系人的电子邮件 */
-  email?: string;
+  mail?: string;
   /** 联系人的住宅电话 */
   homeNum?: string;
 }

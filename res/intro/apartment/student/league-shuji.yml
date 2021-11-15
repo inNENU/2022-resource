@@ -15,7 +15,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: handong@nenu.edu.cn
+    mail: handong@nenu.edu.cn
 
   - tag: title
     text: 心理学院
@@ -28,7 +28,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: guoqt242@nenu.edu.cn
+    mail: guoqt242@nenu.edu.cn
 
   - tag: title
     text: 政法学院
@@ -41,7 +41,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: lihq146@nenu.edu.cn
+    mail: lihq146@nenu.edu.cn
 
   - tag: title
     text: 经济与管理学院
@@ -54,7 +54,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: zhaojl290@nenu.edu.cn
+    mail: zhaojl290@nenu.edu.cn
 
   - tag: title
     text: 文学院
@@ -78,7 +78,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: dongj315@nenu.edu.cn
+    mail: dongj315@nenu.edu.cn
 
   - tag: title
     text: 外国语学院
@@ -91,7 +91,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: shangym238@nenu.edu.cn
+    mail: shangym238@nenu.edu.cn
 
   - tag: title
     text: 音乐学院
@@ -104,7 +104,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: dongy211@nenu.edu.cn
+    mail: dongy211@nenu.edu.cn
 
   - tag: title
     text: 美术学院
@@ -117,7 +117,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: zhaox717@nenu.edu.cn
+    mail: zhaox717@nenu.edu.cn
 
   - tag: title
     text: 马克思主义学部
@@ -130,7 +130,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: panwy650@nenu.edu.cn
+    mail: panwy650@nenu.edu.cn
 
   - tag: title
     text: 数学与统计学院
@@ -143,7 +143,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: renlt124@nenu.edu.cn
+    mail: renlt124@nenu.edu.cn
 
   - tag: title
     text: 信息科学与技术学院
@@ -156,7 +156,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: tengjb030@nenu.edu.cn
+    mail: tengjb030@nenu.edu.cn
 
   - tag: title
     text: 物理学院
@@ -169,7 +169,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: zangd764@nenu.edu.cn
+    mail: zangd764@nenu.edu.cn
 
   - tag: title
     text: 化学学院
@@ -182,7 +182,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: yangyl887@nenu.edu.cn
+    mail: yangyl887@nenu.edu.cn
 
   - tag: title
     text: 生命科学学院
@@ -195,7 +195,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: liudeying@nenu.edu.cn
+    mail: liudeying@nenu.edu.cn
 
   - tag: title
     text: 地理科学学院
@@ -208,7 +208,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: chenjing@nenu.edu.cn
+    mail: chenjing@nenu.edu.cn
 
   - tag: title
     text: 环境学院
@@ -221,7 +221,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: zhaox703@nenu.edu.cn
+    mail: zhaox703@nenu.edu.cn
 
   - tag: title
     text: 体育学院
@@ -234,7 +234,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: changy123@nenu.edu.cn
+    mail: changy123@nenu.edu.cn
 
   - tag: title
     text: 传媒科学学院
@@ -247,7 +247,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: zhangks007@nenu.edu.cn
+    mail: zhangks007@nenu.edu.cn
 
   - tag: title
     text: 民族教育学院
@@ -260,7 +260,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: mronghua@nenu.edu.cn
+    mail: mronghua@nenu.edu.cn
 
   - tag: title
     text: 罗格斯大学纽瓦克学院
@@ -273,7 +273,7 @@ content:
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    email: zhaoyb571@nenu.edu.cn
+    mail: zhaoyb571@nenu.edu.cn
 
   - tag: title
     text: 国际汉学院
@@ -286,4 +286,4 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: 85099525@nenu.edu.cn
+    mail: 85099525@nenu.edu.cn

@@ -14,6 +14,7 @@ content:
     location:
       latitude: 43.86221
       longitude: 125.33097
+    mail: chem@nenu.deu.cn
     site: https://chem.nenu.edu.cn/
 
   - tag: list
@@ -25,7 +26,3 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
-
-  - tag: copy
-    header: 官网地址
-    text: https://chem.nenu.edu.cn/

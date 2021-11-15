@@ -23,11 +23,14 @@ export interface AccountComponentOptions extends BaseComponentOptions {
   wxcode?: string;
   /** 账户 ID */
   account?: string;
+
   /** 位置  */
   location?: {
     latitude: number;
     longitude: number;
   };
+  /** 邮箱地址 */
+  mail?: string;
   /** 网站地址 */
   site?: string;
 

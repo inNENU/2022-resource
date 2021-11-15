@@ -11,6 +11,11 @@ content:
     wxid: geonenu
     wxcode: https://mp.innenu.com/img/media/geo-wechat.jpg
     account: geo
+    location:
+      latitude: 43.86294
+      longitude: 125.33052
+    mail: dili@nenu.edu.cn
+    site: https://geo.nenu.edu.cn/
 
   - tag: list
     content:
@@ -25,7 +30,3 @@ content:
       - text: 学科建设
         icon: bookshelf
         path: subject
-
-  - tag: copy
-    header: 官网地址
-    text: https://geo.nenu.edu.cn/

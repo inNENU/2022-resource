@@ -1,10 +1,15 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2021年9月14日
+time: 2021年11月15日
 shareable: true
 content:
-  - tag: title
-    text: Mr.Hope 个人简历
+  - tag: account
+    logo: https://mrhope.site/logo.png
+    name: Mr.Hope
+    desc: Where there is light, there is hope.
+    qq: 1178522294
+    qqid: 868D7B2F0C609B4285698EAB77A47BA1
+    site: https://mrhope.site
 
   - tag: p
     text: "Mr.Hope，男，1998 年生于辽宁省，为东北师范大学 2021 级理论物理硕士研究生，同时为 2020 届物理学本科生。"
@@ -24,10 +29,6 @@ content:
   - tag: copy
     header: Github
     text: https://github.com/Mister-Hope
-
-  - tag: copy
-    header: QQ
-    text: https://wpa.qq.com/msgrd?v=3&uin=1178522294&site=qq&menu=yes
 
   - tag: copy
     header: QQ 空间

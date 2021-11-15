@@ -47,6 +47,7 @@ export const resolveAccount = (
       wxcode: ["string", "undefined"],
       account: ["string", "undefined"],
       location: ["object", "undefined"],
+      mail: ["string", "undefined"],
       site: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },

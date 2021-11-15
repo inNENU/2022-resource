@@ -4,6 +4,19 @@ desc: |-
 time: 2021年11月15日
 shareable: true
 content:
+  - tag: account
+    name: 化学学院
+    logo: https://mp.innenu.com/img/media/chemistry.jpg
+    detail: 东师化院
+    wxid: dongshihuayuan
+    wxcode: https://mp.innenu.com/img/media/chemistry-wechat.jpg
+    account: chemistry
+    location:
+      latitude: 43.86221
+      longitude: 125.33097
+    mail: chem@nenu.deu.cn
+    site: https://chem.nenu.edu.cn/
+
   - tag: carousel
     url:
       - https://mp.innenu.com/img/school/chemistry.jpg
@@ -43,5 +56,5 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-    email: chem@nenu.deu.cn
+    mail: chem@nenu.deu.cn
     site: https://chem.nenu.edu.cn/

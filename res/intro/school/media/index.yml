@@ -11,6 +11,7 @@ content:
     wxid: nenu_media
     wxcode: https://mp.innenu.com/img/media/media-wechat.jpg
     account: media
+    site: http://chuanmei.nenu.edu.cn/
 
   - tag: list
     content:
@@ -21,7 +22,3 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
-
-  - tag: copy
-    header: 官网地址
-    text: http://chuanmei.nenu.edu.cn/
