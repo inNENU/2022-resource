@@ -1,12 +1,25 @@
 title: 专业所在校区
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
     text:
       - 东北师范大学有自由校区(本部)与净月校区(净月)两个校区。
       - 您可以根据录取通知书上的学院找到相应的校区。
+
+  - tag: location
+    title: 两校区
+    points:
+      - latitude: 43.86188
+        longitude: 125.33137
+        name: 本部
+        detail: 自由校区
+
+      - latitude: 43.82738
+        longitude: 125.4274
+        name: 净月
+        detail: 净月校区
 
   - tag: text
     type: warning

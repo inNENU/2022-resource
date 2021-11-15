@@ -1,13 +1,19 @@
 title: 本部浴池
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
-    text: 本部地址
+    text: 地址
 
   - tag: text
     text: 学生八舍旁，幼儿园园长培训中心后侧。
+
+  - tag: location
+    title: 本部浴池
+    points:
+      - latitude: 43.86249
+        longitude: 125.337057
 
   - tag: img
     src: https://mp.innenu.com/img/bath/benbu-main.jpg

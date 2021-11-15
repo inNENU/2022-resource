@@ -1,6 +1,6 @@
 title: 净月校区校门
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -15,6 +15,13 @@ content:
   - tag: title
     text: 净月东北门
 
+  - tag: location
+    title: 正门
+    points:
+      - latitude: 43.82853
+        longitude: 125.43107
+        detail: 1号门
+
   - tag: img
     src: https://mp.innenu.com/img/scenery/jingyue/gate/east.jpg
 
@@ -24,6 +31,13 @@ content:
 
   - tag: title
     text: 净月北门(雕塑门、2 号门)
+
+  - tag: location
+    title: 北门
+    points:
+      - latitude: 43.82886
+        longitude: 125.42689
+        detail: 雕塑门、2 号门
 
   - tag: text
     type: danger

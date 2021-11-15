@@ -10,6 +10,9 @@ content:
     wxid: nenuphy
     wxcode: https://mp.innenu.com/img/media/phy-wechat.jpg
     account: phy
+    location:
+      latitude: 43.86133
+      longitude: 125.33095
     site: http://www.phy.nenu.edu.cn/
 
   - tag: list

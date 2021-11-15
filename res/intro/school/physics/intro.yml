@@ -3,6 +3,18 @@ desc: |-
   来源: 2021年本科招生指南
 shareable: true
 content:
+  - tag: account
+    name: 物理学院
+    logo: https://mp.innenu.com/img/media/phy.jpg
+    detail: 东北师范大学物理学院
+    wxid: nenuphy
+    wxcode: https://mp.innenu.com/img/media/phy-wechat.jpg
+    account: phy
+    location:
+      latitude: 43.86133
+      longitude: 125.33095
+    site: http://www.phy.nenu.edu.cn/
+
   - tag: carousel
     url:
       - https://mp.innenu.com/img/school/physic.jpg

@@ -224,21 +224,21 @@ facility:
   content:
     - latitude: 43.82704
       longitude: 125.42385
-      name: 中快餐厅
-      detail: 净月校区中快餐厅
+      name: 一食堂
+      detail: 净月校区一食堂
 
     - latitude: 43.825301
       longitude: 125.424682
-      name: 学生二食堂
-      detail: 净月校区学生二食堂
+      name: 二食堂
+      detail: 净月校区二食堂
 
     - latitude: 43.82599
       longitude: 125.42091
       name: 浴池
       detail: 净月校区浴池
 
-    - latitude: 43.825722826
-      longitude: 125.424438715
+    - latitude: 43.8257228
+      longitude: 125.4244387
       name: 卫生所
       detail: 净月校区卫生所
 

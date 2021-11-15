@@ -1,6 +1,6 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -14,6 +14,12 @@ content:
 
   - tag: title
     text: 本部东北门(动植物园对面)
+
+  - tag: location
+    title: 东北门
+    points:
+      - latitude: 43.86409
+        longitude: 125.33468
 
   - tag: img
     src: https://mp.innenu.com/img/scenery/benbu/gate/north.jpg
@@ -30,6 +36,13 @@ content:
 
   - tag: title
     text: 本部正门
+
+  - tag: location
+    title: 正门
+    points:
+      - latitude: 43.86167
+        longitude: 125.3256
+        detail: 西门
 
   - tag: text
     type: danger
@@ -49,6 +62,12 @@ content:
 
   - tag: title
     text: 本部北门(东师会馆、幼儿园旁)
+
+  - tag: location
+    title: 北门
+    points:
+      - latitude: 43.86393
+        longitude: 125.33015
 
   - tag: text
     type: danger

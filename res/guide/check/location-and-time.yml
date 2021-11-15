@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -81,6 +81,12 @@ content:
   - tag: text
     text: 本部校区在东北门(动植物公园正门对面)进门的街道
 
+  - tag: location
+    title: 本部东北门
+    points:
+      - latitude: 43.86409
+        longitude: 125.33468
+
     # text: 本部校区在同心路上(化院、排球场门前对着的那条路)
   # - tag: img
   #   src: https://mp.innenu.com/img/check/benbu-stage.jpg
@@ -105,3 +111,9 @@ content:
 
   # - tag: img
   #   src: https://mp.innenu.com/img/check/jingyue-stage.jpg
+
+  - tag: location
+    title: 净月正门
+    points:
+      - latitude: 43.86409
+        longitude: 125.33468

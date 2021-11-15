@@ -11,6 +11,10 @@ content:
     wxid: nenu_media
     wxcode: https://mp.innenu.com/img/media/media-wechat.jpg
     account: media
+    location:
+      latitude: 43.82637
+      longitude: 125.42704
+    mail: chuanmei@nenu.edu.cn
     site: http://chuanmei.nenu.edu.cn/
 
   - tag: list

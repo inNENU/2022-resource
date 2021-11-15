@@ -1,6 +1,6 @@
 title: 食堂
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -8,9 +8,6 @@ content:
 
   - tag: text
     text: 本部校区有北苑餐厅和南苑餐厅两个食堂。北苑餐厅共两层，南苑餐厅共三层。
-
-  - tag: img
-    src: https://mp.innenu.com/img/dining/dining1.jpg
 
   - tag: list
     header: false

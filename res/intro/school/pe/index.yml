@@ -11,6 +11,10 @@ content:
     wxid: nenupetw
     wxcode: https://mp.innenu.com/img/media/pe-wechat.jpg
     account: pe
+    location:
+      latitude: 43.85841
+      longitude: 125.32668
+    mail: pe@nenu.edu.cn
     site: https://pe.nenu.edu.cn/
 
   - tag: list

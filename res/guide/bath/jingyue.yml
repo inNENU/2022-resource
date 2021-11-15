@@ -1,7 +1,7 @@
 title: 净月浴池
 desc: 特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -9,7 +9,16 @@ content:
 
   - tag: text
     text:
-      - 净月校区浴池位于净月校区教师进修中心1️⃣楼，在光华宿舍楼的西北方向，
+      - 位于净月校区教师进修中心1️⃣楼，在光华宿舍楼的西北方向，
+
+  - tag: location
+    title: 净月浴池
+    points:
+      - latitude: 43.82599
+        longitude: 125.42091
+
+  - tag: text
+    text:
       - 浴池内提供直饮水服务并免费提供电吹风，同时还有健身房💪。
       - 浴池旁有打印店🖨、奶茶店☕、小型超市🏪、修理铺🛠等商家，可满足同学们部分日常需求。
 

@@ -3,6 +3,13 @@ author: Mr.Hope
 time: 2021年11月15日
 shareable: true
 content:
+  - tag: account
+    name: 信息化办
+    logo: https://mp.innenu.com/img/media/official.png
+    detail: 东北师范大学信息化办公室
+    mail: xxhb@nenu.edu.cn
+    site: https://xxhb.nenu.edu.cn/
+
   - tag: p
     text: 如果要办理校园卡开户、销户、基本信息变更、补卡、换卡等相关业务，可以到信息化办办理。
 
@@ -13,6 +20,13 @@ content:
     heading: 地址
     text:
       - 田家炳楼 213(二楼右手边)
+
+  - tag: location
+    title: 本部信息化办
+    points:
+      - latitude: 43.8617
+        longitude: 125.32983
+        detail: 田家炳楼 213(二楼右手边)
 
   - tag: ul
     heading: 工作时间
@@ -31,6 +45,13 @@ content:
     heading: 地址
     text:
       - 冬华公寓 2 楼，入口在冬华公寓正门左侧
+
+  - tag: location
+    title: 净月信息化办
+    points:
+      - latitude: 43.824566
+        longitude: 125.425725
+        detail: 冬华公寓 2 楼，入口在冬华公寓正门左侧
 
   - tag: ul
     heading: 工作时间

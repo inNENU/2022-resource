@@ -76,7 +76,7 @@ dorm:
     - latitude: 43.863549
       longitude: 125.335808
       name: 三舍C
-      detail: 东北师范大学学生三舍A
+      detail: 东北师范大学学生三舍C
       path: dorm3C
 
     - latitude: 43.863553
@@ -120,6 +120,12 @@ dorm:
       name: 九舍
       detail: 东北师范大学学生九舍
       path: dorm9
+
+    - latitude: 43.859127
+      longitude: 125.326921
+      name: 体育宿舍
+      detail: 东北师范大学体育学院宿舍
+      path: pe
 
 school:
   name: 学院

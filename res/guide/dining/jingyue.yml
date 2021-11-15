@@ -1,10 +1,21 @@
 title: 净月食堂
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
     text: 净月校区有两个食堂，分别为一食堂和二食堂，一食堂有三层、二食堂有两层。
+
+  - tag: location
+    title: 净月食堂
+    points:
+      - latitude: 43.82704
+        longitude: 125.42385
+        name: 一食堂
+
+      - latitude: 43.825301
+        longitude: 125.424682
+        name: 二食堂
 
   - tag: list
     header: false
