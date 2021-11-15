@@ -1,6 +1,6 @@
 title: 招生办公室联系方式
 desc: 信息来自东北师范大学本科招生网
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
@@ -17,9 +17,9 @@ content:
     num: 0431-85098500
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
     email: zsb@nenu.edu.cn
-    website: http://zsb.nenu.edu.cn
+    site: http://zsb.nenu.edu.cn
 
   - tag: text
     heading: 传真

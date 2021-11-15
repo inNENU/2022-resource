@@ -1,6 +1,6 @@
 title: 教育学部招生
 desc: 研究生招生信息来自研究生院
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -40,7 +40,7 @@ content:
     org: 东北师范大学教育学部
     title: 本科教务秘书
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
     email: fed@nenu.edu.cn
 
   - tag: title
@@ -58,5 +58,5 @@ content:
     org: 东北师范大学教育学部
     title: 硕士研究生招生负责人
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
     email: xiaojg074@nenu.edu.cn

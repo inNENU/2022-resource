@@ -17,7 +17,8 @@ content:
     num: 0431-85684088
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
+    site: https://www.nenu.edu.cn/
 
   - tag: list
     header: 学校介绍

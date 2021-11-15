@@ -1,7 +1,7 @@
 title: 心理咨询服务
 desc: |-
   信息来源: 学生处官网
-time: 2021年9月6日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -38,7 +38,7 @@ content:
     num: 0431-85099129
     org: 东北师范大学学生心理发展指导中心
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
 
   - tag: title
     text: 邮件心理服务
@@ -64,7 +64,7 @@ content:
     num: 0431-85098816
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
 
   - tag: phone
     header: 长春市心理援助热线

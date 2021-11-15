@@ -27,11 +27,8 @@ export const resolveAccount = (
 
   if (element.location)
     checkKeys(
-      element,
-      {
-        latitude: "number",
-        longitude: "number",
-      },
+      element.location,
+      { latitude: "number", longitude: "number" },
       `${location}.location`
     );
 
@@ -50,7 +47,7 @@ export const resolveAccount = (
       wxcode: ["string", "undefined"],
       account: ["string", "undefined"],
       location: ["object", "undefined"],
-      link: ["string", "undefined"],
+      site: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
     location

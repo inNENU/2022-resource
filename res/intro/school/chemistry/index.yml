@@ -14,7 +14,7 @@ content:
     location:
       latitude: 43.86221
       longitude: 125.33097
-    link: https://chem.nenu.edu.cn/
+    site: https://chem.nenu.edu.cn/
 
   - tag: list
     content:

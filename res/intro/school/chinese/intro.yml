@@ -1,7 +1,7 @@
 title: 文学院介绍
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: carousel
@@ -46,5 +46,6 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     hostNum: 0431-85099492
-    postCode: "130024"
+    postCode: 130024
     email: chinese@nenu.edu.cn
+    site: http://chinese.nenu.edu.cn/home

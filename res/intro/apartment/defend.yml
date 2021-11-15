@@ -1,6 +1,6 @@
 title: 保卫科
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,8 @@ content:
     num: 0431-85098110
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
+    site: https://bwc.nenu.edu.cn/
 
   - tag: title
     text: 净月
@@ -27,7 +28,8 @@ content:
     num: 0431-85096110
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
-    postCode: "130024"
+    postCode: 130024
+    site: https://bwc.nenu.edu.cn/
 
   - tag: title
     text: 机构设置

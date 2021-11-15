@@ -1,6 +1,6 @@
 title: 户口迁移
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -37,7 +37,7 @@ content:
     num: 0431-85099938
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
 
   - tag: text
     heading: 净月
@@ -49,7 +49,7 @@ content:
     num: 0431-84536111
     org: 东北师范大学
     street: 吉林省长春市净月大街2555号
-    postCode: "130024"
+    postCode: 130024
 
   - tag: title
     text: 迁移流程

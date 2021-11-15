@@ -1,7 +1,7 @@
 title: 外国语学院
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: carousel
@@ -42,9 +42,10 @@ content:
 
   - tag: phone
     fName: 外国语学院
-    num: "0431-85099679"
+    num: 0431-85099679
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     hostNum: 0431-85099679
     postCode: 130024(本部) / 130117(净月)
     email: wy@nenu.edu.cn
+    site: https://wy.nenu.edu.cn/

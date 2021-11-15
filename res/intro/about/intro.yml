@@ -1,6 +1,6 @@
 title: 东北师范大学介绍
 desc: 2020年12月2日更新，由学校办公室提供
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -29,4 +29,5 @@ content:
     num: 0431-85684088
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
-    postCode: "130024"
+    postCode: 130024
+    site: https://www.nenu.edu.cn/

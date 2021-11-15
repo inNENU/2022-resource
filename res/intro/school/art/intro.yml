@@ -2,7 +2,7 @@ title: 美术介绍
 desc: |-
   来源: 东北师范大学美术学院官网
   最后更新于: 2015年11月20日
-time: 2021年8月28日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -41,5 +41,6 @@ content:
     num: 0431-84536535
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
-    postCode: "130117"
+    postCode: 130117
     email: nenuart@nenu.edu.cn
+    site: https://fineart.nenu.edu.cn/

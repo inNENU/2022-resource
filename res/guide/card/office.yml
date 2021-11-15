@@ -1,6 +1,6 @@
 title: 信息化办
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: p
@@ -49,6 +49,7 @@ content:
     num: 0431-85099005
     fName: 信息化办人工服务电话
     org: 东北师范大学
+    site: https://xxhb.nenu.edu.cn/
 
   - tag: text
     type: tip
@@ -59,6 +60,7 @@ content:
     num: 0431-85099119
     fName: 信息化办24小时自助服务电话
     org: 东北师范大学
+    site: https://xxhb.nenu.edu.cn/
 
   - tag: ul
     heading: "其他联系方式"

@@ -19,7 +19,7 @@ export interface PhoneComponentOptions extends BaseComponentOptions {
   /** 联系人的昵称 */
   nickName?: string;
   /** 联系人头像图片路径(仅限本地路径) */
-  head?: string;
+  avatar?: string;
   /** 联系人的微信号 */
   wechat?: string;
   /** 联系人的地址省份 */
@@ -35,7 +35,7 @@ export interface PhoneComponentOptions extends BaseComponentOptions {
   /** 联系人的公司电话 */
   hostNum?: string;
   /** 联系人的网站 */
-  website?: string;
+  site?: string;
   /** 联系人的电子邮件 */
   email?: string;
   /** 联系人的住宅电话 */
