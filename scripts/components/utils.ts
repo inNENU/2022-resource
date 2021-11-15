@@ -1,4 +1,5 @@
 import { assertType } from "@mr-hope/assert-type";
+import { relative, resolve, sep } from "path";
 
 export const camelCase2kebabCase = (str: string): string => {
   const hyphenateRE = /([^-])([A-Z])/gu;
@@ -10,7 +11,12 @@ export const camelCase2kebabCase = (str: string): string => {
 };
 
 export const resolvePath = (path: string): string =>
-  path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index");
+  relative(
+    process.cwd(),
+    resolve(
+      path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index")
+    )
+  ).replaceAll(sep, "/");
 
 /** 处理样式 */
 export const resolveStyle = (styleObj: Record<string, string>): string => {

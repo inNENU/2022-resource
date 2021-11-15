@@ -34,7 +34,7 @@ content:
         color: grey
         name: Arrival
         icon: locate
-        path: /guide/arrival/
+        path: guide/arrival/
 
       - text: 新生报到
         color: orange
@@ -142,7 +142,7 @@ content:
         color: grey
         name: Traffic
         icon: traffic
-        path: /guide/traffic/
+        path: guide/traffic/
 
   - tag: grid
     header: 学在东师

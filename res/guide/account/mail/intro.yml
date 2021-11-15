@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年11月3日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,7 @@ content:
     content:
       - text: 邮箱账户获取
         icon: apply
-        path: /guide/account/authorize
+        path: ../authorize
 
   - tag: text
     type: info

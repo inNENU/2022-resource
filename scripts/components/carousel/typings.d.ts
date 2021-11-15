@@ -4,6 +4,12 @@ export interface CarouselComponentOptions extends BaseComponentOptions {
   tag: "carousel";
   /** swiper 展示的图片的在线网址或本地路径 */
   url: string[];
+  /**
+   * 轮播图是否填满屏幕宽度
+   *
+   * @default false
+   */
+  fill?: boolean;
   /** swiper 的类名 */
   class?: string;
   /** swiper 的样式 */

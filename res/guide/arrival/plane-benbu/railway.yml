@@ -1,6 +1,6 @@
 title: 坐飞机-到本部-动车
 author: Mr.Hope
-time: 2021年9月14日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
@@ -63,4 +63,4 @@ content:
     content:
       - text: 长春站-本部
         icon: railway
-        path: /guide/arrival/train-benbu/
+        path: ../train-benbu/

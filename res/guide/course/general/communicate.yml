@@ -1,6 +1,6 @@
 title: 交流表达与信息素养
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: title
@@ -44,4 +44,4 @@ content:
     header: false
     content:
       - text: 英语课程介绍
-        path: /guide/course/english/
+        path: ../english/

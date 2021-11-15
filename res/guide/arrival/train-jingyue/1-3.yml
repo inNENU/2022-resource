@@ -1,6 +1,6 @@
 title: 长春站-到净月-1转3
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
@@ -89,7 +89,7 @@ content:
     content:
       - text: 长春站南出站口进1号线
         icon: ban
-        path: /guide/arrival/train-benbu/south-1
+        path: ../train-benbu/south-1
 
   - tag: text
     heading: 地铁口位置

@@ -1,6 +1,6 @@
 title: 长春西站-到净月-打车
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
@@ -68,4 +68,4 @@ content:
     content:
       - text: 更多打车相关提示
         icon: taxi
-        path: /guide/arrival/taxi
+        path: ../taxi

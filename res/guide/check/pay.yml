@@ -1,6 +1,6 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2021年9月13日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: text
@@ -29,7 +29,7 @@ content:
     content:
       - text: 绿色通道
         icon: green-tunnel
-        path: /guide/check/green-tunnel
+        path: green-tunnel
 
   - tag: title
     text: 缴费方式
