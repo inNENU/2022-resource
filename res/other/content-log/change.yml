@@ -1,6 +1,14 @@
 title: 近期变更日志
 content:
   - tag: title
+    text: 11/15
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 小程序隐私说明
+
+  - tag: title
     text: 11/14
 
   - tag: ul
