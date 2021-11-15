@@ -1,16 +1,16 @@
 title: 体育学院
 grey: true
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
     name: 体育学院
     logo: https://mp.innenu.com/img/media/pe.png
     detail: 青年力量
-    wx: nenupetw
-    wxQRCode: https://mp.innenu.com/img/media/pe-wechat.jpg
-    path: pe
+    wxid: nenupetw
+    wxcode: https://mp.innenu.com/img/media/pe-wechat.jpg
+    account: pe
 
   - tag: list
     content:

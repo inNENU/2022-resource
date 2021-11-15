@@ -7,10 +7,10 @@ content:
     detail: 东北师范大学学生宿舍自我管理委员会
     desc: 东师小蜗牛们的温暖家园
     qq: 3544543750
-    qqQRCode: https://mp.innenu.com/img/media/xiaowo-qq.jpg
-    wx: Nenuxiaowo
-    wxQRCode: https://mp.innenu.com/img/media/xiaowo-wechat.jpg
-    path: xiaowo
+    qqcode: https://mp.innenu.com/img/media/xiaowo-qq.jpg
+    wxid: Nenuxiaowo
+    wxcode: https://mp.innenu.com/img/media/xiaowo-wechat.jpg
+    account: xiaowo
 
   - tag: card
     logo: https://mp.innenu.com/img/organization/xiaowo.png

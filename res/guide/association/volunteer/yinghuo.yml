@@ -1,6 +1,6 @@
 title: 萤火支教团
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
@@ -8,11 +8,11 @@ content:
     logo: https://mp.innenu.com/img/association/yinghuo.png
     desc: 用生命感动生命
     qq: 3550392854
-    wx: yinghuozhijiao
-    qqQRCode: https://mp.innenu.com/img/media/yinghuo-qq-qrcode.jpg
-    wxQRCode: https://mp.innenu.com/img/media/yinghuo-wx-qrcode.jpg
-    openid: 8507E3EA960DDE8979AE5EB56CB1ED37
-    path: yinghuo
+    qqid: 8507E3EA960DDE8979AE5EB56CB1ED37
+    qqcode: https://mp.innenu.com/img/media/yinghuo-qq-qrcode.jpg
+    wxid: yinghuozhijiao
+    wxcode: https://mp.innenu.com/img/media/yinghuo-wx-qrcode.jpg
+    account: yinghuo
 
   - tag: title
     text: 社团简介

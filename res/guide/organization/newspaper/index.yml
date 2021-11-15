@@ -6,9 +6,9 @@ content:
     logo: https://mp.innenu.com/img/organization/newspaper.png
     desc: 东北师范大学《东师青年》报社
     qq: 3495764565
-    wx: nenu-youth
-    wxQRCode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
-    path: newspaper
+    wxid: nenu-youth
+    wxcode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
+    account: newspaper
 
   - tag: list
     header: 纳新

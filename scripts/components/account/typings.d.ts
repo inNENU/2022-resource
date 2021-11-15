@@ -13,14 +13,30 @@ export interface AccountComponentOptions extends BaseComponentOptions {
 
   /** 账户 QQ 号 */
   qq?: number;
-  /** 账户 微信号 */
-  wx?: string;
-  /** 账户 QQ 二维码 */
-  qqQRCode?: string;
   /** 账户 QQ openid */
-  openid?: string;
+  qqid?: string;
+  /** 微信公众号 ID */
+  wxid?: string;
+  /** 账户 QQ 二维码 */
+  qqcode?: string;
   /** 账户 微信二维码 */
+  wxcode?: string;
+  /** 账户 ID */
+  account?: string;
+  /** 位置  */
+  location?: {
+    latitude: number;
+    longitude: number;
+  };
+
+  /** @deprecated 账户 微信号 */
+  wx?: string;
+  /** @deprecated 账户 QQ 二维码 */
+  qqQRCode?: string;
+  /** @deprecated 账户 QQ openid */
+  openid?: string;
+  /** @deprecated 账户 微信二维码 */
   wxQRCode?: string;
-  /** 账户微信详情名称 */
+  /** @deprecated 账户微信详情名称 */
   path?: string;
 }

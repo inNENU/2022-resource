@@ -6,8 +6,8 @@ content:
     logo: https://mp.innenu.com/img/association/quyi.png
     desc: 一起欢乐，一起进步
     qq: 1913856914
-    qqQRCode: https://mp.innenu.com/img/media/green-qq-qrcode.png
-    openid: 524B5980588BE76C3D5FA8B2683B9B40
+    qqid: 524B5980588BE76C3D5FA8B2683B9B40
+    qqcode: https://mp.innenu.com/img/media/green-qq-qrcode.png
 
   - tag: card
     logo: https://mp.innenu.com/img/association/quyi.png

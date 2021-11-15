@@ -1,16 +1,16 @@
 title: 大学生创新创业中心
 desc: |-
   来源: 校团委官网
-time: 2021年11月13日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
     name: 大学生创新创业中心
     logo: https://mp.innenu.com/img/organization/daChuang.png
     desc: 东北师范大学大学生创新创业中心
-    wx: chuangyezhongxin
-    wxQRCode: https://mp.innenu.com/img/media/career-center-wechat.jpg
-    path: career-center
+    wxid: chuangyezhongxin
+    wxcode: https://mp.innenu.com/img/media/career-center-wechat.jpg
+    account: career-center
 
   - tag: title
     text: 组织简介及工作理念

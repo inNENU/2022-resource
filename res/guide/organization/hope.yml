@@ -1,7 +1,7 @@
 title: 厚普公益学校
 desc: |-
   来源: 校团委官网
-time: 2021年11月8日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
@@ -9,9 +9,9 @@ content:
     detail: 厚德载物，普泽爱心
     logo: https://mp.innenu.com/img/organization/houpu.png
     desc: 东北师范大学厚普公益学校
-    wx: houpu2009
-    wxQRCode: https://mp.innenu.com/img/media/hope-wechat.jpg
-    path: hope
+    wxid: houpu2009
+    wxcode: https://mp.innenu.com/img/media/hope-wechat.jpg
+    account: hope
 
   - tag: title
     text: 总述

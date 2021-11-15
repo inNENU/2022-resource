@@ -1,6 +1,6 @@
 title: 绿色动力环保志愿者协会
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
@@ -8,8 +8,8 @@ content:
     logo: https://mp.innenu.com/img/association/green.png
     desc: 天地你我共有，环保大家一起上
     qq: 1913856914
-    qqQRCode: https://mp.innenu.com/img/media/green-qq-qrcode.png
-    openid: 524B5980588BE76C3D5FA8B2683B9B40
+    qqid: 524B5980588BE76C3D5FA8B2683B9B40
+    qqcode: https://mp.innenu.com/img/media/green-qq-qrcode.png
 
   - tag: title
     text: 社团简介

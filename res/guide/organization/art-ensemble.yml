@@ -5,9 +5,9 @@ content:
     name: 大学生艺术团
     logo: https://mp.innenu.com/img/organization/daYi.png
     desc: 东北师范大学大学生艺术团
-    wx: nenuyishutuan
-    wxQRCode: https://mp.innenu.com/img/media/art-ensemble-wechat.jpg
-    path: art-ensemble
+    wxid: nenuyishutuan
+    wxcode: https://mp.innenu.com/img/media/art-ensemble-wechat.jpg
+    account: art-ensemble
 
   - tag: p
     text:

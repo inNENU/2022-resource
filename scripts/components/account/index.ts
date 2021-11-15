@@ -13,17 +13,27 @@ export const resolveAccount = (
     console.warn(`Image ${element.logo} not exist in ${location}`);
   }
   if (
-    element.qqQRCode?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.qqQRCode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
+    element.qqcode?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.qqcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
-    console.warn(`Image ${element.qqQRCode} not exist in ${location}`);
+    console.warn(`Image ${element.qqcode} not exist in ${location}`);
   }
   if (
-    element.wxQRCode?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.wxQRCode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
+    element.wxcode?.match(/https?:\/\/mp\.innenu\.com/) &&
+    !existsSync(element.wxcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
-    console.warn(`Image ${element.wxQRCode} not exist in ${location}`);
+    console.warn(`Image ${element.wxcode} not exist in ${location}`);
   }
+
+  if (element.location)
+    checkKeys(
+      element,
+      {
+        latitude: "number",
+        longitude: "number",
+      },
+      `${location}.location`
+    );
 
   checkKeys(
     element,
@@ -34,13 +44,21 @@ export const resolveAccount = (
       detail: ["string", "undefined"],
       desc: ["string", "undefined"],
       qq: ["number", "undefined"],
-      qqQRCode: ["string", "undefined"],
-      wx: ["string", "undefined"],
-      wxQRCode: ["string", "undefined"],
-      openid: ["string", "undefined"],
-      path: ["string", "undefined"],
+      qqid: ["string", "undefined"],
+      qqcode: ["string", "undefined"],
+      wxid: ["string", "undefined"],
+      wxcode: ["string", "undefined"],
+      account: ["string", "undefined"],
+      location: ["object", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
   );
+
+  // TODO: Remove
+  if (element.account) element.path = element.account;
+  if (element.qqid) element.openid = element.qqid;
+  if (element.wxid) element.wx = element.wxid;
+  if (element.qqcode) element.qqQRCode = element.qqcode;
+  if (element.wxcode) element.wxQRCode = element.wxcode;
 };

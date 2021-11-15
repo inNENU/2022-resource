@@ -1,6 +1,6 @@
 title: 模拟联合国协会
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月15日
 shareable: true
 content:
   - tag: account
@@ -8,9 +8,9 @@ content:
     detail: 东北师范大学模拟联合国协会
     desc: 东北师范大学模拟联合国协会，简称东师模联(NENUMUN)，协会秉承“全球视野，青年使命”的活动理念，已开展多次模联活动。本公众平台，将会给大家推动协会内部活动信息和各高校模联大会参会信息。
     logo: https://mp.innenu.com/img/association/mun.png
-    wx: gh_6a5ebeb38e0a
-    wxQRCode: https://mp.innenu.com/img/media/mun-wx-qrcode.jpg
-    path: mun
+    wxid: gh_6a5ebeb38e0a
+    wxcode: https://mp.innenu.com/img/media/mun-wx-qrcode.jpg
+    account: mun
 
   - tag: title
     text: 社团简介
