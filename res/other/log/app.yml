@@ -1,27 +1,46 @@
 title: 小程序更新日志
 content:
+  - tag: title
+    text: 近期更新
+
   - tag: list
-    header: 近期更新
+    header: v4.4.2
     content:
       - text: |-
-          v4.3.0:
+          · 新增位置组件
+          · 优化账户组件
+
+  - tag: list
+    header: v4.3.0
+    content:
+      - text: |-
           · 适配 iPad
 
+  - tag: list
+    header: v4.2.0
+    content:
       - text: |-
-          v4.2.0:
           · 新增东师网站
           · 新增东师媒体号
           · 新增师大黄页
           · 增加媒体号引流
 
+  - tag: list
+    header: v4.1.0
+    content:
       - text: |-
-          v4.1.0:
           · 重构 Tab 页 UI
           · 优化分享逻辑
 
+  - tag: list
+    header: v4.0.0
+    content:
       - text: |-
-          v4.0.0:
           · 重构底层，进一步提升性能
 
+  - tag: list
+    header: 更多
+    content:
       - text: 查看详细日志
-        url: page?path=other/log/index
+        icon: time
+        url: page?path=other/log/history/

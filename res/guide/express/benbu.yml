@@ -27,7 +27,8 @@ content:
   - tag: list
     header: false
     content:
-      - text: 详情
+      - text: 查看详情
+        icon: cainiao
         path: cainiao
 
   - tag: title
@@ -36,7 +37,8 @@ content:
   - tag: list
     header: false
     content:
-      - text: 详情
+      - text: 查看详情
+        icon: express-cabinet
         path: benbu-cabinet
 
   - tag: title
@@ -45,7 +47,8 @@ content:
   - tag: list
     header: false
     content:
-      - text: 详情
+      - text: 查看详情
+        icon: express
         path: benbu-temp
 
   - tag: title
