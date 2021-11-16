@@ -11,7 +11,7 @@ content:
 
       - text: 小程序更新日志
         icon: log
-        url: log
+        url: page?path=other/log/
 
       - text: 关于
         icon: about

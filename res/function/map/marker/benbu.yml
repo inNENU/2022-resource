@@ -316,11 +316,16 @@ facility:
       detail: 菜鸟驿站东北师范大学综合服务中心
       path: cainiao
 
-    - latitude: 43.860065
-      longitude: 125.338122
-      name: 中通快递点
-      detail: 自由校区中通快递点
-      path: zhongtong
+    - latitude: 43.863654
+      longitude: 125.336322
+      name: 快递柜
+      path: express-cabinet
+
+    # - latitude: 43.860065
+    #   longitude: 125.338122
+    #   name: 中通快递点
+    #   detail: 自由校区中通快递点
+    #   path: zhongtong
 
 sports:
   name: 运动场地

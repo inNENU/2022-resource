@@ -5,13 +5,13 @@ hidden: true
 content:
   - tag: list
     content:
-      - text: 小程序使用指南
+      - text: 使用指南
         icon: idea
         url: page?path=other/guide/
 
-      - text: 小程序更新日志
+      - text: 更新日志
         icon: log
-        url: log
+        url: page?path=other/log/
 
       - text: 关于
         icon: about

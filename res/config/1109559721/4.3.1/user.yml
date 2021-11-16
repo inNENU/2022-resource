@@ -5,7 +5,7 @@ hidden: true
 content:
   - tag: list
     content:
-      - text: 小程序使用指南
+      - text: 使用指南
         icon: idea
         url: page?path=other/guide/
 

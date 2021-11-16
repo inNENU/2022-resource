@@ -1,6 +1,21 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/16
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 本部临时取件点介绍
+      - 菜鸟身份码介绍
+      - 本部快递柜介绍
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 本部菜鸟驿站介绍
+
+  - tag: title
     text: 11/15
 
   - tag: ul
@@ -15,11 +30,6 @@ content:
     heading: 新增
     text:
       - 需带物品新增数码产品类
-
-  # - tag: ul
-  #   heading: 更新
-  #   text:
-  #     - 本部快递介绍更新
 
   - tag: ul
     heading: 修正
