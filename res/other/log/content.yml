@@ -1,6 +1,15 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/17
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新驿站关闭事件
+      - 更新临时取件点图片
+
+  - tag: title
     text: 11/16
 
   - tag: ul
