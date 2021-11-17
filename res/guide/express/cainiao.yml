@@ -19,7 +19,7 @@ content:
 
   - tag: text
     heading: 营业时间
-    text: 8:30🕣 — 19:00🕖 (周六、周日正常派发快递信件)
+    text: 8:30🕣 — 20:00🕖 (周六、周日正常派发快递信件)
 
   - tag: phone
     header: 联系电话
@@ -33,7 +33,7 @@ content:
   - tag: text
     type: info
     heading: 取件码的格式
-    text: 货架号 —— 层号(自上而下编号 1-6) —— 在这一行里的位置
+    text: 货架号 — 层号(自上而下编号 1-6) — 位置
 
   - tag: ol
     text:
@@ -41,6 +41,13 @@ content:
       - 调出菜鸟驿站身份码
       - 在自助扫描机扫描处，同时扫描快递单号与身份码
       - 机器发出取件成功的提示音后，取件完成
+
+  - tag: list
+    header: false
+    content:
+      - text: 身份码获得
+        icon: code
+        path: cainiao-code
 
   - tag: ul
     type: warning
@@ -56,12 +63,6 @@ content:
       - 请确保将快递包含单号的那面朝上，保证快递单上的条形码和手机显示的身份码全都进入扫描区域并无遮挡方可取件成功。
       - 如果网不好或者操作不当导致出错，机器会发出“出错了，请联系工作人员”的提示音。此时请移出快递，待机器屏幕警示消失后，再次尝试扫描。
       - 如果一直扫描出错，请联系驿站工作人员处理。
-
-  - tag: list
-    header: false
-    content:
-      - text: 身份码获得
-        path: cainiao-code
 
   - tag: title
     text: 环境介绍

@@ -16,10 +16,6 @@ content:
       - 临时取件点未配备自助出库机，以人工方式进行取件。
       - 取件时需告知工作人员取件人姓名和手机尾号，由工作人员手动扫码出库。
 
-  # - tag: img
-  #   src: https://mp.innenu.com/img/express/benbu-temp-entrance.jpg
-  #   desc: 临时取件点入口
-
   - tag: location
     title: 临时取件点
     points:
@@ -27,9 +23,13 @@ content:
         longitude: 125.336528
         detail: 三舍AB地下车库
 
-  # - tag: text
-  #   heading: 开放时间
-  #   text: ??? : ???
+  - tag: img
+    src: https://mp.innenu.com/img/express/benbu-temp-entrance.jpg
+    desc: 临时取件点入口
+
+  - tag: text
+    heading: 开放时间
+    text: 8:30 - 21:30
 
   - tag: title
     text: 环境介绍
@@ -38,6 +38,6 @@ content:
     src: https://mp.innenu.com/img/express/benbu-temp.jpg
     desc: 临时取件点内景
 
-  # - tag: img
-  #   src: https://mp.innenu.com/img/express/benbu-temp-fetch.jpg
-  #   desc: 临时取件点出库处
+  - tag: img
+    src: https://mp.innenu.com/img/express/benbu-temp-scan.jpg
+    desc: 临时取件点出库处
