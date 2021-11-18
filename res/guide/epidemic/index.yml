@@ -61,7 +61,7 @@ content:
         icon: intro
         path: /guide/miniapp/
 
-  - tag: list
+  - tag: functional-list
     header: 相关小程序
     content:
       - text: 核酸检测查询
