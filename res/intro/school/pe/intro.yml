@@ -1,6 +1,6 @@
 title: 体育学院介绍
 desc: "来源: 东北师范大学体育学院官网"
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -17,7 +17,7 @@ content:
     site: https://pe.nenu.edu.cn/
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/PE.jpg
       - https://mp.innenu.com/img/school/PE1.jpg
       - https://mp.innenu.com/img/school/PE2.jpg

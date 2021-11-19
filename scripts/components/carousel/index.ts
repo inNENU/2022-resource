@@ -7,7 +7,7 @@ export const resolveCarousel = (
   element: CarouselComponentOptions,
   location = ""
 ): void => {
-  element.url?.forEach((link) => {
+  element.images?.forEach((link) => {
     if (
       link.match(/https?:\/\/mp\.innenu\.com/) &&
       !existsSync(link.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
@@ -24,7 +24,7 @@ export const resolveCarousel = (
     element,
     {
       tag: "string",
-      url: "string[]",
+      images: "string[]",
       class: ["string", "undefined"],
       style: ["string", "undefined"],
       indicatorDots: ["boolean", "undefined"],
@@ -63,4 +63,7 @@ export const resolveCarousel = (
     },
     location
   );
+
+  // TODO: Remove
+  element.url = element.images;
 };

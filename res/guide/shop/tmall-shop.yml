@@ -1,7 +1,7 @@
 title: 本部天猫超市
 desc: 分布图与照片由晴子提供
 author: Mr.Hope，晴子
-time: 2021年11月14日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: text
@@ -55,7 +55,7 @@ content:
     heading: 生活用品区
 
   - tag: carousel
-    url:
+    images:
       - "https://mp.innenu.com/img/shop/tmall-shop1.jpg"
       - "https://mp.innenu.com/img/shop/tmall-shop2.jpg"
       - "https://mp.innenu.com/img/shop/tmall-shop3.jpg"
@@ -70,7 +70,7 @@ content:
     heading: 食品区
 
   - tag: carousel
-    url:
+    images:
       - "https://mp.innenu.com/img/shop/tmall-shop10.jpg"
       - "https://mp.innenu.com/img/shop/tmall-shop11.jpg"
       - "https://mp.innenu.com/img/shop/tmall-shop12.jpg"
@@ -80,6 +80,6 @@ content:
     heading: 饮品区
 
   - tag: carousel
-    url:
+    images:
       - "https://mp.innenu.com/img/shop/tmall-shop14.jpg"
       - "https://mp.innenu.com/img/shop/tmall-shop15.jpg"

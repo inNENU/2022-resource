@@ -1,6 +1,6 @@
 title: 萤火支教团
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -80,7 +80,7 @@ content:
     src: https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
       - https://mp.innenu.com/img/association/yinghuo-zhijiao2.jpg
       - https://mp.innenu.com/img/association/yinghuo-zhijiao3.jpg

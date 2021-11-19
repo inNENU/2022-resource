@@ -1,6 +1,6 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
@@ -49,7 +49,7 @@ content:
     text: 疫情报到期间此门关闭!
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
       - https://mp.innenu.com/img/scenery/benbu/gate/west2.jpg
       - https://mp.innenu.com/img/scenery/benbu/gate/west3.jpg

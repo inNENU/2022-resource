@@ -1,6 +1,6 @@
 title: 八度烘焙
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
     desc: 八度烘焙
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/life/benbu/badu1.jpg
       - https://mp.innenu.com/img/life/benbu/badu2.jpg
       - https://mp.innenu.com/img/life/benbu/badu3.jpg

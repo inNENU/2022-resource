@@ -25,7 +25,7 @@ content:
       font-size: 18px
 
   - tag: carousel
-    url:
+    images:
       - "https://mp.innenu.com/img/association/quyi1.jpg"
       - "https://mp.innenu.com/img/association/quyi2.jpg"
       - "https://mp.innenu.com/img/association/quyi3.jpg"

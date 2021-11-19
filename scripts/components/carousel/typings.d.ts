@@ -3,7 +3,7 @@ import type { BaseComponentOptions, ImageMode } from "../common";
 export interface CarouselComponentOptions extends BaseComponentOptions {
   tag: "carousel";
   /** swiper 展示的图片的在线网址或本地路径 */
-  url: string[];
+  images: string[];
   /**
    * 轮播图是否填满屏幕宽度
    *
@@ -86,4 +86,7 @@ export interface CarouselComponentOptions extends BaseComponentOptions {
   imgClass?: string;
   /** 图片的显示模式 */
   imgmode?: ImageMode;
+
+  /** @deprecated */
+  url?: string[];
 }

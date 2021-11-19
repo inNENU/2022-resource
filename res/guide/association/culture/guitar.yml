@@ -6,7 +6,7 @@ content:
     logo: https://mp.innenu.com/img/association/guitar.jpg
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/association/guitar1.jpg
       - https://mp.innenu.com/img/association/guitar2.jpg
       - https://mp.innenu.com/img/association/guitar3.jpg

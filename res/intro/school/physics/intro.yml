@@ -16,7 +16,7 @@ content:
     site: http://www.phy.nenu.edu.cn/
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/physic.jpg
       - https://mp.innenu.com/img/school/physic1.jpg
 

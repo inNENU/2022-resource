@@ -1,11 +1,11 @@
 title: 文学院介绍
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/literature.jpg
       - https://mp.innenu.com/img/school/literature1.jpg
 

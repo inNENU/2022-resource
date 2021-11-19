@@ -1,6 +1,6 @@
 title: 本部浴池
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
@@ -35,7 +35,7 @@ content:
       - 还有一个小小的男宾。😑
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/bath/benbu-shop1.jpg
       - https://mp.innenu.com/img/bath/benbu-shop2.jpg
       - https://mp.innenu.com/img/bath/benbu-shop3.jpg

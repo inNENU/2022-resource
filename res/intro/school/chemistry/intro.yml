@@ -1,7 +1,7 @@
 title: 化学学院介绍
 desc: |-
   来源: 2021本科招生指南
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -18,7 +18,7 @@ content:
     site: https://chem.nenu.edu.cn/
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/chemistry.jpg
       - https://mp.innenu.com/img/school/chemistry1.jpg
 

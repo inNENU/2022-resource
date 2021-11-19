@@ -1,7 +1,7 @@
 title: 教育学部介绍
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -18,7 +18,7 @@ content:
     site: https://edu.nenu.edu.cn/
 
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/education.jpg
 
   - tag: title

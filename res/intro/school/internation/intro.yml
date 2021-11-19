@@ -1,11 +1,11 @@
 title: 国际汉学院介绍
 desc: |-
   来源: 东北师范大学国际汉学院官网
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: carousel
-    url:
+    images:
       - https://mp.innenu.com/img/school/confucius.jpg
 
   - tag: title
