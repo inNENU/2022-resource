@@ -9,8 +9,12 @@ export type TextAlign =
 export interface TextComponentOptions extends BaseComponentOptions {
   /** 文字标签 */
   tag: "text" | "p" | "ol" | "ul";
-  /** 段落类型 */
-  type?: "tip" | "warning" | "danger" | "info";
+  /**
+   * 段落类型
+   *
+   * @default 'none'
+   */
+  type?: "tip" | "warning" | "danger" | "info" | "none";
   /** 段落标题 */
   heading?: string | true;
   /** 段落文字 */
