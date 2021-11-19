@@ -51,6 +51,7 @@ export const resolvePage = (
       hidden: ["boolean", "undefined"],
       shareable: ["boolean", "undefined"],
       contact: ["boolean", "undefined"],
+      outdated: ["boolean", "undefined"],
       photo: ["string[]", "undefined"],
       images: "string[]",
     },

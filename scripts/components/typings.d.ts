@@ -87,6 +87,12 @@ export interface PageConfig {
   /** 页面图片 */
   images?: string[];
   /**
+   * 页面内容是否已过时
+   *
+   * @default false
+   */
+  outdated?: boolean;
+  /**
    * 是否可以使用小程序的界面分享
    *
    * @default false
