@@ -1,14 +1,21 @@
 title: 转专业
 author: Mr.Hope
-time: 2021年9月11日
-grey: true
+time: 2021年11月19日
 shareable: true
 content:
+  - tag: title
+    text: 本科生转专业
+
   - tag: list
     content:
+      - text: 相关公告
+        desc: 2021年
+        icon: notice
+        path: notice
+
       - text: 全日制本科生转专业实施办法
         desc: 官方文件
-        icon: about
+        icon: contract
         path: rule
 
       - text: 本科生转专业实施办法解读
@@ -19,6 +26,10 @@ content:
         icon: flow
         path: flow
 
+      - text: 本科生转专业准入细则
+        icon: alert
+        path: requirement
+
       - text: 常见问题
         icon: faq
         path: faq
@@ -27,13 +38,12 @@ content:
         icon: idea
         path: advice
 
-  - tag: doc
-    name: 各专业准入细则
-    url: https://mp.innenu.com/file/study/switchMajor.pdf
+  - tag: title
+    text: 转专业公示名单
 
   - tag: text
-    heading: " "
-    text: 以下信息仅供热门专业、人数的参考
+    type: info
+    text: 以下信息为“公开公示信息”，不涉及到个人隐私之说，仅供热门专业、人数的参考。
 
   - tag: doc
     name: 2021年转专业公示名单
