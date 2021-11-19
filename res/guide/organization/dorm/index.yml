@@ -13,10 +13,10 @@ content:
     account: xiaowo
 
   - tag: card
+    cover: https://mp.innenu.com/img/media/join.png
     logo: https://mp.innenu.com/img/organization/xiaowo.png
     name: 东师小窝
     title: 我们在纳新
-    src: https://mp.innenu.com/img/media/join.png
     url: page?id=/guide/organization/dorm/intake
 
   - tag: title

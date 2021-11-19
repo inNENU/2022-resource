@@ -7,7 +7,7 @@ content:
     desc: 东北师范大学英语协会
 
   - tag: card
-    src: https://mp.innenu.com/img/association/ea-cover.jpg
+    cover: https://mp.innenu.com/img/association/ea-cover.jpg
     logo: https://mp.innenu.com/img/association/ea.jpg
     title: 英协纳新啦
     url: page?id=guide/association/culture/ea-intake

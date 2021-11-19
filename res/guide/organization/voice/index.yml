@@ -1,7 +1,7 @@
 title: “东师之声”校园广播站
 desc: |-
   来源: 校团委官网
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -16,10 +16,10 @@ content:
     account: voice
 
   - tag: card
+    cover: https://mp.innenu.com/img/media/join.png
     logo: https://mp.innenu.com/img/organization/voice.png
     name: “东师之声”校园广播站
     title: 我们在纳新
-    src: https://mp.innenu.com/img/media/join.png
     url: page?id=/guide/organization/voice/intake
 
   - tag: title

@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2021年11月18日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: text
@@ -61,11 +61,8 @@ content:
         icon: intro
         path: /guide/miniapp/
 
-  - tag: functional-list
-    header: 相关小程序
-    content:
-      - text: 核酸检测查询
-        appid: wx2eec5fb00157a603
-        path: fangkongfuwu/pages/kths/index
-    env:
-      - wx
+  - tag: card
+    title: 核酸检测查询
+    options:
+      appId: wx2eec5fb00157a603
+      path: fangkongfuwu/pages/kths/index

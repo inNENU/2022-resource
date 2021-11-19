@@ -7,7 +7,7 @@ content:
     desc: 薪火相传，舍我其谁
 
   - tag: card
-    src: https://mp.innenu.com/img/association/gushici-cover.jpg
+    cover: https://mp.innenu.com/img/association/gushici-cover.jpg
     logo: https://mp.innenu.com/img/association/gushici.png
     title: 我们纳新了
     url: page?id=guide/association/culture/poem-intake

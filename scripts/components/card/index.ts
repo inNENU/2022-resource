@@ -16,27 +16,51 @@ export const resolveCard = (
   }
 
   if (
-    element.src?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.src.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
+    element.cover?.startsWith("https://mp.innenu.com") &&
+    !existsSync(element.cover.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
   ) {
-    console.warn(`Image ${element.src} not exist in ${location}`);
+    console.warn(`Image ${element.cover} not exist in ${location}`);
   }
-
-  element.type = element.url.match(/^https?:\/\//) ? "web" : "page";
 
   checkKeys(
     element,
     {
       tag: "string",
-      type: "string",
-      src: "string",
-      url: "string",
+      cover: "string",
+      url: ["string", "undefined"],
       title: "string",
       desc: ["string", "undefined"],
       logo: ["string", "undefined"],
       name: ["string", "undefined"],
+      options: ["object", "undefined"],
       env: ["string[]", "undefined"],
     },
     location
   );
+
+  if ("options" in element)
+    checkKeys(
+      element.options,
+      {
+        appId: "string",
+        envVersion: {
+          type: ["string", "undefined"],
+          enum: ["develop", "trial", "release", undefined],
+        },
+        extraData: ["Record<string, any>", "undefined"],
+        path: ["string", "undefined"],
+        shortLink: ["string", "undefined"],
+      },
+      `${location}.options`
+    );
+
+  // TODO: Remove
+  element.type =
+    "options" in element
+      ? "miniprogram"
+      : element.url.match(/^https?:\/\//)
+      ? "web"
+      : "page";
+
+  if (element.cover) element.src = element.cover;
 };

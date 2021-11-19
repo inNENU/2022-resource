@@ -10,10 +10,10 @@ content:
     qqcode: https://mp.innenu.com/img/media/green-qq-qrcode.png
 
   - tag: card
+    cover: https://mp.innenu.com/img/media/join.png
     logo: https://mp.innenu.com/img/association/quyi.png
     name: 师说曲艺社
     title: 我们在纳新
-    src: https://mp.innenu.com/img/media/join.png
     url: page?id=/guide/association/culture/quyi-in
 
   - tag: text
