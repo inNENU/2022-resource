@@ -1,7 +1,7 @@
 title: 红烛志愿者协会
 desc: |-
   来源: 校团委官网
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -12,6 +12,7 @@ content:
     wxid: zhiyuandongshi
     wxcode: https://mp.innenu.com/img/media/zhiyuandongshi-qrcode.jpg
     account: zhiyuandongshi
+    mail: dongshihongzhu@163.com
 
   - tag: p
     heading: " "
@@ -80,16 +81,8 @@ content:
       - 岁月缝花，二十六载光阴辗转成诗，山水一程，十六万红烛人奉献无声。每一个东师人都在诠释着一种红烛精神，每一个红烛人都在展示着一张东师名片。那是一种情系家国的信仰，那是一份桃李不言的师德，那是一份守望相助的情怀，那是一份笃定前行的梦想。红烛人，唯有不忘东师初心，方得烛火燎原。红且贯日，我志一梦不改；烛火荧光，愿映三春繁花！
 
   - tag: title
-    text: 联系方式
-
-  - tag: copy
-    header: QQ
-    text: "2256715009"
+    text: 其他联系方式
 
   - tag: copy
     header: 微博
     text: https://weibo.com/RCVAofNENU
-
-  - tag: copy
-    header: 邮箱
-    text: dongshihongzhu@163.com

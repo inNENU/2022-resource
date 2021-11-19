@@ -6,9 +6,12 @@ content:
   - tag: title
     text: 店铺位置
 
-  - tag: text
-    text:
-      - 店铺位于北苑地下一楼
+  - tag: location
+    title: 八度烘焙
+    points:
+      - latitude: 43.862772
+        longitude: 125.333208
+        detail: 位于北苑地下一楼
 
   - tag: img
     src: https://mp.innenu.com/img/life/benbu/badu.jpg

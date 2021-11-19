@@ -3,7 +3,7 @@ import type { BaseComponentOptions } from "../common";
 export interface MiniprogramCardOptions extends BaseComponentOptions {
   tag: "card";
   /** 封面图片在线地址 */
-  cover: string;
+  cover?: string;
   /** 卡片标题 */
   title: string;
   /** 卡片描述 */
@@ -47,7 +47,7 @@ export interface NormalCardComponentOptions extends BaseComponentOptions {
   url: string;
 
   /** 封面图片在线地址 */
-  cover: string;
+  cover?: string;
   /** 卡片标题 */
   title: string;
   /** 卡片描述 */

@@ -1,12 +1,22 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/19
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 转专业相关内容
+      - 学校普通话课程介绍
+      - 生活等大量地点新增地图点位组件
+
+  - tag: title
     text: 11/17
 
   - tag: ul
     heading: 更新
     text:
-      - 更新驿站关闭事件
+      - 更新驿站关闭时间
       - 更新临时取件点图片
 
   - tag: title

@@ -1,6 +1,6 @@
 title: 净月快递
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: text
@@ -26,6 +26,12 @@ content:
 
   - tag: title
     text: 快递中心
+
+  - tag: location
+    title: 快递中心
+    points:
+      - latitude: 43.82504
+        longitude: 125.424923
 
   - tag: text
     text: 净月快递站 (又叫近邻宝) 位于秋华公寓对面的二食堂一层(基本餐为二楼)，周围是一些商家和京东便利店。

@@ -1,13 +1,33 @@
 title: 净月本科寝室安排
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
     text: 净月校区公寓分布
 
-  - tag: img
-    src: https://mp.innenu.com/img/dorm/jingyue.jpg
+  - tag: location
+    title: 净月本科生寝室
+    points:
+      - latitude: 43.824736
+        longitude: 125.421456
+        name: 春华公寓
+
+      - latitude: 43.825324
+        longitude: 125.423039
+        name: 夏华公寓
+
+      - latitude: 43.824910
+        longitude: 125.423892
+        name: 秋华公寓
+
+      - latitude: 43.826837
+        longitude: 125.422744
+        name: 日华公寓
+
+      - latitude: 43.825486
+        longitude: 125.421076
+        name: 光华公寓
 
   - tag: text
     text: 净月的公寓大多集中在图书馆、食堂的后面。由于楼层不太高，没有电梯。

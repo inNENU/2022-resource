@@ -15,7 +15,7 @@ content:
     header: false
     content:
       - text: 心理学院
-        icon: psycholog
+        icon: psychology
         path: /intro/school/psychology/into
 
   - tag: title

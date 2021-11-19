@@ -1,25 +1,37 @@
 title: 本部饮品店
 author: Mr.Hope
-time: 2021年11月8日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
     text: 校内
 
-  - tag: ul
-    text:
-      - |-
-        天天奶斯: 北苑地下一楼
-      - |-
-        贡茶: 南苑一楼
-      - |-
-        黑泷堂: 学生浴池
-      - |-
-        亓嘉咖啡: 三舍AB大厅
+  - tag: location
+    title: 本部饮品店
+    points:
+      - latitude: 43.863625
+        longitude: 125.337262
+        name: 亓嘉咖啡
+        detail: 三舍AB大厅
+
+      - latitude: 43.862644
+        longitude: 125.337152
+        name: 黑泷堂
+        detail: 学生浴池一楼
+
+      - latitude: 43.862605
+        longitude: 125.333198
+        name: 天天奶斯
+        detail: 北苑地下一楼
+
+      - latitude: 43.862605
+        longitude: 125.333198
+        name: 贡茶
+        detail: 南苑一楼
 
   - tag: img
     src: https://mp.innenu.com/img/life/benbu/heilongtang.jpg
-    desc: 黑泷堂店内环境
+    desc: 黑泷堂
 
   - tag: title
     text: 校外

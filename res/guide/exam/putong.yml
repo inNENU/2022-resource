@@ -1,6 +1,6 @@
 title: 普通话水平测试
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: text
@@ -28,6 +28,29 @@ content:
   - tag: text
     text:
       - 进入系统后，请您选择“东北师范大学普通话培训测试站”点击“报名”进入报名系统，认真填写相关信息完成报名。
+
+  - tag: title
+    text: 培训课程
+
+  - tag: text
+    text:
+      - 学校选取了四门网络课程，供学生自行登录网址学习。
+
+  - tag: copy
+    header: 普通话水平测试注意事项
+    text: https://pan.baidu.com/s/1R6O-BEXmwrwRAJhMk4Cpfg
+
+  - tag: copy
+    header: 声调分析及朗读训练
+    text: https://pan.baidu.com/s/1eHVrutVXbVl_6IUpRDjmSw
+
+  - tag: copy
+    header: 普通话水平测试应考辅导
+    text: http://mooc1.chaoxing.com/course/87352198.html
+
+  - tag: copy
+    header: 普通话语音和播音发声
+    text: http://mooc1.chaoxing.com/course/80688090.html
 
   - tag: title
     text: 组织测试

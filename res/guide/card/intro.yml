@@ -1,6 +1,6 @@
 title: 校园卡介绍
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
@@ -39,11 +39,12 @@ content:
   - tag: title
     text: 注意事项
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 不同的计费系统
     text:
-      - 直饮机、生活用水、网费、浴池都是有自己的小钱包的，并且部分账户可以通过校园卡充值。
+      - 直饮机、生活用水、网费都是有自己的小钱包的，并且可通过校园卡充值。
+      - 浴池设置单独钱包，只能通过微信充值。
       - 本部电费是单独计费的。
 
   - tag: p

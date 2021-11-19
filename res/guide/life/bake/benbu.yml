@@ -1,10 +1,21 @@
 title: 本部烘焙坊
 author: Mr.Hope
-time: 2021年11月8日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: title
     text: 校内位置
+
+  - tag: location
+    title: 本部烘焙坊
+    points:
+      - latitude: 43.862772
+        longitude: 125.333208
+        name: 八度烘焙
+
+      - latitude: 43.862424
+        longitude: 125.337142
+        name: 梅小姐私房烘焙店
 
   - tag: ul
     text:
@@ -13,8 +24,6 @@ content:
 
   - tag: text
     heading: 八度烘焙
-    text:
-      - 位于北苑地下一楼
 
   - tag: list
     header: false
@@ -24,8 +33,6 @@ content:
 
   - tag: text
     heading: 梅小姐私房烘焙店
-    text:
-      - 位于浴池一楼
 
   - tag: img
     src: https://mp.innenu.com/img/bath/benbu-shop2.jpg

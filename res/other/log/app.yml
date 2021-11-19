@@ -4,11 +4,12 @@ content:
     text: 近期更新
 
   - tag: list
-    header: v4.4.2
+    header: v4.4.3
     content:
       - text: |-
           · 新增位置组件
           · 优化账户组件
+          · 新增过时提示
 
   - tag: list
     header: v4.3.0

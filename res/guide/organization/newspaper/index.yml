@@ -9,6 +9,7 @@ content:
     wxid: nenu-youth
     wxcode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
     account: newspaper
+    mail: dsqn@nenu.edu.cn
 
   - tag: list
     header: 纳新
@@ -116,15 +117,7 @@ content:
     text: 负责运营微信、微博、QQ三大平台，同时兼顾负责校团委“东北师范大学团委”公众号、推广吉林校媒及校团委官网“扬思网”的工作。
 
   - tag: title
-    text: 联系方式
-
-  - tag: copy
-    header: 邮箱
-    text: dsqn@nenu.edu.cn
-
-  - tag: copy
-    header: QQ
-    text: "3495764565"
+    text: 其他联系方式
 
   - tag: copy
     header: 微博

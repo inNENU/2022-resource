@@ -7,21 +7,18 @@ content:
   - tag: title
     text: 校内位置
 
-  - tag: text
-    heading: 校内
-    text:
-      - 二食堂一楼
+  - tag: location
+    title: 本部烘焙坊
+    points:
+      - latitude: 43.825126
+        longitude: 125.424799
+        name: 宏城烘焙坊
+        detail: 二食堂一楼
 
   - tag: carousel
     images:
       - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
       - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
-
-  - tag: text
-    text: 烘培坊
-    align: center
-    style:
-      font-size: 14px
 
   - tag: title
     text: 校外

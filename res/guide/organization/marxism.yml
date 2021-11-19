@@ -1,7 +1,7 @@
 title: 青马学会
 desc: |-
   来源: 校团委官网
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: account
@@ -11,6 +11,7 @@ content:
     wxid: dsqmxh
     wxcode: https://mp.innenu.com/img/media/youth-marx-wechat.jpg
     account: youth-marx
+    mail: qingmaxuehui2013@163.com
 
   - tag: title
     text: 概况介绍
@@ -63,14 +64,3 @@ content:
       - 负责学会相关活动的宣传工作，包括学会会刊建设、网络宣传等；
       - 负责学会理论宣讲团组建工作；
       - 负责学会会员培训工作等。
-
-  - tag: title
-    text: 联系方式
-
-  - tag: text
-    heading: 微信公众号
-    text: 东师青马
-
-  - tag: copy
-    header: 邮箱
-    text: qingmaxuehui2013@163.com

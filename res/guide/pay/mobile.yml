@@ -1,6 +1,6 @@
 title: 手机使用缴费系统缴费
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月19日
 shareable: true
 content:
   - tag: text
@@ -33,7 +33,7 @@ content:
 
   - tag: text
     type: tip
-    text: 首次登陆时会要求填写接收发票的邮箱和手机，请准确填写自己正在使用的，并填写相关验证码。
+    text: 首次登陆时会要求填写接收发票的邮箱和手机，请准确填写自己正在使用的号码，并输入收到的短信验证码。
 
   - tag: text
     heading: 校外用户登录

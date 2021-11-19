@@ -26,7 +26,7 @@ export const resolveCard = (
     element,
     {
       tag: "string",
-      cover: "string",
+      cover: ["string", "undefined"],
       url: ["string", "undefined"],
       title: "string",
       desc: ["string", "undefined"],
