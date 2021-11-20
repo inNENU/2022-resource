@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2021年9月15日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: text
@@ -143,12 +143,6 @@ content:
         color: red
         icon: washer
         path: washing/jingyue
-
-      - text: 眼镜店
-        name: Glasses
-        color: blue
-        icon: glasses
-        path: glasses/
 
   - tag: grid
     header: 食

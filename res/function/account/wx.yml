@@ -62,6 +62,26 @@
       logo: https://mp.innenu.com/img/media/education-wechat.png
       path: education
 
+    - name: 东师心理
+      desc: 东北师范大学心理学院微信平台
+      logo: https://mp.innenu.com/img/media/psychology.png
+      path: psychology
+
+    - name: 红砖微语
+      desc: 东北师范大学政法学院微信平台
+      logo: https://mp.innenu.com/img/media/politics.png
+      path: politics
+
+    - name: 东师经管
+      desc: 东北师范大学经济与管理学院官方微信平台
+      logo: https://mp.innenu.com/img/media/economic.jpg
+      path: economy
+
+    - name: 东师文苑
+      desc: 东北师范大学文学院官方微信平台
+      logo: https://mp.innenu.com/img/media/chinese.png
+      path: chinese
+
     - name: 青年力量
       desc: 东北师范大学体育学院官方微信平台
       logo: https://mp.innenu.com/img/media/pe.png

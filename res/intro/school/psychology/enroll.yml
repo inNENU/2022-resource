@@ -1,7 +1,7 @@
 title: 心理学院招生
 desc: 研究生招生信息来自研究生院
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: title
@@ -27,6 +27,13 @@ content:
   - tag: media
     type: video
     src: http://zsb.nenu.edu.cn/__local/B/35/B1/E4AFCA2A39D5861EE36422F5FA5_140E9CE4_ECB601C.mp4?e=.mp4
+
+  - tag: list
+    header: false
+    content:
+      - text: 转入要求
+        icon: alert
+        path: into
 
   - tag: title
     text: 研究生专业

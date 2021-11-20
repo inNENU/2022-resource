@@ -3,6 +3,18 @@ desc: |-
   来源: 2021年本科招生指南
 shareable: true
 content:
+  - tag: account
+    name: 政法学院
+    logo: https://mp.innenu.com/img/media/politics.png
+    detail: 东北师范大学政法学院
+    wxid: lovezhengfa
+    wxcode: https://mp.innenu.com/img/media/politics-qrcode.jpg
+    account: politics
+    location:
+      latitude: 43.82714
+      longitude: 125.42598
+    site: https://zf.nenu.edu.cn/
+
   - tag: title
     text: 学院简介
 

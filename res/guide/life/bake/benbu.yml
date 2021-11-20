@@ -1,6 +1,6 @@
 title: 本部烘焙坊
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: title
@@ -13,8 +13,8 @@ content:
         longitude: 125.333208
         name: 八度烘焙
 
-      - latitude: 43.862424
-        longitude: 125.337142
+      - latitude: 43.861806
+        longitude: 125.336898
         name: 梅小姐私房烘焙店
 
   - tag: ul

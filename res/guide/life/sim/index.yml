@@ -1,6 +1,6 @@
 title: 校园卡政策对比
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月20日
 grey: true
 shareable: true
 content:
@@ -14,20 +14,20 @@ content:
       - 收到精力制约以及避免打广告嫌疑，Mr.Hope 2021年度无计划了解并列出校园卡政策。
       - 今年三家政策横向对比相差仍不太多，请同学们自己了解并根据自身需求决定是否办理和办理哪一家的卡。
 
-  - tag: list
-    header: 运营商
-    content:
-      - text: 中国联通
-        icon: unicom
-        desc: 往年政策
-        path: unicom
+  # - tag: list
+  #   header: 运营商
+  #   content:
+  #     - text: 中国联通
+  #       icon: unicom
+  #       desc: 往年政策
+  #       path: unicom
 
-      - text: 中国移动
-        icon: mobile
-        desc: 往年政策
-        path: mobile
+  #     - text: 中国移动
+  #       icon: mobile
+  #       desc: 往年政策
+  #       path: mobile
 
-      - text: 中国电信
-        icon: telecom
-        desc: 往年政策
-        path: telecom
+  #     - text: 中国电信
+  #       icon: telecom
+  #       desc: 往年政策
+  #       path: telecom
