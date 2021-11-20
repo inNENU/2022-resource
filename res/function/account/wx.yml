@@ -82,6 +82,26 @@
       logo: https://mp.innenu.com/img/media/chinese.png
       path: chinese
 
+    - name: 大史苑
+      desc: 东北师范大学历史学院微信平台
+      logo: https://mp.innenu.com/img/media/history.jpg
+      path: history
+
+    - name: NENU外国语
+      desc: 东北师范大学外国语学院微信平台
+      logo: https://mp.innenu.com/img/media/foreign.jpg
+      path: foreign
+
+    - name: 音舞东师
+      desc: 东北师范大学音乐学院微信平台
+      logo: https://mp.innenu.com/img/media/music.png
+      path: music
+
+    - name: 东师美术NENUART
+      desc: 东北师范大学美术学院微信平台
+      logo: https://mp.innenu.com/img/media/art.png
+      path: art
+
     - name: 青年力量
       desc: 东北师范大学体育学院官方微信平台
       logo: https://mp.innenu.com/img/media/pe.png

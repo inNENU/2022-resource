@@ -1,0 +1,61 @@
+name: 东师美术NENUART
+detail: 东北师范大学美术学院
+desc: “东师美术”作为东北师范大学美术学院的公众信息平台，旨在服务于学院的教学动态、学术活动、艺术创作、理论研究、作品推广以及资讯报道等方面的媒体宣传工作。
+id: gh_d633652739f9
+logo: https://mp.innenu.com/img/media/art.png
+qrcode: https://mp.innenu.com/img/media/art-qrcode.jpg
+article:
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7gbNJIUb03unMhNesibEkV4EWZbEH1EvnoObC4xpBTibcvtZo951PCpKjjT9cmC2zkzjMibWSRFniaOEQ/0?wx_fmt=jpeg
+    title: 讲座回顾|东师美院优秀校友，著名插画家王贺（梦游兔）：《漫画、绘本创作的艺术表现》
+    desc: 美院优秀校友，著名插画家王贺（梦游兔）
+    url: https://mp.weixin.qq.com/s/4QQVNhXyThPMSJ3pKJPX9Q
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7iaia0K7HDNBIRYqRoElfb6wDibIyPNB7ic2bsrsz5NOJfGjhdwq2NAWUJYS8RRhLNvAticFw5LlOzXZibw/0?wx_fmt=jpeg
+    title: 美术学院“2022年接收优秀应届本科毕业生免试攻读研究生”复试录取工作实施细则
+    desc: 美术学院“2022年免试攻读研究生”复试录取工作实施细则
+    url: https://mp.weixin.qq.com/s/yxCg-czn3L7nqONwTCF8Fw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7ias8e2HGRibOhoeI1JhYsyoxcOHJrJULAAa2ESYJ8cKRze7JAFhHJ7F4UyWHEYwBvF2w05kicd7wqyA/0?wx_fmt=jpeg
+    title: 重磅｜美术学院多件作品入选“伟大征程 时代画卷——庆祝中国共产党成立100周年美术作品展”
+    desc: 美术学院多件作品入选“伟大征程 时代画卷——庆祝中国共产党成立100周年美术作品展”
+    url: https://mp.weixin.qq.com/s/tuG_TzK7N2-PlIjfo7YFdQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7jqdxrMkib5rMTstFKX32s1hyOiczd9a2H3qTZw1fw3sTfu6eWZXAVMPlf5S4dH7ysVnib5icpApvjd7A/0?wx_fmt=jpeg
+    title: 《正心·致知——东北师范大学美术学院2021届毕业生优秀作品展》在长春世界雕塑公园隆重启幕
+    desc: 主办单位：东北师范大学美育工作委员会\x0d\x0a承办单位：东北师范大学美术学院\x0d\x0a协办单位：长春世界雕塑公园美术馆\x0d\x0a展览时间：2021年6月12日—6月17日\x0d\x0a展览地点：长春世界雕塑公园美术馆
+    url: https://mp.weixin.qq.com/s/8wk4CQTMWFh16ddod6-5CA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7iaQAiaf1tcpZ2UyoEwgbSuXHemgyeyOicLJ32bs0WclLztNUKREEtCfOYnrkEE2U1vIx5IVFwSib9fhQ/0?wx_fmt=jpeg
+    title: 重磅｜东师美院2021届毕业生优秀作品展即将开幕
+    desc: 展览地点：长春世界雕塑公园艺术馆 人民大街9518号\x0d\x0a开幕时间：2021年6月12日14:00
+    url: https://mp.weixin.qq.com/s/PHnI8iUFUUtxBc-V8JFwwg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hpYfX5jwcC0va46wOmVeXCaIzUxbAWsvNkiaPY8S3iaqCdQudBVvlq9w8dmJgelHDmMUId2JXMwG9A/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生作品展｜美术学专业本科优秀作品
+    desc: 东北师范大学美术学院2020届毕业生作品展｜美术学专业本科优秀作品
+    url: https://mp.weixin.qq.com/s/dLJYunuej7GY7U14PqTFOg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hgdO8IjyIYdGdLTOEQdw1GOs5PIqVPsrSapd4OkmXDdmYbvic8ibxHqHy0K63bfOC6wqOPRGhrn0iaw/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生优秀作品展
+    desc: 东北师范大学美术学院2020届优秀毕业生作品展
+    url: https://mp.weixin.qq.com/s/Q9I3mpKrDpsi2VgE3OOGEA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hgdO8IjyIYdGdLTOEQdw1GmA1ibg2u9L4349Jy0wLWyPoqym5XudM92rqOAg6rEa8WNonAzaibNv3Q/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生作品展｜美术学专业硕士优秀作品
+    desc: 东北师范大学美术学院2020届毕业生作品展｜美术学专业硕士优秀作品
+    url: https://mp.weixin.qq.com/s/gxo3ErZvN0N5Cg-A279fJw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hgdO8IjyIYdGdLTOEQdw1GcvvUibvO6pYvUibMa6Q2v37RiaFPkp9aPe2VhnGWbZcI6s5SNLib51tG3A/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生作品展｜雕塑专业优秀作品
+    desc: 东北师范大学美术学院2020届毕业生作品展｜雕塑专业优秀作品
+    url: https://mp.weixin.qq.com/s/bWx0C5x7VDTZIJmoL-9IBg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hgdO8IjyIYdGdLTOEQdw1GkspqejtVe4KTFq4ibsyceCOw8JsTibPviccvAplN208icBUtGSg8OfypHw/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生作品展｜设计学专业本科优秀作品
+    desc: 东北师范大学美术学院2020届毕业生作品展｜设计学专业本科优秀作品
+    url: https://mp.weixin.qq.com/s/oIkkprhLXuY33Jl_LU-znA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7hgdO8IjyIYdGdLTOEQdw1GkspqejtVe4KTFq4ibsyceCOw8JsTibPviccvAplN208icBUtGSg8OfypHw/0?wx_fmt=jpeg
+    title: 东北师范大学美术学院2020届毕业生作品展｜设计学专业硕士优秀作品
+    desc: 东北师范大学美术学院2020届毕业生作品展｜设计学专业硕士优秀作品
+    url: https://mp.weixin.qq.com/s/atzW3GdcWvFCkwJOtYpkqA

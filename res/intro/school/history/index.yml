@@ -1,9 +1,22 @@
 title: 历史文化学院
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月21日
 shareable: true
 content:
+  - tag: account
+    name: 历史文化学院
+    logo: https://mp.innenu.com/img/media/history.jpg
+    detail: 东北师范大学历史文化学院
+    wxid: dssyxl
+    wxcode: https://mp.innenu.com/img/media/history-qrcode.jpg
+    account: history
+    location:
+      latitude: 43.8603
+      longitude: 125.3304
+    mail: sohac@nenu.edu.cn
+    site: https://sohac.nenu.edu.cn/
+
   - tag: list
     content:
       - text: 学院简介
@@ -17,7 +30,3 @@ content:
       - text: 学科简介
         icon: bookshelf
         path: subject
-
-  - tag: copy
-    header: 官网地址
-    text: https://sohac.nenu.edu.cn/

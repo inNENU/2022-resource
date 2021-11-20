@@ -1,9 +1,22 @@
 title: 外国语学院
 desc: |-
   来源: 2021年本科招生指南
-time: 2021年11月19日
+time: 2021年11月21日
 shareable: true
 content:
+  - tag: account
+    name: 外国语学院
+    logo: https://mp.innenu.com/img/media/foreign.jpg
+    detail: 东北师范大学外国语学院
+    wxid: nenuwgy
+    wxcode: https://mp.innenu.com/img/media/foreign-qrcode.jpg
+    account: foreign
+    location:
+      latitude: 43.8611
+      longitude: 125.32707
+    mail: wy@nenu.edu.cn
+    site: https://wy.nenu.edu.cn/
+
   - tag: carousel
     images:
       - https://mp.innenu.com/img/school/foreign.jpg

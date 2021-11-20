@@ -1,8 +1,21 @@
 title: 音乐学院
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月21日
 shareable: true
 content:
+  - tag: account
+    name: 音乐学院
+    logo: https://mp.innenu.com/img/media/music.png
+    detail: 东北师范大学音乐学院
+    wxid: yinwudongshi
+    wxcode: https://mp.innenu.com/img/media/music-qrcode.jpg
+    account: music
+    location:
+      latitude: 43.82651
+      longitude: 125.42935
+    mail: yyxy@nenu.edu.cn
+    site: https://music.nenu.edu.cn/
+
   - tag: list
     content:
       - text: 学院简介
@@ -12,7 +25,3 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
-
-  - tag: copy
-    header: 官网地址
-    text: https://music.nenu.edu.cn/
