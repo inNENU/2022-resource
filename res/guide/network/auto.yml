@@ -1,6 +1,6 @@
 title: 无感知认证
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: title
@@ -27,7 +27,11 @@ content:
   - tag: text
     heading: iOS
     text:
-      - 苹果不支持改动此设置，用户隐私与信息安全至上。
+      - 按以下流程进行操作。
+
+  - tag: img
+    src: https://mp.innenu.com/img/network/use-device-mac.jpg
+    desc: 同时关闭 iNENU-2G 和 iNENU-5G 的私有地址开关
 
   - tag: text
     heading: Android

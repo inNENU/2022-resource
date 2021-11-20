@@ -7,6 +7,7 @@ content:
     heading: 新增
     text:
       - 新增数处小程序跳转
+      - 为苹果设备添加MAC地址设置教程
 
   - tag: ul
     heading: 更新
