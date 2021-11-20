@@ -1,9 +1,18 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年11月20日
 grey: true
 shareable: true
 content:
+  - tag: card
+    title: 吉祥码
+    desc: 快速打开吉祥码
+    logo: https://mp.innenu.com/img/epidemic/jixaing-code-icon.png
+    name: 吉事办
+    options:
+      appId: wx5f0c843a23b032cc
+      path: package1/pages/qrcode/index
+
   - tag: list
     content:
       - text: 吉祥码简介

@@ -1,6 +1,6 @@
 title: 报到流程
 author: 沈竞泽、Mr.Hope
-time: 2021年9月3日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: text
@@ -88,6 +88,22 @@ content:
   - tag: text
     text: 在校门查验核酸检查报告、吉祥码、返校码
     align: center
+
+  - tag: card
+    title: 吉祥码
+    desc: 快速打开吉祥码
+    logo: https://mp.innenu.com/img/epidemic/jixaing-code-icon.png
+    name: 吉事办
+    options:
+      appId: wx5f0c843a23b032cc
+      path: package1/pages/qrcode/index
+
+  - tag: card
+    title: 返校健康码
+    desc: 快速打开返校健康码
+    options:
+      appId: wxa9de818af2c7f9ab
+      path: pages/code/code/code
 
   - tag: text
     text: 👇

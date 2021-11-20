@@ -39,3 +39,6 @@ content:
 
       - text: v2 开发日志
         url: page?path=other/log/history/v2
+
+      - text: v3 开发日志
+        url: page?path=other/log/history/v3

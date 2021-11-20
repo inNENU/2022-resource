@@ -1,6 +1,21 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/20
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 新增数处小程序跳转
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 添加通信行程卡小程序跳转
+      - 更新小程序日志
+      - 更新吉祥码流程图片
+
+  - tag: title
     text: 11/19
 
   - tag: ul

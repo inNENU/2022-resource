@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: text
@@ -61,8 +61,29 @@ content:
         icon: intro
         path: /guide/miniapp/
 
+  - tag: list
+    content:
+      - text: 国家防疫健康信息码
+        icon: code
+        path: health-code
+
+  - tag: title
+    text: 其他功能
+
   - tag: card
     title: 核酸检测查询
     options:
       appId: wx2eec5fb00157a603
       path: fangkongfuwu/pages/kths/index
+
+  - tag: card
+    title: 同行密切接触查询
+    options:
+      appId: wx2eec5fb00157a603
+      path: fangkongfuwu/pages/ConfirmedOrSuspectedCaseShareSelfCheck/fillInfo/fillInfo
+
+  - tag: card
+    title: 核酸检测机构
+    options:
+      appId: wx2eec5fb00157a603
+      path: fangkongfuwu/pages/countryNucleic/index

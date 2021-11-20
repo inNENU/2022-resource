@@ -1,6 +1,6 @@
 title: 出校申请
 author: Mr.Hope
-time: 2021年9月30日
+time: 2021年11月20日
 shareable: true
 content:
   - tag: title
@@ -24,6 +24,12 @@ content:
     content:
       - text: 登陆小程序
         path: login
+
+  - tag: card
+    title: 出校申请
+    options:
+      appId: wxa9de818af2c7f9ab
+      path: pages/out/out/out
 
   - tag: ol
     text:

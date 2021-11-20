@@ -1,8 +1,15 @@
 title: 返校码介绍
 author: Mr.Hope
-time: 2021年9月30日
+time: 2021年11月20日
 shareable: true
 content:
+  - tag: card
+    title: 返校健康码
+    desc: 快速打开返校健康码
+    options:
+      appId: wxa9de818af2c7f9ab
+      path: pages/code/code/code
+
   - tag: title
     text: 颜色说明
 
