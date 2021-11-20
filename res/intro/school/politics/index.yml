@@ -1,6 +1,6 @@
 title: 政法学院
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月21日
 shareable: true
 content:
   - tag: account
@@ -19,6 +19,7 @@ content:
     text: 简介
 
   - tag: list
+    header: false
     content:
       - text: 学院简介
         icon: about
@@ -37,7 +38,7 @@ content:
         政法学院共有三个一级学科: 政治学、法学和公共管理
 
   - tag: list
-    header: false
+    header: 详情
     content:
       - text: 学科建设
         path: subject

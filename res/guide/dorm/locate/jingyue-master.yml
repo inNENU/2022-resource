@@ -1,7 +1,7 @@
 title: 净月研究生寝室安排
 desc: 部分图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月21日
 shareable: true
 content:
   - tag: title
@@ -20,6 +20,7 @@ content:
 
       - latitude: 43.826837
         longitude: 125.422744
+        name: 日华公寓
 
       - latitude: 43.826706
         longitude: 125.421660
