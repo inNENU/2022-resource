@@ -53,14 +53,4 @@ export const resolveCard = (
       },
       `${location}.options`
     );
-
-  // TODO: Remove
-  element.type =
-    "options" in element
-      ? "miniprogram"
-      : element.url.match(/^https?:\/\//)
-      ? "web"
-      : "page";
-
-  if (element.cover) element.src = element.cover;
 };

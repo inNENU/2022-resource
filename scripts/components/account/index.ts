@@ -53,11 +53,4 @@ export const resolveAccount = (
     },
     location
   );
-
-  // TODO: Remove
-  if (element.account) element.path = element.account;
-  if (element.qqid) element.openid = element.qqid;
-  if (element.wxid) element.wx = element.wxid;
-  if (element.qqcode) element.qqQRCode = element.qqcode;
-  if (element.wxcode) element.wxQRCode = element.wxcode;
 };

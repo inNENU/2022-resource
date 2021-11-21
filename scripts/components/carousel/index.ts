@@ -63,7 +63,4 @@ export const resolveCarousel = (
     },
     location
   );
-
-  // TODO: Remove
-  element.url = element.images;
 };

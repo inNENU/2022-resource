@@ -33,15 +33,4 @@ export interface AccountComponentOptions extends BaseComponentOptions {
   mail?: string;
   /** 网站地址 */
   site?: string;
-
-  /** @deprecated 账户 微信号 */
-  wx?: string;
-  /** @deprecated 账户 QQ 二维码 */
-  qqQRCode?: string;
-  /** @deprecated 账户 QQ openid */
-  openid?: string;
-  /** @deprecated 账户 微信二维码 */
-  wxQRCode?: string;
-  /** @deprecated 账户微信详情名称 */
-  path?: string;
 }

@@ -34,11 +34,6 @@ export interface MiniprogramCardOptions extends BaseComponentOptions {
      * 小程序链接，当传递该参数后，可以不传 appId 和 path。链接可以通过【小程序菜单】->【复制链接】获取。 */
     shortLink?: string;
   };
-
-  /** @deprecated 封面图片在线地址 */
-  src: string;
-  /** @deprecated 卡片类型 */
-  type: "miniprogram";
 }
 
 export interface NormalCardComponentOptions extends BaseComponentOptions {
@@ -56,11 +51,6 @@ export interface NormalCardComponentOptions extends BaseComponentOptions {
   logo?: string;
   /** 卡片 Logo 名称 */
   name?: string;
-
-  /** @deprecated 封面图片在线地址 */
-  src: string;
-  /** @deprecated 卡片类型 */
-  type: "web" | "page";
 }
 
 export type CardComponentOptions =
