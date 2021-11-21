@@ -1,0 +1,27 @@
+title: 本科招生历史信息
+grey: true
+author: Mr.Hope
+time: 2021年11月21日
+shareable: true
+content:
+  - tag: list
+    header: 本科招生专业
+    content:
+      - text: 2020 年本科开设专业
+        icon: intro
+        path: major/2020
+
+      - text: 2019 年本科开设专业
+        icon: intro
+        path: major/2019
+
+  - tag: list
+    header: 本科招生章程
+    content:
+      - text: 2020 年本科招生章程
+        icon: intro
+        path: rule/2020
+
+      - text: 2019 年本科招生章程
+        icon: intro
+        path: rule/2019

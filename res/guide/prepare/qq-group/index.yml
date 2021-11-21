@@ -1,6 +1,6 @@
 title: QQ 群
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月21日
 grey: true
 shareable: true
 content:
@@ -16,7 +16,7 @@ content:
     content:
       - text: 专业所属学院
         icon: course
-        path: /intro/enroll/major/2021
+        path: /intro/enroll/under/major/2021
 
       - text: 学校新生群
         icon: qq-group
