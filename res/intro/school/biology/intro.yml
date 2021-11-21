@@ -2,9 +2,22 @@ title: 生命科学学院介绍
 desc: |-
   来源: 东北师范大学生命科学学院官网
   数据更新于: 2016年1月13日
-time: 2021年11月19日
+time: 2021年11月21日
 shareable: true
 content:
+  - tag: account
+    name: 生命科学学院
+    logo: https://mp.innenu.com/img/media/biology.png
+    detail: 东北师范大学生命科学学院
+    wxid: skyxxxczx2015
+    wxcode: https://mp.innenu.com/img/media/biology-qrcode.jpg
+    account: biology
+    location:
+      latitude: 43.859984
+      longitude: 125.328941
+    mail: sky@nenu.edu.cn
+    site: https://sky.nenu.edu.cn/
+
   - tag: carousel
     images:
       - https://mp.innenu.com/img/school/biology.jpg

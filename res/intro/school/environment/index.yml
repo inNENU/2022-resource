@@ -1,7 +1,7 @@
 title: 环境学院
 grey: true
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月21日
 shareable: true
 content:
   - tag: account
@@ -11,6 +11,9 @@ content:
     wxid: dongshihuanjing
     wxcode: https://mp.innenu.com/img/media/environment-wechat.jpg
     account: environment
+    location:
+      latitude: 43.825102
+      longitude: 125.426706
     site: https://hjxy.nenu.edu.cn
 
   - tag: list

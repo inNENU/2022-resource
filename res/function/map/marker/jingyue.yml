@@ -116,6 +116,12 @@ school:
       detail: 东北师范大学民族教育学院
       path: people
 
+    - latitude: 43.825102
+      longitude: 125.426706
+      name: 环境学院
+      detail: 东北师范大学环境学院
+      path: environment
+
     - latitude: 43.82714
       longitude: 125.42598
       name: 政法学院

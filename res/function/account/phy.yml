@@ -5,6 +5,116 @@ id: nenuphy
 logo: https://mp.innenu.com/img/media/phy.jpg
 qrcode: https://mp.innenu.com/img/media/phy-wechat.jpg
 article:
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxyExH279hegicWHGPmdTWwljo1cDtxic6icy2ISQXydJ5AymkW6x3lIqOlw/0?wx_fmt=jpeg
+    title: 青览天下——第十三期
+    desc: 青览天下第十三期来啦~快来看看新闻和了解我们身边的榜样吧。
+    url: https://mp.weixin.qq.com/s/LTQDWCRATxx_mcMUPtKasQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxyfRyWBrU4lfovdoGf1nDiaQoglj87xpbQDUiciacEdtr1TD5YcGV4IgXYA/0?wx_fmt=jpeg
+    title: 青览天下——第十二期
+    desc: 青览天下第十二期来啦~快来看看新闻和了解了解我们身边的榜样吧。
+    url: https://mp.weixin.qq.com/s/7Iu6C9FVc1TxD6DsuCe82A
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxy1C8ibhyyYWVjnPZYB6PDibkvtsxaMkdIpdW4mia9TNIV5BiawaqcEiaqBQQ/0?wx_fmt=jpeg
+    title: 青览天下——第十一期
+    desc: 青览天下第十一期来啦~快来看看新闻和了解了解我们身边的榜样吧。
+    url: https://mp.weixin.qq.com/s/Tu3uYBk6yT-Xcqqc4JU0SA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC5mgrQ5ibumZibEib7a87aj3lDs8MBSNcwXdY0nDW7aMhv5j0kh3Fb3zpYW48ARdR1DricG26fZBCHwLg/0?wx_fmt=jpeg
+    title: 物理学院研究生会改革情况
+    desc: 物理学院学生研究生会改革情况
+    url: https://mp.weixin.qq.com/s/3imyMiijhn8AOehWf9LV_w
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC5mgrQ5ibumZibEib7a87aj3lD3lyLkJtLG5P4X9ZTAibibBjTIBFq7JXpInzbMZGyQ6ibBeEVPGQiaiaPRicg/0?wx_fmt=jpeg
+    title: 物理学院学生会改革情况
+    desc: 物理学院学生会改革情况公示
+    url: https://mp.weixin.qq.com/s/7qrt9pJvjR5KsJle42_E8g
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxyuFWo97WdEwhv9BPn6RSuaF5GaLglUXMTq2kPrFZvXiaQ2VMmsVwDpPg/0?wx_fmt=jpeg
+    title: 青览天下——第十期
+    desc: 青览天下第十期来啦~快来了解时事新闻和身边的榜样吧！
+    url: https://mp.weixin.qq.com/s/5m3iBDHW9aILiedLJbADhA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxymmnoIzdUxbbsAEHXcoRx3oE69npS6R3MaNJUaLQDKM3BllzZ1SSJsg/0?wx_fmt=jpeg
+    title: 青览天下——第九期
+    desc: 青览天下——第九期来啦~快来看看时事新闻和了解我们身边优秀的学长吧~
+    url: https://mp.weixin.qq.com/s/nUoRy74VEMmc2vTKzC2auQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxySQNJjYsXPFOVh7VJMJaLuJOOGqJKVImEpLl0KTIoumqFKF3ZqIqPyQ/0?wx_fmt=jpeg
+    title: 青览天下——第八期
+    desc: 青览天下第八期来啦～快来看看时事新闻和了解我们身边优秀的学姐吧～
+    url: https://mp.weixin.qq.com/s/QZzLklSp8T4eU1ARj2jOuw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxytkC9xNYTMH6cnMvg2rWsSRpnC4uPQB2feJXHAsBale472tvhn2uUTg/0?wx_fmt=jpeg
+    title: 青览天下——第七期
+    desc: 青览天下第七期来啦~让我们一起来了解时事新闻和身边优秀的榜样吧~
+    url: https://mp.weixin.qq.com/s/siaGSdeQsXZPydVkKIhubw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxyYeWONiayctgA2EDgvn8Gj4Pkicgia7k0UhUr4wgVGYpsTeNhPhA8Xibj0Q/0?wx_fmt=jpeg
+    title: 青览天下——第六期
+    desc: 青览天下第六期来啦~快来了解时事新闻和看看咱们身边优秀的学长吧！
+    url: https://mp.weixin.qq.com/s/TgTF9SERdwNKSpVpOE7TZA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxy1PWZ97UcM4vCNb66kbYV3gmPwicuPzx4QaLDBkvoVmq4ibRpxYHyeGZQ/0?wx_fmt=jpeg
+    title: 青览天下——第五期
+    desc: 青览天下第五期来啦！让我们一起来了解时政和认识物理学院的学霸吧~
+    url: https://mp.weixin.qq.com/s/PQlJv6ImW7QxnKCWpctSMA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC7KGa2geGg3o93Tzjyn5sNHrWmsZaU8pTCMfCXGKfPpCdwQZmhXqicOLr2RO9dZibkZ0e2dibNzs7WWA/0?wx_fmt=jpeg
+    title: 学四史心向党读书分享——《细节中的新中国史》1977-1983
+    desc: 学四史，心向党，山河无恙，吾辈当自强！
+    url: https://mp.weixin.qq.com/s/3-DulCfIwwn9JqvfL1f-eA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6nj9a7lJzIy3NO3IbUanpvpialIly3gibyib1N0kKpr2fMYhuBWUsbqAT4Ggg7rl96CWuewW65NtHtA/0?wx_fmt=jpeg
+    title: 学四史心向党读书分享——《细节中的新中国史》1970-1976
+    desc: 如今已然山河锦绣，国泰民安，但我们仍需时常回顾历史、铭记前辈。今天分享的是《细节中的新中国史》——1970年至1976年。
+    url: https://mp.weixin.qq.com/s/UZosTQmPdjlboWmrmtKxWQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC5vickl38MEG6L9bYFcgcNI5jC0C4Ab9PWYja30BlkOHPiabybBSSiaiagdbGVARxHjIia2S88fgqtib7ww/0?wx_fmt=jpeg
+    title: 课堂新面貌，从黑板开始
+    desc: 课堂新面貌，从黑板开始
+    url: https://mp.weixin.qq.com/s/SJqBH950p0WsNIC63vp2Vg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC7bwDcib1bfbHUMiaxxV1Zsp5Z1p7FfUv4UeGYMsgOicVHGBzwoHhdmtWkBHKaT5rZagWIZM2sJ8eL1A/0?wx_fmt=jpeg
+    title: 物闻速递 || 赛思科普实验室科普视频推送（第二期）顺利进行
+    desc: 赛思科普实验室科普视频推送（第二期），大家一起来看一看吧！
+    url: https://mp.weixin.qq.com/s/DvWISfekLJJM8zJ9D9i2qw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC5X3MgicOULDwMOSKFknBtka8cH9ZeGsvA4z5kbEn7KGibTZJwk3kZQbyib7KV1Q86G4r26Kxqla0ldg/0?wx_fmt=jpeg
+    title: 物闻速递 || “巧手织繁华，深情献祖国”手工DIY活动顺利举行
+    desc: “巧手织繁华，深情献祖国”手工DIY活动顺行，大家快来看看呀~
+    url: https://mp.weixin.qq.com/s/LXq-AAJbYqaOfgUgjvECCw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6Zau3BwAGxJppKic1a0JSRyeWIUt4hicrXohH10LFN0yQPKTWxddCrfeU5vZfx5a9O0wGhCFyR1JEw/0?wx_fmt=jpeg
+    title: 学四史心向党读书分享——《细节中的新中国史》1963-1969
+    desc: 如今已然山河锦绣，国泰民安，但我们仍需时常回顾历史、铭记前辈。今天分享的是《细节中的新中国史》——1963年至1969年。
+    url: https://mp.weixin.qq.com/s/MLG1AqJ_aotEIeGY43ETCw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC7eRd31FW89gMJk8AvyVwvf8MzKHYCQicY04Hy9J2Lzlf2RjjQHoCplc1LQk28nUq889GC3NWdcTOQ/0?wx_fmt=jpeg
+    title: 学四史心向党读书分享——《细节中的新中国史》1956-1962
+    desc: 如今已然山河锦绣，国泰民安，但我们仍应时常回首历史，铭记前辈。今天要分享的是《细节中的新中国史》——1956年至1962年。
+    url: https://mp.weixin.qq.com/s/D0KDB0QusmsPdn_stZxk9w
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC7eRd31FW89gMJk8AvyVwvfeG5zXymhFC5ZLoqDxwKKneT8bvxwqA9ENdyLQPP7kxtIciaKcKiaOVFw/0?wx_fmt=jpeg
+    title: 天文知识竞赛重磅来袭！
+    desc: 天宇协会：期待已久的天文知识竞赛，它来啦~热爱天文的小伙伴们快来参加吧！
+    url: https://mp.weixin.qq.com/s/EkwgrNdDDQb_Msqo0ilJPw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC4EdgQKFBmibBKosf27qBBJ0eDMDyc4ictGwQ2ejmJqhdw7ukmoYf7MZBey6jzoHHpg3qeDDMJFIk3A/0?wx_fmt=jpeg
+    title: 绷紧防范之弦，严防网络诈骗
+    desc: 绷紧防范之弦，严防网络诈骗。近年来，全国多地电信诈骗事件引发广泛关注。
+    url: https://mp.weixin.qq.com/s/7xhocmDh6x2yAKzY1SPp0w
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC7bOmG88ZN9tRP1LROb9LgPWVvo1z36N3fxGxiaAylKxp26xsTFNG29szpkQeF5N2AicDFMQ3yypoEg/0?wx_fmt=jpeg
+    title: 物闻速递 | 赛思科普实验室科普视频推送（第一期）顺利进行
+    desc: 2021年9月15日，物理学院团委志愿者工作部完成第一期科普视频推送。快来一起看看吧！
+    url: https://mp.weixin.qq.com/s/MsyFPqKTz7LFgYI-R9yyLA
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC5KGiaWQvQ9fibJXmr3lN2jdOqs3k2ibM5n2zicCmNiciaxibNicALib8Eic4dKjvEu5AKy1N2LYSJcLERiaLvnw/0?wx_fmt=jpeg
+    title: 学四史心向党读书分享——《细节中的新中国史》1949-1955年
+    desc: 学四史心向党读书分享——《细节中的新中国史》1949-1955年
+    url: https://mp.weixin.qq.com/s/WoA3aRgOrduJ0bff59AW5w
+
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC4hvaB2eMwYLABE2kweL8SPVd7lDmwO3zCbHCxaBXxLTtuajGS5yYCCk4ZuQ1KIrApz5r9ypDngiaQ/0?wx_fmt=jpeg
     title: 教师节夜话 || 老师们，你们辛苦啦!
     desc: 学高为师，身正为范。老师们，你们辛苦啦!

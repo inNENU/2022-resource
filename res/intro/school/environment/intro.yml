@@ -4,6 +4,18 @@ desc: |-
   数据更新于: 2019年11月1日
 shareable: true
 content:
+  - tag: account
+    name: 环境学院
+    logo: https://mp.innenu.com/img/media/environment.png
+    detail: NENU环境学院
+    wxid: dongshihuanjing
+    wxcode: https://mp.innenu.com/img/media/environment-wechat.jpg
+    account: environment
+    location:
+      latitude: 43.825102
+      longitude: 125.426706
+    site: https://hjxy.nenu.edu.cn
+
   - tag: title
     text: 历史沿革
 

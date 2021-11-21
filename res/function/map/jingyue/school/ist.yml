@@ -2,6 +2,18 @@ title: 信息科学与技术学院
 author: Mr.Hope
 time: 2020年9月1日
 content:
+  - tag: account
+    name: 信息科学与技术学院
+    logo: https://mp.innenu.com/img/media/ist.png
+    detail: 东北师范大学信息科学与技术学院
+    wxid: dsxk2017
+    wxcode: https://mp.innenu.com/img/media/ist-qrcode.jpg
+    account: ist
+    location:
+      latitude: 43.82572
+      longitude: 125.42695
+    site: http://www.ist.nenu.edu.cn/
+
   - tag: list
     content:
       - text: 学院简介
@@ -11,7 +23,3 @@ content:
       - text: 专业
         icon: intro
         path: /intro/school/ist/enroll
-
-  - tag: copy
-    header: 官网地址
-    text: http://www.ist.nenu.edu.cn/

@@ -102,6 +102,26 @@
       logo: https://mp.innenu.com/img/media/art.png
       path: art
 
+    - name: 东北师范大学马克思主义学部
+      desc: 东北师范大学马克思主义学部官方微信平台
+      logo: https://mp.innenu.com/img/media/marx.png
+      path: marx
+
+    - name: 东北师范大学数学与统计学院
+      desc: 东北师范大学数学与统计学院官方微信平台
+      logo: https://mp.innenu.com/img/media/math.png
+      path: math
+
+    - name: 东师信科
+      desc: 东北师范大学信息科学与技术学院微信平台
+      logo: https://mp.innenu.com/img/media/ist.png
+      path: ist
+
+    - name: 东师生科
+      desc: 东北师范大学生命科学学院微信平台
+      logo: https://mp.innenu.com/img/media/biology.png
+      path: biology
+
     - name: 青年力量
       desc: 东北师范大学体育学院官方微信平台
       logo: https://mp.innenu.com/img/media/pe.png
