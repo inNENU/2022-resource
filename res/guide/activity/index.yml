@@ -1,6 +1,6 @@
 title: 开学活动
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月21日
 grey: true
 shareable: true
 content:
@@ -13,11 +13,11 @@ content:
 
       - text: 英语分班考试
         icon: english
-        path: /guide/exam/grading-exam
+        path: /guide/test/grading-exam
 
       - text: 体测考试
         icon: basketball
-        path: /guide/exam/pe-test/
+        path: /guide/test/pe-test/
 
   - tag: list
     header: 其他活动

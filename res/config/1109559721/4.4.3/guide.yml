@@ -195,10 +195,16 @@ content:
         icon: library
         path: intro/apartment/library/
 
-      - text: 考试
+      - text: 校内考试
         color: olive
-        name: Exam
+        name: Test
         icon: test
+        path: guide/test/
+
+      - text: 国家考试
+        color: cyan
+        name: Exam
+        icon: exam
         path: guide/exam/
 
       - text: 教务系统

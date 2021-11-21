@@ -1,14 +1,9 @@
 title: 中小学教师资格考试
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月21日
 grey: true
 shareable: true
 content:
-  - tag: p
-    heading: " "
-    text:
-      - 中小学教师资格考试的目的是考查申请人是否具备教师职业道德、基本素养、教育教学能力和教师专业发展潜质。严把教师入口关，择优选拔乐教、适教人员取得教师资格。
-
   - tag: text
     type: tip
     heading: 2021年下半年时间安排
@@ -25,6 +20,10 @@ content:
       - text: 考试科目
         icon: bookshelf
         path: subject
+
+      - text: 考试大纲
+        icon: rule
+        path: outline
 
   - tag: list
     header: 考试
@@ -47,12 +46,6 @@ content:
       - text: 资格证申请
         icon: apply
         path: apply
-
-  - tag: list
-    content:
-      - text: 考试大纲
-        icon: rule
-        path: outline
 
   - tag: list
     content:

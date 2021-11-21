@@ -1,74 +1,104 @@
-title: 考试
+title: 国家考试
 grey: true
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年11月21日
 shareable: true
 content:
   - tag: list
-    header: 体测
-    content:
-      - text: 体测简介
-        icon: basketball
-        path: pe-test/intro
-
-      - text: 测试成绩说明
-        icon: intro
-        path: pe-test/explain
-
-      - text: 测试项目评分表
-        icon: score
-        path: pe-test/score
-
-      - text: 申请免测/缓测的条件及程序
-        icon: apply
-        path: pe-test/exempt
-
-  - tag: list
-    header: 英语
-    content:
-      - text: 英语分班考试
-        icon: test
-        path: grading-exam
-
-      - text: 东北师范大学英语水平测试
-        desc: DET
-        icon: english
-        path: /guide/course/english/DET
-
-  - tag: list
     header: 大学英语水平测试
     content:
-      - text: 大学英语水平测试介绍
+      - text: 测试介绍
         icon: intro
         path: cet/intro
 
-      - text: 大学英语水平测试报名
+      - text: 测试报名
         icon: apply
         path: cet/apply
 
-      - text: 大学英语水平测试考试流程
+      - text: 考试内容与评分标准
+        icon: contract
+        path: cet/content
+
+      - text: 考试流程
         icon: flow
         path: cet/flow
 
-      - text: 大学英语水平测试考试常见问题
+      - text: 分数查询与解释
+        icon: score
+        path: cet/score
+
+      - text: 常见问题
         icon: faq
         path: cet/faq
 
+      - text: 2021年下半年考试时间
+        icon: time
+        path: cet/time
+
   - tag: list
-    header: 计算机
+    header: 计算机等级考试
     content:
-      - text: 计算机等级考试说明
+      - text: NCRE 介绍
+        icon: intro
+        path: ncre/intro
+
+      - text: 考试大纲
+        icon: rule
+        path: ncre/outline
+
+      - text: 计算机二级
         icon: office
-        path: ncre/
+        path: ncre/ncre2
+
+      - text: 计算机三级
+        icon: office
+        path: ncre/ncre3
+
+      - text: 计算机四级
+        icon: office
+        path: ncre/ncre4
+
+      - text: 常见问题
+        icon: faq
+        path: ncre/faq
+
+  - tag: list
+    header: 中小学教师资格考试
+    content:
+      - text: 介绍
+        icon: intro
+        path: ntce/intro
+
+      - text: 考试科目
+        icon: bookshelf
+        path: ntce/subject
+
+      - text: 考试大纲
+        icon: rule
+        path: ntce/outline
+
+      - text: 笔试报名
+        icon: enroll
+        path: ntce/enroll
+
+      - text: 笔试详情
+        icon: test
+        path: ntce/writing
+
+      - text: 面试详情
+        icon: association
+        path: ntce/facing
+
+      - text: 资格证申请
+        icon: apply
+        path: ntce/apply
+
+      - text: 常见问题
+        icon: faq
+        path: ntce/faq
 
   - tag: list
     header: 普通话
     content:
       - text: 普通话水平测试
         path: putong
-
-  - tag: list
-    header: 教师资格证
-    content:
-      - text: 中小学教师资格考试
-        path: ntce/
