@@ -32,7 +32,11 @@ const getTags = (page: PageConfig): string[] => {
     ) as TitleComponentOptions[]
   ).map((element) => element.text);
 
-  return titles.length <= 10 ? titles : titles.slice(0, 10);
+  return titles.length
+    ? titles.length <= 10
+      ? titles
+      : titles.slice(0, 10)
+    : [page.title];
 };
 
 const getImages = (page: PageConfig): string[] =>
