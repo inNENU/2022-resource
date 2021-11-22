@@ -8,6 +8,10 @@ export const resolveCarousel = (
   location = ""
 ): void => {
   element.images?.forEach((link) => {
+    // `$img` alias resolve
+    if (link.startsWith("$img/"))
+      link.replace(/^\$img\//, "https://mp.innenu.com/img/");
+
     if (
       link.match(/https?:\/\/mp\.innenu\.com/) &&
       !existsSync(link.replace(/https?:\/\/mp\.innenu\.com\//, "./"))

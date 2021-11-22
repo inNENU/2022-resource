@@ -6,6 +6,10 @@ export const resolveImg = (
   element: ImageComponentOptions,
   location = ""
 ): void => {
+  // `$img` alias resolve
+  if (element.src?.startsWith("$img/"))
+    element.src.replace(/^\$img\//, "https://mp.innenu.com/img/");
+
   if (
     element.src?.match(/https?:\/\/mp\.innenu\.com/) &&
     !existsSync(element.src.replace(/https?:\/\/mp\.innenu\.com\//, "./"))

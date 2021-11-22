@@ -15,6 +15,10 @@ export const resolveCard = (
     console.warn(`Icon ${element.logo} not exist in ${location}`);
   }
 
+  // `$img` alias resolve
+  if (element.cover?.startsWith("$img/"))
+    element.cover.replace(/^\$img\//, "https://mp.innenu.com/img/");
+
   if (
     element.cover?.startsWith("https://mp.innenu.com") &&
     !existsSync(element.cover.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
