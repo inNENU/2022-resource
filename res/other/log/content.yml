@@ -1,6 +1,19 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/22
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 研究生院板块
+      - 硕士招生简章
+      - 硕士专业目录
+      - 硕士专业学费校区信息
+      - 直博专业目录
+      - 小贴士中的手洗技巧
+
+  - tag: title
     text: 11/21
 
   - tag: ul
