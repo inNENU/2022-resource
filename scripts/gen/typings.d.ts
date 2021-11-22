@@ -4,15 +4,15 @@ export interface SearchInfoItem {
   /** 页面描述 */
   desc?: string;
   /** 页面标题 */
-  title: string[];
+  title?: string[];
   /** 页面段落标题 */
-  heading: string[];
+  heading?: string[];
   /** 页面文字 */
-  text: string[];
+  text?: string[];
   /** 页面卡片 */
-  card: { title: string; desc?: string }[];
+  card?: { title: string; desc?: string }[];
   /** 页面文档 */
-  doc: { name: string; icon: string }[];
+  doc?: { name: string; icon: string }[];
 }
 
 export type SearchInfo = Record<string, SearchInfoItem>;

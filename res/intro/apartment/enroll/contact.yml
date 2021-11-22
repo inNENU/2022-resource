@@ -1,6 +1,6 @@
 title: 招生办公室联系方式
 desc: 信息来自东北师范大学本科招生网
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -32,6 +32,10 @@ content:
   - tag: copy
     header: 邮箱
     text: zsb@nenu.edu.cn
+
+  - tag: copy
+    header: 招生办留言板
+    text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
 
   - tag: text
     heading: 办公时间

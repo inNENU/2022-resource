@@ -4,6 +4,13 @@ content:
     text: 11/21
 
   - tag: ul
+    heading: 新增
+    text:
+      - 新增招生办介绍
+      - 重构招生栏目
+      - 所有学院微信公众号与介绍组件添加
+
+  - tag: ul
     heading: 更新
     text:
       - 更新四六级介绍

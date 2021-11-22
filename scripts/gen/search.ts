@@ -24,6 +24,8 @@ const createSearchMap = (folder: string): SearchInfo => {
     // 生成对应页面的索引对象
     searchMap[pathName] = {
       name: pageConfig.title,
+
+      // TODO: Remove these lines
       title: [],
       heading: [],
       text: [],
@@ -36,47 +38,85 @@ const createSearchMap = (folder: string): SearchInfo => {
     // 将页面的标题写入搜索详情中
     pageConfig.content.forEach((element) => {
       /** 写入段落大标题 */
-      if (element.tag === "title") searchMap[pathName].title.push(element.text);
+      if (element.tag === "title")
+        searchMap[pathName].title = [
+          ...(searchMap[pathName].title || []),
+          element.text,
+        ];
 
       if (element.tag === "text") {
         /** 写入段落标题 */
         if (element.heading && element.heading !== true)
-          searchMap[pathName].heading.push(element.heading);
+          searchMap[pathName].heading = [
+            ...(searchMap[pathName].heading || []),
+            element.heading,
+          ];
 
         /** 写入段落文字 */
-        if (element.text) searchMap[pathName].text.push(...element.text);
+        if (element.text)
+          searchMap[pathName].text = [
+            ...(searchMap[pathName].text || []),
+            ...element.text,
+          ];
       }
 
       if (element.tag === "list" && element.content) {
         /** 写入段落标题 */
-        if (element.header) searchMap[pathName].heading.push(element.header);
+        if (element.header)
+          searchMap[pathName].heading = [
+            ...(searchMap[pathName].heading || []),
+            element.header,
+          ];
 
         /** 写入段落文字  */
         element.content.forEach((config) => {
           if (config.text && !config.path && !config.url)
-            searchMap[pathName].text.push(config.text);
+            searchMap[pathName].text = [
+              ...(searchMap[pathName].text || []),
+              config.text,
+            ];
         });
       }
 
       if (element.tag === "card")
-        searchMap[pathName].card.push({
-          title: element.title,
-          ...(element.desc ? { desc: element.desc } : {}),
-        });
+        searchMap[pathName].card = [
+          ...(searchMap[pathName].card || []),
+          {
+            title: element.title,
+            ...(element.desc ? { desc: element.desc } : {}),
+          },
+        ];
 
       if (element.tag === "doc")
-        searchMap[pathName].doc.push({
-          name: element.name,
-          icon: element.icon,
-        });
+        searchMap[pathName].doc = [
+          ...(searchMap[pathName].doc || []),
+          {
+            name: element.name,
+            icon: element.icon,
+          },
+        ];
 
       if (element.tag === "img" && element.desc)
-        searchMap[pathName].text.push(element.desc);
+        searchMap[pathName].text = [
+          ...(searchMap[pathName].text || []),
+          element.desc,
+        ];
 
       if (element.tag === "account") {
-        searchMap[pathName].heading.push(element.name);
-        if (element.detail) searchMap[pathName].text.push(element.detail);
-        if (element.desc) searchMap[pathName].text.push(element.desc);
+        searchMap[pathName].heading = [
+          ...(searchMap[pathName].heading || []),
+          element.name,
+        ];
+        if (element.detail)
+          searchMap[pathName].text = [
+            ...(searchMap[pathName].text || []),
+            element.detail,
+          ];
+        if (element.desc)
+          searchMap[pathName].text = [
+            ...(searchMap[pathName].text || []),
+            element.desc,
+          ];
       }
     });
   });
