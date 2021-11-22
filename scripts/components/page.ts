@@ -34,8 +34,6 @@ export const resolvePage = (
   pagePath = "",
   diffResult = ""
 ): PageConfig => {
-  page.images = [];
-
   if (!page.id) page.id = pagePath;
 
   checkKeys(
@@ -53,7 +51,7 @@ export const resolvePage = (
       contact: ["boolean", "undefined"],
       outdated: ["boolean", "undefined"],
       photo: ["string[]", "undefined"],
-      images: "string[]",
+      images: ["string[]", "undefined"],
     },
     `${pagePath} page`
   );
@@ -65,10 +63,9 @@ export const resolvePage = (
 
       // 处理图片
       if (element.tag === "img") {
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        page.images!.push(element.res || element.src);
-
         resolveImg(element, position);
+
+        page.images = [...(page.images || []), element.res || element.src];
       }
       // 设置标题
       else if (element.tag === "title") resolveTitle(element, position);

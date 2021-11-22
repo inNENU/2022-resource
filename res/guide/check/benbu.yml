@@ -1,13 +1,13 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 本部校区图
 
   - tag: img
-    src: https://mp.innenu.com/img/check/benbu.jpg
+    src: $img/check/benbu.jpg
 
   - tag: text
     text: 由于疫情原因，只会开放特定的校门。
@@ -22,7 +22,7 @@ content:
         longitude: 125.33468
 
   - tag: img
-    src: https://mp.innenu.com/img/scenery/benbu/gate/north.jpg
+    src: $img/scenery/benbu/gate/north.jpg
 
   - tag: p
     text:
@@ -50,9 +50,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/scenery/benbu/gate/west1.jpg
-      - https://mp.innenu.com/img/scenery/benbu/gate/west2.jpg
-      - https://mp.innenu.com/img/scenery/benbu/gate/west3.jpg
+      - $img/scenery/benbu/gate/west1.jpg
+      - $img/scenery/benbu/gate/west2.jpg
+      - $img/scenery/benbu/gate/west3.jpg
 
   - tag: p
     text:
@@ -74,7 +74,7 @@ content:
     text: 疫情报到期间此门关闭!
 
   - tag: img
-    src: https://mp.innenu.com/img/scenery/benbu/gate/north-west.jpg
+    src: $img/scenery/benbu/gate/north-west.jpg
 
   - tag: p
     text:
@@ -85,4 +85,4 @@ content:
   #   text: 本部摆台示意图
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-stage.jpg
+  #   src: $img/check/benbu-stage.jpg

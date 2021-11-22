@@ -2,8 +2,8 @@ name: 东北师大信息化办
 detail: 东北师范大学信息化办公室
 desc: 精致服务，精细管理
 id: dbsdxxhb
-logo: https://mp.innenu.com/img/media/xxhb.png
-qrcode: https://mp.innenu.com/img/media/xxhb-wechat.jpg
+logo: $img/media/xxhb.png
+qrcode: $img/media/xxhb-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/TKhOTMjibicXOBHnZueHutG3gVKHJkKD00ntx8IrCzjlibVdlPyOsoUGI4Cp2ZYDf9JFictosXqoOjj0Xjg1XkW8LQ/0?wx_fmt=jpeg
     title: 你的退费宝典来了，仅限2021届毕业生哦

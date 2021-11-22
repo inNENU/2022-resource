@@ -1,6 +1,6 @@
 title: 本部本科寝室安排
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -41,7 +41,7 @@ content:
     text: 楼高 14 层，本部唯一的本科生男生寝室楼。入住、物理、文学、化学、地理、生科、数学、教育、马部、历史、心理学院、外语学院英语系(包括公费师范、优师专项)学生。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm3B.jpg
+    src: $img/dorm/dorm3B.jpg
     desc: 三舍 B 座
 
   - tag: text
@@ -53,5 +53,5 @@ content:
     text: 共 6 层，中间分隔，北半侧为男生宿舍，南半侧为女生宿舍，入住体育学院学生。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/PEdorm.jpg
+    src: $img/dorm/PEdorm.jpg
     desc: 体育公寓

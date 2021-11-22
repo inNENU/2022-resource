@@ -8,7 +8,7 @@ content:
     text: 本部纳新
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/xiaowo-intake1.jpg
+    src: $img/organization/xiaowo-intake1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/xiaowo-intake2.jpg
+    src: $img/organization/xiaowo-intake2.jpg

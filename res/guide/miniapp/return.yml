@@ -1,6 +1,6 @@
 title: 返校申请
 author: Mr.Hope
-time: 2021年9月30日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -27,7 +27,7 @@ content:
       - 填写完毕后，勾选本人承诺选项可点击提交即可。
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/miniprogram-return.png
+    src: $img/epidemic/miniprogram-return.png
 
   - tag: ul
     type: warning

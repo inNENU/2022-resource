@@ -2,16 +2,16 @@ title: 地理科学学院
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/school/geography.jpg
-  - https://mp.innenu.com/img/school/geography1.jpg
-  - https://mp.innenu.com/img/school/geography2.jpg
+  - $img/school/geography.jpg
+  - $img/school/geography1.jpg
+  - $img/school/geography2.jpg
 content:
   - tag: account
     name: 地理科学学院
-    logo: https://mp.innenu.com/img/media/geo.png
+    logo: $img/media/geo.png
     detail: 东北师范大学地理科学学院
     wxid: geonenu
-    wxcode: https://mp.innenu.com/img/media/geo-wechat.jpg
+    wxcode: $img/media/geo-wechat.jpg
     account: geo
     location:
       latitude: 43.86294

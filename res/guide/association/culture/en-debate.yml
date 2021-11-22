@@ -1,18 +1,18 @@
 title: 全英辩论俱乐部
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 全英辩论俱乐部
-    logo: https://mp.innenu.com/img/association/nenudc.png
+    logo: $img/association/nenudc.png
     desc: 英辩，世界万象的窗口，英语提升的良田，思想交流的盛宴。
 
   - tag: card
-    cover: https://mp.innenu.com/img/media/join.png
+    cover: $img/media/join.png
     title: 我们在纳新
     name: 全英辩论俱乐部
-    logo: https://mp.innenu.com/img/association/nenudc.png
+    logo: $img/association/nenudc.png
     url: page?id=/guide/association/culture/debate-in
 
   - tag: title

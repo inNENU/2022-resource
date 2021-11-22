@@ -1,7 +1,7 @@
 title: 党委学生工作部
 desc: |-
   信息来源: 学生处官网
-time: 2021年9月5日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
     text: 机构设置
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/student-detail.gif
+    src: $img/apartment/student-detail.gif
 
   - tag: title
     text: 人员信息
@@ -26,16 +26,16 @@ content:
     heading: 学指委
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/student-direct.gif
+    src: $img/apartment/student-direct.gif
 
   - tag: text
     heading: 学工部
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/student-work.png
+    src: $img/apartment/student-work.png
 
   - tag: text
     heading: 学生处
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/student-office.png
+    src: $img/apartment/student-office.png

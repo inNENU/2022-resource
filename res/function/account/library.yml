@@ -2,8 +2,8 @@ name: 东北师范大学图书馆
 detail: 东北师范大学图书馆
 desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态!
 id: nenu_lib
-logo: https://mp.innenu.com/img/media/library.png
-qrcode: https://mp.innenu.com/img/media/library-wx.jpg
+logo: $img/media/library.png
+qrcode: $img/media/library-wx.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_png/SgzbtMw6Xbd4SBI8MqQUl0Tbc5cVDwzYWHmsUImIZVEp9Z68TerCj39ia1SocDq0rKiaxJA9DkU34r5dR0buLEPQ/0?wx_fmt=png
     title: 3分钟get百科知识? 「百科奇妙物语」科普视频赛等你来

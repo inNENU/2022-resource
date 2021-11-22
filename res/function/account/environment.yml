@@ -2,8 +2,8 @@ name: NENU环境学院
 detail: 东北师范大学环境学院
 desc: 了解更多东师环境学院的信息与活动
 id: dongshihuanjing
-logo: https://mp.innenu.com/img/media/environment.png
-qrcode: https://mp.innenu.com/img/media/environment-wechat.jpg
+logo: $img/media/environment.png
+qrcode: $img/media/environment-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/IiaBlQyAP0uEKW4cED0zSicAAgp8PSiantEBq76Dg2885j1v268hE5MxmYX5nSKro8icial2wjQmowmsIvBU8KWrjZA/0?wx_fmt=jpeg
     title: 环境学院经典阅读分享会(第一期)成功举办

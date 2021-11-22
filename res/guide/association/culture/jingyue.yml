@@ -2,7 +2,7 @@ title: 净月文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月22日
 grey: true
 shareable: true
 content:
@@ -13,7 +13,7 @@ content:
     header: false
     content:
       - text: 师说曲艺社
-        icon: https://mp.innenu.com/img/association/quyi.png
+        icon: $img/association/quyi.png
         path: quyi
 
       - text: 逗号文学社

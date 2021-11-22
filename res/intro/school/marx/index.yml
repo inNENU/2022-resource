@@ -1,15 +1,15 @@
 title: 马克思主义学部
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 马克思主义学部
-    logo: https://mp.innenu.com/img/media/marx.png
+    logo: $img/media/marx.png
     detail: 东北师范大学马克思主义学部
     wxid: gh_32d2742e1204
-    wxcode: https://mp.innenu.com/img/media/marx-qrcode.jpg
+    wxcode: $img/media/marx-qrcode.jpg
     account: marx
     location:
       latitude: 43.86268

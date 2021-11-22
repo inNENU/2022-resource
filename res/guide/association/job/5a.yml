@@ -3,12 +3,12 @@ shareable: true
 content:
   - tag: account
     name: 5A 职业发展协会
-    logo: https://mp.innenu.com/img/association/5Alogo.png
+    logo: $img/association/5Alogo.png
     desc: 全程化、全方位的就业指导服务
 
   - tag: card
-    cover: https://mp.innenu.com/img/association/5a-cover.jpg
-    logo: https://mp.innenu.com/img/association/5Alogo.png
+    cover: $img/association/5a-cover.jpg
+    logo: $img/association/5Alogo.png
     title: 我们纳新啦
     url: page?id=guide/association/job/5a-intake
 

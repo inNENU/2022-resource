@@ -2,7 +2,7 @@ title: 专业排名
 author: Mr.Hope
 desc: |-
   图片来源: 东北师范大学招生办公室
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -15,7 +15,7 @@ content:
     text: 2021年，在教育部公布的2020年度国家级一流本科专业建设点名单中，东北师范大学16个本科专业被认定为国家级一流本科专业建设点，4个专业入选省级一流本科专业建设点名单。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/major-grade-2020.jpg
+    src: $img/about/major-grade-2020.jpg
 
   - tag: title
     text: 历史专业评级
@@ -24,4 +24,4 @@ content:
     text: 2019年，教育部办公厅公布了2019年度国家级和省级一流本科专业建设点名单，东北师范大学18个本科专业被认定为国家级一流本科专业建设点，10个本科专业被认定为省级一流本科专业建设点。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/major-grade-2019.jpg
+    src: $img/about/major-grade-2019.jpg

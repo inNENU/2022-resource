@@ -1,7 +1,7 @@
 title: 净月校内超市
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -17,11 +17,11 @@ content:
     text: 净月超市位于校区二食堂一楼，售卖大多数常见的食品、饮品以及日常生活用品等。
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-shop-1.jpg
+    src: $img/shop/jingyue-shop-1.jpg
     desc: 超市入口
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-shop-2.jpg
+    src: $img/shop/jingyue-shop-2.jpg
     desc: 床上用品
 
   - tag: text
@@ -44,9 +44,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-grocery1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-grocery2.jpg
-      - https://mp.innenu.com/img/shop/jingyue-grocery3.jpg
+      - $img/shop/jingyue-grocery1.jpg
+      - $img/shop/jingyue-grocery2.jpg
+      - $img/shop/jingyue-grocery3.jpg
 
   - tag: text
     text: 新起点百货，可以买到诸如锁头、指甲刀、床头挂篮之类的东西
@@ -56,9 +56,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-stationery1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-stationery2.jpg
-      - https://mp.innenu.com/img/shop/jingyue-stationery3.jpg
+      - $img/shop/jingyue-stationery1.jpg
+      - $img/shop/jingyue-stationery2.jpg
+      - $img/shop/jingyue-stationery3.jpg
 
   - tag: text
     text: 文具店，可以买到文具和画具
@@ -67,29 +67,29 @@ content:
       font-size: 14px
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-copy.jpg
+    src: $img/shop/jingyue-copy.jpg
     desc: 师大图文复印店，可以复印和打印
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-fruit-1.jpg
+    src: $img/shop/jingyue-fruit-1.jpg
     desc: 水果店，位于二食堂一楼
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-fruit-2.jpg
+    src: $img/shop/jingyue-fruit-2.jpg
     desc: 水果店，位于二食堂二楼
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-mobile.jpg
+    src: $img/shop/jingyue-mobile.jpg
     desc: 中国移动
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-haircut.jpg
+    src: $img/shop/jingyue-haircut.jpg
     desc: 理发店
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-coffee1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-coffee2.jpg
+      - $img/shop/jingyue-coffee1.jpg
+      - $img/shop/jingyue-coffee2.jpg
 
   - tag: text
     text: 咖啡店
@@ -99,8 +99,8 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
+      - $img/shop/jingyue-cake1.jpg
+      - $img/shop/jingyue-cake2.jpg
 
   - tag: text
     text: 烘培坊
@@ -110,9 +110,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-shop1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-shop2.jpg
-      - https://mp.innenu.com/img/shop/jingyue-shop3.jpg
+      - $img/shop/jingyue-shop1.jpg
+      - $img/shop/jingyue-shop2.jpg
+      - $img/shop/jingyue-shop3.jpg
 
   - tag: text
     text: 其他店铺

@@ -2,8 +2,8 @@ name: 东师心理
 detail: 东北师范大学心理学院
 desc: 东师心理，一直有你！
 id: gh_b8263d1e2906
-logo: https://mp.innenu.com/img/media/psychology.png
-qrcode: https://mp.innenu.com/img/media/psychology-qrcode.jpg
+logo: $img/media/psychology.png
+qrcode: $img/media/psychology-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/LExoUob9H0bmLZKATicrQQwVOHgmpiba9KbKoWp10HCXpbLUvBfryJQLKqicXVuFfdQXyNCuLGicaeAu87nSedIFlg/0?wx_fmt=jpeg
     title: |-

@@ -2,7 +2,7 @@
 title: 党委宣传部规章制度
 desc: |-
   信息来源: 党委宣传部官网
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -10,11 +10,11 @@ content:
 
   - tag: doc
     name: 关于印发《东北师范大学新闻宣传工作管理规定》的通知
-    url: https://mp.innenu.com/file/apartment/publicize-manage-rule.pdf
+    url: $file/apartment/publicize-manage-rule.pdf
 
   - tag: doc
     name: 关于印发《东北师范大学校园新媒体建设与管理办法》的通知
-    url: https://mp.innenu.com/file/apartment/publicize-new-media.pdf
+    url: $file/apartment/publicize-new-media.pdf
 
   - tag: list
     header: false

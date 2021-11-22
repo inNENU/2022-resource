@@ -5,7 +5,7 @@ content:
     text: 东师机场拼车群
 
   - tag: img
-    src: https://mp.innenu.com/img/AD/taxi-group.png
+    src: $img/AD/taxi-group.png
 
   - tag: p
     text: 去机场找不到小伙伴拼车的同学欢迎加群

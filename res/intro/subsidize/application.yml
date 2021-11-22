@@ -1,6 +1,6 @@
 title: 申请流程
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -13,10 +13,10 @@ content:
     text: 资助对象申请流程
 
   - tag: img
-    src: https://mp.innenu.com/img/subsidize/subsidize1.png
+    src: $img/subsidize/subsidize1.png
 
   - tag: title
     text: 勤工助学岗位申请流程
 
   - tag: img
-    src: https://mp.innenu.com/img/subsidize/subsidize2.png
+    src: $img/subsidize/subsidize2.png

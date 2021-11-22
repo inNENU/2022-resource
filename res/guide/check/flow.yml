@@ -1,6 +1,6 @@
 title: 报到流程
 author: 沈竞泽、Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -25,7 +25,7 @@ content:
     text: 大体流程
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-stage2.jpg
+  #   src: $img/check/benbu-stage2.jpg
 
   # - tag: text
   #   heading: 提前来(今年疫情应该是不会允许)
@@ -92,7 +92,7 @@ content:
   - tag: card
     title: 吉祥码
     desc: 快速打开吉祥码
-    logo: https://mp.innenu.com/img/epidemic/jixaing-code-icon.png
+    logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
     options:
       appId: wx5f0c843a23b032cc

@@ -1,13 +1,13 @@
 title: 本科生试卷查阅
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 执行流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/test-recheck.jpg
+    src: $img/action/test-recheck.jpg
 
   - tag: title
     text: 相关内容

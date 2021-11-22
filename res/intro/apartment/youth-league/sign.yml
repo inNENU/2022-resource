@@ -1,14 +1,14 @@
 title: 中国共产主义青年团标识
 desc: |-
   信息来源: 校团委官网
-time: 2021年11月8日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 中国共产主义青年团团旗
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/group-flag.jpg
+    src: $img/apartment/group-flag.jpg
 
   - tag: ol
     heading: 制法说明
@@ -22,7 +22,7 @@ content:
     text: 中国共产主义青年团团徽
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/group-badge.png
+    src: $img/apartment/group-badge.png
 
   - tag: ol
     heading: 制法说明
@@ -34,7 +34,7 @@ content:
     text: 中国共产主义青年团团歌
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/group-song.jpg
+    src: $img/apartment/group-song.jpg
 
   - tag: text
     heading: 团歌视频

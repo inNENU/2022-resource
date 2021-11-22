@@ -1,6 +1,6 @@
 title: 本部浴池
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -16,15 +16,15 @@ content:
         longitude: 125.337057
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-main.jpg
+    src: $img/bath/benbu-main.jpg
     desc: 正门
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-outside.webp
+    src: $img/bath/benbu-outside.webp
     desc: 外景
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-main.webp
+    src: $img/bath/benbu-main.webp
     desc: 大厅
 
   - tag: text
@@ -36,9 +36,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/bath/benbu-shop1.jpg
-      - https://mp.innenu.com/img/bath/benbu-shop2.jpg
-      - https://mp.innenu.com/img/bath/benbu-shop3.jpg
+      - $img/bath/benbu-shop1.jpg
+      - $img/bath/benbu-shop2.jpg
+      - $img/bath/benbu-shop3.jpg
 
   - tag: text
     heading: 二楼
@@ -54,19 +54,19 @@ content:
       - 每个洗浴间都有可上锁的门，周围是毛玻璃，门后有放置衣服和鞋子的箱子。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-env.webp
+    src: $img/bath/benbu-env.webp
     desc: 洗浴区
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-cloth-box.webp
+    src: $img/bath/benbu-cloth-box.webp
     desc: 衣物箱
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-dressing-table.webp
+    src: $img/bath/benbu-dressing-table.webp
     desc: 梳妆台 (有吹风机)
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-scale.webp
+    src: $img/bath/benbu-scale.webp
     desc: 体重秤
 
   - tag: title

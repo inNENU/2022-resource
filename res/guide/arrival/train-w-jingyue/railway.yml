@@ -1,6 +1,6 @@
 title: 长春西站-到净月-轨道交通
 author: Mr.Hope
-time: 2021年11月9日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -15,19 +15,19 @@ content:
       - 其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-1-time.jpg
+    src: $img/traffic/subway-1-time.jpg
     desc: 地铁 1 号线时刻表
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-2-time.jpg
+    src: $img/traffic/subway-2-time.jpg
     desc: 地铁 2 号线时刻表
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3-time.jpg
+    src: $img/traffic/railway-3-time.jpg
     desc: 轻轨 3 号线时刻表
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-4-time.jpg
+    src: $img/traffic/railway-4-time.jpg
     desc: 轻轨 4 号线时刻表
 
   - tag: text
@@ -94,11 +94,11 @@ content:
       - 从长春西站出站后，右转即是地铁 2 号线“长春西站”站点。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-west-subway-entrance1.jpg
+    src: $img/arrival/train-west-subway-entrance1.jpg
     desc: 2号线“长春西站”入口
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-west-subway-entrance2.jpg
+    src: $img/arrival/train-west-subway-entrance2.jpg
     desc: 2号线“长春西站”站台扶梯入口
 
   - tag: text
@@ -155,11 +155,11 @@ content:
       - 而如果您第一次使用售票机，在上面快速找到东北师大站显然会很困难，所以请直接在屏幕右侧选择 ￥3 和所需的张数，之后点击现金支付或扫码支付即可!
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/ticket-machine.jpg
+    src: $img/arrival/ticket-machine.jpg
     desc: 自助售票机
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-ticket.jpg
+    src: $img/arrival/subway-ticket.jpg
     desc: 轨道交通票
 
   - tag: title
@@ -182,23 +182,23 @@ content:
       - 下楼后，左侧的方向是开往红嘴子的正确方向。
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-2.png
+    src: $img/traffic/subway-2.png
     desc: 地铁 2 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-1.png
+    src: $img/traffic/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-4.png
+    src: $img/traffic/railway-4.png
     desc: 轻轨 4 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3.png
+    src: $img/traffic/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-env.jpg
+    src: $img/arrival/subway-env.jpg
     desc: 地铁内部环境
 
   - tag: title

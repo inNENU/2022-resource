@@ -1,6 +1,6 @@
 title: 净月打印复印
 author: Mr.Hope
-time: 2021年9月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -19,11 +19,11 @@ content:
     text: 位于学生浴池旁。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue/zhixing-copy.jpg
+    src: $img/life/jingyue/zhixing-copy.jpg
     desc: 店铺照片
 
   - tag: img
-    src: https://mp.innenu.com/img/life/jingyue/zhixing-price.jpg
+    src: $img/life/jingyue/zhixing-price.jpg
     desc: 价格表
 
   - tag: text
@@ -31,7 +31,7 @@ content:
     text: 位于二食堂超市对面
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-copy.jpg
+    src: $img/shop/jingyue-copy.jpg
     desc: 店铺照片
 
   - tag: title

@@ -1,6 +1,6 @@
 title: 校园 VPN
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,14 +14,14 @@ content:
     text: https://webvpn.nenu.edu.cn/
 
   - tag: img
-    src: https://mp.innenu.com/img/account/webvpn-login.jpg
+    src: $img/account/webvpn-login.jpg
     desc: VPN 登陆界面
 
   - tag: text
     text: 输入自己的统一身份认证账号(工号或学号、邮箱账号)，点击登录按钮。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/webvpn.jpg
+    src: $img/account/webvpn.jpg
     desc: VPN 功能页面
 
   - tag: text
@@ -35,4 +35,4 @@ content:
 
   - tag: doc
     name: VPN 使用方式介绍
-    url: https://mp.innenu.com/file/network/vpn.pdf
+    url: $file/network/vpn.pdf

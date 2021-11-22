@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -77,7 +77,7 @@ content:
   #   heading: 正式接待
   # - tag: doc
   #   name: 摆台分布示意图
-  #   url: https://mp.innenu.com/file/checkin2019.pdf
+  #   url: $file/checkin2019.pdf
   - tag: text
     text: 本部校区在东北门(动植物公园正门对面)进门的街道
 
@@ -89,28 +89,28 @@ content:
 
     # text: 本部校区在同心路上(化院、排球场门前对着的那条路)
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-stage.jpg
+  #   src: $img/check/benbu-stage.jpg
   #   desc: 本部摆台地点示意图
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-scene-2020-1.jpg
+  #   src: $img/check/benbu-scene-2020-1.jpg
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-scene-2020-2.jpg
+  #   src: $img/check/benbu-scene-2020-2.jpg
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-scene-2020-3.jpg
+  #   src: $img/check/benbu-scene-2020-3.jpg
   #   desc: 本部迎新现场
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/benbu-scene-2020-4.jpg
+  #   src: $img/check/benbu-scene-2020-4.jpg
   #   desc: 本部摆台旁的学生证展板(Mr.Hope 本人)
 
   - tag: text
     text: 净月校区在正门通道处
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/check/jingyue-stage.jpg
+  #   src: $img/check/jingyue-stage.jpg
 
   - tag: location
     title: 净月正门

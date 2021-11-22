@@ -1,16 +1,16 @@
 title: 祖安对话精选
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
     text: 这里包含了所有 Mr.Hope 收到的祖安对话，后面发布了全部对话截图(无任何删减)，所以请不要因为此页说我以偏概全。
 
   - tag: img
-    src: https://mp.innenu.com/img/other/zuan1.jpg
+    src: $img/other/zuan1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/other/zuan2.jpg
+    src: $img/other/zuan2.jpg
 
   - tag: text
     text:

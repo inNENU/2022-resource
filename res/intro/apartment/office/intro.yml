@@ -1,6 +1,6 @@
 title: 学校办公室介绍
 desc: "信息来源: 学校办公室官网"
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -13,4 +13,4 @@ content:
     text: 机构设置
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/officeDetail.jpg
+    src: $img/apartment/officeDetail.jpg

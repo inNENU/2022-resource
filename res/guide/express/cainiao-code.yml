@@ -1,6 +1,6 @@
 title: 菜鸟驿站身份码
 author: Mr.Hope、战俊华
-time: 2021年11月17日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -28,5 +28,5 @@ content:
       - 在首页找到并使用身份码
 
   - tag: img
-    src: https://mp.innenu.com/img/express/taobao-code.jpg
+    src: $img/express/taobao-code.jpg
     desc: “我的快递”位置

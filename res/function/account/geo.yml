@@ -1,8 +1,8 @@
 name: 东北师范大学地理科学学院
 desc: 东北师范大学地理科学学院官方公众号
 id: geonenu
-logo: https://mp.innenu.com/img/association/geo.png
-qrcode: https://mp.innenu.com/img/media/geo-wechat.jpg
+logo: $img/media/geo.png
+qrcode: $img/media/geo-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/JjajDibgjHeBIX0XDljBRraFPmXfZExBYZZibJ1Xhb8LsnWlv7XjWUrC4T8FWn9rpBwXtHgZsduia0NibYWBGCqgtA/0?wx_fmt=jpeg
     title: 喜报 | 我院研究生辅导员沈雯入选2021年吉林省高校辅导员年度人物

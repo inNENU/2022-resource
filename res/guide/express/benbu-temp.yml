@@ -1,6 +1,6 @@
 title: 本部临时取件点
 author: Mr.Hope、战俊华
-time: 2021年11月17日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -24,7 +24,7 @@ content:
         detail: 三舍AB地下车库
 
   - tag: img
-    src: https://mp.innenu.com/img/express/benbu-temp-entrance.jpg
+    src: $img/express/benbu-temp-entrance.jpg
     desc: 临时取件点入口
 
   - tag: text
@@ -35,9 +35,9 @@ content:
     text: 环境介绍
 
   - tag: img
-    src: https://mp.innenu.com/img/express/benbu-temp.jpg
+    src: $img/express/benbu-temp.jpg
     desc: 临时取件点内景
 
   - tag: img
-    src: https://mp.innenu.com/img/express/benbu-temp-scan.jpg
+    src: $img/express/benbu-temp-scan.jpg
     desc: 临时取件点出库处

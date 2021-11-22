@@ -1,6 +1,6 @@
 title: 查询档案邮寄情况
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -9,7 +9,7 @@ content:
       - 您必须在校期间关注东北师大企业微信号并完成身份认证。
 
   - tag: img
-    src: https://mp.innenu.com/img/archive/account.png
+    src: $img/archive/account.png
     desc: 档案馆公众号 / 东北师范大学企业号
 
   - tag: text

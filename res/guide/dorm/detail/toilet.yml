@@ -1,6 +1,6 @@
 title: 卫生间
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: ul
@@ -9,10 +9,10 @@ content:
       - 每个卫生间有七八个位置。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/toilet.jpg
+    src: $img/dorm/toilet.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/toilet2.jpg
+    src: $img/dorm/toilet2.jpg
 
   - tag: title
     text: Mr.Hope の 吐槽

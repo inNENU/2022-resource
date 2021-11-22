@@ -1,7 +1,7 @@
 title: 洗漱间
 desc: 研究生洗漱间图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -45,19 +45,19 @@ content:
       - 各寝室楼入口处
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washing1.jpg
+    src: $img/dorm/washing1.jpg
     desc: 图为本部三舍 AB 洗漱区
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washing2.jpg
+    src: $img/dorm/washing2.jpg
     desc: 图为本部三舍 C 洗漱区
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washing3.jpg
+    src: $img/dorm/washing3.jpg
     desc: 图为净月公寓洗漱区
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washing4.jpg
+    src: $img/dorm/washing4.jpg
     desc: 图为研究生洗漱区
 
   - tag: title
@@ -80,7 +80,7 @@ content:
       - 吹风机价格为 0.15元/分钟。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/hair-dryer.jpg
+    src: $img/dorm/hair-dryer.jpg
 
   - tag: p
     heading: 洗衣机
@@ -98,7 +98,7 @@ content:
         path: washer
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washer.jpg
+    src: $img/dorm/washer.jpg
 
   - tag: title
     text: Mr.Hope の 吐糟

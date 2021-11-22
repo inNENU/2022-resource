@@ -2,7 +2,7 @@ title: 师资队伍
 desc: |-
   来源: 东北师范大学官网
   优秀教师图片来源: 东北师范大学招生办公室
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -15,4 +15,4 @@ content:
     text: 优秀教师与所获奖项
 
   - tag: img
-    src: https://mp.innenu.com/img/about/teacher.jpg
+    src: $img/about/teacher.jpg

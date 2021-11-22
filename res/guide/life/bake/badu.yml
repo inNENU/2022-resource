@@ -1,6 +1,6 @@
 title: 八度烘焙
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,24 +14,24 @@ content:
         detail: 位于北苑地下一楼
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/badu.jpg
+    src: $img/life/benbu/badu.jpg
     desc: 八度烘焙
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/life/benbu/badu1.jpg
-      - https://mp.innenu.com/img/life/benbu/badu2.jpg
-      - https://mp.innenu.com/img/life/benbu/badu3.jpg
-      - https://mp.innenu.com/img/life/benbu/badu4.jpg
-      - https://mp.innenu.com/img/life/benbu/badu5.jpg
+      - $img/life/benbu/badu1.jpg
+      - $img/life/benbu/badu2.jpg
+      - $img/life/benbu/badu3.jpg
+      - $img/life/benbu/badu4.jpg
+      - $img/life/benbu/badu5.jpg
 
   - tag: title
     text: 促销活动
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/badu-activity1.jpg
+    src: $img/life/benbu/badu-activity1.jpg
     desc: 储值活动
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/badu-activity2.jpg
+    src: $img/life/benbu/badu-activity2.jpg
     desc: 集赞活动

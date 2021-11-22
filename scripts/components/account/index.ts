@@ -6,23 +6,40 @@ export const resolveAccount = (
   element: AccountComponentOptions,
   location = ""
 ): void => {
-  if (
-    element.logo?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.logo.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`Image ${element.logo} not exist in ${location}`);
+  // `$img` alias resolve and file check
+  if (element.logo?.startsWith("$img/")) {
+    const localePath = element.logo.replace(/^\$img\//, "./img/");
+
+    if (existsSync(localePath))
+      element.logo = element.logo.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
   }
-  if (
-    element.qqcode?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.qqcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`Image ${element.qqcode} not exist in ${location}`);
+
+  // `$img` alias resolve and file check
+  if (element.qqcode?.startsWith("$img/")) {
+    const localePath = element.qqcode.replace(/^\$img\//, "./img/");
+
+    if (existsSync(localePath))
+      element.qqcode = element.qqcode.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
   }
-  if (
-    element.wxcode?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.wxcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`Image ${element.wxcode} not exist in ${location}`);
+
+  // `$img` alias resolve and file check
+  if (element.wxcode?.startsWith("$img/")) {
+    const localePath = element.wxcode.replace(/^\$img\//, "./img/");
+
+    if (existsSync(localePath))
+      element.wxcode = element.wxcode.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
   }
 
   if (element.location)

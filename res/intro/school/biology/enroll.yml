@@ -1,6 +1,6 @@
 title: 生命科学学院专业
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -30,7 +30,7 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/biology-master.png
+    src: $img/enroll/biology-master.png
     desc: 2021 年招生情况
 
   - tag: phone

@@ -1,6 +1,6 @@
 title: 扫码支付
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -11,11 +11,11 @@ content:
       - 长春轨道交通支持微信和支付宝扫码乘车。
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-wechat.jpg
+    src: $img/traffic/subway-wechat.jpg
     desc: 微信“乘车码”小程序码
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-alipay.jpg
+    src: $img/traffic/subway-alipay.jpg
     desc: 支付宝轨道交通卡
 
   - tag: text

@@ -1,15 +1,15 @@
 title: 数学与统计学院
 desc: |-
   来源: 东北师范大学数学与统计学院官网
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 数学与统计学院
-    logo: https://mp.innenu.com/img/media/math.png
+    logo: $img/media/math.png
     detail: 东北师范大学数学与统计学院
     wxid: gh_83fa6f6e7577
-    wxcode: https://mp.innenu.com/img/media/math-qrcode.jpg
+    wxcode: $img/media/math-qrcode.jpg
     account: math
     location:
       latitude: 43.86014
@@ -18,9 +18,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/school/math1.jpg
-      - https://mp.innenu.com/img/school/math2.jpg
-      - https://mp.innenu.com/img/school/math3.jpg
+      - $img/school/math1.jpg
+      - $img/school/math2.jpg
+      - $img/school/math3.jpg
 
   - tag: title
     text: 学院简介

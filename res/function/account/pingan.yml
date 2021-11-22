@@ -2,8 +2,8 @@ name: 平安东师
 detail: 东北师范大学保卫处
 desc: 发布安全工作状态、推送安全常识、剖析安全事例、进行互动交流
 id: gh_dd8abfa7985e
-logo: https://mp.innenu.com/img/media/pingan.png
-qrcode: https://mp.innenu.com/img/media/pinpgan-qrcode.jpg
+logo: $img/media/pingan.png
+qrcode: $img/media/pingan-qrcode.jpg
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/E2eJYIhNrsicndWvq0vqvsW5X8Yqqk1gzJfOYDmFpn0yjM4NDy3gHeDQAPvXSolmCFKSNl2nic4NpA5GiaicQCmgRg/0?wx_fmt=jpeg
     title: 歼灭火灾中的“隐藏杀手”

@@ -1,6 +1,6 @@
 title: 接站
 author: Mr.Hope
-time: 2021年8月31日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -31,7 +31,7 @@ content:
       # - 接到大家后，工作人员会带大家到相关地点登记，之后将由工作人员统一带到停车场乘车。接站时学校配有统一的校车(新生手册上面所说的包车并不指这个)，学生、家长都可以上，不收取任何的费用，校车会将大家直接送往报到处。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/pickup.jpg
+    src: $img/arrival/pickup.jpg
     desc: 图为接站人员
 
   - tag: title

@@ -2,9 +2,9 @@ title: 田径场
 author: fy, Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/scenery/benbu/sports/sport-field1.jpg
-  - https://mp.innenu.com/img/scenery/benbu/sports/sport-field2.jpg
-  - https://mp.innenu.com/img/scenery/benbu/sports/sport-field3.jpg
+  - $img/scenery/benbu/sports/sport-field1.jpg
+  - $img/scenery/benbu/sports/sport-field2.jpg
+  - $img/scenery/benbu/sports/sport-field3.jpg
 content:
   - tag: title
     text: 简介

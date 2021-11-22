@@ -1,7 +1,7 @@
 title: 奖学金
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: list
@@ -24,4 +24,4 @@ content:
 
   - tag: doc
     name: 东北师范大学学生奖励办法
-    url: https://mp.innenu.com/file/scholarship/reward.pdf
+    url: $file/scholarship/reward.pdf

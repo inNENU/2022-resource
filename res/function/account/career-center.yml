@@ -2,8 +2,8 @@ name: 东师大学生创业中心
 detail: 东北师范大学大学生创新创业中心
 desc: 大学生创业中心，一个富有激情的团队，等待着你与我们一起共创辉煌。
 id: chuangyezhongxin
-logo: https://mp.innenu.com/img/organization/daChuang.png
-qrcode: https://mp.innenu.com/img/media/career-center-wechat.jpg
+logo: $img/organization/daChuang.png
+qrcode: $img/media/career-center-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/z1ZYpnEmdBHSwoNZUK6QJm0tRxXbvmo4c6lkg3ZAB1WGykaThfdSuWVltqlGfdxvhhb4icN8DLTJvEtlQkfrM0Q/0?wx_fmt=jpeg
     title: 净月|大例会暨破冰大会

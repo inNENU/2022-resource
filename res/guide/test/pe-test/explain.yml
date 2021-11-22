@@ -1,6 +1,6 @@
 title: 测试成绩说明
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     text: 如体重指数为 29 的学生，其体质与健康测试及格分为 58 分
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/pe-pass-score.png
+    src: $img/exam/pe-pass-score.png
     desc: 体重指数与对应的及格分数
 
   - tag: title

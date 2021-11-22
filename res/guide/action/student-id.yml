@@ -1,6 +1,6 @@
 title: 本科补办学生证
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -24,4 +24,4 @@ content:
     text: 执行流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/get-student-id.jpg
+    src: $img/action/get-student-id.jpg

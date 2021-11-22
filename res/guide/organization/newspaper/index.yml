@@ -3,11 +3,11 @@ shareable: true
 content:
   - tag: account
     name: 《东师青年》报社
-    logo: https://mp.innenu.com/img/organization/newspaper.png
+    logo: $img/organization/newspaper.png
     desc: 东北师范大学《东师青年》报社
     qq: 3495764565
     wxid: nenu-youth
-    wxcode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
+    wxcode: $img/media/newspaper-wechat.jpg
     account: newspaper
     mail: dsqn@nenu.edu.cn
 

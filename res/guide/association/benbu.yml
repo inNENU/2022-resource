@@ -2,7 +2,7 @@ title: 本部社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -17,7 +17,7 @@ content:
     header: false
     content:
       - text: 查看详情
-        icon: https://mp.innenu.com/img/organization/sheguan.png
+        icon: $img/organization/sheguan.png
         path: /guide/organization/association-union
 
   - tag: title

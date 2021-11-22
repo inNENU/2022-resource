@@ -2,13 +2,13 @@ title: 净月学术科技类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: list
     content:
       - text: 模拟联合国协会
-        icon: https://mp.innenu.com/img/association/mun.png
+        icon: $img/association/mun.png
         path: mun
 
   - tag: functional-list

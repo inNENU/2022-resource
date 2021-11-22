@@ -1,14 +1,14 @@
 title: 校团委介绍
 desc: |-
   信息来源: 校团委官网
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 机构设置
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/tuanweiDetail.jpg
+    src: $img/apartment/tuanweiDetail.jpg
 
   - tag: title
     text: 工作职能

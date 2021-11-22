@@ -1,6 +1,6 @@
 title: 博士生申请国际学术会议资助
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -20,8 +20,8 @@ content:
 
   - tag: doc
     name: 东北师范大学博士生参加国际学术会议申请表
-    url: https://mp.innenu.com/file/action/doctor-conference-apply.docx
+    url: $file/action/doctor-conference-apply.docx
 
   - tag: doc
     name: 东北师范大学博士生参加学术会议总结报告
-    url: https://mp.innenu.com/file/action/doctor-conference-report.docx
+    url: $file/action/doctor-conference-report.docx

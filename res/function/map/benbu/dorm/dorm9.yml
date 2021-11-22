@@ -2,10 +2,10 @@ title: 九舍
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/dorm/dorm9.jpg
-  - https://mp.innenu.com/img/dorm/dorm9-2.jpg
-  - https://mp.innenu.com/img/dorm/dorm9-3.jpg
-  - https://mp.innenu.com/img/dorm/dorm9-4.jpg
+  - $img/dorm/dorm9.jpg
+  - $img/dorm/dorm9-2.jpg
+  - $img/dorm/dorm9-3.jpg
+  - $img/dorm/dorm9-4.jpg
 content:
   - tag: title
     text: 九舍

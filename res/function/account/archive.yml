@@ -1,8 +1,8 @@
 name: 东师档案
 detail: 东北师范大学档案、校史与校友服务
 id: gh_6831c1b199d0
-logo: https://mp.innenu.com/img/media/official.jpg
-qrcode: https://mp.innenu.com/img/media/archive-wechat.jpg
+logo: $img/media/official.png
+qrcode: $img/media/archive-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ssoe85BllnHdbWNKaa2zlBqqdeON9LlIak05yUFYcBS30rTmJKeictdCfqk0f4sH4pxzYPgf4icdyDuZKmwoicccQ/0?wx_fmt=jpeg
     title: 东师档案集成服务平台利用一点通 No.4【校外用户篇】往届生调档

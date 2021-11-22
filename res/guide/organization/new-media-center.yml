@@ -3,18 +3,18 @@ shareable: true
 content:
   - tag: account
     name: 团委融媒体中心
-    logo: https://mp.innenu.com/img/organization/nenuyouth.png
+    logo: $img/organization/nenuyouth.png
     qq: 1793612094
     qqid: E84B43674E54793277416D189D4780DD
-    qqcode: https://mp.innenu.com/img/media/nenuyouth-qq-qrcode.png
+    qqcode: $img/media/nenuyouth-qq-qrcode.png
     wxid: nenuxsh40
-    wxcode: https://mp.innenu.com/img/media/nenuyouth-qrcode.jpg
+    wxcode: $img/media/nenuyouth-qrcode.jpg
     account: nenuyouth
     mail: su＠nenu.edu.cn
 
   - tag: card
     cover: http://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJm9CFXhtaiasbrrvOecTvI5r2B1ibKVmFt1OE77gia2Y8bichR3JGronLlhcHaWG0FGVGV7VNmiaItoncg/0?wx_fmt=jpeg
-    logo: https://mp.innenu.com/img/organization/nenuyouth.png
+    logo: $img/organization/nenuyouth.png
     name: 东师青年
     title: 纳新 |【融媒体中心】我们期待的未来，希望一路有你!
     desc: 融媒体大家庭期待你的到来!

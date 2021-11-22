@@ -3,8 +3,8 @@ detail: 东北师范大学《东师青年》报社
 desc: |-
   关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人！(原名: 东北师范大学东师青年)
 id: nenu-youth
-logo: https://mp.innenu.com/img/organization/newspaper.png
-qrcode: https://mp.innenu.com/img/media/newspaper-wechat.jpg
+logo: $img/organization/newspaper.png
+qrcode: $img/media/newspaper-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlIBV7zgSn4N63slTofM6wKMrWk0ACjdvkx65bPSlsFS0l2vA03A1Vw62HgdNkPEJtoY7eKKOHmSg/0?wx_fmt=jpeg
     title: 青·光影 | 东师初雪？现在许愿还来得及不？

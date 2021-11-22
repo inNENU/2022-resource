@@ -1,6 +1,6 @@
 title: 热水房
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
       - 冷水水温约为 15℃，热水为 100℃。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/drinker1.jpg
+    src: $img/dorm/drinker1.jpg
 
   - tag: title
     text: 直饮水机
@@ -23,7 +23,7 @@ content:
     text: 刷卡直接出水。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/drinker2.jpg
+    src: $img/dorm/drinker2.jpg
 
   - tag: title
     text: 其他设施

@@ -1,11 +1,11 @@
 title: 信息化办
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 信息化办
-    logo: https://mp.innenu.com/img/media/official.png
+    logo: $img/media/official.png
     detail: 东北师范大学信息化办公室
     mail: xxhb@nenu.edu.cn
     site: https://xxhb.nenu.edu.cn/
@@ -59,7 +59,7 @@ content:
       - "周一到周五: 8:00 - 16:30"
 
   - tag: img
-    src: https://mp.innenu.com/img/card/jingyue-xxhb.jpg
+    src: $img/card/jingyue-xxhb.jpg
     desc: 净月信息化办
 
   - tag: title

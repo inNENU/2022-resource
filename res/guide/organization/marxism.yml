@@ -1,15 +1,15 @@
 title: 青马学会
 desc: |-
   来源: 校团委官网
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 青马学会
-    logo: https://mp.innenu.com/img/organization/marx.png
+    logo: $img/organization/marx.png
     desc: 东北师范大学青年马克思主义者学习研究会
     wxid: dsqmxh
-    wxcode: https://mp.innenu.com/img/media/youth-marx-wechat.jpg
+    wxcode: $img/media/youth-marx-wechat.jpg
     account: youth-marx
     mail: qingmaxuehui2013@163.com
 

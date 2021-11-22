@@ -3,10 +3,10 @@ shareable: true
 content:
   - tag: account
     name: 大学生艺术团
-    logo: https://mp.innenu.com/img/organization/daYi.png
+    logo: $img/organization/daYi.png
     desc: 东北师范大学大学生艺术团
     wxid: nenuyishutuan
-    wxcode: https://mp.innenu.com/img/media/art-ensemble-wechat.jpg
+    wxcode: $img/media/art-ensemble-wechat.jpg
     account: art-ensemble
     mail: nenuyishutuan@163.com
 

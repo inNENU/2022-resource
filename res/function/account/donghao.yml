@@ -1,8 +1,8 @@
 name: 苏东吴东北师大物业服务驿站
 desc: 主动、热情、优质、高效，我们是东吴物业。
 id: gh_0e448c3e8eff
-logo: https://mp.innenu.com/img/media/sudonghao.png
-qrcode: https://mp.innenu.com/img/media/sudonghao-qrcode.jpg
+logo: $img/media/sudonghao.png
+qrcode: $img/media/sudonghao-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/OLQbibldxL4VsFRR30hXMAFTs6priaBLpruEbYgMr6MlfCXLqCPyvyA6MFlFICic4cK37ibnRAEd39W66qWu9dFIaA/0?wx_fmt=jpeg
     title: 以雪为令，积极行动|齐心协力清积雪，保出行

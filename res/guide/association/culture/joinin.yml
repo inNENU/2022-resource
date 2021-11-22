@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: account
     name: 卓音网络工作室
-    logo: https://mp.innenu.com/img/association/joinin.png
+    logo: $img/association/joinin.png
     desc: 卓尔不群，音你不凡
 
   - tag: text
@@ -39,9 +39,9 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/association/joinin1.jpg
-      - https://mp.innenu.com/img/association/joinin2.jpg
-      - https://mp.innenu.com/img/association/joinin3.jpg
+      - $img/association/joinin1.jpg
+      - $img/association/joinin2.jpg
+      - $img/association/joinin3.jpg
 
   - tag: text
     text: 工作室工作条件

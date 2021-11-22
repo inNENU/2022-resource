@@ -1,6 +1,6 @@
 title: 北苑基本餐
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -131,13 +131,13 @@ content:
       - 受菜品数量限制早餐可能提前结束
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining3.jpg
+    src: $img/dining/dining3.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining4.jpg
+    src: $img/dining/dining4.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining5.jpg
+    src: $img/dining/dining5.jpg
     desc: 早餐主食区
 
   - tag: ul
@@ -147,19 +147,19 @@ content:
       - "晚餐供应时间为: 16:00 - 18:00(根据经验通常 16:30 菜才比较全)"
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining6.jpg
+    src: $img/dining/dining6.jpg
     desc: 餐盘餐具
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining7.jpg
+    src: $img/dining/dining7.jpg
     desc: 荤菜区
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining8.jpg
+    src: $img/dining/dining8.jpg
     desc: 北苑基本餐真诚服务同学
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining9.jpg
+    src: $img/dining/dining9.jpg
     desc: 北苑一楼北侧
 
   - tag: text

@@ -2,8 +2,8 @@ name: 东师传媒
 detail: 东北师范大学传媒学院
 desc: 为您提供学术前沿、产业资讯、校园动态信息
 id: nenu_media
-logo: https://mp.innenu.com/img/media/media.png
-qrcode: https://mp.innenu.com/img/media/media-wechat.jpg
+logo: $img/media/media.png
+qrcode: $img/media/media-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/L1fovk11hQfUphJXoOR5n2KcbSicuqbcfnGUA1Do21tte7X16LJw3H0lb5TDHHWc8sOVHZErVRdITUqym36BiaRg/0?wx_fmt=jpeg
     title: 开学典礼｜播种希望，收获未来

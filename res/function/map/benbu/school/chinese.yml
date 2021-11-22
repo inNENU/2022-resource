@@ -2,15 +2,15 @@ title: 文学院
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/school/literature.jpg
-  - https://mp.innenu.com/img/school/literature1.jpg
+  - $img/school/literature.jpg
+  - $img/school/literature1.jpg
 content:
   - tag: account
     name: 文学院
-    logo: https://mp.innenu.com/img/media/chinese.png
+    logo: $img/media/chinese.png
     detail: 东北师范大学文学院
     wxid: dongshiwenyuan
-    wxcode: https://mp.innenu.com/img/media/chinese-qrcode.jpg
+    wxcode: $img/media/chinese-qrcode.jpg
     account: chinese
     location:
       latitude: 43.85947

@@ -2,8 +2,8 @@ name: 厚普公益学校
 detail: 东北师范大学厚普公益学校
 desc: 东北师范大学厚普公益学校，在长春市慈善会和东北师大的支持下，秉承着“厚德载物，普泽爱心”的校训，近六年的时间里共为长春市及周边地区逾3000名中小学生提供义务辅导万余课时，累计志愿服务时数128283小时，累积创造社会财富近600万元。
 id: houpu2009
-logo: https://mp.innenu.com/img/organization/houpu.png
-qrcode: https://mp.innenu.com/img/media/hope-wechat.jpg
+logo: $img/organization/houpu.png
+qrcode: $img/media/hope-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/V3m5Slmfrb23poY4bcz84Onmric3sYxliaPibSibria5VibuMhRlFI8Sgy2CBruk59NuSrRy5JNJb2np7obALZPKVX1g/0?wx_fmt=jpeg
     title: 【厚普资讯】东北师范大学厚普公益学校2021年秋季学期十月课程圆满结束!

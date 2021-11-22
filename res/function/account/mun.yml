@@ -1,9 +1,9 @@
 name: 东师模联NENUMUN
 detail: 东北师范大学模拟联合国协会
 desc: 东北师范大学模拟联合国协会，简称东师模联(NENUMUN)，协会秉承“全球视野，青年使命”的活动理念，已开展多次模联活动。本公众平台，将会给大家推动协会内部活动信息和各高校模联大会参会信息。
-logo: https://mp.innenu.com/img/association/mun.png
+logo: $img/association/mun.png
 id: gh_6a5ebeb38e0a
-qrcode: https://mp.innenu.com/img/media/mun-wx-qrcode.jpg
+qrcode: $img/media/mun-wx-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/kC7Dyykv3xGSYBN4qpianTxQ75ViaNJVGgrpo5KSVoX46zDT8E6JTqvxEWItVIk8UeSdSA35KbfmGibTU3dQ9EQxw/0?wx_fmt=jpeg
     title: 东师模联纳新啦!

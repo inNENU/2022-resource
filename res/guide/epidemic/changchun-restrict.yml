@@ -1,6 +1,6 @@
 title: 长春疫情管控地区
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -20,4 +20,4 @@ content:
 
   - tag: doc
     name: 长春疫情管控地区 (8.23)
-    url: https://mp.innenu.com/file/epidemic/changhun-restrict-0823.pdf
+    url: $file/epidemic/changhun-restrict-0823.pdf

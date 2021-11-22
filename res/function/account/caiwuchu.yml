@@ -1,8 +1,8 @@
 name: 东北师范大学财务处
 desc: 东北师范大学财务处信息化服务平台，为广大师生提供方便快捷的服务。
 id: gh_0a27896cc077
-logo: https://mp.innenu.com/img/media/official.png
-qrcode: https://mp.innenu.com/img/media/caiwuchu-qrcode.jpg
+logo: $img/media/official.png
+qrcode: $img/media/caiwuchu-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/QSa0T3s9UDf5y66ZT8SHIuUtJQIdgxDQRG6HNVm2ACWnogZbnZw73SdVEnfryubTIbCzHMXibfF54Y9x2VUzZxw/0?wx_fmt=jpeg
     title: 常见退单问题

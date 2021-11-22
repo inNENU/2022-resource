@@ -2,8 +2,8 @@ name: 大史苑
 detail: 东北师范大学历史学院
 desc: 努力成为史苑学生生活上的“友、助、冶、趣”之地，学习上的“讲、读、修、研”之所，精神上的“信、礼、诚、爱”之家。
 id: dssyxl
-logo: https://mp.innenu.com/img/media/history.jpg
-qrcode: https://mp.innenu.com/img/media/history-qrcode.jpg
+logo: $img/media/history.jpg
+qrcode: $img/media/history-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/oicpMGd7RbK8V4uqJQCMcXnt46TWHdl2URGLR1yog8sbIS6icye9atb21L07fv5ZoBcDfkNnqvdQOaltYEr6vHMg/0?wx_fmt=jpeg
     title: 东北师范大学历史文化学院学生会组织改革情况

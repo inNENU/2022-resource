@@ -1,6 +1,6 @@
 title: 新生课程考试与作业
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
     text: 之后请留存好成绩(截图)并打印，开学交给新生辅导员。要求成绩达到 60 分以上。
 
   - tag: img
-    src: https://mp.innenu.com/img/yiban/result.png
+    src: $img/yiban/result.png
     desc: 真不难，Mr.Hope 花一分钟就能随手满分
 
   - tag: text

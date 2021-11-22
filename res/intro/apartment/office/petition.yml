@@ -2,14 +2,14 @@
 title: 信访
 desc: |-
   信息来源: 学校办公室官网
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 信访流程
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/petition.jpg
+    src: $img/apartment/petition.jpg
 
   - tag: title
     text: 信访渠道
@@ -43,4 +43,4 @@ content:
 
   - tag: doc
     name: 东北师范大学校领导接待日预约登记表
-    url: https://mp.innenu.com/file/apartment/petition-register.docx
+    url: $file/apartment/petition-register.docx

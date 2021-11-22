@@ -1,6 +1,6 @@
 title: 无感知认证
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -30,7 +30,7 @@ content:
       - 按以下流程进行操作。
 
   - tag: img
-    src: https://mp.innenu.com/img/network/use-device-mac.jpg
+    src: $img/network/use-device-mac.jpg
     desc: 同时关闭 iNENU-2G 和 iNENU-5G 的私有地址开关
 
   - tag: text
@@ -39,16 +39,16 @@ content:
       - 按以下流程进行操作。
 
   - tag: img
-    src: https://mp.innenu.com/img/network/fix-mac1.jpg
+    src: $img/network/fix-mac1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/network/fix-mac2.jpg
+    src: $img/network/fix-mac2.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/network/fix-mac3.jpg
+    src: $img/network/fix-mac3.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/network/fix-mac4.jpg
+    src: $img/network/fix-mac4.jpg
 
   - tag: title
     text: 高级管理
@@ -61,10 +61,10 @@ content:
     text: "10.100.100.67:8900"
 
   - tag: img
-    src: https://mp.innenu.com/img/network/auto-manage1.png
+    src: $img/network/auto-manage1.png
 
   - tag: img
-    src: https://mp.innenu.com/img/network/auto-manage2.png
+    src: $img/network/auto-manage2.png
 
   - tag: text
     text: 您可以在这个页面新增、删除或管理无感知认证设备。

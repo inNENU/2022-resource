@@ -2,8 +2,8 @@ title: 四舍
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/dorm/dorm4.jpg
-  - https://mp.innenu.com/img/dorm/dorm4-2.jpg
+  - $img/dorm/dorm4.jpg
+  - $img/dorm/dorm4-2.jpg
 content:
   - tag: title
     text: 四舍

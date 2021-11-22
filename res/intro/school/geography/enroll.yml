@@ -1,6 +1,6 @@
 title: 地理科学学院专业
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -29,7 +29,7 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/geography-master.png
+    src: $img/enroll/geography-master.png
     desc: 2021 年招生情况
 
   - tag: text
@@ -37,31 +37,31 @@ content:
 
   - tag: doc
     name: 地理学一级学科学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-dlx.pdf
+    url: $file/study/geography-dlx.pdf
 
   - tag: doc
     name: 城乡规划学一级学科学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-cxghx.pdf
+    url: $file/study/geography-cxghx.pdf
 
   - tag: doc
     name: 土地资源管理专业学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-tdzy.pdf
+    url: $file/study/geography-tdzy.pdf
 
   - tag: doc
     name: 区域经济学专业学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-qyjjx.pdf
+    url: $file/study/geography-qyjjx.pdf
 
   - tag: doc
     name: 旅游管理专业学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-lygl.pdf
+    url: $file/study/geography-lygl.pdf
 
   - tag: doc
     name: 课程与教学论专业(地理)学术学位硕士研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-040102.pdf
+    url: $file/study/geography-040102.pdf
 
   - tag: doc
     name: 地理科学学院全职硕导教师简介
-    url: https://mp.innenu.com/file/study/geography-teacher.pdf
+    url: $file/study/geography-teacher.pdf
 
   - tag: phone
     header: 硕士研究生招生咨询电话
@@ -79,20 +79,20 @@ content:
 
   - tag: doc
     name: 自然地理专业博士学位研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-zrdl.pdf
+    url: $file/study/geography-zrdl.pdf
 
   - tag: doc
     name: 人文地理学专业博士学位研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-rwdl.pdf
+    url: $file/study/geography-rwdl.pdf
 
   - tag: doc
     name: 区域经济学专业博士学位研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-tdzy.pdf
+    url: $file/study/geography-tdzy.pdf
 
   - tag: doc
     name: 城市与区域规划专业博士学位研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-csyqygh.pdf
+    url: $file/study/geography-csyqygh.pdf
 
   - tag: doc
     name: 地图学与地理信息系统专业博士学位研究生培养方案
-    url: https://mp.innenu.com/file/study/geography-dtx.pdf
+    url: $file/study/geography-dtx.pdf

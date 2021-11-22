@@ -1,6 +1,6 @@
 title: 体测简介
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -67,7 +67,7 @@ content:
       - 附加分根据实测成绩确定，即对成绩超过 100 分的加分指标进行加分，满分为 20 分。男生加分指标为引体向上和 1000 米跑，女生加分指标为 1 分钟仰卧起坐和 800 米跑，各指标加分幅度均为 10 分。
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/pe-percent.png
+    src: $img/exam/pe-percent.png
     desc: 权重详情
 
   - tag: text

@@ -2,8 +2,8 @@ name: 东师经管
 detail: 东北师范大学经济与管理学院
 desc: 欢迎关注东北师范大学经济与管理学院
 id: nenubs
-logo: https://mp.innenu.com/img/media/economic.jpg
-qrcode: https://mp.innenu.com/img/media/economy-qrcode.jpg
+logo: $img/media/economic.jpg
+qrcode: $img/media/economy-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/twNPg9iaLsbSIDDqgXhu8PXaR7szAKSMJiboSCXrO12giauUBRA3XNrsiaBFT3NkzRco49s1GetSibpgzn41WKbbtEA/0?wx_fmt=jpeg
     title: 经济与管理学院学生会改革情况

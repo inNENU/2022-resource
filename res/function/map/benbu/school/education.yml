@@ -2,14 +2,14 @@ title: 教育学部
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/school/education.jpg
+  - $img/school/education.jpg
 content:
   - tag: account
     name: 教育学部
-    logo: https://mp.innenu.com/img/media/education-wechat.png
+    logo: $img/media/education-wechat.png
     detail: 东北师范大学教育学部
     wxid: edunenu
-    wxcode: https://mp.innenu.com/img/media/education-qrcode.jpg
+    wxcode: $img/media/education-qrcode.jpg
     account: education
     location:
       latitude: 43.8617

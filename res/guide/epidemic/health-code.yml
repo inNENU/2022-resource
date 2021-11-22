@@ -1,6 +1,6 @@
 title: 国家防疫健康信息码
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         用户经实名认证后可查看本人的防疫健康相关信息提示 (如: 是否为新冠肺炎确诊或疑似患者、是否为同行密切接触人员等信息)，经本人授权，也可提供给有关方面使用国家政务服务平台移动端(小程序、APP)扫一扫，进行查验。
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/health-code.jpg
+    src: $img/epidemic/health-code.jpg
     env:
       - qq
 

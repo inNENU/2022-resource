@@ -11,13 +11,13 @@ content:
 
   - tag: media
     type: video
-    src: https://mp.innenu.com/file/organization/lightshow.mp4
+    src: $file/organization/lightshow.mp4
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/organization/lightshow-1.jpg
-      - https://mp.innenu.com/img/organization/lightshow-2.jpg
-      - https://mp.innenu.com/img/organization/lightshow-3.jpg
+      - $img/organization/lightshow-1.jpg
+      - $img/organization/lightshow-2.jpg
+      - $img/organization/lightshow-3.jpg
     style:
       height: 800rpx
 
@@ -30,17 +30,17 @@ content:
       - 大学生，作为同龄人中的佼佼者，社会上对他们的普遍评价是有朝气、有知识、充满正能量，是社会未来的希望。为大学生日常生活自律培养，东师小窝特筹划创办以寝室为单位的21天习惯养成助力计划。二十一天习惯养成助力计划活动是一学期一办，每期都设置多种打卡主题，力求创新、与时共进，帮助大学生养成新的良好习惯。活动进行期间，小窝成员实时跟踪，督促同学按时按质完成任务。活动结束后，小窝成员对同学们进行回访，发现反馈良好。大多数同学在活动结束后仍能维持习惯，并感叹习惯养成不仅能改善生活，而且收获良多。
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/21day-poster.jpg
+    src: $img/organization/21day-poster.jpg
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/organization/21day-1.jpg
-      - https://mp.innenu.com/img/organization/21day-2.jpg
+      - $img/organization/21day-1.jpg
+      - $img/organization/21day-2.jpg
     style:
       height: 800rpx
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/21day-report.jpg
+    src: $img/organization/21day-report.jpg
 
   - tag: title
     text: 宿舍安全疏散引导员培训会
@@ -50,10 +50,10 @@ content:
       - 为进一步提高我校学生宿舍安全疏散引导员逃生自救及疏散引导能力，东师小窝每年都会与学生处、保卫处、学生宿舍综合管理办公室联合组织引导员安全技能培训。在保卫处负责人的指导下，疏散引导员将会学习报警器、缓降器、灭火器等消防器材以及荧光服、强光手电、扩音器等疏散引导设备的使用方法，练习喊话、自救、扑救初起火灾等基本技巧。同时举办 “119消防安全主题日活动” 有奖问答，传播消防安全知识。实际操作与理论知识相结合，强化学生宿舍安全意识。
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/xiaowo-fire-1.png
+    src: $img/organization/xiaowo-fire-1.png
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/xiaowo-fire-2.png
+    src: $img/organization/xiaowo-fire-2.png
 
   - tag: title
     text: 党史答题活动
@@ -63,4 +63,4 @@ content:
       - 青少年时期正是人生观、世界观和价值观形成的时期，学生是祖国的未来和希望。为响应国家政策，东师小窝开办党史回答活动，吸引学生从党的伟大奋斗历程中汲取前进力量，牢固树立社会主义核心价值观念，自觉做中国特色社会主义事业的建设者和保卫者。
 
   - tag: img
-    src: https://mp.innenu.com/img/organization/xiaowo-league.png
+    src: $img/organization/xiaowo-league.png

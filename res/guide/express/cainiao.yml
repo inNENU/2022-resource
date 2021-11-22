@@ -1,6 +1,6 @@
 title: 本部菜鸟驿站
 author: Mr.Hope、战俊华
-time: 2021年11月17日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -72,17 +72,17 @@ content:
     text: 环境介绍
 
   - tag: img
-    src: https://mp.innenu.com/img/express/cainiao1.jpg
+    src: $img/express/cainiao1.jpg
     desc: 菜鸟驿站柜台
 
   - tag: img
-    src: https://mp.innenu.com/img/express/cainiao2.jpg
+    src: $img/express/cainiao2.jpg
     desc: 菜鸟驿站货架
 
   - tag: img
-    src: https://mp.innenu.com/img/express/cainiao-scan.jpg
+    src: $img/express/cainiao-scan.jpg
     desc: 菜鸟驿站扫描处
 
   - tag: img
-    src: https://mp.innenu.com/img/express/cainiao-temp.jpg
+    src: $img/express/cainiao-temp.jpg
     desc: 菜鸟驿站临时取件点

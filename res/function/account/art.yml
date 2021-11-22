@@ -2,8 +2,8 @@ name: 东师美术NENUART
 detail: 东北师范大学美术学院
 desc: “东师美术”作为东北师范大学美术学院的公众信息平台，旨在服务于学院的教学动态、学术活动、艺术创作、理论研究、作品推广以及资讯报道等方面的媒体宣传工作。
 id: gh_d633652739f9
-logo: https://mp.innenu.com/img/media/art.png
-qrcode: https://mp.innenu.com/img/media/art-qrcode.jpg
+logo: $img/media/art.png
+qrcode: $img/media/art-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/e3gDJnD0B7gbNJIUb03unMhNesibEkV4EWZbEH1EvnoObC4xpBTibcvtZo951PCpKjjT9cmC2zkzjMibWSRFniaOEQ/0?wx_fmt=jpeg
     title: |-

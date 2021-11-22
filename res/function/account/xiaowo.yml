@@ -2,8 +2,8 @@ name: 东师小窝
 detail: 东北师范大学学生宿舍自我管理委员会
 desc: 东师小蜗牛们的温暖家园
 id: Nenuxiaowo
-logo: https://mp.innenu.com/img/organization/xiaowo.png
-qrcode: https://mp.innenu.com/img/media/xiaowo-wechat.jpg
+logo: $img/organization/xiaowo.png
+qrcode: $img/media/xiaowo-wechat.jpg
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTYrTkxy42PZx9xusUyibqQfblNr1v1HPNyRqgk3HKYia862SknF5qz0zM9IZVfic6eCFPxkqzevP6xiaQ/0?wx_fmt=jpeg
     title: 新生攻略之本部篇

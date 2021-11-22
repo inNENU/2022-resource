@@ -3,12 +3,12 @@ shareable: true
 content:
   - tag: account
     name: 东北师范大学爱心学校
-    logo: https://mp.innenu.com/img/organization/love-school.png
+    logo: $img/organization/love-school.png
     desc: 耐心育人以学识，爱心助人以成才
 
   - tag: card
-    cover: https://mp.innenu.com/img/organization/love-school-cover.png
-    logo: https://mp.innenu.com/img/organization/love-school.png
+    cover: $img/organization/love-school-cover.png
+    logo: $img/organization/love-school.png
     title: 我们纳新啦
     url: page?id=guide/organization/love-school/intake
 

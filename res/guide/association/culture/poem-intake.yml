@@ -17,9 +17,9 @@ content:
       font-size: 18px
 
   - tag: img
-    src: https://mp.innenu.com/img/association/gushici-poster.jpg
+    src: $img/association/gushici-poster.jpg
     desc: 详情
 
   - tag: img
-    src: https://mp.innenu.com/img/association/gushici-qq-group.jpg
+    src: $img/association/gushici-qq-group.jpg
     desc: 纳新群

@@ -2,7 +2,7 @@ title: 一食堂
 desc: |-
   特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -34,10 +34,10 @@ content:
       - 重庆鸡公煲
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining1-1f-1.jpg
+    src: $img/dining/dining1-1f-1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining1-1f-2.jpg
+    src: $img/dining/dining1-1f-2.jpg
 
   - tag: text
     heading: 价位与供应时间

@@ -1,6 +1,6 @@
 title: 电梯
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
       - 其他寝室没有电梯。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/lift.jpg
+    src: $img/dorm/lift.jpg
     desc: 三舍电梯
 
   - tag: p

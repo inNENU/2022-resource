@@ -1,6 +1,6 @@
 title: 洗衣机
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -8,7 +8,7 @@ content:
     text: 洗衣机是通过刷校园卡来进行使用的。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washer.jpg
+    src: $img/dorm/washer.jpg
 
   - tag: title
     text: 使用方法
@@ -30,7 +30,7 @@ content:
       - 最后一次插卡请将卡片插入卡槽不要拔出，待倒计时结束后洗衣机发出“嘀”的声响时再将卡片拔出，此时读卡器会显示卡内余额，即交易成功。插卡结束5秒后洗衣程序自动开启。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/washer-guide.jpg
+    src: $img/dorm/washer-guide.jpg
     desc: 洗衣机使用指南，请以使用的洗衣机提示为准
 
   - tag: text

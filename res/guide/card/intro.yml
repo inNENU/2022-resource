@@ -1,13 +1,13 @@
 title: 校园卡介绍
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 校园卡照片
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card.jpg
+    src: $img/card/card.jpg
     desc: 校园卡
 
   - tag: title

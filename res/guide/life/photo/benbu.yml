@@ -1,6 +1,6 @@
 title: 本部照相
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -21,11 +21,11 @@ content:
     text: 位于浴池一楼。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-shop2.jpg
+    src: $img/bath/benbu-shop2.jpg
     desc: 浴池好又快图文店
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/bath-copy.jpg
+    src: $img/life/benbu/bath-copy.jpg
     desc: 好又快图文店内照片
 
   - tag: text
@@ -33,7 +33,7 @@ content:
     text: 位于北苑地下一楼，超市南侧。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/beiyuan-copy.jpg
+    src: $img/life/benbu/beiyuan-copy.jpg
     desc: 北苑复印店
 
   - tag: title

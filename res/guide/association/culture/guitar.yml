@@ -3,14 +3,14 @@ shareable: true
 content:
   - tag: account
     name: 青音吉他社
-    logo: https://mp.innenu.com/img/association/guitar.jpg
+    logo: $img/association/guitar.jpg
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/association/guitar1.jpg
-      - https://mp.innenu.com/img/association/guitar2.jpg
-      - https://mp.innenu.com/img/association/guitar3.jpg
-      - https://mp.innenu.com/img/association/guitar4.jpg
+      - $img/association/guitar1.jpg
+      - $img/association/guitar2.jpg
+      - $img/association/guitar3.jpg
+      - $img/association/guitar4.jpg
 
   - tag: title
     text: 简介

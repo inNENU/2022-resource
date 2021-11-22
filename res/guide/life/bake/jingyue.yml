@@ -1,7 +1,7 @@
 title: 烘焙坊
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -17,8 +17,8 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/shop/jingyue-cake1.jpg
-      - https://mp.innenu.com/img/shop/jingyue-cake2.jpg
+      - $img/shop/jingyue-cake1.jpg
+      - $img/shop/jingyue-cake2.jpg
 
   - tag: title
     text: 校外

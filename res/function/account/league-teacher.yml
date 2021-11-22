@@ -1,8 +1,8 @@
 name: 东北师范大学党委教师工作部
 desc: 教师思想政治工作，师德师风建设
 id: dbsfdxdwjsgzb
-logo: https://mp.innenu.com/img/media/official.png
-qrcode: https://mp.innenu.com/img/media/league-teacher-wechat.jpg
+logo: $img/media/official.png
+qrcode: $img/media/league-teacher-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFg3YBNwbxh1GvtQgibiasZEqRK4AiaCYndfJ6hLDnwvWhFZVx1RILxGgiaVHQ6HiamibefZg21vCxeib7acg/0?wx_fmt=jpeg
     title: 荣耀东师·誉满桃李 | 走近东师荣誉教授——盛连喜

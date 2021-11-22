@@ -1,6 +1,6 @@
 title: 安卓邮件客户端设置
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -13,13 +13,13 @@ content:
     text: 选择 “添加其他账号”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail1.jpg
+    src: $img/account/gmail1.jpg
 
   - tag: ul
     text: 选择 “其他”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail2.jpg
+    src: $img/account/gmail2.jpg
 
   - tag: ul
     text:
@@ -27,19 +27,19 @@ content:
       - 点击左下角的手动设置
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail3.jpg
+    src: $img/account/gmail3.jpg
 
   - tag: ul
     text: 选择 “个人(IMAP)”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail4.jpg
+    src: $img/account/gmail4.jpg
 
   - tag: ul
     text: 输入密码
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail5.jpg
+    src: $img/account/gmail5.jpg
 
   - tag: ul
     text: 在接收服务器中输入
@@ -54,7 +54,7 @@ content:
       - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail6.jpg
+    src: $img/account/gmail6.jpg
 
   - tag: ul
     text: 在外发服务器中输入
@@ -69,7 +69,7 @@ content:
       - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail7.jpg
+    src: $img/account/gmail7.jpg
 
   - tag: ul
     text: 自行选择合适的同步频率
@@ -79,10 +79,10 @@ content:
     text: 同步频率过高会加大手机耗电量
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail8.jpg
+    src: $img/account/gmail8.jpg
 
   - tag: ul
     text: 选择合适的账号名称与发件人姓名
 
   - tag: img
-    src: https://mp.innenu.com/img/account/gmail9.jpg
+    src: $img/account/gmail9.jpg

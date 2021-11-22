@@ -1,13 +1,13 @@
 title: 本科生奖学金介绍
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 设置标准
 
   - tag: img
-    src: https://mp.innenu.com/img/study/scholarship.jpg
+    src: $img/study/scholarship.jpg
 
   - tag: title
     text: 评定时间

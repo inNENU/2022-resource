@@ -1,6 +1,6 @@
 title: 2021 级辅导员
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -11,9 +11,9 @@ content:
       - 在大部分情况下档案接收人的姓名即是您的辅导员姓名，后方的电话即是辅导员的电话。
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/benbu-contact.jpg
+    src: $img/prepare/benbu-contact.jpg
     desc: 本部
 
   - tag: img
-    src: https://mp.innenu.com/img/prepare/jingyue-contact.jpg
+    src: $img/prepare/jingyue-contact.jpg
     desc: 净月

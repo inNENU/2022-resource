@@ -1,12 +1,12 @@
 title: 研究生会
 desc: |-
   来源: 校团委官网
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 研究生会
-    logo: https://mp.innenu.com/img/organization/yanHui.png
+    logo: $img/organization/yanHui.png
     desc: 东北师范大学研究生会
     mail: nenuPGU@163.com
 

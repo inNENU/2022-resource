@@ -1,6 +1,6 @@
 title: 课程免修
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,7 @@ content:
     text: 执行流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/exemption.jpg
+    src: $img/action/exemption.jpg
 
   - tag: title
     text: 课程免修申请

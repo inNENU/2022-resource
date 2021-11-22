@@ -17,7 +17,7 @@ content:
       - 工作人员操作过程中请关注显示器上的信息，包括读者信息、图书资料信息、图书册数、应还日期等。
 
   - tag: img
-    src: https://mp.innenu.com/img/library/lend1.jpg
+    src: $img/library/lend1.jpg
 
   - tag: text
     text: " 3. 操作完成后请取走身份识别卡，并监督工作人员关闭会话窗口。"

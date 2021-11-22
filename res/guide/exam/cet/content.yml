@@ -1,25 +1,25 @@
 title: 大学英语水平测试考试内容与评分标准
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 分值
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/cet4-write.jpg
+    src: $img/exam/cet4-write.jpg
     desc: CET4 笔试
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/cet4-speak.jpg
+    src: $img/exam/cet4-speak.jpg
     desc: CET4 口试
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/cet6-write.jpg
+    src: $img/exam/cet6-write.jpg
     desc: CET6 笔试
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/cet6-speak.jpg
+    src: $img/exam/cet6-speak.jpg
     desc: CET6 口试
 
   - tag: title
@@ -27,7 +27,7 @@ content:
 
   - tag: doc
     name: 全国大学生英语四、六级考试大纲
-    url: https://mp.innenu.com/file/exam/cet.pdf
+    url: $file/exam/cet.pdf
 
   - tag: title
     text: 评分标准

@@ -1,6 +1,6 @@
 title: 学校家长群
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -16,7 +16,7 @@ content:
       - 本群严禁分享与东师无关的内容、发送任何广告，或诸如拼多多之类的分享以及各种鸡汤、经文等。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/parent.png
+    src: $img/about/parent.png
 
   - tag: text
     type: warning

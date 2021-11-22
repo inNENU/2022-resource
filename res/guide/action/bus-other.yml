@@ -1,6 +1,6 @@
 title: 其他班车授权
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -54,4 +54,4 @@ content:
 
   - tag: doc
     name: 班车申请
-    url: https://mp.innenu.com/file/hq/bus.docx
+    url: $file/hq/bus.docx

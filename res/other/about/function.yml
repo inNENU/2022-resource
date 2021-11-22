@@ -9,7 +9,7 @@ content:
     text: 由于小程序主体是 Mr.Hope 个人，很多功能是个人禁止涉及的，一旦放置小程序就无法过审。所以不是 Mr.Hope 不想做，而是做不了。
 
   - tag: img
-    src: https://mp.innenu.com/img/other/forbidden.png
+    src: $img/other/forbidden.png
     desc: 拒审纪录节选
 
   - tag: ul

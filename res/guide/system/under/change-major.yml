@@ -1,6 +1,6 @@
 title: 转专业申请
 author: Mr.Hope
-time: 2021年9月13日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -41,7 +41,7 @@ content:
         path: /guide/system/limit/
 
   - tag: img
-    src: https://mp.innenu.com/img/system/login.jpg
+    src: $img/system/login.jpg
 
   - tag: text
     heading: 登陆系统
@@ -51,7 +51,7 @@ content:
     text: 双击【学籍管理】
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll1.png
+    src: $img/system/school-roll1.png
 
   - tag: ul
     heading: 查看转专业计划
@@ -61,7 +61,7 @@ content:
       - 也可以点击“打印”按钮，导出转专业计划表，下载查看。
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll2.png
+    src: $img/system/school-roll2.png
 
   - tag: ul
     heading: 进行转专业申请
@@ -72,14 +72,14 @@ content:
       - 申请成功，等待学校、学院(部)通知
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll3.png
+    src: $img/system/school-roll3.png
 
   - tag: ul
     text:
       - 申请成功后，等待学校、学院(部)通知
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll4.jpg
+    src: $img/system/school-roll4.jpg
 
   - tag: title
     text: 撤销申请
@@ -89,4 +89,4 @@ content:
 
   - tag: doc
     name: 普通全日制本科生转专业撤销申请表
-    url: https://mp.innenu.com/file/jwc/change-major-cancel.docx
+    url: $file/jwc/change-major-cancel.docx

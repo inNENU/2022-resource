@@ -1,6 +1,6 @@
 title: 警惕非官方投票
 author: Mr.Hope
-time: 2021年11月17日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -48,7 +48,7 @@ content:
     text: 举例
 
   - tag: img
-    src: https://mp.innenu.com/img/other/cheat/vote.jpg
+    src: $img/other/cheat/vote.jpg
 
   - tag: text
     type: warning

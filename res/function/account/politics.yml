@@ -2,8 +2,8 @@ name: 红砖微语
 detail: 东北师范大学政法学院
 desc: 由政法学院学生会专门开设的服务于本院师生，实时传递国家重大新闻政策、学院内外咨询以及推送任何与学院学生紧密相关的信息。
 id: lovezhengfa
-logo: https://mp.innenu.com/img/media/politics.png
-qrcode: https://mp.innenu.com/img/media/politics-qrcode.jpg
+logo: $img/media/politics.png
+qrcode: $img/media/politics-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/KYrs0vhXsDvmIia1DkpoUibcFuVxOsQgnDv2K6rDMDcISFvDDpzx9zPUbicjLCsoHUCCFM4OmanYkNs5oAuDof6bA/0?wx_fmt=jpeg
     title: 政法学院第十九届班寝文化节圆满结束！

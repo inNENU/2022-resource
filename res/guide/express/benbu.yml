@@ -1,6 +1,6 @@
 title: 本部校区快递
 author: Mr.Hope
-time: 2021年11月17日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -79,7 +79,7 @@ content:
   #     - 除非必须，请尽量不要用这家快递，否则您取快递可能会怀疑人生。😑
 
   # - tag: img
-  #   src: https://mp.innenu.com/img/express/zto.jpg
+  #   src: $img/express/zto.jpg
   #   desc: 快递点
 
   - tag: title

@@ -6,15 +6,16 @@ export const resolveImg = (
   element: ImageComponentOptions,
   location = ""
 ): void => {
-  // `$img` alias resolve
-  if (element.src?.startsWith("$img/"))
-    element.src.replace(/^\$img\//, "https://mp.innenu.com/img/");
+  // `$img` alias resolve and file check
+  if (element.src?.startsWith("$img/")) {
+    const localePath = element.src.replace(/^\$img\//, "./img/");
 
-  if (
-    element.src?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.src.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`Image ${element.src} not exist in ${location}`);
+    if (existsSync(localePath))
+      element.src = element.src.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
   }
 
   checkKeys(

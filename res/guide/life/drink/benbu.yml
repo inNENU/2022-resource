@@ -1,6 +1,6 @@
 title: 本部饮品店
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -30,7 +30,7 @@ content:
         detail: 南苑一楼
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/heilongtang.jpg
+    src: $img/life/benbu/heilongtang.jpg
     desc: 黑泷堂
 
   - tag: title

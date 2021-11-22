@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: account
     name: 5A 职业发展协会
-    logo: https://mp.innenu.com/img/association/5Alogo.png
+    logo: $img/association/5Alogo.png
     desc: 全程化、全方位的就业指导服务
 
   - tag: title

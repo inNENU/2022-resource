@@ -1,6 +1,6 @@
 title: 咨询与联系
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -13,7 +13,7 @@ content:
     heading: 微信公众号
 
   - tag: img
-    src: https://mp.innenu.com/img/archive/account.png
+    src: $img/archive/account.png
     desc: 档案馆公众号 / 东北师范大学企业号
 
   - tag: text

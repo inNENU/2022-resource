@@ -1,6 +1,6 @@
 title: 浴池账户
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
     text: 您需要在微信搜索并关注该公众号微信公众号“台州博诚”。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/account.jpg
+    src: $img/bath/account.jpg
     desc: 公众号
 
   - tag: phone

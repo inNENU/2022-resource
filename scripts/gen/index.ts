@@ -2,7 +2,7 @@ import { execSync } from "child_process";
 import { sync as del } from "del";
 import { convertYml2Json } from "../util/yml2json";
 import { resolvePage } from "../components/page";
-import { checkAccount } from "./account";
+import { checkAccount, checkAccountDetail } from "./account";
 import { count } from "./count";
 import { genDonate } from "./donate";
 import { genIcon } from "./icon";
@@ -10,10 +10,11 @@ import { genLyric } from "./lyric";
 import { genPEScore } from "./peScore";
 import { genQRCode } from "./qrcode";
 import { genSearchMap } from "./search";
+import { resolveLocationPage } from "./map";
 import { resolveMarker } from "./marker";
 import { genResource } from "./resource";
 
-import type { AccountConfig } from "./account";
+import type { AccountConfig, AccountDetail } from "./account";
 import type { Donate } from "./donate";
 import type { PEConfig } from "./peScore";
 import type { MarkerOption } from "./marker";
@@ -35,11 +36,13 @@ convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
-    ? resolvePage(data as PageConfig, filePath)
+    ? resolveLocationPage(data, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
     : /account\/(qq|wx)/u.exec(filePath)
-    ? checkAccount(data as AccountConfig[])
+    ? checkAccount(data as AccountConfig[], filePath)
+    : /account\//u.exec(filePath)
+    ? checkAccountDetail(data as AccountDetail, filePath)
     : (data as unknown)
 );
 

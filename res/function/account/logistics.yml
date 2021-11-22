@@ -2,8 +2,8 @@ name: 东师后勤
 detail: 东北师范大学后勤保障部
 desc: 关心校园生活，关注东师后勤。后勤服务，在您身边
 id: nenu_media
-logo: https://mp.innenu.com/img/media/logistics.jpg
-qrcode: https://mp.innenu.com/img/media/logistics-wechat.jpg
+logo: $img/media/logistics.jpg
+qrcode: $img/media/logistics-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/77VrF9BsevOx1pIBddichIJ88DVZoFxZHGmsEf0LvzG0Id3QgsOcZBnDflmO25qtWtd93GSaoI5gv1MsXOHsaZg/0?wx_fmt=jpeg
     title: 「9月10日教师节」浓情九月，感念师恩！

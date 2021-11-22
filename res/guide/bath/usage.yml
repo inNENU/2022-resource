@@ -1,6 +1,6 @@
 title: 洗浴方式
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -18,14 +18,14 @@ content:
     text: 点击公众号内“密码账户”菜单并选择自己的校区
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/password-menu.jpg
+    src: $img/bath/password-menu.jpg
     desc: 密码账户菜单
 
   - tag: text
     text: 之后设置自己的4位密码 (按照要求不可连号或者重复)
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/password-set.jpg
+    src: $img/bath/password-set.jpg
     desc: 设置密码
 
   - tag: text
@@ -43,7 +43,7 @@ content:
     text: 如果您已经按照上述步骤设置密码，您只需输入设置好的八位账户按确认键即可开始洗浴。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/shell.jpg
+    src: $img/bath/shell.jpg
     desc: 终端
 
   - tag: text

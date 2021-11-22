@@ -2,8 +2,8 @@ name: 音舞东师
 detail: 东北师范大学音乐学院
 desc: 东北师范大学音乐学院公众平台
 id: yinwudongshi
-logo: https://mp.innenu.com/img/media/music.png
-qrcode: https://mp.innenu.com/img/media/music-qrcode.jpg
+logo: $img/media/music.png
+qrcode: $img/media/music-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/lwUJOHb3MoraMZicFwkhDfickE6Mv2YtMTzlK5uPooLhgO6WZCl7bPVCLHnzCXQlJKlswTrhGibD8metqiasbV7VFA/0?wx_fmt=jpeg
     title: 音乐学院学生会改革情况

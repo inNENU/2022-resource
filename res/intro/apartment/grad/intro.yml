@@ -23,4 +23,4 @@ content:
     text: 部门组成
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/grad-detail.png
+    src: $img/apartment/grad-detail.png

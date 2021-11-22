@@ -1,23 +1,23 @@
 title: “东师之声”校园广播站
 desc: |-
   来源: 校团委官网
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: “东师之声”校园广播站
-    logo: https://mp.innenu.com/img/organization/voice.png
+    logo: $img/organization/voice.png
     desc: 东北师范大学“东师之声”校园广播站
     qq: 3256974882
     qqid: 485F6B43DF35335DE39C618347D24389
-    qqcode: https://mp.innenu.com/img/media/voice-qq.png
+    qqcode: $img/media/voice-qq.png
     wxid: DSZS2555
-    wxcode: https://mp.innenu.com/img/media/voice-wechat.jpg
+    wxcode: $img/media/voice-wechat.jpg
     account: voice
 
   - tag: card
-    cover: https://mp.innenu.com/img/media/join.png
-    logo: https://mp.innenu.com/img/organization/voice.png
+    cover: $img/media/join.png
+    logo: $img/organization/voice.png
     name: “东师之声”校园广播站
     title: 我们在纳新
     url: page?id=/guide/organization/voice/intake

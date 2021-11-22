@@ -1,17 +1,17 @@
 title: 萤火支教团
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 萤火支教团
-    logo: https://mp.innenu.com/img/association/yinghuo.png
+    logo: $img/association/yinghuo.png
     desc: 用生命感动生命
     qq: 3550392854
     qqid: 8507E3EA960DDE8979AE5EB56CB1ED37
-    qqcode: https://mp.innenu.com/img/media/yinghuo-qq-qrcode.jpg
+    qqcode: $img/media/yinghuo-qq-qrcode.jpg
     wxid: yinghuozhijiao
-    wxcode: https://mp.innenu.com/img/media/yinghuo-wx-qrcode.jpg
+    wxcode: $img/media/yinghuo-wx-qrcode.jpg
     account: yinghuo
 
   - tag: title
@@ -56,7 +56,7 @@ content:
     text: 在春暖花开的季节里，团队成员们相聚在七点的春天里，一起晨跑，做游戏，在这个过程中彼此相识相知，与此同时，团队也会因该活动更具有凝聚力；
 
   - tag: img
-    src: https://mp.innenu.com/img/association/yinghuo-party1.jpg
+    src: $img/association/yinghuo-party1.jpg
 
   - tag: text
     type: info
@@ -64,7 +64,7 @@ content:
     text: 萤火日历记录了每个“萤火虫”的生日与成长，在他们生日来临之际，“萤火虫”们会为过生日的“萤火虫”带来温暖与祝福。
 
   - tag: img
-    src: https://mp.innenu.com/img/association/yinghuo-party2.jpg
+    src: $img/association/yinghuo-party2.jpg
 
   - tag: title
     text: 往期支教回顾
@@ -73,19 +73,19 @@ content:
     text: 在 2011 年至 2021年 间，支教团曽前往河南、吉林、山东、云南、甘肃等多地开展支教活动，均取得圆满成功。
 
   - tag: img
-    src: https://mp.innenu.com/img/association/yinghuo-activity.png
+    src: $img/association/yinghuo-activity.png
     desc: 往期支教地点
 
   - tag: img
-    src: https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
+    src: $img/association/yinghuo-zhijiao1.jpg
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/association/yinghuo-zhijiao1.jpg
-      - https://mp.innenu.com/img/association/yinghuo-zhijiao2.jpg
-      - https://mp.innenu.com/img/association/yinghuo-zhijiao3.jpg
-      - https://mp.innenu.com/img/association/yinghuo-zhijiao4.jpg
-      - https://mp.innenu.com/img/association/yinghuo-zhijiao5.jpg
+      - $img/association/yinghuo-zhijiao1.jpg
+      - $img/association/yinghuo-zhijiao2.jpg
+      - $img/association/yinghuo-zhijiao3.jpg
+      - $img/association/yinghuo-zhijiao4.jpg
+      - $img/association/yinghuo-zhijiao5.jpg
 
   - tag: title
     text: 团队荣誉

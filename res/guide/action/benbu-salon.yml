@@ -1,6 +1,6 @@
 title: 本部图书馆学术沙龙座位预约
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -10,11 +10,11 @@ content:
     text: 办理流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/benbu-salon.png
+    src: $img/action/benbu-salon.png
 
   - tag: title
     text: 相关文件
 
   - tag: doc
     name: 学术沙龙座位预约表
-    url: https://mp.innenu.com/file/action/benbu-salon.docx
+    url: $file/action/benbu-salon.docx

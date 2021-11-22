@@ -1,6 +1,6 @@
 title: IETab
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,7 @@ content:
 
   - tag: copy
     header: 下载地址
-    text: https://mp.innenu.com/file/system/ietab-14.6.29.1.crx
+    text: $file/system/ietab-14.6.29.1.crx
 
   - tag: title
     text: 使用说明

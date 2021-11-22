@@ -1,7 +1,7 @@
 title: 本部研究生寝室安排
 desc: 部分照片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -50,23 +50,23 @@ content:
         path: benbu/dorm/dorm9
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm2.jpg
+    src: $img/dorm/dorm2.jpg
     desc: 学生二舍
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm5.jpg
+    src: $img/dorm/dorm5.jpg
     desc: 学生五舍
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm7.jpg
+    src: $img/dorm/dorm7.jpg
     desc: 学生七舍
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm8.jpg
+    src: $img/dorm/dorm8.jpg
     desc: 学生八舍
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dorm9.jpg
+    src: $img/dorm/dorm9.jpg
     desc: 学生九舍
 
   - tag: text

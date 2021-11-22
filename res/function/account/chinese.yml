@@ -2,8 +2,8 @@ name: 东师文苑
 detail: 东北师范大学文学院
 desc: 欢迎关注东北师范大学文学院
 id: dongshiwenyuan
-logo: https://mp.innenu.com/img/media/chinese.png
-qrcode: https://mp.innenu.com/img/media/chinese-qrcode.jpg
+logo: $img/media/chinese.png
+qrcode: $img/media/chinese-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfounWnnzuvMHhMCBP6v1yx6vdFcaS05EaLYGOZagpApOiaP7eAqXV0IMxIQwRghJuxKgic11Z21I1fw/0?wx_fmt=jpeg
     title: 文学院大型舞台实验剧《冯志远》圆满成功

@@ -1,8 +1,8 @@
 name: 东北师范大学教育学部
 desc: 东北师范大学教育学部官方微信平台
 id: edunenu
-logo: https://mp.innenu.com/img/media/education-wechat.png
-qrcode: https://mp.innenu.com/img/media/education-qrcode.jpg
+logo: $img/media/education-wechat.png
+qrcode: $img/media/education-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8YtqpBcDcjLA9eNPY6ZZK3X7JEj1dRrN5xOGxH43mq0hMsIibqvBOQ1k9egzH9FSsjxibh2h066Bd7w/0?wx_fmt=jpeg
     title: “新时代道德教育前沿问题”高峰论坛 暨东北师范大学教育学部道德教育研究中心成立仪式通知

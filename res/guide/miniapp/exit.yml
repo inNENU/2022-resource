@@ -1,6 +1,6 @@
 title: 出校申请
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -38,7 +38,7 @@ content:
       - 填写完毕后，勾选本人承诺选项可点击提交即可。
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/miniprogram-exit.png
+    src: $img/epidemic/miniprogram-exit.png
 
   - tag: ul
     type: info

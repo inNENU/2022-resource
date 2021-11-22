@@ -1,6 +1,6 @@
 title: 全英辩论俱乐部纳新
 author: Mr.Hope
-time: 2021年9月16日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -25,5 +25,5 @@ content:
       - 所以还在犹豫什么呢? 快来加入英辩社这个大家庭吧!
 
   - tag: img
-    src: https://mp.innenu.com/img/association/en-debate-intake.png
+    src: $img/association/en-debate-intake.png
     desc: 纳新群

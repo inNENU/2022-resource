@@ -2,8 +2,8 @@ name: 东北师范大学物理学院
 detail: 东北师范大学物理学院
 desc: 尊重的教育 创造的教育
 id: nenuphy
-logo: https://mp.innenu.com/img/media/phy.jpg
-qrcode: https://mp.innenu.com/img/media/phy-wechat.jpg
+logo: $img/media/phy.jpg
+qrcode: $img/media/phy-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/rA5uqbJCIC6WhhajibPYSMuoC3QeO7bxyExH279hegicWHGPmdTWwljo1cDtxic6icy2ISQXydJ5AymkW6x3lIqOlw/0?wx_fmt=jpeg
     title: 青览天下——第十三期

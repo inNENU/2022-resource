@@ -2,7 +2,7 @@
 title: 党委宣传部介绍
 desc: |-
   信息来源: 党委宣传部官网
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -15,34 +15,34 @@ content:
     text: 机构设置
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-1.jpg
+    src: $img/apartment/publicize-info-1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-2.jpg
+    src: $img/apartment/publicize-info-2.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-3.jpg
+    src: $img/apartment/publicize-info-3.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-4.jpg
+    src: $img/apartment/publicize-info-4.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-5.jpg
+    src: $img/apartment/publicize-info-5.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-6.jpg
+    src: $img/apartment/publicize-info-6.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-7.jpg
+    src: $img/apartment/publicize-info-7.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-8.jpg
+    src: $img/apartment/publicize-info-8.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-9.jpg
+    src: $img/apartment/publicize-info-9.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-10.jpg
+    src: $img/apartment/publicize-info-10.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/publicize-info-11.jpg
+    src: $img/apartment/publicize-info-11.jpg

@@ -1,7 +1,7 @@
 title: 净月研究生寝室安排
 desc: 部分图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -41,42 +41,42 @@ content:
     text: 居住美术和音乐学院研究生
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/ren-hua.jpg
+    src: $img/dorm/ren-hua.jpg
 
   - tag: text
     heading: 冬华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语研究生。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/dong-hua.jpg
+    src: $img/dorm/dong-hua.jpg
 
   - tag: text
     heading: 星华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/xing-hua.jpg
+    src: $img/dorm/xing-hua.jpg
 
   - tag: text
     heading: 月华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/yue-hua.jpg
+    src: $img/dorm/yue-hua.jpg
 
   - tag: text
     heading: 春华公寓
     text: 居住外国语学院研究生
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/chun-hua.jpg
+    src: $img/dorm/chun-hua.jpg
 
   - tag: text
     heading: 日华公寓
     text: 居住物理、政法以及外国语学院研究生
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/ri-hua.jpg
+    src: $img/dorm/ri-hua.jpg
 
   - tag: text
     type: info

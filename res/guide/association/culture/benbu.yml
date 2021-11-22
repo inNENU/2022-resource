@@ -2,34 +2,34 @@ title: 本部文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年11月22日
 grey: true
 shareable: true
 content:
   - tag: list
     content:
       - text: 卓音网络工作室
-        icon: https://mp.innenu.com/img/association/joinin.png
+        icon: $img/association/joinin.png
         path: joinin
 
       - text: 师说曲艺社
-        icon: https://mp.innenu.com/img/association/quyi.png
+        icon: $img/association/quyi.png
         path: quyi
 
       - text: 青音吉他社
-        icon: https://mp.innenu.com/img/association/guitar.jpg
+        icon: $img/association/guitar.jpg
         path: guitar
 
       - text: 英语协会
-        icon: https://mp.innenu.com/img/association/ea.jpg
+        icon: $img/association/ea.jpg
         path: ea
 
       - text: 中华古诗词吟诵团
-        icon: https://mp.innenu.com/img/association/gushici.png
+        icon: $img/association/gushici.png
         path: gushici
 
       - text: 爱创影视协会
-        icon: https://mp.innenu.com/img/association/aichuang.png
+        icon: $img/association/aichuang.png
         path: aichuang
 
       - text: 安仁国风社

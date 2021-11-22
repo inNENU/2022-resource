@@ -2,8 +2,8 @@ name: 东北师范大学
 detail: 东北师范大学官方微信公众号
 desc: 勤奋创新 为人师表
 id: nenuweixin
-logo: https://mp.innenu.com/img/media/official.png
-qrcode: https://mp.innenu.com/img/media/officail-qrcode.jpg
+logo: $img/media/official.png
+qrcode: $img/media/officail-qrcode.jpg
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgd0GXicsIUv7KYQPgh9w2riawT14QicbSAPKzJ9ibicdz3s4rDOLT7AVoicuPw3eh58vicdFetlRuh7dbWQ/0?wx_fmt=jpeg
     title: 荣耀东师·誉满桃李 | 走近东师荣誉教授——史宁中

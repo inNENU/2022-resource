@@ -1,30 +1,30 @@
 title: 测试项目评分表
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 体重指数(BMI)评分表
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/BMI.png
+    src: $img/exam/BMI.png
 
   - tag: title
     text: 男生评分表
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/male.png
+    src: $img/exam/male.png
 
   - tag: title
     text: 女生评分表
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/female.png
+    src: $img/exam/female.png
 
   - tag: title
     text: 加分表
   - tag: img
-    src: https://mp.innenu.com/img/exam/addScore.png
+    src: $img/exam/addScore.png
 
   - tag: ul
     type: info

@@ -1,15 +1,15 @@
 title: 绿色动力环保志愿者协会
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 绿色动力环保志愿者协会
-    logo: https://mp.innenu.com/img/association/green.png
+    logo: $img/association/green.png
     desc: 天地你我共有，环保大家一起上
     qq: 1913856914
     qqid: 524B5980588BE76C3D5FA8B2683B9B40
-    qqcode: https://mp.innenu.com/img/media/green-qq-qrcode.png
+    qqcode: $img/media/green-qq-qrcode.png
 
   - tag: title
     text: 社团简介
@@ -45,5 +45,5 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/association/green-activity1.jpg
-      - https://mp.innenu.com/img/association/green-activity2.jpg
+      - $img/association/green-activity1.jpg
+      - $img/association/green-activity2.jpg

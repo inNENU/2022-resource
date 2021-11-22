@@ -1,7 +1,7 @@
 # http://cet.neea.edu.cn/html1/folder/19081/5179-1.htm
 title: 大学生水平英语测试成绩核查
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -21,7 +21,7 @@ content:
       - 不按上述要求提供回函信封的申请恕不予办理
 
   - tag: img
-    src: https://mp.innenu.com/img/exam/cet-return-letter.jpg
+    src: $img/exam/cet-return-letter.jpg
     desc: 回函信封要求
 
   - tag: text

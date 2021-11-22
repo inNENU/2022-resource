@@ -3,15 +3,15 @@ shareable: true
 content:
   - tag: account
     name: 师说曲艺社
-    logo: https://mp.innenu.com/img/association/quyi.png
+    logo: $img/association/quyi.png
     desc: 一起欢乐，一起进步
     qq: 1913856914
     qqid: 524B5980588BE76C3D5FA8B2683B9B40
-    qqcode: https://mp.innenu.com/img/media/green-qq-qrcode.png
+    qqcode: $img/media/green-qq-qrcode.png
 
   - tag: card
-    cover: https://mp.innenu.com/img/media/join.png
-    logo: https://mp.innenu.com/img/association/quyi.png
+    cover: $img/media/join.png
+    logo: $img/association/quyi.png
     name: 师说曲艺社
     title: 我们在纳新
     url: page?id=/guide/association/culture/quyi-in
@@ -26,10 +26,10 @@ content:
 
   - tag: carousel
     images:
-      - "https://mp.innenu.com/img/association/quyi1.jpg"
-      - "https://mp.innenu.com/img/association/quyi2.jpg"
-      - "https://mp.innenu.com/img/association/quyi3.jpg"
-      - "https://mp.innenu.com/img/association/quyi4.jpg"
+      - $img/association/quyi1.jpg
+      - $img/association/quyi2.jpg
+      - $img/association/quyi3.jpg
+      - $img/association/quyi4.jpg
 
   - tag: title
     text: 简介

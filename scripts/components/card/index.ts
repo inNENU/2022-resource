@@ -6,24 +6,38 @@ export const resolveCard = (
   element: CardComponentOptions,
   location = ""
 ): void => {
-  if (
-    element.logo &&
-    !element.logo.match(/^https?:\/\//) &&
-    !element.logo.match(/\./) &&
-    !existsSync(`./res/icon/${element.logo}.svg`)
-  ) {
-    console.warn(`Icon ${element.logo} not exist in ${location}`);
+  if (element.logo) {
+    // check icons
+    if (
+      !element.logo.match(/^https?:\/\//) &&
+      !element.logo.match(/\./) &&
+      !existsSync(`./res/icon/${element.logo}.svg`)
+    ) {
+      console.warn(`Icon ${element.logo} not exist in ${location}`);
+    }
+    // `$img` alias resolve and file check
+    else if (element.logo.startsWith("$img/")) {
+      const localePath = element.logo.replace(/^\$img\//, "./img/");
+
+      if (existsSync(localePath))
+        element.logo = element.logo.replace(
+          /^\$img\//,
+          "https://mp.innenu.com/img/"
+        );
+      else console.warn(`Image ${localePath} not exist in ${location}`);
+    }
   }
 
-  // `$img` alias resolve
-  if (element.cover?.startsWith("$img/"))
-    element.cover.replace(/^\$img\//, "https://mp.innenu.com/img/");
+  // `$img` alias resolve and file check
+  if (element.cover?.startsWith("$img/")) {
+    const localePath = element.cover.replace(/^\$img\//, "./img/");
 
-  if (
-    element.cover?.startsWith("https://mp.innenu.com") &&
-    !existsSync(element.cover.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`Image ${element.cover} not exist in ${location}`);
+    if (existsSync(localePath))
+      element.cover = element.cover.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
   }
 
   checkKeys(

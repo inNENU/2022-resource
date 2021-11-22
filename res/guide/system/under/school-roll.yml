@@ -1,6 +1,6 @@
 title: 学籍注册
 author: Mr.Hope
-time: 2021年9月13日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -41,7 +41,7 @@ content:
         path: /guide/system/limit/
 
   - tag: img
-    src: https://mp.innenu.com/img/system/login.jpg
+    src: $img/system/login.jpg
 
   - tag: text
     heading: 登陆系统
@@ -51,21 +51,21 @@ content:
     text: 双击【学籍管理】
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll1.png
+    src: $img/system/school-roll1.png
 
   - tag: ul
     text:
       - 点击【注册学籍】，进入学生注册学籍页面
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll4.png
+    src: $img/system/school-roll4.png
 
   - tag: ul
     text:
       - 点击【注册学籍】，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
 
   - tag: img
-    src: https://mp.innenu.com/img/system/school-roll5.png
+    src: $img/system/school-roll5.png
 
   - tag: text
     type: tip

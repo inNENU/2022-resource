@@ -1,6 +1,6 @@
 title: 奖学金申请
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -14,20 +14,20 @@ content:
 
   - tag: doc
     name: 校长奖学金申请表
-    url: https://mp.innenu.com/file/scholarship/xiaozhang.docx
+    url: $file/scholarship/xiaozhang.docx
 
   - tag: doc
     name: 一等奖学金申请表
-    url: https://mp.innenu.com/file/scholarship/yideng.docx
+    url: $file/scholarship/yideng.docx
 
   - tag: doc
     name: 二等奖学金申请表
-    url: https://mp.innenu.com/file/scholarship/erdeng.docx
+    url: $file/scholarship/erdeng.docx
 
   - tag: doc
     name: 三等奖学金申请表
-    url: https://mp.innenu.com/file/scholarship/sandeng.docx
+    url: $file/scholarship/sandeng.docx
 
   - tag: doc
     name: 单项奖学金申请表
-    url: https://mp.innenu.com/file/scholarship/danxiang.docx
+    url: $file/scholarship/danxiang.docx

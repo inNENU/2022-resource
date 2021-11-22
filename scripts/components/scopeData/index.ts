@@ -49,8 +49,8 @@ export const genScopeData = (page: PageConfig, filePath: string): void => {
     "@type": "general",
     // eslint-disable-next-line @typescript-eslint/naming-convention
     uniq_id: filePath,
-    cover: page.images ? page.images[0] : "",
     title: page.title,
+    ...(page.images ? { cover: page.images[0] } : {}),
     digest: getText(page),
     thumbs: getImages(page),
     tags: getTags(page),

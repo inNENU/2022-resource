@@ -2,8 +2,8 @@ name: 东师地科
 detail: 东北师范大学地理学院
 desc: 愿地科君常伴地科人
 id: dongshidike
-logo: https://mp.innenu.com/img/media/geography.jpg
-qrcode: https://mp.innenu.com/img/media/dongshidike-qrcode.jpg
+logo: $img/media/geography.jpg
+qrcode: $img/media/dongshidike-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/MiaPTgnwE8aeA2PpvScAcd1RqIwU1nrPXOeg7cspW6ft69UZmPA4PHYhZA2TGcykDGGrn7QNaaicPgptB8q7KuhA/0?wx_fmt=jpeg
     title: 快讯 ||我院男篮荣获季军, “精英杯”篮球赛圆满结束

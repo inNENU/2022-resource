@@ -1,7 +1,7 @@
 title: 党委学生工作部
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: list
@@ -38,7 +38,7 @@ content:
 
   - tag: doc
     name: 东北师范大学学生管理规定
-    url: https://mp.innenu.com/file/student/manage.pdf
+    url: $file/student/manage.pdf
 
   - tag: copy
     header: 东师智慧学工系统

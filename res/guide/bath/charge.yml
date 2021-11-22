@@ -1,6 +1,6 @@
 title: 洗浴充值
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -18,7 +18,7 @@ content:
     text: 点击公众号“台州博诚”内“钱包充值”菜单并选择自己的校区
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/charge-menu.jpg
+    src: $img/bath/charge-menu.jpg
     desc: 充值菜单
 
   - tag: text
@@ -29,5 +29,5 @@ content:
     text: 首次点击时请按照要求进行微信登陆
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/charge-pay.jpg
+    src: $img/bath/charge-pay.jpg
     desc: 充值页面

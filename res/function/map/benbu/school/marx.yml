@@ -2,16 +2,16 @@ title: 马克思主义学部
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/school/marx1.jpg
-  - https://mp.innenu.com/img/school/marx2.jpg
-  - https://mp.innenu.com/img/school/marx3.jpg
+  - $img/school/marx1.jpg
+  - $img/school/marx2.jpg
+  - $img/school/marx3.jpg
 content:
   - tag: account
     name: 马克思主义学部
-    logo: https://mp.innenu.com/img/media/marx.png
+    logo: $img/media/marx.png
     detail: 东北师范大学马克思主义学部
     wxid: gh_32d2742e1204
-    wxcode: https://mp.innenu.com/img/media/marx-qrcode.jpg
+    wxcode: $img/media/marx-qrcode.jpg
     account: marx
     location:
       latitude: 43.86268

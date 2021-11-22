@@ -1,6 +1,6 @@
 title: 历史文化学院招生
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
   #   src: http://zsb.nenu.edu.cn/_vsl/47993B33DF0ACE5BFA0DA15131D2392B/F046F014/3930242F?e=.mp4?e=.mp4
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/history-major.png
+    src: $img/enroll/history-major.png
 
   - tag: list
     header: 本科各专业介绍
@@ -36,10 +36,10 @@ content:
     text: 历史文化学院硕士专业设置
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/history-master-all.png
+    src: $img/enroll/history-master-all.png
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/history-master.png
+    src: $img/enroll/history-master.png
     desc: 2021年招生信息
 
   - tag: phone
@@ -57,4 +57,4 @@ content:
     text: 历史文化学院博士专业设置
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/history-doctor.png
+    src: $img/enroll/history-doctor.png

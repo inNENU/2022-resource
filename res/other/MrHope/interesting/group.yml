@@ -1,6 +1,6 @@
 title: 群内图片截图
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -11,30 +11,30 @@ content:
       font-weight: bold
 
   - tag: img
-    src: https://mp.innenu.com/img/other/interesting1.jpg
+    src: $img/other/interesting1.jpg
 
   - tag: p
     text: 我踢她这件事情正确与否大家可以有自己的看法，但是我的观点是我并无错误。首先本群入群机器人以及置顶公告已经非常明确的引导了小程序和群其他公告。
 
   - tag: img
-    src: https://mp.innenu.com/img/other/notice1.png
+    src: $img/other/notice1.png
 
   - tag: img
-    src: https://mp.innenu.com/img/other/notice2.png
+    src: $img/other/notice2.png
 
   - tag: p
     text:
       - 另外退一步讲，我也不是不给她解答，在蓝色气泡中，我已经明确告知她在小程序可以查看相关内容。在告知她答案之后，我才劝说我的学弟不用这么热心的挨个解答。我对学弟这个劝说跟群中的两个人毫无关系，只是希望自己学院的学弟少浪费点时间，并没有丝毫针对她的意思，如果非要说，也是针对所有不看公告不看小程序提问的新生们。至于她怎么想，我也无从理解。
 
   - tag: img
-    src: https://mp.innenu.com/img/other/reply.jpg
+    src: $img/other/reply.jpg
     desc: 讲实话我觉得我够客气了
 
   - tag: p
     text: 但是最后的三句话，我实在没必要留这样一个阴阳怪气的人。
 
   - tag: img
-    src: https://mp.innenu.com/img/other/yinyang.jpg
+    src: $img/other/yinyang.jpg
     desc: 所以我就得把您供起来?
 
   - tag: p

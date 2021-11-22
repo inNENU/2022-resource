@@ -1,6 +1,6 @@
 title: 净月照相
 author: Mr.Hope
-time: 2021年9月10日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -19,7 +19,7 @@ content:
     text: 二食堂超市对面师大图文复印店
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-copy.jpg
+    src: $img/shop/jingyue-copy.jpg
     desc: 师大图文复印店
 
   - tag: title

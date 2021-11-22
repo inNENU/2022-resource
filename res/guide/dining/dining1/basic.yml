@@ -2,7 +2,7 @@ title: 一食堂基本餐
 desc: |-
   特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -16,4 +16,4 @@ content:
       - "晚: 16:30 - 18:00"
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining44.png
+    src: $img/dining/dining44.png

@@ -1,8 +1,8 @@
 title: 学院辅导员通讯录
 desc: |-
   信息来源: 学生处官网
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: img
-    src: https://mp.innenu.com/img/apartment/counselor-contact.png
+    src: $img/apartment/counselor-contact.png

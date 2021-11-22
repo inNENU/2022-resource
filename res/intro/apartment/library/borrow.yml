@@ -1,13 +1,13 @@
 title: 借书权限
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 借书权限
 
   - tag: img
-    src: https://mp.innenu.com/img/library/borrow.png
+    src: $img/library/borrow.png
 
   - tag: title
     text: 图书续借
@@ -16,9 +16,9 @@ content:
     text: 点击图书馆主页上“我的图书馆”链接
 
   - tag: img
-    src: https://mp.innenu.com/img/library/libraryGuide4.jpg
+    src: $img/library/libraryGuide4.jpg
     desc: 登录页面
 
   - tag: img
-    src: https://mp.innenu.com/img/library/libraryGuide5.jpg
+    src: $img/library/libraryGuide5.jpg
     desc: 我的图书馆页面

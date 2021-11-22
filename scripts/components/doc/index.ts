@@ -38,11 +38,16 @@ export const resolveDoc = (
 ): void => {
   element.icon = getDocIcon(element.url);
 
-  if (
-    element.url?.match(/https?:\/\/mp\.innenu\.com/) &&
-    !existsSync(element.url.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-  ) {
-    console.warn(`File ${element.url} not exist in ${location}`);
+  // `$file` alias resolve and file check
+  if (element.url?.startsWith("$file/")) {
+    const localePath = element.url.replace(/^\$file\//, "./file/");
+
+    if (existsSync(localePath))
+      element.url = element.url.replace(
+        /^\$file\//,
+        "https://mp.innenu.com/file/"
+      );
+    else console.warn(`File ${localePath} not exist in ${location}`);
   }
 
   checkKeys(

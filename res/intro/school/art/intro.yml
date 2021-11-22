@@ -2,15 +2,15 @@ title: 美术介绍
 desc: |-
   来源: 东北师范大学美术学院官网
   最后更新于: 2015年11月20日
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 美术学院
-    logo: https://mp.innenu.com/img/media/art.png
+    logo: $img/media/art.png
     detail: 东北师范大学美术学院
     wxid: gh_d633652739f9
-    wxcode: https://mp.innenu.com/img/media/art-qrcode.jpg
+    wxcode: $img/media/art-qrcode.jpg
     account: art
     location:
       latitude: 43.82564

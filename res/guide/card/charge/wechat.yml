@@ -1,6 +1,6 @@
 title: 校园卡企业号充值
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -21,7 +21,7 @@ content:
     text: 打开微信进入东北师范大学企业号列表，并选择校园卡栏目。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/wechat-card-charge.jpg
+    src: $img/card/wechat-card-charge.jpg
 
   - tag: text
     text: 点击屏幕下方的“校园卡”自定义菜单
@@ -36,7 +36,7 @@ content:
     text: 点击下方的校园卡充值，直接输入充值金额点击付款即可
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card-service.jpg
+    src: $img/card/card-service.jpg
 
   - tag: title
     text: 提示

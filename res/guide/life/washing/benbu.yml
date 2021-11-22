@@ -1,6 +1,6 @@
 title: 本部洗衣店
 author: Mr.Hope
-time: 2021年9月16日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     text: 位于浴池一楼。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/benbu-shop4.jpg
+    src: $img/bath/benbu-shop4.jpg
     desc: 糖果洗衣
 
   - tag: text
@@ -24,11 +24,11 @@ content:
     text: 位于北苑地下一楼。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/yizhan.jpg
+    src: $img/life/benbu/yizhan.jpg
     desc: 北苑洗衣价格
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/yizhan-price.jpg
+    src: $img/life/benbu/yizhan-price.jpg
     desc: 北苑洗衣价格
 
   - tag: title

@@ -1,7 +1,7 @@
 # https://xc.caict.ac.cn/
 title: 通信行程卡介绍
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -16,7 +16,7 @@ content:
       path: pages/index
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/history-visit.jpg
+    src: $img/epidemic/history-visit.jpg
     desc: 微信小程序码
     env:
       - qq

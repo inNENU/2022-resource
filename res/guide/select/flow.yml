@@ -1,13 +1,13 @@
 title: 选课流程
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 完成流程
 
   - tag: img
-    src: https://mp.innenu.com/img/course/register.png
+    src: $img/course/register.png
 
   - tag: title
     text: 相关提示

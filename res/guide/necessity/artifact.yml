@@ -1,6 +1,6 @@
 title: 宿舍神器类
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -12,7 +12,7 @@ content:
       - 强烈推荐线下购买，快递邮过来可能会变形...
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool1.jpg
+    src: $img/necessity/dorm-tool1.jpg
 
   - tag: title
     text: 床上折叠书桌
@@ -28,7 +28,7 @@ content:
       - 但是 Mr.Hope 并不赞同购买此物品，对勤快人用处不大，反而会助长懒惰之心。(对，我的意思就是没事儿应该下来学习)
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool2.jpg
+    src: $img/necessity/dorm-tool2.jpg
     desc: 懒人必备，勤快人买了用处不大
 
   - tag: title
@@ -40,7 +40,7 @@ content:
       - 建议网购
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool3.jpg
+    src: $img/necessity/dorm-tool3.jpg
     desc: 保持桌面整洁必备，如果觉得平时自己懒得收拾也可不用购买
 
   - tag: title
@@ -52,7 +52,7 @@ content:
       - 建议网购
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool4.jpg
+    src: $img/necessity/dorm-tool4.jpg
     desc: 衣服多的女生考虑一下
 
   - tag: title
@@ -64,7 +64,7 @@ content:
       - 建议网购
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool5.jpg
+    src: $img/necessity/dorm-tool5.jpg
     desc: 有效利用衣柜下半部分空间
 
   - tag: title
@@ -76,5 +76,5 @@ content:
       - 建议网购
 
   - tag: img
-    src: https://mp.innenu.com/img/necessity/dorm-tool6.jpg
+    src: $img/necessity/dorm-tool6.jpg
     desc: 挂在衣柜侧

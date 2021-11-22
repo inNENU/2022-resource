@@ -1,7 +1,7 @@
 title: 英语免修评定
 desc: 部分截图素材来自阮怀正
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -42,7 +42,7 @@ content:
         path: /guide/system/limit/
 
   - tag: img
-    src: https://mp.innenu.com/img/system/login.jpg
+    src: $img/system/login.jpg
 
   - tag: ol
     text:
@@ -54,16 +54,16 @@ content:
       - 保存并送审
 
   - tag: img
-    src: https://mp.innenu.com/img/system/english-exemption1.jpg
+    src: $img/system/english-exemption1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/system/english-exemption2.jpg
+    src: $img/system/english-exemption2.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/system/english-exemption3.jpg
+    src: $img/system/english-exemption3.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/system/english-exemption4.jpg
+    src: $img/system/english-exemption4.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/system/english-exemption5.jpg
+    src: $img/system/english-exemption5.jpg

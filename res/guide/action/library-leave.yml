@@ -1,6 +1,6 @@
 title: 毕业生图书馆离校手续办理
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -10,15 +10,15 @@ content:
     text: 执行流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/library-leave.png
+    src: $img/action/library-leave.png
 
   - tag: title
     text: 相关文件
 
   - tag: doc
     name: 本科生离校通知单
-    url: https://mp.innenu.com/file/action/undergraduate-leave.docx
+    url: $file/action/undergraduate-leave.docx
 
   - tag: doc
     name: 研究生离校通知单
-    url: https://mp.innenu.com/file/action/postgraduate-leave.docx
+    url: $file/action/postgraduate-leave.docx

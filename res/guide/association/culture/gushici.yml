@@ -3,12 +3,12 @@ shareable: true
 content:
   - tag: account
     name: 中华古诗词吟诵团
-    logo: https://mp.innenu.com/img/association/gushici.png
+    logo: $img/association/gushici.png
     desc: 薪火相传，舍我其谁
 
   - tag: card
-    cover: https://mp.innenu.com/img/association/gushici-cover.jpg
-    logo: https://mp.innenu.com/img/association/gushici.png
+    cover: $img/association/gushici-cover.jpg
+    logo: $img/association/gushici.png
     title: 我们纳新了
     url: page?id=guide/association/culture/poem-intake
 
@@ -22,14 +22,14 @@ content:
 
   - tag: carousel
     images:
-      - https://mp.innenu.com/img/association/gushici1.jpg
-      - https://mp.innenu.com/img/association/gushici2.jpg
-      - https://mp.innenu.com/img/association/gushici3.jpg
-      - https://mp.innenu.com/img/association/gushici4.jpg
-      - https://mp.innenu.com/img/association/gushici5.jpg
-      - https://mp.innenu.com/img/association/gushici6.jpg
-      - https://mp.innenu.com/img/association/gushici7.jpg
-      - https://mp.innenu.com/img/association/gushici8.jpg
+      - $img/association/gushici1.jpg
+      - $img/association/gushici2.jpg
+      - $img/association/gushici3.jpg
+      - $img/association/gushici4.jpg
+      - $img/association/gushici5.jpg
+      - $img/association/gushici6.jpg
+      - $img/association/gushici7.jpg
+      - $img/association/gushici8.jpg
 
   - tag: title
     text: 部门介绍

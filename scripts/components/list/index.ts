@@ -188,14 +188,25 @@ export const resolveList = (
         listItem.path = path;
       }
 
-      if (
-        listItem.icon &&
-        !listItem.icon.match(/^https?:\/\//) &&
-        !listItem.icon.match(/\./) &&
-        !existsSync(`./res/icon/${listItem.icon}.svg`)
-      ) {
-        console.warn(`Icon ${listItem.icon} not exist in ${location}`);
-      }
+      if (listItem.icon)
+        if (
+          !listItem.icon.match(/^https?:\/\//) &&
+          !listItem.icon.match(/\./) &&
+          !existsSync(`./res/icon/${listItem.icon}.svg`)
+        ) {
+          console.warn(`Icon ${listItem.icon} not exist in ${location}`);
+        }
+        // `$img` alias resolve and file check
+        else if (listItem.icon.startsWith("$img/")) {
+          const localePath = listItem.icon.replace(/^\$img\//, "./img/");
+
+          if (existsSync(localePath))
+            listItem.icon = listItem.icon.replace(
+              /^\$img\//,
+              "https://mp.innenu.com/img/"
+            );
+          else console.warn(`Image ${localePath} not exist in ${location}`);
+        }
 
       checkKeys(
         listItem,

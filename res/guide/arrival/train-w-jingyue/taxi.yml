@@ -1,6 +1,6 @@
 title: 长春西站-到净月-打车
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -37,11 +37,11 @@ content:
         path: /guide/epidemic/jixiang-code/
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-west-exit.jpg
+    src: $img/arrival/train-west-exit.jpg
     desc: 长春西站出站口
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-west-taxi-way.jpg
+    src: $img/arrival/train-west-taxi-way.jpg
     desc: 长春西站出租车乘降中心位置
 
   - tag: text
@@ -49,7 +49,7 @@ content:
     text: 由于疫情原因，您必须先出站，之后右转掉头往回走，才能到达出租车乘降中心，请特别注意。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-west-taxi-entrance.jpg
+    src: $img/arrival/train-west-taxi-entrance.jpg
     desc: 长春西站出租车乘降中心入口
 
   - tag: text

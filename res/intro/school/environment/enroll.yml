@@ -1,6 +1,6 @@
 title: 环境学院招生
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -39,7 +39,7 @@ content:
       - 截止目前，学院已培养各类研究生740余人。目前，学院在读博士研究生52人，硕士研究生183人(其中工程硕士49人)。每年招收研究生规模在90人左右，其中硕士研究生80人左右，博士研究生10人左右。学院研究生培养质量较高，就业去向多元，为大专院校、科研机构、政府职能部门及企事业单位输送了大批人才。学院毕业生中，有国家省部级领导干部，国家杰出青年基金获得者，长江学者特聘教授，环保部青年拔尖人才，企业高管等，每年研究生就业率均在98%以上，选择境外深造或攻读博士学位者占30%以上。
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/environment-master.png
+    src: $img/enroll/environment-master.png
     desc: 2021 年招生情况
 
   - tag: phone

@@ -1,6 +1,6 @@
 title: 保卫科
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -35,13 +35,13 @@ content:
     text: 机构设置
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/defendDetail.jpg
+    src: $img/apartment/defendDetail.jpg
 
   - tag: title
     text: 车辆门禁
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/door.png
+    src: $img/apartment/door.png
 
   - tag: ul
     heading: 费用

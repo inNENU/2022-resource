@@ -1,8 +1,8 @@
 name: 东北师范大学数学与统计学院
 desc: 东北师范大学数学与统计学院官方平台
 id: gh_83fa6f6e7577
-logo: https://mp.innenu.com/img/media/math.png
-qrcode: https://mp.innenu.com/img/media/math-qrcode.jpg
+logo: $img/media/math.png
+qrcode: $img/media/math-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/A1pATfhlgbuBQiazTM26j2cicic09iatjVDCoKtRxicKJYzV4SjR6EicGJASesI7oRt0A4Zc7CiaZibzKoyJ2SHw5N1PDg/0?wx_fmt=jpeg
     title: 数学建模经验交流会

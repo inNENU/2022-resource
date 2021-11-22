@@ -1,6 +1,6 @@
 title: 长春站-到净月-1转3
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -13,11 +13,11 @@ content:
     text: 请注意轨道交通的运营时间，其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-1-time.jpg
+    src: $img/traffic/subway-1-time.jpg
     desc: 地铁 1 号线时刻表
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3-time.jpg
+    src: $img/traffic/railway-3-time.jpg
     desc: 轻轨 3 号线时刻表
 
   - tag: title
@@ -97,7 +97,7 @@ content:
       - 进入地下二层后，您可以在地上和墙上找到非常醒目的一号线位置提示，请跟着箭头方向行进即可。总的来说，您需要向西北方向行进进入地铁一号线。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-chang-chun-north.jpg
+    src: $img/arrival/subway-chang-chun-north.jpg
     desc: 地铁 1 号线门口
 
   - tag: text
@@ -154,11 +154,11 @@ content:
       - 而如果您第一次使用售票机，在上面快速找到博硕路站显然会很困难，所以请直接在屏幕右侧选择 ￥4 和所需的张数，之后点击现金支付或扫码支付即可!
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/ticket-machine.jpg
+    src: $img/arrival/ticket-machine.jpg
     desc: 自助售票机
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-ticket.jpg
+    src: $img/arrival/subway-ticket.jpg
     desc: 轨道交通票
 
   - tag: title
@@ -183,15 +183,15 @@ content:
     text: 请不要忘记在“卫星广场”站准时下车换乘，以及在“博硕路”站下车!
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/subway-1.png
+    src: $img/traffic/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3.png
+    src: $img/traffic/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-env.jpg
+    src: $img/arrival/subway-env.jpg
     desc: 地铁内部环境
 
   - tag: title

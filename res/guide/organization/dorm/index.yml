@@ -3,18 +3,18 @@ shareable: true
 content:
   - tag: account
     name: 东师小窝
-    logo: https://mp.innenu.com/img/organization/xiaowo.png
+    logo: $img/organization/xiaowo.png
     detail: 东北师范大学学生宿舍自我管理委员会
     desc: 东师小蜗牛们的温暖家园
     qq: 3544543750
-    qqcode: https://mp.innenu.com/img/media/xiaowo-qq.jpg
+    qqcode: $img/media/xiaowo-qq.jpg
     wxid: Nenuxiaowo
-    wxcode: https://mp.innenu.com/img/media/xiaowo-wechat.jpg
+    wxcode: $img/media/xiaowo-wechat.jpg
     account: xiaowo
 
   - tag: card
-    cover: https://mp.innenu.com/img/media/join.png
-    logo: https://mp.innenu.com/img/organization/xiaowo.png
+    cover: $img/media/join.png
+    logo: $img/organization/xiaowo.png
     name: 东师小窝
     title: 我们在纳新
     url: page?id=/guide/organization/dorm/intake

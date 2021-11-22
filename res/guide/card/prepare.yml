@@ -1,6 +1,6 @@
 title: 新卡使用前准备
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -23,7 +23,7 @@ content:
     text: 生活用水补助机不是自助终端机，是一个绿色的挂于墙上的机器。机器开关是其顶部的一个按钮。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/water-terminal.jpg
+    src: $img/card/water-terminal.jpg
     desc: 生活用水补助机
 
   - tag: p
@@ -42,7 +42,7 @@ content:
     text: 修改密码
 
   - tag: img
-    src: https://mp.innenu.com/img/card/shell-main.png
+    src: $img/card/shell-main.png
     desc: 自助终端机界面
 
   - tag: text
@@ -58,11 +58,11 @@ content:
     text: 请您点击左侧第一项自助服务，再点击第二行二个选项“修改密码”。之后请您在弹出的页面中输入旧密码、新密码、按确定即可完成修改密码操作。(如忘记密码，请您本人持有效身份证件到信息化办办理重置密码)
 
   - tag: img
-    src: https://mp.innenu.com/img/card/shell-service.jpg
+    src: $img/card/shell-service.jpg
     desc: 自助服务界面
 
   - tag: img
-    src: https://mp.innenu.com/img/card/change-password.png
+    src: $img/card/change-password.png
     desc: 修改密码界面
 
   - tag: p
@@ -73,5 +73,5 @@ content:
     text: 请您点击页面左侧自助服务，再点击修改限额。在弹出的页面中，请您输入校园卡密码、新限额限额，按确定即可完成修改限额操作。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/change-limit.png
+    src: $img/card/change-limit.png
     desc: 修改限额界面

@@ -16,4 +16,4 @@ content:
 
   - tag: doc
     name: 2022年研究生学费及培养校区
-    url: https://mp.innenu.com/file/enroll/graduate-fee.xlsx
+    url: $file/enroll/graduate-fee.xlsx

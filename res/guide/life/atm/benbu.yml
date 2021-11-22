@@ -1,6 +1,6 @@
 title: 本部存取款
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -17,10 +17,10 @@ content:
     text: 目前已有 ATM 入驻的银行有交通银行(可存钱)、中国邮政储蓄银行、中国农业银行、长春农业银行、中国建设银行等
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/atm1.jpg
+    src: $img/life/benbu/atm1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/atm2.jpg
+    src: $img/life/benbu/atm2.jpg
 
   - tag: title
     text: 校外银行

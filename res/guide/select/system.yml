@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年9月9日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -19,7 +19,7 @@ content:
       - Microsoft Edge 不是 IE!
 
   - tag: img
-    src: https://mp.innenu.com/img/select/ie.jpg
+    src: $img/select/ie.jpg
 
   - tag: text
     heading: 本科生

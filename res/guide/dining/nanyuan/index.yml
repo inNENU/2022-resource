@@ -1,7 +1,7 @@
 title: 南苑餐厅
 desc: "概况部分来自东北师范大学后勤保障部官网"
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -21,10 +21,10 @@ content:
     text: 南苑一楼有各种档口，有包子、面条、炒饭，另外还有清真食物档口等，味道比较好，价位适中。
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining16.jpg
+    src: $img/dining/dining16.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining17.jpg
+    src: $img/dining/dining17.jpg
     desc: 南苑一楼环境
 
   - tag: title
@@ -41,28 +41,28 @@ content:
       - "晚: 16:00 - 18:00"
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining18.jpg
+    src: $img/dining/dining18.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining19.jpg
+    src: $img/dining/dining19.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining20.jpg
+    src: $img/dining/dining20.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining21.jpg
+    src: $img/dining/dining21.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining22.jpg
+    src: $img/dining/dining22.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining23.jpg
+    src: $img/dining/dining23.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining24.jpg
+    src: $img/dining/dining24.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining25.jpg
+    src: $img/dining/dining25.jpg
 
   - tag: title
     text: 三楼
@@ -74,7 +74,7 @@ content:
       - (2)东边的餐厅为清真饭店。
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining26.jpg
+    src: $img/dining/dining26.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining27.jpg
+    src: $img/dining/dining27.jpg

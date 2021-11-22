@@ -1,6 +1,6 @@
 title: 学校新生群
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -24,7 +24,7 @@ content:
     text: 东北师范大学2021新生群
 
   - tag: img
-    src: https://mp.innenu.com/img/about/hope.jpg
+    src: $img/about/hope.jpg
     desc: 这是一个严格身份验证，并每天投入大量时间监控管理的群
 
   - tag: title

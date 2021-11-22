@@ -1,7 +1,7 @@
 title: 净月浴池
 desc: 特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,7 @@ content:
       - 浴池旁有打印店🖨、奶茶店☕、小型超市🏪、修理铺🛠等商家，可满足同学们部分日常需求。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/jingyue-main.jpg
+    src: $img/bath/jingyue-main.jpg
     desc: 浴池外景
 
   - tag: text
@@ -34,25 +34,25 @@ content:
       - "检修时间: 每月第二周星期三"
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/jingyue-entrance.jpg
+    src: $img/bath/jingyue-entrance.jpg
     desc: 浴池入口
 
   - tag: text
     text: 入门后左侧为男浴区与休息室(休息室为男女共用)，还有奶茶店通道；右侧为女浴区。浴池内配有吹风机。浴池为单间浴池，单间内带有衣帽柜。由于学校男女比例原因，净月校区浴池女浴区经常需要排队(男浴区较少出现排队情况)。
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/bath-official.jpg
+    src: $img/bath/bath-official.jpg
     desc: 浴池更衣间
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/jingyue-bath.jpg
+    src: $img/bath/jingyue-bath.jpg
     desc: 浴池洗浴间
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/jingyue-fitness1.jpg
+    src: $img/bath/jingyue-fitness1.jpg
 
   - tag: img
-    src: https://mp.innenu.com/img/bath/jingyue-fitness2.jpg
+    src: $img/bath/jingyue-fitness2.jpg
     desc: 健身房
 
   - tag: title

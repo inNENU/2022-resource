@@ -1,13 +1,13 @@
 title: 无线上网(Wifi)
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 联网步骤
 
   - tag: img
-    src: https://mp.innenu.com/img/network/wifi.jpg
+    src: $img/network/wifi.jpg
 
   - tag: ol
     text:

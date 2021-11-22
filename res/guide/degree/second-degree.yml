@@ -1,6 +1,6 @@
 title: 第二学士学位
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -21,7 +21,7 @@ content:
     text: 招生计划
 
   - tag: img
-    src: https://mp.innenu.com/img/course/second-degree-plan.png
+    src: $img/course/second-degree-plan.png
     desc: 2021 年我校招生计划
 
   - tag: p

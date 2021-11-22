@@ -1,6 +1,6 @@
 title: 资助体系介绍
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -42,7 +42,7 @@ content:
     text: 资助计划
 
   - tag: img
-    src: https://mp.innenu.com/img/subsidize/plan.png
+    src: $img/subsidize/plan.png
 
   - tag: ul
     type: info

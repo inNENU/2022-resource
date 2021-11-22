@@ -1,8 +1,8 @@
 name: 东北师范大学团委
 desc: 共青团东北师范大学委员会官方公众号
 id: nenu-tuanwei
-logo: https://mp.innenu.com/img/media/tuanwei.png
-qrcode: https://mp.innenu.com/img/media/tuanwei-wechat.jpg
+logo: $img/media/tuanwei.png
+qrcode: $img/media/tuanwei-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvr9R8rAynkxFg5O2S64VPoBU768JFyxyfFgbicXlziaXrtxbPjjtuR2iaA6JX8nFDsNxIO29wXf55icgA/0?wx_fmt=jpeg
     title: 重磅来袭｜《中国诗词大会》第七季东北师范大学选拔赛！

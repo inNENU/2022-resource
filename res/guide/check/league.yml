@@ -1,6 +1,6 @@
 title: 党团组织关系迁移
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -59,13 +59,13 @@ content:
     text: 智慧团建默认密码为身份证号后八位。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/youth-login.png
+    src: $img/check/youth-login.png
 
   - tag: text
     text: 在侧边栏中选择关系接转
 
   - tag: img
-    src: https://mp.innenu.com/img/check/youth-UI.png
+    src: $img/check/youth-UI.png
 
   - tag: ol
     heading: 按照下列要求填写转接申请
@@ -89,7 +89,7 @@ content:
       - 如果辅导员没有明确要求，学院选择团总支、没有的选择选择临时团支部，没有的还找不到的选择 2021 团支部加入。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/youth-select.png
+    src: $img/check/youth-select.png
 
   - tag: text
     type: danger
@@ -99,4 +99,4 @@ content:
     text: 确认无误后提交申请，等待原学校审批转出和东北师范大学相应学院审批转入。
 
   - tag: img
-    src: https://mp.innenu.com/img/check/youth-apply.png
+    src: $img/check/youth-apply.png

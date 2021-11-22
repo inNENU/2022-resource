@@ -1,6 +1,6 @@
 title: 学生组织
 author: Mr.Hope
-time: 2021年11月9日
+time: 2021年11月22日
 shareable: true
 grey: true
 content:
@@ -8,78 +8,78 @@ content:
     header: 校党委
     content:
       - text: 大学生记者团
-        icon: https://mp.innenu.com/img/association/jizhetuan.png
+        icon: $img/association/jizhetuan.png
         path: news-group
 
   - tag: list
     header: 校团委
     content:
       - text: 学生会
-        icon: https://mp.innenu.com/img/organization/nenuyouth.png
+        icon: $img/organization/nenuyouth.png
         path: student-union
 
       - text: 研究生会
-        icon: https://mp.innenu.com/img/organization/yanHui.png
+        icon: $img/organization/yanHui.png
         path: graduate
 
       - text: 学生社团联合会
-        icon: https://mp.innenu.com/img/organization/sheguan.png
+        icon: $img/organization/sheguan.png
         path: association-union
 
       - text: 红烛志愿者协会
-        icon: https://mp.innenu.com/img/organization/hongZhu.png
+        icon: $img/organization/hongZhu.png
         path: hongzhu
 
       - text: 厚普公益学校
-        icon: https://mp.innenu.com/img/organization/houpu.png
+        icon: $img/organization/houpu.png
         path: hope
 
       - text: 研究生支教团
-        icon: https://mp.innenu.com/img/organization/yan-zhi.png
+        icon: $img/organization/yan-zhi.png
         path: yan-zhi
 
       - text: 团委融媒体中心
-        icon: https://mp.innenu.com/img/organization/nenuyouth.png
+        icon: $img/organization/nenuyouth.png
         path: new-media-center
 
       - text: 《东师青年》报社
-        icon: https://mp.innenu.com/img/organization/newspaper.png
+        icon: $img/organization/newspaper.png
         path: newspaper/
 
       - text: “东师之声”校园广播站
-        icon: https://mp.innenu.com/img/organization/voice.png
+        icon: $img/organization/voice.png
         path: voice/
 
       - text: 大学生艺术团
-        icon: https://mp.innenu.com/img/organization/daYi.png
+        icon: $img/organization/daYi.png
         path: art-ensemble
 
       - text: 大学生体育俱乐部
-        icon: https://mp.innenu.com/img/organization/daTi.png
+        icon: $img/organization/daTi.png
         path: sport-club
 
       - text: 大学生创新创业中心
-        icon: https://mp.innenu.com/img/organization/daChuang.png
+        icon: $img/organization/daChuang.png
         path: career-center
 
       - text: 青年马克思主义者学习研究会
-        icon: https://mp.innenu.com/img/organization/marx.png
+        icon: $img/organization/marx.png
         path: marxism
 
   - tag: list
     header: 学生处
     content:
       - text: 东师小窝
-        icon: https://mp.innenu.com/img/organization/xiaowo.png
+        icon: $img/organization/xiaowo.png
         path: dorm/
 
   - tag: list
     header: 资助管理中心
     content:
       - text: 爱心学校
-        icon: https://mp.innenu.com/img/organization/love-school.png
+        icon: $img/organization/love-school.png
         path: love-school/
 
       - text: 爱心使者团
-        icon: https://mp.innenu.com/img/organization/aixinshizhe.png
+        icon: $img/organization/aixinshizhe.png
         path: love-messenger

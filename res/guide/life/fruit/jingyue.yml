@@ -1,6 +1,6 @@
 title: 净月水果店
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -13,11 +13,11 @@ content:
       - 二食堂二楼基本餐楼层
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-fruit-1.jpg
+    src: $img/shop/jingyue-fruit-1.jpg
     desc: 水果店，位于二食堂一楼
 
   - tag: img
-    src: https://mp.innenu.com/img/shop/jingyue-fruit-2.jpg
+    src: $img/shop/jingyue-fruit-2.jpg
     desc: 水果店，位于二食堂二楼
 
   - tag: title

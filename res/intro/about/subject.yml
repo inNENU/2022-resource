@@ -1,6 +1,6 @@
 # http://fzghc.nenu.edu.cn/xkjs/xkgk.htm
 title: 学科建设
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -30,7 +30,7 @@ content:
 
   - tag: doc
     name: 学术学位授权学科
-    url: https://mp.innenu.com/file/subject/jilin.pdf
+    url: $file/subject/jilin.pdf
 
   - tag: title
     text: 学术学位授权学科
@@ -40,13 +40,13 @@ content:
 
   - tag: doc
     name: 学术学位授权学科
-    url: https://mp.innenu.com/file/subject/degree.pdf
+    url: $file/subject/degree.pdf
 
   - tag: img
-    src: https://mp.innenu.com/img/about/doctor-level-1.png
+    src: $img/about/doctor-level-1.png
 
   - tag: img
-    src: https://mp.innenu.com/img/about/master-level-1.png
+    src: $img/about/master-level-1.png
 
   - tag: title
     text: 专业学位授权学科
@@ -55,11 +55,11 @@ content:
     text: 东北师范大学共有 1 个教育博士专业学位授权点，22 个硕士专业学位授权点。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/doctor-major.png
+    src: $img/about/doctor-major.png
 
   - tag: img
-    src: https://mp.innenu.com/img/about/master-major.png
+    src: $img/about/master-major.png
 
   - tag: doc
     name: 专业学位授权学科
-    url: https://mp.innenu.com/file/subject/professional.pdf
+    url: $file/subject/professional.pdf

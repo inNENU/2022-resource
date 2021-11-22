@@ -3,12 +3,12 @@ shareable: true
 content:
   - tag: account
     name: 英语协会
-    logo: https://mp.innenu.com/img/association/ea.jpg
+    logo: $img/association/ea.jpg
     desc: 东北师范大学英语协会
 
   - tag: card
-    cover: https://mp.innenu.com/img/association/ea-cover.jpg
-    logo: https://mp.innenu.com/img/association/ea.jpg
+    cover: $img/association/ea-cover.jpg
+    logo: $img/association/ea.jpg
     title: 英协纳新啦
     url: page?id=guide/association/culture/ea-intake
 

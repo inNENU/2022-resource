@@ -17,24 +17,75 @@ export interface AccountConfig {
   account: AccountInfo[];
 }
 
-export const checkAccount = (data: AccountConfig[]): AccountConfig[] => {
+export const checkAccount = (
+  data: AccountConfig[],
+  location: string
+): AccountConfig[] => {
   data.forEach((item) => {
     item.account.forEach((config) => {
-      if (
-        config.logo?.match(/https?:\/\/mp\.innenu\.com/) &&
-        !existsSync(config.logo.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-      ) {
-        console.warn(`Image ${config.logo} not exist`);
+      // `$img` alias resolve and file check
+      if (config.logo?.startsWith("$img/")) {
+        const localePath = config.logo.replace(/^\$img\//, "./img/");
+
+        if (existsSync(localePath))
+          config.logo = config.logo.replace(
+            /^\$img\//,
+            "https://mp.innenu.com/img/"
+          );
+        else console.warn(`Image ${localePath} not exist in ${location}`);
       }
 
-      if (
-        config.qrcode?.match(/https?:\/\/mp\.innenu\.com/) &&
-        !existsSync(config.qrcode.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-      ) {
-        console.warn(`Image ${config.qrcode} not exist`);
+      // `$img` alias resolve and file check
+      if (config.qrcode?.startsWith("$img/")) {
+        const localePath = config.qrcode.replace(/^\$img\//, "./img/");
+
+        if (existsSync(localePath))
+          config.qrcode = config.qrcode.replace(
+            /^\$img\//,
+            "https://mp.innenu.com/img/"
+          );
+        else console.warn(`Image ${localePath} not exist in ${location}`);
       }
     });
   });
+
+  return data;
+};
+
+export interface AccountDetail {
+  name: string;
+  detail?: string;
+  desc?: string;
+  id: string;
+  logo: string;
+  qrcode: string;
+  article: { cover: string; title: string; url: string; desc?: string }[];
+}
+
+export const checkAccountDetail = (
+  data: AccountDetail,
+  location: string
+): AccountDetail => {
+  // `$img` alias resolve and file check
+  if (data.logo?.startsWith("$img/")) {
+    const localePath = data.logo.replace(/^\$img\//, "./img/");
+
+    if (existsSync(localePath))
+      data.logo = data.logo.replace(/^\$img\//, "https://mp.innenu.com/img/");
+    else console.warn(`Image ${localePath} not exist in ${location}`);
+  }
+
+  // `$img` alias resolve and file check
+  if (data.qrcode?.startsWith("$img/")) {
+    const localePath = data.qrcode.replace(/^\$img\//, "./img/");
+
+    if (existsSync(localePath))
+      data.qrcode = data.qrcode.replace(
+        /^\$img\//,
+        "https://mp.innenu.com/img/"
+      );
+    else console.warn(`Image ${localePath} not exist in ${location}`);
+  }
 
   return data;
 };

@@ -1,6 +1,6 @@
 title: 长春站-到本部-打车
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -55,7 +55,7 @@ content:
       - 从北出站口 B2 出来之后请左转，约十步即可在右侧看到出租车乘降中心的牌子。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-north-taxi.jpg
+    src: $img/arrival/train-north-taxi.jpg
     desc: 长春站北侧乘降中心指示牌
 
   - tag: text
@@ -65,11 +65,11 @@ content:
       - 继续直行，您即可在右手边看到出租车乘降中心。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-south-taxi-door.jpg
+    src: $img/arrival/train-south-taxi-door.jpg
     desc: 长春站南侧乘降中心入口
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/train-south-taxi.jpg
+    src: $img/arrival/train-south-taxi.jpg
     desc: 长春站南侧乘降中心
 
   - tag: text

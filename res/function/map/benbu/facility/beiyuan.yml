@@ -2,10 +2,10 @@ title: 北苑餐厅
 author: Mr.Hope
 time: 2020年9月1日
 photo:
-  - https://mp.innenu.com/img/dining/dining6.jpg
-  - https://mp.innenu.com/img/dining/dining7.jpg
-  - https://mp.innenu.com/img/dining/dining8.jpg
-  - https://mp.innenu.com/img/dining/dining9.jpg
+  - $img/dining/dining6.jpg
+  - $img/dining/dining7.jpg
+  - $img/dining/dining8.jpg
+  - $img/dining/dining9.jpg
 content:
   - tag: title
     text: 简介

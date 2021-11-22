@@ -1,8 +1,8 @@
 name: 东北师范大学职业与继续教育学院
 desc: 发布学院信息
 id: nenuyc
-logo: https://mp.innenu.com/img/media/vocation.png
-qrcode: https://mp.innenu.com/img/media/vocation-wechat.jpg
+logo: $img/media/vocation.png
+qrcode: $img/media/vocation-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/HIgMKoC4BOUcH4axtQc53JcJVnVwhyicmMzfqjyOhHP3364DgMNXeibUc5qBP7XHHvUjUlibYrjMoDXDFIxeMxqZg/0?wx_fmt=jpeg
     title: 2021年秋季东北师范大学现代远程教育校外授权学习中心

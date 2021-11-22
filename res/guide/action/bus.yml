@@ -1,6 +1,6 @@
 title: 班车授权
 author: Mr.Hope
-time: 2021年9月12日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -31,11 +31,11 @@ content:
 
   - tag: doc
     name: 个人班车申请
-    url: https://mp.innenu.com/file/hq/personBus.docx
+    url: $file/hq/personBus.docx
 
   - tag: doc
     name: 集体班车申请
-    url: https://mp.innenu.com/file/hq/groupBus.docx
+    url: $file/hq/groupBus.docx
 
   - tag: title
     text: 其他人员授权

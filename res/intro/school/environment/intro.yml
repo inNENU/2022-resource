@@ -6,10 +6,10 @@ shareable: true
 content:
   - tag: account
     name: 环境学院
-    logo: https://mp.innenu.com/img/media/environment.png
+    logo: $img/media/environment.png
     detail: NENU环境学院
     wxid: dongshihuanjing
-    wxcode: https://mp.innenu.com/img/media/environment-wechat.jpg
+    wxcode: $img/media/environment-wechat.jpg
     account: environment
     location:
       latitude: 43.825102

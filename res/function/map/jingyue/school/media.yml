@@ -4,10 +4,10 @@ time: 2020年9月1日
 content:
   - tag: account
     name: 传媒科学学院
-    logo: https://mp.innenu.com/img/media/media.png
+    logo: $img/media/media.png
     detail: 东师传媒
     wxid: nenu_media
-    wxcode: https://mp.innenu.com/img/media/media-wechat.jpg
+    wxcode: $img/media/media-wechat.jpg
     account: media
     location:
       latitude: 43.82637

@@ -7,16 +7,17 @@ export const resolveCarousel = (
   element: CarouselComponentOptions,
   location = ""
 ): void => {
-  element.images?.forEach((link) => {
-    // `$img` alias resolve
-    if (link.startsWith("$img/"))
-      link.replace(/^\$img\//, "https://mp.innenu.com/img/");
+  element.images?.forEach((link, index) => {
+    // `$img` alias resolve and file check
+    if (link?.startsWith("$img/")) {
+      const localePath = link.replace(/^\$img\//, "./img/");
 
-    if (
-      link.match(/https?:\/\/mp\.innenu\.com/) &&
-      !existsSync(link.replace(/https?:\/\/mp\.innenu\.com\//, "./"))
-    ) {
-      console.warn(`Image ${link} not exist in ${location}`);
+      if (existsSync(localePath))
+        element.images[index] = link.replace(
+          /^\$img\//,
+          "https://mp.innenu.com/img/"
+        );
+      else console.warn(`Image ${localePath} not exist in ${location}`);
     }
   });
 

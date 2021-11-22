@@ -1,6 +1,6 @@
 title: 本部眼镜店
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -16,11 +16,11 @@ content:
       - 您需要走进浴池正门，即可在右面看到镜舍的店门。
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/jingshe-location.jpg
+    src: $img/life/benbu/jingshe-location.jpg
     desc: 镜舍位置
 
   - tag: img
-    src: https://mp.innenu.com/img/life/benbu/jingshe.jpg
+    src: $img/life/benbu/jingshe.jpg
 
   - tag: list
     content:

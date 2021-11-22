@@ -1,6 +1,6 @@
 title: 手机使用缴费系统缴费
 author: Mr.Hope
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -23,7 +23,7 @@ content:
     text: 登陆方式
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-mobile-login.jpg
+    src: $img/check/pay-mobile-login.jpg
 
   - tag: ul
     heading: 校内用户登录
@@ -48,7 +48,7 @@ content:
     text: 缴费方式
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-mobile-interface.jpg
+    src: $img/check/pay-mobile-interface.jpg
 
   - tag: ul
     text: 选择需要缴费的项目并进行缴费。
@@ -62,7 +62,7 @@ content:
     text: 之后选择合适的支付方式进行支付
 
   - tag: img
-    src: https://mp.innenu.com/img/check/pay-mobile-select.jpg
+    src: $img/check/pay-mobile-select.jpg
 
   - tag: phone
     header: 咨询电话

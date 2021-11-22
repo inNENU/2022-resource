@@ -2,8 +2,8 @@ name: 东师化院
 detail: 东北师范大学化学学院
 desc: 这里是东北师范大学化学学院。给你呈现不一样的化院姿态，带你领略最新潮的学院风尚，陪你度过最温暖的大学时光。
 id: dongshihuayuan
-logo: https://mp.innenu.com/img/media/chemistry.jpg
-qrcode: https://mp.innenu.com/img/media/chemistry-wechat.jpg
+logo: $img/media/chemistry.jpg
+qrcode: $img/media/chemistry-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/act0VYG1jlqfPo6CVw4pl2w87NeE0cF0nicJzNqEIQgx7wXD1MHVDhMqS74OhvUQtSbia3on0yz3jfiafN7TNk9uw/0?wx_fmt=jpeg
     title: 化·比赛||2021年寝室微故事及微摄影大赛开始投票啦！

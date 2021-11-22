@@ -1,6 +1,6 @@
 title: 校园卡支付宝充值
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -10,19 +10,19 @@ content:
     text: 详细流程
 
   - tag: img
-    src: https://mp.innenu.com/img/card/Alipay1.jpg
+    src: $img/card/Alipay1.jpg
     desc: 进入支付宝，在首页搜索框搜索“校园一卡通”，并点击进入。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/Alipay2.jpg
+    src: $img/card/Alipay2.jpg
     desc: 点击进入，并点击“立即充值”
 
   - tag: img
-    src: https://mp.innenu.com/img/card/Alipay3.jpg
+    src: $img/card/Alipay3.jpg
     desc: 选择“长春 —— 东北师范大学”
 
   - tag: img
-    src: https://mp.innenu.com/img/card/Alipay4.jpg
+    src: $img/card/Alipay4.jpg
     desc: 输入您的姓名、学号，确认转账金额点击转账并支付。
 
   - tag: text

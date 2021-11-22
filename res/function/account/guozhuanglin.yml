@@ -2,8 +2,8 @@ name: 东师锅庄林
 detail: 东北师范大学锅庄舞协会
 desc: 该公众号是东北师范大学锅庄舞协会宣传部为首，以丰富大学生校园生活为初衷，并以弘扬优秀传统文化为本职，让大家近距离感受藏文化的魅力，同时推送雪域儿女丰富多彩的课外活动以及学习交流的平台。
 id: gh_91b2388d1139
-logo: https://mp.innenu.com/img/association/guozhuangwu.png
-qrcode: https://mp.innenu.com/img/media/guozhuangwu-wechat.jpg
+logo: $img/association/guozhuangwu.png
+qrcode: $img/media/guozhuangwu-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/lQhACzFH1tic7ZW2hZXf9KibYC9xHUjyuAe0wrfomWPtiaS9ZlibVicag2dBve0ZCXu00aKHJ93Jk2E5NaQHahicXZ5g/0?wx_fmt=jpeg
     title: 介绍 | 锅庄舞协会第十四届干部

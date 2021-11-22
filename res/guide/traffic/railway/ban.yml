@@ -1,6 +1,6 @@
 title: 长春市轨道交通禁止、限制携带物品和禁止行为
 author: Mr.Hope
-time: 2021年8月30日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -15,7 +15,7 @@ content:
       font-weight: bold
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-ban.png
+    src: $img/traffic/railway-ban.png
 
   - tag: p
     text:

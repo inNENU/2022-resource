@@ -2,8 +2,8 @@ name: NENU外国语
 detail: 东北师范大学外国语学院
 desc: 东北师范大学外国语学院公众平台
 id: nenuwgy
-logo: https://mp.innenu.com/img/media/foreign.jpg
-qrcode: https://mp.innenu.com/img/media/foreign-qrcode.jpg
+logo: $img/media/foreign.jpg
+qrcode: $img/media/foreign-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/lIvicT8Mo1vIXAUcvt0aIzyJ96M5jxIo9alx8vQ5HohNg6Yvia84iateSpByAScWf2FQKWRicsXN0yiaZRfMZcciatQg/0?wx_fmt=jpeg
     title: 外院红烛｜暖心咖啡活动来啦！

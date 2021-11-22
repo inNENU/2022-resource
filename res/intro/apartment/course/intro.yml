@@ -2,7 +2,7 @@ title: 教务处介绍
 desc: |-
   来源: 教务处官网
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: p
@@ -11,7 +11,7 @@ content:
       - 教务处以培养一流人才为目标，服务学生为主线，设立了8个办公室。招生办公室聚焦优质生源拓展，教学建设与改革办公室致力于教学模式创新，创新实验区建设办公室、净月教务管理办公室打造一流实践教学模式，学籍管理办公室、教学运行与管理办公室创设“适学适教”环境，教学质量管理办公室构建持续改进的质量文化，综合办公室架起信息化的高效工作之路。
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/course-apartment.jpg
+    src: $img/apartment/course-apartment.jpg
     desc: 教务处各部门
 
   - tag: p
@@ -19,7 +19,7 @@ content:
       - 教务处以“教学为本，育人至上”的工作理念为核心，落实教学管理文化、教学调研文化、教学研讨文化、教学质量文化“四位一体”的教务文化建设，营造培养至上的育人环境，打造 “学习型、研究型、创新型”的教务团队，营造“有思想、有温度”的教务团队管理氛围。
 
   - tag: img
-    src: https://mp.innenu.com/img/apartment/course-intro.jpg
+    src: $img/apartment/course-intro.jpg
     desc: 教务处各部门
 
   - tag: list

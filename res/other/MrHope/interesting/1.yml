@@ -1,10 +1,10 @@
 title: 今日趣事图片1
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
     text: "附: 这位有趣的人加我的好友的验证信息是 “聊天记录我都保存了，举报你奥”"
 
   - tag: img
-    src: https://mp.innenu.com/img/other/interesting2.jpg
+    src: $img/other/interesting2.jpg

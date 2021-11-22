@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: account
     name: 大学生体育俱乐部
-    logo: https://mp.innenu.com/img/organization/daTi.png
+    logo: $img/organization/daTi.png
     desc: 东北师范大学大学生体育俱乐部
 
   - tag: title

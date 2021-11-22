@@ -1,13 +1,13 @@
 title: in东师咨询群
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: in东师咨询群
 
   - tag: img
-    src: https://mp.innenu.com/img/about/innenu.jpg
+    src: $img/about/innenu.jpg
     desc: 群内 Mr.Hope 和 Mrs.Hope 会对小程序未涉及到的内容解答
 
   - tag: title

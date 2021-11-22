@@ -2,8 +2,8 @@ name: 东北师大萤火支教团
 detail: 东北师范大学萤火支教团
 desc: 用生命感动生命
 id: yinghuozhijiao
-logo: https://mp.innenu.com/img/association/yinghuo.png
-qrcode: https://mp.innenu.com/img/media/yinghuo-wx-qrcode.jpg
+logo: $img/association/yinghuo.png
+qrcode: $img/media/yinghuo-wx-qrcode.jpg
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/icxv22eW8RQe3sFZr8jSON4AOHF3ftu83gibWDBCKEdNTzgdpAnODnOLYZm9SagPNB2TT7R5OrQ9OcgWtwh3jCjw/0?wx_fmt=jpeg
     title: 萤火支教团2021年暑期沂南县支教总结

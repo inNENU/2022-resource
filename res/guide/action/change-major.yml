@@ -1,13 +1,13 @@
 title: 本科生转专业流程
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
     text: 执行流程
 
   - tag: img
-    src: https://mp.innenu.com/img/action/change-major.jpg
+    src: $img/action/change-major.jpg
 
   - tag: title
     text: 相关内容

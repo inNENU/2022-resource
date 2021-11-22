@@ -1,16 +1,16 @@
 title: 红烛志愿者协会
 desc: |-
   来源: 校团委官网
-time: 2021年11月19日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: account
     name: 红烛
-    logo: https://mp.innenu.com/img/organization/hongZhu.png
+    logo: $img/organization/hongZhu.png
     desc: 东北师范大学红烛志愿者协会
     qq: 2256715009
     wxid: zhiyuandongshi
-    wxcode: https://mp.innenu.com/img/media/zhiyuandongshi-qrcode.jpg
+    wxcode: $img/media/zhiyuandongshi-qrcode.jpg
     account: zhiyuandongshi
     mail: dongshihongzhu@163.com
 

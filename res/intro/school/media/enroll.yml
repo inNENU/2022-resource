@@ -1,6 +1,6 @@
 title: 传媒科学学院招生
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -35,7 +35,7 @@ content:
     text: 硕士研究生招生概况
 
   - tag: img
-    src: https://mp.innenu.com/img/enroll/media-master.png
+    src: $img/enroll/media-master.png
     desc: 2021年招生信息
 
   - tag: phone

@@ -1,6 +1,6 @@
 title: 自习室
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -13,19 +13,19 @@ content:
       - 请不要将个人物品堆放到自习室内，宿舍保洁阿姨会定期清理，如果清理时没人认领，自动当作废弃物处理。
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/self-study1.jpg
+    src: $img/dorm/self-study1.jpg
     desc: 三舍 A 自习室
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/self-study2.jpg
+    src: $img/dorm/self-study2.jpg
     desc: 三舍 B 自习室
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/self-study3.jpg
+    src: $img/dorm/self-study3.jpg
     desc: 三舍 C 自习室
 
   - tag: img
-    src: https://mp.innenu.com/img/dorm/self-study4.jpg
+    src: $img/dorm/self-study4.jpg
     desc: 天华公寓自习室
 
   - tag: title

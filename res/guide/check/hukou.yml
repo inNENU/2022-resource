@@ -1,6 +1,6 @@
 title: 户口迁移
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -55,9 +55,9 @@ content:
     text: 迁移流程
 
   - tag: img
-    src: https://mp.innenu.com/img/check/hukou-in.jpg
+    src: $img/check/hukou-in.jpg
     desc: 图片来源于网络
 
   - tag: img
-    src: https://mp.innenu.com/img/check/hukou-out.jpg
+    src: $img/check/hukou-out.jpg
     desc: 图片来源于网络

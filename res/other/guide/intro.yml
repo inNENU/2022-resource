@@ -58,7 +58,7 @@ content:
       - 学校从未对小程序提供过任何形式 (包括资料和经费) 的帮助，Mr.Hope 已在小程序服务器等费用上个人支出数千元，同样付出了近两千个小时，如果您看到这里并在过后对小程序的使用后觉得小程序很赞，欢迎打赏 Mr.Hope。1 - 5 元就够了。
 
   - tag: img
-    src: https://mp.innenu.com/img/about/warning.png
+    src: $img/about/warning.png
     desc: 由于腾讯不允许个人小程序直接放置收款二维码，如果您想要捐赠，请联系 Mr.Hope
 
   - tag: functional-list

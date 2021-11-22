@@ -1,6 +1,6 @@
 title: 长春站-到净月-3号线
 author: Mr.Hope
-time: 2021年9月6日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -27,7 +27,7 @@ content:
     text: 请注意轨道交通的运营时间，其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3-time.jpg
+    src: $img/traffic/railway-3-time.jpg
     desc: 轻轨 3 号线时刻表
 
   - tag: title
@@ -101,7 +101,7 @@ content:
       - 如果您不方便使用微信，您可以使用人工窗口购票，请自备零钱。
 
   - tag: img
-    src: https://mp.innenu.com/img/arrival/subway-ticket.jpg
+    src: $img/arrival/subway-ticket.jpg
     desc: 轨道交通票
 
   - tag: title
@@ -117,7 +117,7 @@ content:
     text: 请不要忘记在“博硕路”站下车!
 
   - tag: img
-    src: https://mp.innenu.com/img/traffic/railway-3.png
+    src: $img/traffic/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: title

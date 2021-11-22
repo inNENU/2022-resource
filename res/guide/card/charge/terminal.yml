@@ -2,7 +2,7 @@ title: 校园卡自助终端机充值
 desc: |-
   部分图像来自20安徽历史杨
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: text
@@ -15,7 +15,7 @@ content:
       - 其他银行卡需开通网上银行服务
 
   - tag: img
-    src: https://mp.innenu.com/img/card/bank.png
+    src: $img/card/bank.png
     desc: 银行服务列表图
 
   - tag: title
@@ -25,7 +25,7 @@ content:
     text: 点击左侧第二项银行服务，再点击第三项项申请绑定，填写您的身份证号和校园卡密码后按确定即可完成绑定。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/bind.png
+    src: $img/card/bind.png
     desc: 绑定界面
 
   - tag: title
@@ -35,11 +35,11 @@ content:
     text: 请您点击左侧第二项银行服务，再点击第二行银校转账。在弹出的窗口中，请您填写身份证号、银行卡号、卡密码后点击确定申请转账，输入转账金额、校园卡密码点击转账。
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card10.png
+    src: $img/card/card10.png
     desc: 申请转账界面
 
   - tag: img
-    src: https://mp.innenu.com/img/card/card11.png
+    src: $img/card/card11.png
     desc: 转账界面
 
   - tag: title

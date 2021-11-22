@@ -1,6 +1,6 @@
 title: “吉祥码”注册
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -8,7 +8,7 @@ content:
 
   - tag: card
     title: 吉事办
-    cover: https://mp.innenu.com/img/epidemic/jixiang-code.jpg
+    cover: $img/epidemic/jixiang-code.jpg
     options:
       appId: wx5f0c843a23b032cc
       path: pages/index/index
@@ -26,7 +26,7 @@ content:
       - qq
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/jixiang-code-scan.png
+    src: $img/epidemic/jixiang-code-scan.png
     env:
       - qq
 
@@ -40,7 +40,7 @@ content:
       - 输入姓名和身份证号并开始人脸验证
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/jixiang-code-register.jpg
+    src: $img/epidemic/jixiang-code-register.jpg
     desc: 注册流程
 
   - tag: title
@@ -53,7 +53,7 @@ content:
       - 进行人脸识别验证即可登陆成功。
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/jixiang-code-login.jpg
+    src: $img/epidemic/jixiang-code-login.jpg
     desc: 登陆流程
 
   - tag: title
@@ -74,7 +74,7 @@ content:
   - tag: card
     title: 打开吉祥码
     desc: 如未登录需进行人脸识别登陆
-    logo: https://mp.innenu.com/img/epidemic/jixaing-code-icon.png
+    logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
     options:
       appId: wx5f0c843a23b032cc
@@ -86,7 +86,7 @@ content:
   - tag: card
     title: 个人健康信息上报
     desc: 如未登录需进行人脸识别登陆
-    logo: https://mp.innenu.com/img/epidemic/jixaing-code-icon.png
+    logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
     options:
       appId: wx5f0c843a23b032cc
@@ -101,7 +101,7 @@ content:
       - qq
 
   - tag: img
-    src: https://mp.innenu.com/img/epidemic/jixiang-code-upload.jpg
+    src: $img/epidemic/jixiang-code-upload.jpg
     desc: 个人信息上报
     env:
       - qq

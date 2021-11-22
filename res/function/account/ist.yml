@@ -2,8 +2,8 @@ name: 东师信科
 detail: 东北师范大学信息科学与技术学院
 desc: 欢迎关注东北师范大学信息科学与技术学院
 id: dsxk2017
-logo: https://mp.innenu.com/img/media/ist.png
-qrcode: https://mp.innenu.com/img/media/ist-qrcode.jpg
+logo: $img/media/ist.png
+qrcode: $img/media/ist-qrcode.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/UYFyeYjCWKMbJUbhGh0J3fNWc5lNQ4nlytnEhcdM4EDFh5xYibkIWVbG1gJMpWXeWFo1wtCr9VWzNT0nrZBuv3A/0?wx_fmt=jpeg
     title: 信息科学与技术学院学生会改革情况

@@ -1,8 +1,8 @@
 name: 东北师范大学招生办公室
 desc: 关注我们，及时获取招生动态，了解招生政策
 id: nenuzsb
-logo: https://mp.innenu.com/img/media/official.png
-qrcode: https://mp.innenu.com/img/media/enroll-wechat.jpg
+logo: $img/media/official.png
+qrcode: $img/media/enroll-wechat.jpg
 article:
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/dz10wiatQOQHTcHiacRHu9L2znziaa8Fqlw9QmjmxwFzVpb6nbEomnLfqmW83Fyu743afse8GebIGMia4ibkt4cRsaw/0?wx_fmt=jpeg
     title: 我在东师挺好的

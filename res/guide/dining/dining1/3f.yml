@@ -2,7 +2,7 @@ title: 一食堂三楼
 desc: |-
   特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -22,10 +22,10 @@ content:
         晚饭可点餐，并承接大小型聚餐和活动
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining45.png
+    src: $img/dining/dining45.png
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining46.png
+    src: $img/dining/dining46.png
     desc: 大厅
 
   - tag: text
@@ -35,5 +35,5 @@ content:
       - "供应时间: 7:00 - 20:00"
 
   - tag: img
-    src: https://mp.innenu.com/img/dining/dining47.png
+    src: $img/dining/dining47.png
     desc: 清真餐厅

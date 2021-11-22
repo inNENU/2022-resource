@@ -1,6 +1,6 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: title
@@ -26,7 +26,7 @@ content:
       - 邮箱地址统一为 “别名” + “@nenu.edu.cn”
 
   - tag: img
-    src: https://mp.innenu.com/img/account/email-address.jpg
+    src: $img/account/email-address.jpg
     desc: 本例中邮箱为 "mr-hope@nenu.edu.cn"
 
   - tag: text
@@ -35,7 +35,7 @@ content:
     text: Nenu + 身份证后六位，X 用 1 代替
 
   - tag: img
-    src: https://mp.innenu.com/img/account/authserver.jpg
+    src: $img/account/authserver.jpg
 
   - tag: title
     text: 修改密码及密保绑定
@@ -50,7 +50,7 @@ content:
     text: 点击“修改密码”，修改初始密码。
 
   - tag: img
-    src: https://mp.innenu.com/img/account/reset-password.jpg
+    src: $img/account/reset-password.jpg
 
   - tag: ul
     type: tip
