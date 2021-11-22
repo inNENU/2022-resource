@@ -168,6 +168,12 @@ content:
         icon: enroll
         path: intro/apartment/enroll/
 
+      - text: 研究生院
+        color: grey
+        name: Graduate
+        icon: degree
+        path: intro/apartment/grad/
+
       - text: 党委学生工作部
         color: blue
         name: Student

@@ -1,7 +1,7 @@
 title: 招生情况
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月22日
 shareable: true
 content:
   - tag: list
@@ -26,6 +26,21 @@ content:
       - text: 更多
         icon: more
         path: under/
+
+  - tag: list
+    header: 研究生招生
+    content:
+      - text: 2022 年招生专业、人数与联系方式
+        icon: intro
+        path: grad/major/2022
+
+      - text: 2022 年硕士研究生招生简章
+        icon: intro
+        path: grad/rule/2022
+
+      - text: 更多
+        icon: more
+        path: grad/
 
   - tag: list
     header: 第二学士学位

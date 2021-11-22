@@ -36,7 +36,7 @@ convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
-    ? resolveLocationPage(data, filePath)
+    ? resolveLocationPage(data as PageConfig & { photo?: string[] }, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
     : /account\/(qq|wx)/u.exec(filePath)

@@ -5,7 +5,7 @@ import type { PageConfig } from "../components/typings";
 export const resolveLocationPage = (
   data: PageConfig & { photo?: string[] },
   filePath: string
-) => {
+): PageConfig & { photo?: string[] } => {
   data.photo?.forEach((link, index) => {
     // `$img` alias resolve and file check
     if (link?.startsWith("$img/")) {
