@@ -1,0 +1,19 @@
+title: 提示技巧
+author: Mr.Hope
+time: 2021年11月22日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 生活常识
+    content:
+      - text: 洗衣相关
+        icon: washing
+        path: washing/
+
+      - text: 数码相关
+        icon: digital
+        desc: 制作中...
+
+      - text: "..."
+        icon: more
