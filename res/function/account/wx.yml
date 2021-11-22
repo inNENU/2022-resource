@@ -5,20 +5,25 @@
       logo: $img/media/official.png
       path: official
 
-    - name: 东北师范大学团委
-      desc: 共青团东北师范大学委员会官方公众号
-      logo: $img/media/tuanwei.png
-      path: tuanwei
+    - name: 东北师范大学招生办公室
+      desc: 关注我们，及时获取招生动态，了解招生政策
+      logo: $img/media/official.png
+      path: enroll
+
+    - name: 东北师范大学研究生院
+      desc: 招生报名、信息推送等服务
+      logo: $img/media/official.png
+      path: graduate
 
     - name: 东北师范大学图书馆
       desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态!
       logo: $img/media/library.png
       path: library
 
-    - name: 东北师范大学招生办公室
-      desc: 关注我们，及时获取招生动态，了解招生政策
-      logo: $img/media/official.png
-      path: enroll
+    - name: 东北师范大学团委
+      desc: 共青团东北师范大学委员会官方公众号
+      logo: $img/media/tuanwei.png
+      path: tuanwei
 
     - name: 东北师大信息化办
       desc: 精致服务，精细管理

@@ -15,6 +15,17 @@ content:
         icon: intro
         path: rule/2022
 
+  - tag: doc
+    name: 2022 年直博专业目录
+    url: $file/enroll/direct-doctor-list-2022.pdf
+
+  - tag: list
+    header: 相关信息
+    content:
+      - text: 东师研招公众号
+        icon: wechat
+        url: account-detail?path=graduate
+
   - tag: list
     header: 更多
     content:
@@ -22,7 +33,7 @@ content:
         icon: time
         path: history
 
-  - tag: list
+  - tag: functional-list
     header: 招生咨询
     content:
       - text: 研究生院联系方式

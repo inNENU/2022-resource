@@ -24,3 +24,14 @@ content:
 
   - tag: img
     src: $img/apartment/grad-detail.png
+
+  - tag: title
+    text: 工作理念
+
+  - tag: text
+    align: center
+    text:
+      - 信念坚定，品德高尚
+      - 敬业守责，真诚友善
+      - 协作创新，规范高效
+      - 师生满意，品质一流

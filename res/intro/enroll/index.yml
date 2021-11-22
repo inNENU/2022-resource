@@ -38,6 +38,10 @@ content:
         icon: intro
         path: grad/rule/2022
 
+      - text: 东师研招公众号
+        icon: wechat
+        url: account-detail?path=graduate
+
       - text: 更多
         icon: more
         path: grad/
