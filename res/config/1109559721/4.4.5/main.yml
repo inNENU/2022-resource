@@ -93,12 +93,6 @@ content:
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
-    cover: $img/tab/map.jpg
-    title: 校园地图与导航
-    logo: map
-    url: map
-
-  - tag: card
     cover: $img/tab/faq.png
     title: 常见问题
     logo: faq
