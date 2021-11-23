@@ -1,6 +1,6 @@
 title: 课程免修
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -31,9 +31,9 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      # 制作中
+      - text: 免修申请
         icon: exemption
-        desc: 制作中
         path: /guide/system/under/
 
   - tag: title

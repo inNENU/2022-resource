@@ -240,4 +240,10 @@ content:
         icon: job
         path: intro/apartment/career
 
+      - text: 档案馆
+        color: purple
+        name: Archive
+        icon: archive
+        path: intro/apartment/archive/
+
     footer: " "

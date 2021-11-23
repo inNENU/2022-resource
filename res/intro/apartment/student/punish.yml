@@ -1,6 +1,6 @@
 title: 关于处分
 author: Mr.Hope
-time: 2021年9月11日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -70,4 +70,4 @@ content:
     header: false
     content:
       - text: 本科生处分
-        path: /guide/action/sanction
+        path: /guide/action/under/sanction

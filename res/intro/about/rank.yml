@@ -1,6 +1,6 @@
 title: 东师排名
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -10,7 +10,6 @@ content:
     text: 2021 年 3 月东北师范大学软科中国大学排名 49，师范院校排名第五。
 
   - tag: copy
-    header: 查看详情
     text: https://www.shanghairanking.cn/institution/northeast-normal-university
 
   - tag: text
@@ -22,7 +21,6 @@ content:
     text: QS国际排名
 
   - tag: copy
-    header: 查看详情
     text: https://www.qschina.cn/universities/northeast-normal-university
 
   - tag: title
@@ -32,5 +30,4 @@ content:
     text: 东北师范大学被评为教育部评为“一流学科建设高校”。
 
   - tag: copy
-    header: 查看详情
     text: http://www.moe.gov.cn/s78/A22/A22_ztzl/ztzl_tjsylpt/sylpt_jsgx/201712/t20171206_320667.html

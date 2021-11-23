@@ -1,6 +1,6 @@
 title: 放假相关问答
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: text
@@ -11,6 +11,6 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 校历
         icon: calendar
         url: calendar

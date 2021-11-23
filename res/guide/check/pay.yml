@@ -1,6 +1,6 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: text
@@ -40,7 +40,7 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 缴费介绍
         icon: money
         path: /guide/pay/
 

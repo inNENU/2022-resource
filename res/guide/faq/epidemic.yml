@@ -1,6 +1,6 @@
 title: 疫情相关问答
 author: Mr.Hope
-time: 2021年8月25日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -21,7 +21,7 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 报道要求
         icon: info
         path: /guide/epidemic/requirement
 

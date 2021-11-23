@@ -1,6 +1,6 @@
 title: 教学服务系统限制
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -48,7 +48,7 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: IETab
         path: ietab
 
   - tag: text

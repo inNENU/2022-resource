@@ -1,6 +1,6 @@
-# https://jwc.nenu.edu.cn/global_template/content_page.jsp?urltype=news.NewsContentUrl&wbtreeid=1085&wbnewsid=6937
 title: 关于2021年全日制本科生转专业工作的通知
 shareable: true
+cite: https://jwc.nenu.edu.cn/global_template/content_page.jsp?urltype=news.NewsContentUrl&wbtreeid=1085&wbnewsid=6937
 content:
   - tag: text
     text: |-
@@ -26,6 +26,9 @@ content:
       - (十) 10月20日前(另行通知)，转专业学生按《关于开展转专业课程认定工作的通知》要求完成相关课程的成绩认定。
       - (十一) 10月30日前，转专业学生申请更换学生证，登录“教学服务系统”办理。
 
+  - tag: title
+    text: 咨询方式
+
   - tag: text
     text: |-
       联系人: 林美宇　洪敬辉
@@ -39,9 +42,12 @@ content:
     header: 邮箱
     text: linmy100@nenu.edu.cn
 
+  - tag: title
+    text: 相关信息
+
   - tag: list
-    header: 教学服务系统
+    header: false
     content:
-      - text: 查看详情
+      - text: 教学服务系统
         icon: system
         path: /guide/system/

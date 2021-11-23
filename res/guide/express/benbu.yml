@@ -1,6 +1,6 @@
 title: 本部校区快递
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: text
@@ -22,32 +22,20 @@ content:
     text: 如果要寄快递的话最好选择它们。
 
   - tag: title
-    text: 菜鸟驿站
+    text: 收件点
 
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 菜鸟驿站
         icon: cainiao
         path: cainiao
 
-  - tag: title
-    text: 快递柜
-
-  - tag: list
-    header: false
-    content:
-      - text: 查看详情
+      - text: 快递柜
         icon: express-cabinet
         path: benbu-cabinet
 
-  - tag: title
-    text: 临时取件点
-
-  - tag: list
-    header: false
-    content:
-      - text: 查看详情
+      - text: 临时取件点
         icon: express
         path: benbu-temp
 

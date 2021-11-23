@@ -50,6 +50,7 @@ export const resolvePage = (
       shareable: ["boolean", "undefined"],
       contact: ["boolean", "undefined"],
       outdated: ["boolean", "undefined"],
+      cite: ["string", "undefined"],
       photo: ["string[]", "undefined"],
       images: ["string[]", "undefined"],
     },

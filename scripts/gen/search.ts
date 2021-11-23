@@ -24,13 +24,6 @@ const createSearchMap = (folder: string): SearchInfo => {
     // 生成对应页面的索引对象
     searchMap[pathName] = {
       name: pageConfig.title,
-
-      // TODO: Remove these lines
-      title: [],
-      heading: [],
-      text: [],
-      card: [],
-      doc: [],
     };
 
     if (pageConfig.desc) searchMap[pathName].desc = pageConfig.desc;

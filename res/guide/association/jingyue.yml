@@ -2,7 +2,7 @@ title: 社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: text
@@ -10,13 +10,10 @@ content:
     text:
       - 全校社团均由校团委学生社团发展管理中心管理，分为思想政治类、学术科技类、创新创业类、文化体育类、志愿公益类、自律互助类。
 
-  - tag: title
-    text: 学生社团发展管理中心
-
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 学生社团发展管理中心
         icon: $img/organization/sheguan.png
         path: /guide/organization/association-union
 

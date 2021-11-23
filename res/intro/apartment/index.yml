@@ -1,7 +1,7 @@
 title: 学校机构介绍
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: grid
@@ -77,3 +77,9 @@ content:
         name: Career
         icon: job
         path: career
+
+      - text: 档案馆
+        color: purple
+        name: Archive
+        icon: archive
+        path: archive/

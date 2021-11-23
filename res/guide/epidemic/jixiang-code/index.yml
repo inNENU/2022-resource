@@ -1,8 +1,9 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 grey: true
 shareable: true
+cite: http://jl.gov.cn/jxm/
 content:
   - tag: card
     title: 吉祥码
@@ -28,6 +29,7 @@ content:
         path: faq
 
   - tag: text
+    heading: 自助扫码
     text:
       - 目前长春各地点已经基本安放了扫码机器。
       - 人员需要自行在机器上完成扫码。

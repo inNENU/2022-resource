@@ -1,15 +1,15 @@
 title: 寝室相关问答
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
-    text: 寝室详情
+    text: 寝室介绍
 
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 寝室
         icon: dorm
         path: /guide/dorm/
 
@@ -77,7 +77,7 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 卫生间
         icon: toilet
         path: /guide/dorm/detail/toilet
 
@@ -89,7 +89,7 @@ content:
   - tag: list
     header: false
     content:
-      - text: 查看详情
+      - text: 浴池
         icon: bath
         path: /guide/bath/
 
