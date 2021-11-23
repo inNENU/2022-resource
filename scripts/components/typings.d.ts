@@ -87,6 +87,10 @@ export interface PageConfig {
   /** 页面图片 */
   images?: string[];
   /**
+   * 页面引用来源
+   */
+  cite?: string;
+  /**
    * 页面内容是否已过时
    *
    * @default false

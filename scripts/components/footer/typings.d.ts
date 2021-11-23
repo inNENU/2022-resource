@@ -8,4 +8,6 @@ export interface FooterComponentOptions extends BaseComponentOptions {
   time?: string;
   /** 额外描述 */
   desc?: string;
+  /** 原文链接 */
+  cite?: string;
 }
