@@ -1,6 +1,6 @@
 title: 洗衣技巧
-author: Mr.Hope
-time: 2021年11月22日
+author: Mr.Hope，孙祎凡
+time: 2021年11月24日
 grey: true
 shareable: true
 content:
@@ -10,7 +10,7 @@ content:
         desc: 制作中
 
       - text: 常见洗涤剂
-        desc: 制作中
+        desc: detergent
 
       - text: 洗涤的选择
         desc: 制作中
@@ -19,4 +19,4 @@ content:
         path: hand
 
       - text: 机洗技巧
-        desc: 制作中
+        desc: machine
