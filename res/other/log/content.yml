@@ -1,6 +1,22 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/23
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 档案馆板块
+      - 社联公众号
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新吉祥码FAQ与介绍
+      - 更新战疫小程序
+      - 部分页面新增原文链接
+
+  - tag: title
     text: 11/22
 
   - tag: ul

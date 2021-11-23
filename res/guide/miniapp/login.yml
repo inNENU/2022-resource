@@ -1,6 +1,6 @@
 title: 东师e起战疫登陆
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: title
@@ -16,18 +16,34 @@ content:
   - tag: text
     heading: 找到小程序
     text:
-      - 请扫描下方的二维码
-      - 或在微信首页下拉，搜索 “东师 e 起战疫”
+      - 请使用微信扫描下方的二维码，或直接在微信首页下拉并搜索 “东师 e 起战疫”
+    env:
+      - qq
 
   - tag: img
     src: $img/epidemic/miniprogram.jpg
+    env:
+      - qq
+
+  - tag: text
+    heading: 登陆账号
 
   - tag: ul
-    heading: 登陆账号
     text: 右下角单击 “我的”
+    env:
+      - qq
 
   - tag: img
     src: $img/epidemic/miniprogram-login1.jpg
+    env:
+      - qq
+
+  - tag: card
+    title: 登陆
+    desc: 东师e起战疫
+    options:
+      appId: wxa9de818af2c7f9ab
+      path: pages/mine/mine
 
   - tag: ul
     text: 单击 “点击登录”

@@ -130,7 +130,7 @@ const getQRCode = (name: string): Promise<void> => {
   });
 
   return Promise.all(promises).then(() => {
-    console.log("QRCode generated");
+    console.log(`${name} QRCode generated`);
   });
 };
 

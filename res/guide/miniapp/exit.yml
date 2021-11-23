@@ -1,20 +1,14 @@
 title: 出校申请
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
-  - tag: title
-    text: 介绍
-
-  - tag: text
-    text:
-      - 出校申请使用学校官方微信小程序 “东师 e 起战疫”。
-
-  - tag: text
-    type: danger
-    text:
-      - 请您务必重视出校申请! 请如实填写自己的去向，认证报备。
-      - 错报瞒报自己的去向经学校查实，会获得处分。
+  - tag: card
+    title: 出校申请
+    desc: 东师e起战疫
+    options:
+      appId: wxa9de818af2c7f9ab
+      path: pages/out/out/out
 
   - tag: title
     text: 使用说明
@@ -24,12 +18,6 @@ content:
     content:
       - text: 登陆小程序
         path: login
-
-  - tag: card
-    title: 出校申请
-    options:
-      appId: wxa9de818af2c7f9ab
-      path: pages/out/out/out
 
   - tag: ol
     text:
@@ -50,3 +38,9 @@ content:
       - |-
         已提交当天早间健康汇报，6:30 - 12:00 申请出校
       - 已提交当日两次健康汇报，12:30 - 次日0:00 申请出校
+
+  - tag: text
+    type: danger
+    text:
+      - 请您务必重视出校申请! 请如实填写自己的去向，认证报备。
+      - 错报瞒报自己的去向经学校查实，会获得处分。

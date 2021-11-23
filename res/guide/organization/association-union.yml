@@ -1,7 +1,7 @@
 title: 学生社团发展管理中心
 desc: |-
   来源: 校团委官网
-time: 2021年11月22日
+time: 2021年11月23日
 shareable: true
 content:
   - tag: account
@@ -9,6 +9,9 @@ content:
     detail: 用无限的激情打造无悔的青春
     logo: $img/organization/sheguan.png
     desc: 东北师范大学学生社团发展管理中心
+    wxid: dsshetuan
+    wxcode: $img/media/sheguan-qrcode.jpg
+    account: association
 
   - tag: p
     heading: " "
