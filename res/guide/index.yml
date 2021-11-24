@@ -138,6 +138,12 @@ content:
         icon: life
         path: guide/life/
 
+      - text: 小贴士
+        color: bule
+        name: Tips
+        icon: idea
+        path: guide/tip/
+
       - text: 交通出行
         color: grey
         name: Traffic

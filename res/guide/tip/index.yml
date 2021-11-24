@@ -21,4 +21,4 @@ content:
   - tag: list
     content:
       - text: 东北习俗
-        path: custom
+        path: custom/

@@ -10,7 +10,7 @@ content:
         desc: 制作中
 
       - text: 常见洗涤剂
-        desc: detergent
+        path: detergent
 
       - text: 洗涤的选择
         desc: 制作中
@@ -19,4 +19,4 @@ content:
         path: hand
 
       - text: 机洗技巧
-        desc: machine
+        path: machine
