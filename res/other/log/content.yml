@@ -1,6 +1,16 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/24
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 衣服标签介绍
+      - 洗涤方式选择
+      - 东北部分习俗文化介绍
+
+  - tag: title
     text: 11/23
 
   - tag: ul

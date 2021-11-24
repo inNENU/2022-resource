@@ -7,13 +7,13 @@ content:
   - tag: list
     content:
       - text: 衣物标签介绍
-        desc: 制作中
+        path: tag
 
       - text: 常见洗涤剂
         path: detergent
 
       - text: 洗涤的选择
-        desc: 制作中
+        path: choose
 
       - text: 手洗技巧
         path: hand
