@@ -8,7 +8,7 @@ content:
     header: 生活常识
     content:
       - text: 洗衣相关
-        icon: washing
+        icon: washer
         path: washing/
 
       # - text: 数码相关
@@ -19,12 +19,15 @@ content:
     header: 过冬贴士
     content:
       - text: 冬季御寒衣物选择
+        icon: life
         path: winter/cloth
 
       - text: 保暖要领
+        icon: idea
         path: winter/warm
 
   - tag: list
     content:
       - text: 东北习俗
+        icon: star
         path: custom/

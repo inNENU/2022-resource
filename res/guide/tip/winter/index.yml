@@ -7,7 +7,9 @@ content:
   - tag: list
     content:
       - text: 冬季御寒衣物选择
+        icon: life
         path: cloth
 
       - text: 保暖要领
+        icon: idea
         path: warm

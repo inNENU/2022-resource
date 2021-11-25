@@ -17,7 +17,7 @@ export interface PhoneComponentOptions extends BaseComponentOptions {
   /** 联系人的工作电话 */
   workNum?: string;
   /** 联系人的昵称 */
-  nickName?: string;
+  nick?: string;
   /** 联系人头像图片路径(仅限本地路径) */
   avatar?: string;
   /** 联系人的微信号 */

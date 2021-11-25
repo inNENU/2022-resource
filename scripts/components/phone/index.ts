@@ -23,7 +23,7 @@ export const resolvePhone = (
       org: ["string", "undefined"],
       remark: ["string", "undefined"],
       workNum: ["string", "undefined"],
-      nickName: ["string", "undefined"],
+      nick: ["string", "undefined"],
       site: ["string", "undefined"],
       wechat: ["string", "undefined"],
       province: ["string", "undefined"],
