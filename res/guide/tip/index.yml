@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年11月24日
+time: 2021年11月25日
 grey: true
 shareable: true
 content:
@@ -11,12 +11,18 @@ content:
         icon: washing
         path: washing/
 
-      - text: 数码相关
-        icon: digital
-        desc: 制作中...
+      # - text: 数码相关
+      #   icon: digital
+      #   desc: 制作中...
 
-      - text: "..."
-        icon: more
+  - tag: list
+    header: 过冬贴士
+    content:
+      - text: 冬季御寒衣物选择
+        path: winter/cloth
+
+      - text: 保暖要领
+        path: winter/warm
 
   - tag: list
     content:
