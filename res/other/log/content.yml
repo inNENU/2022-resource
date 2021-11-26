@@ -1,6 +1,37 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/26
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 冬季衣物购买指南
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 校历更新
+      - 教育学部介绍
+      - IE Tab 插件版本更新
+      - 添加更为详细的 IE Tab 安装指引
+      - 更新学校系统浏览器限制以及解决办法
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 错字与格式修复
+
+  - tag: title
+    text: 11/25
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 过冬衣物介绍
+      - 冬季保暖指南
+
+  - tag: title
     text: 11/24
 
   - tag: ul

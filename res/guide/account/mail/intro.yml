@@ -1,6 +1,6 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月27日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,7 @@ content:
     type: warning
     text:
       - 我校邮箱使用网易企业邮，邮箱拥有自己的账号系统。
-      - 换言之，你需要在邮箱内部的“设置”中进行密码管理，且该密码不与学校统一身份认证同步。
+      - 换言之，您需要在邮箱内部的“设置”中进行密码管理，且该密码不与学校统一身份认证同步。
 
   - tag: title
     text: 登陆地址

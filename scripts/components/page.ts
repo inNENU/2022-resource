@@ -34,6 +34,8 @@ export const resolvePage = (
   pagePath = "",
   diffResult = ""
 ): PageConfig => {
+  if (!page) throw new Error(`${pagePath} doesn't contain anything`);
+
   if (!page.id) page.id = pagePath;
 
   if (typeof page.cite === "string") page.cite = [page.cite];
