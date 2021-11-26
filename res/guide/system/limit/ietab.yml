@@ -1,25 +1,45 @@
 title: IETab
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月26日
 shareable: true
 content:
   - tag: title
     text: 介绍
 
   - tag: text
-    text: IE Tab 是一款强大的插件，允许您在 Chrome 中运行 Internet Explorer。
+    text: IE Tab 是一款强大的插件，允许您在 Chrome 中以 Internet Explorer 兼容模式浏览网页。
 
   - tag: copy
     header: 下载地址
-    text: $file/system/ietab-14.6.29.1.crx
+    text: $file/system/IE-Tab-14.11.12.1.crx
+
+  - tag: title
+    text: 安装
+
+  - tag: text
+    text: 请下载好文件，并通过下图所述方式打开 Chrome 的扩展程序面板。
+
+  - tag: img
+    src: $img/system/chrome-extension.jpg
+
+  - tag: text
+    text: 之后请将扩展程序拖入，并允许安装。
+
+  - tag: img
+    src: $img/system/chrome-extension-install.jpg
 
   - tag: title
     text: 使用说明
 
   - tag: text
     text:
-      - 安装后，您应该会在 Chrome 地址栏的右侧看到 IE Tab 图标。
-      - 现在导航到任何页面并单击 IE Tab 图标，您就可以使用 IE 渲染引擎打开页面。
+      - 安装后，请点击 Chrome 地址栏右侧的扩展程序按钮，您应该可在列表中看到 IE Tab 图标。
+      - 现在导航到任何页面并单击 IE Tab 图标，您就可以使用 IE 引擎打开页面。
+
+  - tag: text
+    type: tip
+    text:
+      - Mr.Hope 建议您点击📌图标，将此扩展固定到Chrome地址栏中。
 
   - tag: title
     text: 功能描述
@@ -54,5 +74,5 @@ content:
   - tag: text
     heading: IE Compatibility Mode
     text:
-      - IE Compatibility Mode 允许您设置插件的模拟兼容性，推荐选择 IE 11。
+      - IE Compatibility Mode 在选项页面的最下方，它允许您设置插件的模拟兼容性，Mr.Hope 推荐您选择 IE 11。
       - 当部分网站需要低版本 IE 时(如教师资格证报名系统要求IE10)，您可以手动切换以模拟对应版本。

@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年11月25日
+time: 2021年11月26日
 grey: true
 shareable: true
 content:
@@ -31,3 +31,13 @@ content:
       - text: 东北习俗
         icon: star
         path: custom/
+
+  - tag: list
+    header: 数码技巧
+    content:
+      - text: 使用 IE Tab 访问学校系统
+        path: /guide/system/limit/ietab
+
+      # - text: 数码相关
+      #   icon: digital
+      #   desc: 制作中...
