@@ -1,0 +1,18 @@
+title: 学科学术
+desc: |-
+  来源: 教育学部官网
+time: 2021年11月26日
+shareable: true
+cite: http://edu.nenu.edu.cn/xkxs/xkbj1/zyxkfx.htm
+content:
+  - tag: list
+    content:
+      - text: 国家重点学科
+        path: national
+
+      - text: 省级重点学科
+        path: province
+
+  - tag: img
+    src: $img/apartment/education-subject.jpg
+    desc: 主要学科方向
