@@ -13,6 +13,7 @@ export const resolveFooter = (
       time: ["string", "undefined"],
       desc: ["string", "undefined"],
       env: ["string[]", "undefined"],
+      cite: ["string[]", "undefined"],
     },
     location
   );

@@ -89,7 +89,7 @@ export interface PageConfig {
   /**
    * 页面引用来源
    */
-  cite?: string;
+  cite?: string[];
   /**
    * 页面内容是否已过时
    *

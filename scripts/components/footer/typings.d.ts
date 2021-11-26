@@ -9,5 +9,5 @@ export interface FooterComponentOptions extends BaseComponentOptions {
   /** 额外描述 */
   desc?: string;
   /** 原文链接 */
-  cite?: string;
+  cite?: string[];
 }

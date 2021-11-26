@@ -36,6 +36,8 @@ export const resolvePage = (
 ): PageConfig => {
   if (!page.id) page.id = pagePath;
 
+  if (typeof page.cite === "string") page.cite = [page.cite];
+
   checkKeys(
     page,
     {
@@ -50,12 +52,17 @@ export const resolvePage = (
       shareable: ["boolean", "undefined"],
       contact: ["boolean", "undefined"],
       outdated: ["boolean", "undefined"],
-      cite: ["string", "undefined"],
+      cite: ["string[]", "undefined"],
       photo: ["string[]", "undefined"],
       images: ["string[]", "undefined"],
     },
     `${pagePath} page`
   );
+
+  // TODO: Remove
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  // @ts-ignore
+  if (page.cite) page.cite = page.cite[0];
 
   if (page.content) {
     // eslint-disable-next-line max-lines-per-function
