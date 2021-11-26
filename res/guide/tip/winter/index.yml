@@ -1,6 +1,6 @@
 title: 过冬提示
 author: Mr.Hope
-time: 2021年11月25日
+time: 2021年11月26日
 grey: true
 shareable: true
 content:
@@ -9,6 +9,10 @@ content:
       - text: 冬季御寒衣物选择
         icon: life
         path: cloth
+
+      - text: 冬季御寒衣物选购指南
+        icon: money
+        path: buy
 
       - text: 保暖要领
         icon: idea
