@@ -23,61 +23,37 @@ content:
         path: win11-support
 
   - tag: title
-    text: Win10 启动盘制作
+    text: 启动盘制作
 
-  - tag: img
-    src: $img/tip/win10-media-1.png
+  - tag: list
+    header: false
+    content:
+      - text: Win 11 启动盘制作
+        path: win11-media
 
-  - tag: img
-    src: $img/tip/win10-media-2.png
-
-  - tag: img
-    src: $img/tip/win10-media-3.png
-
-  - tag: img
-    src: $img/tip/win10-media-4.png
-
-  - tag: img
-    src: $img/tip/win10-media-5.png
-
-  - tag: img
-    src: $img/tip/win10-media-6.png
-
-  - tag: img
-    src: $img/tip/win10-media-7.png
-
-  - tag: img
-    src: $img/tip/win10-media-8.png
-
-  - tag: img
-    src: $img/tip/win10-media-9.png
+      - text: Win 10 启动盘制作
+        path: win10-media
 
   - tag: title
-    text: Win11 启动盘制作
+    text: 系统安装
 
-  - tag: img
-    src: $img/tip/win11-media-1.png
+  - tag: list
+    header: false
+    content:
+      - text: Win 11 安装
+        path: win11-install
 
-  - tag: img
-    src: $img/tip/win11-media-2.png
+      # - text: Win 10 安装
+      #   path: win10-install
 
-  - tag: img
-    src: $img/tip/win11-media-3.png
+  - tag: title
+    text: 用户设置向导
 
-  - tag: img
-    src: $img/tip/win11-media-4.png
+  - tag: text
+    text: 通常情况下，这一步骤您可自行按照指引完成，不过 Mr.Hope 还是截屏了完整步骤以防您需要。
 
-  - tag: img
-    src: $img/tip/win11-media-5.png
-
-  - tag: img
-    src: $img/tip/win11-media-6.png
-
-  - tag: img
-    src: $img/tip/win11-media-7.png
-
-  - tag: img
-    src: $img/tip/win11-media-8.png
-
-  - tag: img
-    src: $img/tip/win11-media-9.png
+  - tag: list
+    header: false
+    content:
+      - text: Win 11 用户向导
+        path: win11-setup

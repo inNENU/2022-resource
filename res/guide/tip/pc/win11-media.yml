@@ -1,0 +1,42 @@
+title: Win11 启动盘制作
+author: Mr.Hope
+time: 2021年11月27日
+shareable: true
+content:
+  - tag: title
+    text: Win11 启动盘制作
+
+  - tag: text
+    text:
+      - 请准备一个不小于 8 GB 的空 U 盘 (或你确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
+
+  - tag: copy
+    header: Win11 媒体制作工具
+    text: https://go.microsoft.com/fwlink/?linkid=2156295
+
+  - tag: img
+    src: $img/tip/win11-media-1.png
+
+  - tag: img
+    src: $img/tip/win11-media-2.png
+
+  - tag: img
+    src: $img/tip/win11-media-3.png
+
+  - tag: img
+    src: $img/tip/win11-media-4.png
+
+  - tag: img
+    src: $img/tip/win11-media-5.png
+
+  - tag: img
+    src: $img/tip/win11-media-6.png
+
+  - tag: img
+    src: $img/tip/win11-media-7.png
+
+  - tag: img
+    src: $img/tip/win11-media-8.png
+
+  - tag: img
+    src: $img/tip/win11-media-9.png

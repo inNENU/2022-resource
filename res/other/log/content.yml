@@ -1,6 +1,19 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 11/27
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 系统重装概要
+      - 如何升级到 Win 11
+      - 使用媒体创建工具创建 Win10 启动盘
+      - 使用媒体创建工具创建 Win11 启动盘
+      - 如何通过 Win 11 系统镜像安装 Win 11
+      - Win 11 用户向导指引
+
+  - tag: title
     text: 11/26
 
   - tag: ul
