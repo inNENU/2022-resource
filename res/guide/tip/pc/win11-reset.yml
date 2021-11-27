@@ -1,17 +1,18 @@
 title: 重置系统
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: text
-    text: Win11 由于支持云下载重置，对系统进行重置很简单。
+    type: info
+    text: Win11 由于支持云下载重置，所以对系统进行完成的重装十分简单。
 
   - tag: title
-    text: Win11
+    text: Win11 重置
 
   - tag: text
     text:
-      - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用“Win + I”快捷键
+      - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用 “Win + I” 快捷键
 
   - tag: img
     src: $img/tip/win11-reset-1.png
@@ -28,6 +29,10 @@ content:
   - tag: img
     src: $img/tip/win11-reset-4.png
     desc: 根据提示选择对应的选项并确认
+
+  - tag: text
+    type: warning
+    text: 只有选择“云下载”，才是下载完整且最新的 Win11 系统镜像并安装它。
 
   - tag: img
     src: $img/tip/win11-reset-5.png

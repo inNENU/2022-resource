@@ -1,6 +1,6 @@
 title: Win11 支持
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
   - tag: ul
     heading: 主要要求
     text:
-      - Intel 8代或 AMD Ryzen 2代或更新的 CPU
+      - Intel 8 代或 AMD Ryzen 2 代或更新的 CPU
       - TPM 2.0
 
   - tag: text
@@ -25,13 +25,24 @@ content:
       - 上述是两个最为主要的要求。如果您的笔记本是在 18 年之后销售或生产的，那么它大概率 (> 95%) 符合 Win 11 的安装要求。
 
   - tag: title
-    text: Win11助手
+    text: 电脑健康状况检查应用
 
   - tag: text
     text:
-      - 微软推出了 Win11 安装助手，来检查本电脑是否支持 Win 11。
+      - 微软推出了“电脑健康状况检查应用”，来检查本电脑是否支持 Win 11。
       - 您可以通过下载并运行它来检查自己的电脑是否支持 Win 11.
 
   - tag: copy
-    header: Win11 安装助手
-    text: https://mp.innenu.com/file/tool/Windows11InstallationAssistant.exe
+    header: 电脑健康状况检查应用
+    text: https://aka.ms/GetPCHealthCheckApp
+
+  - tag: text
+    type: info
+    text:
+      - 如果您的电脑提示未开启(未检测)到 TPM 2.0，您可能需要自行到 BIOS 中开启它。
+      - 通常情况下，请您登陆电脑品牌的官方网站，并点击“支持”页面，搜索 TPM 2.0 的开启教程。请按照教程指引开启即可。
+      - 您可以访问下方链接参考微软提供的官方教程。
+
+  - tag: copy
+    header: 在电脑上启用 TPM 2.0
+    text: https://support.microsoft.com/zh-cn/windows/%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%AF%E7%94%A8-tpm-2-0-1fd5a332-360d-4f46-a1e7-ae6b0c90645c

@@ -1,18 +1,24 @@
 title: Win11 安装流程
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年11月28日
 shareable: true
 content:
+  - tag: text
+    type: info
+    text:
+      - 请从制作好的安装 U 盘启动，启动盘会自动载入 Win 11 安装程序，
+
+  - tag: list
+    header: false
+    content:
+      - text: 制作 Win11 启动盘
+        path: win11-media
+
+      - text: 从 U 盘启动
+        desc: 制作中
+
   - tag: title
     text: Win11 安装流程
-
-  - tag: text
-    text:
-      - 请从制作好的安装 U 盘启动，并载入 Win 11 安装光盘。
-
-  - tag: copy
-    header: Win11 媒体制作工具
-    text: https://go.microsoft.com/fwlink/?linkid=2156295
 
   - tag: img
     src: $img/tip/win11-install-1.png
