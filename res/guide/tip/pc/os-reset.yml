@@ -1,0 +1,82 @@
+title: 重置系统
+author: Mr.Hope
+time: 2021年11月28日
+shareable: true
+content:
+  - tag: text
+    type: info
+    text: Win11 和 Win 10 2004 及更新版本由于支持云下载重置，所以对系统进行完成的重装十分简单。
+
+  - tag: title
+    text: 找到重置选项
+
+  - tag: text
+    heading: Win11
+    text:
+      - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用 “Win + I” 快捷键
+
+  - tag: img
+    src: $img/tip/win11-reset-1.png
+    desc: 点击“系统” - “恢复”
+
+  - tag: img
+    src: $img/tip/win11-reset-2.png
+    desc: 选择初始化此电脑
+
+  - tag: text
+    heading: Win10
+    text:
+      - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用 “Win + I” 快捷键
+
+  - tag: img
+    src: $img/tip/win10-reset-1.png
+    desc: 点击“更新与安全”
+
+  - tag: img
+    src: $img/tip/win10-reset-2.png
+    desc: 点击“恢复”并开始重置此电脑
+
+  - tag: title
+    text: 重置流程指引
+
+  - tag: img
+    src: $img/tip/windows-reset-1.png
+    desc: 根据提示选择对应的选项并确认
+
+  - tag: img
+    src: $img/tip/windows-reset-2.png
+    desc: 根据提示选择对应的选项并确认
+
+  - tag: text
+    type: warning
+    text:
+      - 只有选择“云下载”，才是下载完整的 Windows 系统镜像并安装它。
+      - 如果没有看到“云下载”选项，那么你的电脑可能版本较低，本地系统重置的前提是您的系统镜像必须完好。如果您的系统镜像已被恶意软件篡改或已经损坏，系统重置可能无法解决问题。请考虑使用媒体制作工具安装。
+
+  - tag: list
+    header: false
+    content:
+      - text: 使用媒体制作工具重装
+        path: media-reinstall
+
+  - tag: img
+    src: $img/tip/windows-reset-3.png
+    desc: 再次确认您的选择
+
+  - tag: img
+    src: $img/tip/windows-reset-4.png
+    desc: 开始重置
+
+  - tag: text
+    text:
+      - 如果您选择了云下载，此时系统会自动开始下载，请确保保持有效的网络连接。
+      - 下载完成后，请耐心等待系统自动的重置工作。系统重置需要多个步骤，且电脑会在该过程中多次重启。整个步骤需要 20 - 40 分钟。重置结束后，你会看到 Windows 用户向导。
+
+  - tag: list
+    header: false
+    content:
+      - text: Win 11 用户向导
+        path: win11-setup
+
+      - text: Win 10 用户向导
+        path: win10-setup

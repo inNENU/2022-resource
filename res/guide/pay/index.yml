@@ -1,6 +1,6 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2021年9月13日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: text
@@ -18,7 +18,7 @@ content:
     content:
       - text: PC 缴费
         desc: 推荐
-        icon: office
+        icon: pc
         path: pc
 
       - text: 手机缴费

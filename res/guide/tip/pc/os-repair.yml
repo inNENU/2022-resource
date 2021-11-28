@@ -1,6 +1,6 @@
 title: 系统修复
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -22,7 +22,7 @@ content:
     text: https://mp.innenu.com/file/tool/系统镜像在线校验工具.exe
 
   - tag: copy
-    header: 在线校验工具
+    header: 在线恢复工具
     text: https://mp.innenu.com/file/tool/系统镜像在线恢复工具.exe
 
   - tag: text

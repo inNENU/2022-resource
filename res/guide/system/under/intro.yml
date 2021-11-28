@@ -1,6 +1,6 @@
 title: 本科教学服务系统介绍
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -61,7 +61,7 @@ content:
     header: false
     content:
       - text: 信息化办
-        icon: office
+        icon: pc
         path: /guide/card/office
 
   - tag: title

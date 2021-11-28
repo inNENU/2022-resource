@@ -14,6 +14,7 @@ content:
   - tag: list
     content:
       - text: 检查自己的电脑是否支持 Win11
+        icon: support
         path: win11-support
 
   - tag: title

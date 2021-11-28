@@ -12,10 +12,12 @@ content:
     header: false
     content:
       - text: 制作 Win11 启动盘
+        icon: udisk
         path: win11-media
 
-      - text: 从 U 盘启动
-        desc: 制作中
+      - text: 从启动盘启动
+        icon: play
+        path: usb-boot
 
   - tag: title
     text: Win11 安装流程
@@ -95,8 +97,19 @@ content:
 
   - tag: img
     src: $img/tip/win11-install-11.png
-    desc: 安装完成后，系统会多次重启，您可以在屏幕上看到系统当前的正在完成的准备工作
+    desc: 安装完成后，系统会自动重启
 
   - tag: img
-    src: $img/tip/win11-install-11.png
-    desc: 耐心等待，您就可以进入 Win 11 用户向导页面，至此系统安装已全部结束。
+    src: $img/tip/win11-install-12.png
+    desc: 系统会在屏幕显示当前的正在完成的准备工作，过程中系统会多次重启，请耐心等待
+
+  - tag: img
+    src: $img/tip/win11-install-13.png
+    desc: 稍等片刻，您就可以进入 Win 11 用户向导页面，至此系统安装已全部结束。
+
+  - tag: list
+    header: false
+    content:
+      - text: Win 11 用户向导指引
+        icon: idea
+        path: win11-setup

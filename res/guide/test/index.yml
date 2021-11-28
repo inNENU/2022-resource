@@ -1,7 +1,7 @@
 title: 校内考试
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: list
@@ -43,7 +43,7 @@ content:
         path: /guide/exam/cet/
 
       - text: 计算机等级考试说明
-        icon: office
+        icon: pc
         path: /guide/exam/ncre/
 
       - text: 普通话水平测试

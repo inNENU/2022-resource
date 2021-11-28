@@ -55,5 +55,5 @@ content:
         path: /intro/apartment/library/intro
 
       - text: 电子阅览室
-        icon: office
+        icon: pc
         path: /intro/apartment/library/digit-room

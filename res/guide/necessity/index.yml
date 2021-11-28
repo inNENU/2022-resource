@@ -1,6 +1,6 @@
 title: 各类物品
 author: Mr.Hope
-time: 2021年11月14日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: p
@@ -39,7 +39,7 @@ content:
         path: washing
 
       - text: 其他工具类
-        icon: wrench
+        icon: repair
         path: tool
 
       - text: 饮食相关类

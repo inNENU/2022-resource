@@ -4,11 +4,6 @@ time: 2021年11月28日
 shareable: true
 content:
   - tag: text
-    text:
-      - 请准备一个不小于 8 GB 的空 U 盘 (或你确定 U 盘没有有用的内容也可)
-      - 接下来请下载　Win10/Win11 的媒体创建工具并选择安装。
-
-  - tag: text
     type: tip
     heading: 我该选择 Win10 还是 Win11?
     text:
@@ -20,6 +15,7 @@ content:
     header: false
     content:
       - text: 如何查看电脑是否支持 Win11
+        icon: support
         path: win11-support
 
   - tag: title
@@ -29,9 +25,11 @@ content:
     header: false
     content:
       - text: Win 11 启动盘制作
+        icon: udisk
         path: win11-media
 
       - text: Win 10 启动盘制作
+        icon: udisk
         path: win10-media
 
   - tag: title
@@ -41,8 +39,8 @@ content:
     header: false
     content:
       - text: 从启动盘启动
-        desc: 制作中
-        # path: usb-boot
+        icon: play
+        path: usb-boot
 
   - tag: title
     text: 系统安装
@@ -51,10 +49,12 @@ content:
     header: false
     content:
       - text: Win 11 安装
+        icon: idea
         path: win11-install
 
       - text: Win 10 安装
-        desc: 制作中
+        icon: idea
+        path: win10-install
 
   - tag: title
     text: 用户设置向导
@@ -66,7 +66,9 @@ content:
     header: false
     content:
       - text: Win 11 用户向导
+        icon: intro
         path: win11-setup
 
       - text: Win 10 用户向导
-        desc: 制作中
+        icon: intro
+        path: win10-setup

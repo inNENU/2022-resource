@@ -1,6 +1,6 @@
 title: Win11 用户向导指引
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: text
@@ -12,7 +12,7 @@ content:
 
   - tag: img
     src: $img/tip/win11-setup-1.png
-    desc: 国家地区必须选择“中国”以避免后续商店、OneDrive、Office访问等的潜在问题，如果您需要其他语言请在流程完毕后在系统中设置修改语言。
+    desc: 国家地区必须选择“中国”以避免后续微软商店商店、OneDrive、Office访问等的潜在问题，如果您需要其他语言请在流程完毕后在系统中设置修改语言。
 
   - tag: img
     src: $img/tip/win11-setup-2.png
@@ -38,7 +38,7 @@ content:
 
   - tag: img
     src: $img/tip/win11-setup-6.png
-    desc: 完成登陆
+    desc: 输入密码并完成登陆
 
   - tag: img
     src: $img/tip/win11-setup-7.png
@@ -65,13 +65,17 @@ content:
     desc: 耐心等待
 
   - tag: text
-    text: 至此您已完成Win11用户向导，稍作等待即可进入桌面。
+    text: 至此您已完成 Win10 用户向导，稍作等待即可进入桌面。
+
+  - tag: title
+    text: 系统激活与驱动
 
   - tag: text
     type: tip
     text:
       - 进入桌面后，请不要着急使用。
-      - 请先确保自己联网，系统会很快自动激活。之后进入系统设置(快捷键 Win + I)，请点击 "Window 更新" - “检查更新”，并耐心等待系统安装驱动与最新更新。全部安装完成后系统会要求您重启。这时请您再正常使用电脑。
+      - 请先确保系统联网，Windows 应该会很快自动激活。
+      - 之后进入系统设置(快捷键 Win + I)，请点击 "Windows 更新" - “检查更新”，并耐心等待系统安装驱动与最新更新。全部安装完成后系统会要求您重启。这时请您再正常使用电脑。
 
   - tag: img
     src: $img/tip/win11-setup-13.png

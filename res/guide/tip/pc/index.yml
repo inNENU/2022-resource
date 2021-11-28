@@ -20,34 +20,63 @@ content:
     header: Win11
     content:
       - text: Win11 支持的设备
+        icon: support
         path: win11-support
 
       - text: 如何升级 Win11
+        icon: upgrade
         path: win11-upgrade
 
       - text: 制作 Win11 启动盘
+        icon: udisk
         path: win11-media
 
+      - text: 从 Win11 启动盘启动
+        icon: play
+        path: usb-boot
+
       - text: Win11 启动盘安装指引
+        icon: idea
         path: win11-install
 
       - text: Win11 用户向导指引
+        icon: intro
         path: win11-setup
 
   - tag: list
     header: Win10
     content:
+      - text: 更新到最新版 Win10
+        icon: upgrade
+        path: win10-upgrade
+
       - text: 制作 Win10 启动盘
+        icon: udisk
         path: win10-media
+
+      - text: 从 Win10 启动盘启动
+        icon: play
+        path: usb-boot
+
+      - text: Win10 启动盘安装指引
+        icon: idea
+        path: win10-install
+
+      - text: Win10 用户向导指引
+        icon: intro
+        path: win10-setup
 
   - tag: list
     header: 系统修复
     content:
       - text: 系统修复
+        icon: repair
         path: os-repair
 
-      - text: Win11 重置
-        path: win11-reset
+      - text: 初始化电脑
+        icon: reset
+        path: os-reset
 
       - text: 重装系统
+        icon: reset
         path: reinstall

@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年11月26日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -55,7 +55,7 @@ content:
     header: false
     content:
       - text: 信息化办
-        icon: office
+        icon: pc
         path: /guide/card/office
 
   - tag: ol

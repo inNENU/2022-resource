@@ -1,7 +1,7 @@
 title: 国家考试
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: list
@@ -47,15 +47,15 @@ content:
         path: ncre/outline
 
       - text: 计算机二级
-        icon: office
+        icon: pc
         path: ncre/ncre2
 
       - text: 计算机三级
-        icon: office
+        icon: pc
         path: ncre/ncre3
 
       - text: 计算机四级
-        icon: office
+        icon: pc
         path: ncre/ncre4
 
       - text: 常见问题

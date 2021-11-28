@@ -1,6 +1,6 @@
 title: 服务办理
 author: Mr.Hope
-time: 2021年11月23日
+time: 2021年11月28日
 grey: true
 shareable: true
 content:
@@ -8,7 +8,7 @@ content:
     header: 东师日常
     content:
       - text: 障碍报修
-        icon: wrench
+        icon: repair
         path: repair
 
       - text: 班车激活

@@ -1,7 +1,7 @@
 title: 学校机构介绍
 grey: true
 author: Mr.Hope
-time: 2021年11月23日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: grid
@@ -45,7 +45,7 @@ content:
       - text: 后勤管理处
         color: cyan
         name: Logistics
-        icon: wrench
+        icon: repair
         path: logistics/
 
       - text: 校医院

@@ -1,6 +1,6 @@
 title: NCRE 说明
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年11月28日
 grey: true
 shareable: true
 content:
@@ -18,15 +18,15 @@ content:
     header: 考试等级
     content:
       - text: 计算机二级
-        icon: office
+        icon: pc
         path: ncre2
 
       - text: 计算机三级
-        icon: office
+        icon: pc
         path: ncre3
 
       - text: 计算机四级
-        icon: office
+        icon: pc
         path: ncre4
 
   - tag: list

@@ -207,7 +207,7 @@ content:
       - text: 后勤管理处
         color: cyan
         name: Logistics
-        icon: wrench
+        icon: repair
         path: intro/apartment/logistics/
 
       - text: 校医院
