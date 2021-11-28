@@ -1,9 +1,19 @@
 title: 教务处
 grey: true
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年11月28日
 shareable: true
 content:
+  - tag: account
+    name: 教务处
+    logo: $img/media/course.png
+    detail: 东北师范大学教务处
+    wxid: gh_6831c1b199d0
+    wxcode: $img/media/course-qrcode.jpg
+    account: course
+    mail: jwc@nenu.edu.cn
+    site: https://jwc.nenu.edu.cn/
+
   - tag: list
     content:
       - text: 教务处介绍

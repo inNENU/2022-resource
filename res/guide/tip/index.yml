@@ -13,7 +13,7 @@ content:
     content:
       - text: 如何升级 Win11
         icon: upgrade
-        path: win11-upgrade
+        path: pc/win11-upgrade
 
       - text: 使用 IE Tab 访问学校系统
         icon: system

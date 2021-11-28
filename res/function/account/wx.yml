@@ -15,6 +15,11 @@
       logo: $img/media/official.png
       path: graduate
 
+    - name: 东北师范大学教务助理中心
+      desc: 东师教务助理中心
+      logo: $img/media/course.png
+      path: course
+
     - name: 东北师范大学图书馆
       desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态!
       logo: $img/media/library.png
