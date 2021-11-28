@@ -1,6 +1,6 @@
 title: 教学服务系统限制
 author: Mr.Hope
-time: 2021年11月26日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -43,7 +43,7 @@ content:
     type: info
     heading: Window 11
     text:
-      - Windows 11 系统已经移除了 IE 浏览器，且 Edge 自带的 IE　兼容模式仍有兼容性问题。
+      - Windows 11 系统已经移除了 IE 浏览器，且 Edge 自带的 IE 兼容模式仍有兼容性问题。
       - 大家可以通过 Chrome 在浏览器中下载 IETab 插件。
 
   - tag: list
@@ -58,4 +58,4 @@ content:
     text:
       - 其他系统暂无较好的方式。Linux 和 macOS 建议安装双系统添加 Windows。
       - 其中 Linux 是可以直接装载并执行 Windows 安装光盘，按照指导进行双系统的添加的。Mac 可以使用系统自带的 BootCamp 按照提示安装 Windows 作为双系统
-      - macOS M1 (ARM64) 建议安装虚拟机，如 VMWare 等，通过虚拟机运行 Windows。
+      - macOS M1 (ARM64) 建议安装虚拟机，如 Parallels 等，通过虚拟机运行 Windows。

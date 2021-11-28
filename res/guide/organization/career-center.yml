@@ -1,7 +1,7 @@
 title: 大学生创新创业中心
 desc: |-
   来源: 校团委官网
-time: 2021年11月22日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: account
@@ -59,7 +59,7 @@ content:
   - tag: title
     text: 部门介绍
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 办公室
     text:
@@ -68,7 +68,7 @@ content:
       - |-
         特色活动: 纳新、例会、中心年会、换届大会、创新创业项目培育
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 创业实践部
     text:
@@ -77,7 +77,7 @@ content:
       - |-
         特色活动: 创业计划大赛、巅峰营销大赛、创业项目孵化
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 公共关系部
     text:
@@ -86,7 +86,7 @@ content:
       - |-
         特色活动: 素质拓展、企业参观、企业模拟面试
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 科研实践部
     text:
@@ -95,7 +95,7 @@ content:
       - |-
         特色活动: “中央高校基本科研业务专项资金”、“国家级大学生创新创业训练计划”项目宣讲会、评审会
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 网络宣传部
     text:
@@ -104,7 +104,7 @@ content:
       - |-
         特色活动: “新启程”创业文化宣传活动、宣传平台管理、PS培训、PPT培训、微信公众号运营培训
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 项目部
     text:
@@ -113,7 +113,7 @@ content:
       - |-
         特色活动: 项目整合和策划书培训、创业计划大赛
 
-  - tag: text
+  - tag: ul
     type: info
     heading: 资管部
     text:

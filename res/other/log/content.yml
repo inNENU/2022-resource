@@ -1,7 +1,7 @@
 title: 内容更新日志
 content:
   - tag: title
-    text: 11/27
+    text: 11/28
 
   - tag: ul
     heading: 新增
@@ -11,6 +11,11 @@ content:
       - Win 10 用户向导指引
       - 如何重置电脑
       - 如何从 U 盘启动
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 错字与格式修复
 
   - tag: title
     text: 11/27

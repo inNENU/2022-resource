@@ -1,6 +1,6 @@
 title: IETab
 author: Mr.Hope
-time: 2021年11月26日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: title
@@ -60,7 +60,7 @@ content:
       - 您通常只需要使用 IE Tab 来访问学校的教务系统，所以我们推荐您将以下几个网站添加至 Auto URL 中。
 
   - tag: copy
-    header: 本科选课系统和
+    header: 本科选课系统
     text: http://xk.nenu.edu.cn/*
 
   - tag: copy
