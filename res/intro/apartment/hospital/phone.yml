@@ -1,7 +1,9 @@
 title: 校医院联系方式
-desc: "信息来源: 校医院官网"
-time: 2021年11月15日
+desc: |-
+  信息来源: 校医院官网
+time: 2021年11月28日
 shareable: true
+cite: http://hos.nenu.edu.cn/lxwm.htm
 content:
   - tag: title
     text: 行政联系方式

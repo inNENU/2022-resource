@@ -1,7 +1,10 @@
 title: 校医院楼层分布
-desc: "信息来源: 校医院官网"
-time: 2021年8月15日
+desc: |-
+  信息来源: 校医院官网
+  数据更新至2016年12月04日
+time: 2021年11月28日
 shareable: true
+cite: https://hos.nenu.edu.cn/ylfw/lcfb.htm
 content:
   - tag: title
     text: 楼层分布

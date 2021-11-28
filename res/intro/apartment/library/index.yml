@@ -4,14 +4,14 @@ author: Mr.Hope
 time: 2021年11月28日
 shareable: true
 content:
-  - tag: text
-    type: info
-    heading: 疫情相关
-    text: 由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网或图书馆门口 LED 查看可入馆人数。
-
-  - tag: copy
-    header: 图书馆官网
-    text: http://www.library.nenu.edu.cn/
+  - tag: account
+    name: 图书馆
+    logo: $img/media/library.png
+    detail: 东北师范大学图书馆
+    wxid: nenu_lib
+    wxcode: $img/media/library-wx.jpg
+    account: library
+    site: http://www.library.nenu.edu.cn/
 
   - tag: list
     header: 图书馆

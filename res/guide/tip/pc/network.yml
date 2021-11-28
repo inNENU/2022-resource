@@ -10,14 +10,17 @@ content:
   - tag: title
     text: 排除网络问题
 
-  - tag: text
+  - tag: p
     text:
       - 东师的校园网并不是很稳定，如果您连接了 iNENU-2G 或 iNENU-5G 无法上网，请您首先排查是否是校园网认证问题。请先查看自己是否已经成功连接了 Wifi 或有线网，如果已经连接，请打开 "10.100.100.67" 确认自己是否在线。若未在线，请尝试登录并尝试上网。如果登陆过程中出现问题，那么问题出现在学校校园网。
-      - 如果无法打开认证页面，或干脆无法连接有线网或无线网，请准备一部手机通进项下方连接测试。
 
   - tag: copy
     header: 校园网认证地址
     text: "10.100.100.67"
+
+  - tag: text
+    text:
+      - 如果无法打开认证页面，或干脆无法连接有线网或无线网，请准备一部手机通进项下方连接测试。
 
   - tag: p
     type: info
@@ -44,6 +47,13 @@ content:
     type: info
     text:
       - 请通过下方教程打开疑难解答，并运行 “Internet 链接” 疑难解答。
+
+  - tag: list
+    header: false
+    content:
+      - text: 找到疑难解答
+        icon: faq
+        path: diagnosis
 
   - tag: title
     text: 尝试禁用/重置网络
@@ -73,13 +83,13 @@ content:
       - 进入系统设置 (快捷键 Win + I)
 
   - tag: img
-    src: $img/tip/win11-network-reset-1.png
+    src: $img/tip/win10-network-reset-1.png
 
   - tag: img
-    src: $img/tip/win11-network-reset-2.png
+    src: $img/tip/win10-network-reset-2.png
 
   - tag: img
-    src: $img/tip/win11-network-reset-3.png
+    src: $img/tip/win10-network-reset-3.png
     desc: 请点击“立即重置”，确认后耐心等待电脑完成重置并自动重启
 
   - tag: title

@@ -1,7 +1,7 @@
 name: 东师后勤
 detail: 东北师范大学后勤保障部
 desc: 关心校园生活，关注东师后勤。后勤服务，在您身边
-id: nenu_media
+id: dongshihouqin
 logo: $img/media/logistics.jpg
 qrcode: $img/media/logistics-wechat.jpg
 article:

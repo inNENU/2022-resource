@@ -1,9 +1,19 @@
 title: 后勤管理处
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年11月28日
 shareable: true
 content:
+  - tag: account
+    name: 后勤管理处
+    logo: $img/media/logistics.jpg
+    detail: 东北师范大学图书馆
+    wxid: dongshihouqin
+    wxcode: $img/media/logistics-wechat.jpg
+    account: logistics
+    mail: houqin@nenu.edu.cn
+    site: http://www.library.nenu.edu.cn/
+
   - tag: list
     content:
       - text: 机构设置

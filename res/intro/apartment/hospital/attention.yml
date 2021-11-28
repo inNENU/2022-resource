@@ -1,7 +1,11 @@
 title: 注意事项
-desc: "信息来源: 校医院官网"
-time: 2021年8月15日
+desc: |-
+  信息来源: 校医院官网
+time: 2021年11月28日
 shareable: true
+cite:
+  - http://hos.nenu.edu.cn/ylfw/jzxz.htm
+  - http://hos.nenu.edu.cn/ylfw/zyxz.htm
 content:
   - tag: title
     text: 就诊须知
