@@ -6,6 +6,18 @@ content:
   - tag: ul
     heading: 新增
     text:
+      - 如何升级最新版 Win 10
+      - 如何通过 Win 10 系统镜像安装 Win 10
+      - Win 10 用户向导指引
+      - 如何重置电脑
+      - 如何从 U 盘启动
+
+  - tag: title
+    text: 11/27
+
+  - tag: ul
+    heading: 新增
+    text:
       - 系统重装概要
       - 如何升级到 Win 11
       - 使用媒体创建工具创建 Win10 启动盘
