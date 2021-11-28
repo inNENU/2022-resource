@@ -44,13 +44,14 @@ content:
 
   - tag: img
     src: $img/tip/win11-install-7.png
-    desc: 如果你没有出现此页而是提示您的电脑不支持 Win11，并且你正在使用 18 年后发售的电脑，那么大概率是您尚未开启 TPM 2.0。请前往下方链接寻求问题，或在自己无法解决的情况下向 Mr.Hope 寻求帮助。
+    desc: 如果你没有出现此页而是提示您的电脑不支持 Win11，并且你正在使用 18 年后发售的电脑，那么大概率是您尚未开启 TPM 2.0。请前往下方链接寻求解决方案，或在自己无法解决的情况下向 Mr.Hope 寻求帮助。
 
   - tag: copy
     header: 官方指南
     text: https://support.microsoft.com/zh-cn/windows/%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%AF%E7%94%A8-tpm-2-0-1fd5a332-360d-4f46-a1e7-ae6b0c90645c
 
   - tag: functional-list
+    header: false
     content:
       - text: 向 Mr.Hope 寻求帮助
         icon: contact
@@ -75,6 +76,7 @@ content:
     desc: 一般情况下，系统盘可能会叫 Windows、System、系统等。如果您已经完全备份好所有数据，在这个页面里删除所有分区并重新分配空间也是可以的。如果您在这一步有疑问，可向 Mr.Hope 寻求帮助。
 
   - tag: functional-list
+    header: false
     content:
       - text: 向 Mr.Hope 寻求帮助
         icon: contact

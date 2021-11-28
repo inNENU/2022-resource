@@ -17,6 +17,19 @@ content:
       - 为了节省时间和金钱，Mr.Hope 建议有动手能力的人参考本文教程自己尝试进行修复。
 
   - tag: list
+    header: 常见问题及解决
+    content:
+      - text: 常见问题的疑难解答
+        icon: faq
+        path: diagnosis
+
+      - text: 无法上网
+        icon: network
+        path: network
+
+      - text: 更多内容正在制作中...
+
+  - tag: list
     header: Win11
     content:
       - text: Win11 支持的设备
@@ -79,4 +92,4 @@ content:
 
       - text: 重装系统
         icon: reset
-        path: reinstall
+        path: os-reinstall

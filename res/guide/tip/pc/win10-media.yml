@@ -26,6 +26,7 @@ content:
 
   - tag: img
     src: $img/tip/win10-media-4.png
+    desc: 视您使用的U盘品牌，其名称可能与图片不符
 
   - tag: img
     src: $img/tip/win10-media-5.png

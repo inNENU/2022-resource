@@ -29,7 +29,7 @@ content:
 
       - text: 重装系统
         icon: reset
-        path: pc/reinstall
+        path: pc/os-reinstall
 
       - text: 更多电脑相关
         icon: more

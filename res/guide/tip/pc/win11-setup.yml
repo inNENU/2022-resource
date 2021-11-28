@@ -65,7 +65,7 @@ content:
     desc: 耐心等待
 
   - tag: text
-    text: 至此您已完成 Win10 用户向导，稍作等待即可进入桌面。
+    text: 至此您已完成 Win11 用户向导，稍作等待即可进入桌面。
 
   - tag: title
     text: 系统激活与驱动
