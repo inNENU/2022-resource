@@ -1,5 +1,6 @@
 import axios from "axios";
-import { existsSync, readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
+import { aliasResolve } from "../components/utils";
 import { getFileList } from "../util";
 
 interface AccountInfo {
@@ -23,29 +24,11 @@ export const checkAccount = (
 ): AccountConfig[] => {
   data.forEach((item) => {
     item.account.forEach((config) => {
-      // `$img` alias resolve and file check
-      if (config.logo?.startsWith("$img/")) {
-        const localePath = config.logo.replace(/^\$img\//, "./img/");
-
-        if (existsSync(localePath))
-          config.logo = config.logo.replace(
-            /^\$img\//,
-            "https://mp.innenu.com/img/"
-          );
-        else console.warn(`Image ${localePath} not exist in ${location}`);
-      }
-
-      // `$img` alias resolve and file check
-      if (config.qrcode?.startsWith("$img/")) {
-        const localePath = config.qrcode.replace(/^\$img\//, "./img/");
-
-        if (existsSync(localePath))
-          config.qrcode = config.qrcode.replace(
-            /^\$img\//,
-            "https://mp.innenu.com/img/"
-          );
-        else console.warn(`Image ${localePath} not exist in ${location}`);
-      }
+      // `$` alias resolve and file check
+      if (config.logo)
+        config.logo = aliasResolve(config.logo, "Image", location);
+      if (config.qrcode)
+        config.logo = aliasResolve(config.qrcode, "Image", location);
     });
   });
 
@@ -66,26 +49,9 @@ export const checkAccountDetail = (
   data: AccountDetail,
   location: string
 ): AccountDetail => {
-  // `$img` alias resolve and file check
-  if (data.logo?.startsWith("$img/")) {
-    const localePath = data.logo.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      data.logo = data.logo.replace(/^\$img\//, "https://mp.innenu.com/img/");
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
-
-  // `$img` alias resolve and file check
-  if (data.qrcode?.startsWith("$img/")) {
-    const localePath = data.qrcode.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      data.qrcode = data.qrcode.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
+  // `$` alias resolve and file check
+  if (data.logo) data.logo = aliasResolve(data.logo, "Image", location);
+  if (data.qrcode) data.qrcode = aliasResolve(data.qrcode, "Image", location);
 
   return data;
 };

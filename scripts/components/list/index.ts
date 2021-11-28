@@ -1,6 +1,6 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { existsSync } from "fs";
-import { resolvePath } from "../utils";
+import { aliasResolve, resolvePath } from "../utils";
 import type {
   FunctionalListComponentOptions,
   ListComponentOptions,
@@ -196,17 +196,8 @@ export const resolveList = (
         ) {
           console.warn(`Icon ${listItem.icon} not exist in ${location}`);
         }
-        // `$img` alias resolve and file check
-        else if (listItem.icon.startsWith("$img/")) {
-          const localePath = listItem.icon.replace(/^\$img\//, "./img/");
-
-          if (existsSync(localePath))
-            listItem.icon = listItem.icon.replace(
-              /^\$img\//,
-              "https://mp.innenu.com/img/"
-            );
-          else console.warn(`Image ${localePath} not exist in ${location}`);
-        }
+        // `$` alias resolve and file check
+        else listItem.icon = aliasResolve(listItem.icon, "Image", location);
 
       checkKeys(
         listItem,

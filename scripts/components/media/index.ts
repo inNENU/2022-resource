@@ -1,22 +1,13 @@
-import { existsSync } from "fs";
 import { checkKeys } from "@mr-hope/assert-type";
+import { aliasResolve } from "../utils";
 import type { MediaComponentOptions } from "./typings";
 
 export const resolveMedia = (
   element: MediaComponentOptions,
   location = ""
 ): void => {
-  // `$file` alias resolve and file check
-  if (element.src?.startsWith("$file/")) {
-    const localePath = element.src.replace(/^\$file\//, "./file/");
-
-    if (existsSync(localePath))
-      element.src = element.src.replace(
-        /^\$file\//,
-        "https://mp.innenu.com/file/"
-      );
-    else console.warn(`File ${localePath} not exist in ${location}`);
-  }
+  // `$` alias resolve and file check
+  if (element.src) element.src = aliasResolve(element.src, "File", location);
 
   checkKeys(
     element,

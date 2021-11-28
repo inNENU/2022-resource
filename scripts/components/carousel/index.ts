@@ -1,6 +1,5 @@
 import { checkKeys } from "@mr-hope/assert-type";
-import { existsSync } from "fs";
-import { resolveStyle } from "../utils";
+import { aliasResolve, resolveStyle } from "../utils";
 import type { CarouselComponentOptions } from "./typings";
 
 export const resolveCarousel = (
@@ -8,17 +7,12 @@ export const resolveCarousel = (
   location = ""
 ): void => {
   element.images?.forEach((link, index) => {
-    // `$img` alias resolve and file check
-    if (link?.startsWith("$img/")) {
-      const localePath = link.replace(/^\$img\//, "./img/");
-
-      if (existsSync(localePath))
-        element.images[index] = link.replace(
-          /^\$img\//,
-          "https://mp.innenu.com/img/"
-        );
-      else console.warn(`Image ${localePath} not exist in ${location}`);
-    }
+    // `$` alias resolve and file check
+    element.images[index] = aliasResolve(
+      link,
+      "Image",
+      `${location}[${index}]`
+    );
   });
 
   // 处理样式

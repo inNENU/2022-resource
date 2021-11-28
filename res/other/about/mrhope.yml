@@ -1,10 +1,10 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2021年11月15日
+time: 2021年11月28日
 shareable: true
 content:
   - tag: account
-    logo: https://mrhope.site/logo.png
+    logo: $img/about/mrhope.png
     name: Mr.Hope
     desc: Where there is light, there is hope.
     qq: 1178522294

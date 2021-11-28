@@ -1,22 +1,13 @@
 import { checkKeys } from "@mr-hope/assert-type";
-import { existsSync } from "fs";
+import { aliasResolve } from "../utils";
 import type { ImageComponentOptions } from "./typings";
 
 export const resolveImg = (
   element: ImageComponentOptions,
   location = ""
 ): void => {
-  // `$img` alias resolve and file check
-  if (element.src?.startsWith("$img/")) {
-    const localePath = element.src.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      element.src = element.src.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
+  // `$` alias resolve and file check
+  if (element.src) element.src = aliasResolve(element.src, "Image", location);
 
   checkKeys(
     element,

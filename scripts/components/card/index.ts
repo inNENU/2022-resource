@@ -1,6 +1,7 @@
 import { existsSync } from "fs";
 import { checkKeys } from "@mr-hope/assert-type";
 import type { CardComponentOptions } from "./typings";
+import { aliasResolve } from "../utils";
 
 export const resolveCard = (
   element: CardComponentOptions,
@@ -14,31 +15,11 @@ export const resolveCard = (
       !existsSync(`./res/icon/${element.logo}.svg`)
     ) {
       console.warn(`Icon ${element.logo} not exist in ${location}`);
-    }
-    // `$img` alias resolve and file check
-    else if (element.logo.startsWith("$img/")) {
-      const localePath = element.logo.replace(/^\$img\//, "./img/");
-
-      if (existsSync(localePath))
-        element.logo = element.logo.replace(
-          /^\$img\//,
-          "https://mp.innenu.com/img/"
-        );
-      else console.warn(`Image ${localePath} not exist in ${location}`);
-    }
+    } else element.logo = aliasResolve(element.logo, "Image", location);
   }
 
-  // `$img` alias resolve and file check
-  if (element.cover?.startsWith("$img/")) {
-    const localePath = element.cover.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      element.cover = element.cover.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
+  if (element.cover)
+    element.cover = aliasResolve(element.cover, "Image", location);
 
   checkKeys(
     element,
@@ -56,6 +37,7 @@ export const resolveCard = (
     location
   );
 
+  // check options
   if ("options" in element)
     checkKeys(
       element.options,

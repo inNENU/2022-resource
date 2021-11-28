@@ -1,53 +1,19 @@
-import { existsSync } from "fs";
-import { AccountComponentOptions } from "./typings";
 import { checkKeys } from "@mr-hope/assert-type";
+import { aliasResolve } from "../utils";
+
+import type { AccountComponentOptions } from "./typings";
 
 export const resolveAccount = (
   element: AccountComponentOptions,
   location = ""
 ): void => {
-  // `$img` alias resolve and file check
-  if (element.logo?.startsWith("$img/")) {
-    const localePath = element.logo.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      element.logo = element.logo.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
-
-  // `$img` alias resolve and file check
-  if (element.qqcode?.startsWith("$img/")) {
-    const localePath = element.qqcode.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      element.qqcode = element.qqcode.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
-
-  // `$img` alias resolve and file check
-  if (element.wxcode?.startsWith("$img/")) {
-    const localePath = element.wxcode.replace(/^\$img\//, "./img/");
-
-    if (existsSync(localePath))
-      element.wxcode = element.wxcode.replace(
-        /^\$img\//,
-        "https://mp.innenu.com/img/"
-      );
-    else console.warn(`Image ${localePath} not exist in ${location}`);
-  }
-
-  if (element.location)
-    checkKeys(
-      element.location,
-      { latitude: "number", longitude: "number" },
-      `${location}.location`
-    );
+  // `$` alias resolve and file check
+  if (element.logo)
+    element.logo = aliasResolve(element.logo, "Image", location);
+  if (element.qqcode)
+    element.qqcode = aliasResolve(element.qqcode, "Image", location);
+  if (element.wxcode)
+    element.wxcode = aliasResolve(element.wxcode, "Image", location);
 
   checkKeys(
     element,
@@ -70,4 +36,12 @@ export const resolveAccount = (
     },
     location
   );
+
+  // check location
+  if (element.location)
+    checkKeys(
+      element.location,
+      { latitude: "number", longitude: "number" },
+      `${location}.location`
+    );
 };

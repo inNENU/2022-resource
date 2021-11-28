@@ -1,5 +1,5 @@
 import { checkKeys } from "@mr-hope/assert-type";
-import { existsSync } from "fs";
+import { aliasResolve } from "../utils";
 import type { DocComponentOptions } from "./typings";
 
 /**
@@ -38,17 +38,8 @@ export const resolveDoc = (
 ): void => {
   element.icon = getDocIcon(element.url);
 
-  // `$file` alias resolve and file check
-  if (element.url?.startsWith("$file/")) {
-    const localePath = element.url.replace(/^\$file\//, "./file/");
-
-    if (existsSync(localePath))
-      element.url = element.url.replace(
-        /^\$file\//,
-        "https://mp.innenu.com/file/"
-      );
-    else console.warn(`File ${localePath} not exist in ${location}`);
-  }
+  // `$` alias resolve and file check
+  if (element.url) element.url = aliasResolve(element.url, "File", location);
 
   checkKeys(
     element,

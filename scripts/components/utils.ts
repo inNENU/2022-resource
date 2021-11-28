@@ -1,4 +1,5 @@
 import { assertType } from "@mr-hope/assert-type";
+import { existsSync } from "fs";
 import { relative, resolve, sep } from "path";
 
 export const camelCase2kebabCase = (str: string): string => {
@@ -28,4 +29,21 @@ export const resolveStyle = (styleObj: Record<string, string>): string => {
     result += `${camelCase2kebabCase(key)}:${styleObj[key]};`;
 
   return result;
+};
+
+export const aliasResolve = (
+  link: string,
+  type: string,
+  location = ""
+): string => {
+  if (link.startsWith("$")) {
+    const localePath = link.replace(/^\$/, "./");
+
+    if (existsSync(localePath))
+      return link.replace(/^\$/, "https://mp.innenu.com/");
+
+    console.warn(`${type} ${localePath} not exist in ${location}`);
+  }
+
+  return link;
 };
