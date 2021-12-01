@@ -1,6 +1,6 @@
 title: IETab
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: title
@@ -59,7 +59,7 @@ content:
     heading: Auto URL
     text:
       - Auto URL 是 IE Tab 最重要的功能之一，Auto URL 使您能够指定应在 IE 选项卡中自动打开哪些页面，而不必手动单击 IE 选项卡图标。
-      - 您通常只需要使用 IE Tab 来访问学校的教务系统，所以我们推荐您将以下几个网站添加至 Auto URL 中。
+      - 您通常只需要使用 IE Tab 来访问学校的教务系统，所以 Mr.Hope 推荐您将以下几个网站添加至 Auto URL 中。
 
   - tag: copy
     header: 本科选课系统

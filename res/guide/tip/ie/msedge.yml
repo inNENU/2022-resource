@@ -1,6 +1,6 @@
 title: 在 Windows 中使用 Edge 的兼容模式
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: text
@@ -9,7 +9,7 @@ content:
 
   - tag: text
     type: warning
-    text: 由于 Microsoft Edge 启用兼容模式步骤复杂，且兼容模式列表最多存放 30 天，所以我们建议您使用 Chrome + IETab 来访问。
+    text: 由于 Microsoft Edge 启用兼容模式步骤复杂，且兼容模式列表最多存放 30 天，所以 Mr.Hope 建议您使用 Chrome + IETab 来访问。
 
   - tag: list
     header: false
@@ -26,7 +26,7 @@ content:
       - 打开 Microsoft Edge，并点击右上角菜单，选择“设置”。
       - 选择“默认浏览器”
       - “让 Internet Explorer 在 Microsoft Edge 中打开网站” 更改为 “始终”
-      - “让 Internet Explorer 在 Microsoft Edge 中打开网站” 更改为 “允许”
+      - “允许在 Internet Explorer 模式下重新加载网站” 更改为 “允许”
 
   - tag: img
     src: $img/tip/msedge-ie-compatable-1.jpg
@@ -34,7 +34,7 @@ content:
   - tag: title
     text: 打开相应网站时切换到 IE 兼容模式
 
-  - tag: text
+  - tag: p
     text:
       - 当打开需要用 Internet Explorer 兼容模式打开的网站时，请在右上角中选择 “在 Internet Explorer 模式下重新加载”。
 

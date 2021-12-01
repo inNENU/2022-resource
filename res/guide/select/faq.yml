@@ -1,6 +1,6 @@
 title: 选课相关问题
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: text
@@ -21,3 +21,16 @@ content:
     heading: 无法选课
     text:
       - 请检查自己是否完成了评教。未评教的同学不能参加下学期选课。请务必及时评教。
+
+  - tag: text
+    type: info
+    heading: 没有电脑或使用非 Windows 系统
+    text:
+      - 如果您没有电脑，或使用 MacBook 但不会安装双系统亦或虚拟机，请前往图书馆使用电子阅览室。
+
+  - tag: list
+    header: false
+    content:
+      - text: 电子阅览室
+        icon: pc
+        path: /intro/apartment/library/digit-room

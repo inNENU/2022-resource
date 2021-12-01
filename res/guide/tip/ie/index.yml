@@ -1,6 +1,6 @@
 title: 使用 IE 内核浏览网页
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: title
@@ -8,7 +8,7 @@ content:
 
   - tag: text
     text:
-      - 目前我们学校所使用的本科教学服务系统、研究生教学服务系统均由湖南强智科技发展有限公司开发。
+      - 目前学校所使用的本科教学服务系统、研究生教学服务系统均由湖南强智科技发展有限公司开发。
       - 这套系统是21世纪初(约2005年前后研发)的版本，版本很老。由于学校的经费、管理问题，后续一直没有对系统进行更新。
 
   - tag: title
@@ -45,6 +45,7 @@ content:
     text: 如果在 Windows 10 系统的所述位置没找到 IE 浏览器，请查看下方教程。
 
   - tag: list
+    header: false
     content:
       - text: 在 Win10 中添加 IE 功能
         icon: ie
@@ -55,7 +56,7 @@ content:
     heading: Internet Explorer 将被停用
     text:
       - Internet Explorer 11 将于 2022 年 6 月份被自动禁用，只要你在使用 20H2 及更新版本的半年渠道 Windows 10，届时 Internet Explorer 都将被彻底禁用 (就跟不久前的 Flash 一样)。
-      - 为了提供历史向下兼容，微软在 Microsoft Edge 提供了兼容模式 (但它被刻意做的很不方便)。为了良好的体验，我们建议您使用 Chrome 配合 IE Tab 扩展程序。
+      - 为了提供历史向下兼容，微软在 Microsoft Edge 提供了兼容模式 (但它被刻意做的很不方便)。为了良好的体验，Mr.Hope 建议您使用 Chrome 配合 IE Tab 扩展程序。
 
   - tag: title
     text: 其他使用 IE 内核打开网页的方式
