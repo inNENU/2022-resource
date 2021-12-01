@@ -1,6 +1,6 @@
-title: Win11 用户向导指引
+title: Windows 11 用户向导指引
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: text
@@ -65,7 +65,7 @@ content:
     desc: 耐心等待
 
   - tag: text
-    text: 至此您已完成 Win11 用户向导，稍作等待即可进入桌面。
+    text: 至此您已完成 Windows 11 用户向导，稍作等待即可进入桌面。
 
   - tag: title
     text: 系统激活与驱动

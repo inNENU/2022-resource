@@ -1,6 +1,6 @@
 title: 网络问题修复
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: text
@@ -63,7 +63,7 @@ content:
       - 如果疑难解答并不能解决连接问题，请您按照下方指引进行网络重置。
 
   - tag: text
-    heading: Win11
+    heading: Windows 11
     text:
       - 进入系统设置 (快捷键 Win + I)
 
@@ -78,7 +78,7 @@ content:
     desc: 请点击“立即重置”，确认后耐心等待电脑完成重置并自动重启
 
   - tag: text
-    heading: Win10
+    heading: Windows 10
     text:
       - 进入系统设置 (快捷键 Win + I)
 

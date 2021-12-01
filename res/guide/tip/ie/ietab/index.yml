@@ -34,7 +34,7 @@ content:
     type: tip
     text:
       - Mr.Hope 建议您点击列表中 IE Tab 右侧的 “📌”图标，将此扩展固定到浏览器地址栏中。
-      - 这样可以更方便的调用该插件启用 IE 内核浏览。
+      - 这样可以更方便的调用该扩展程序启用 IE 内核浏览。
 
   - tag: title
     text: 功能描述
@@ -74,5 +74,5 @@ content:
   - tag: text
     heading: IE Compatibility Mode
     text:
-      - IE Compatibility Mode 在选项页面的最下方，它允许您设置插件的模拟的内核版本及模式，Mr.Hope 推荐您选择 "IE 11 Force Standard Mode"。
+      - IE Compatibility Mode 在选项页面的最下方，它允许您设置扩展程序的模拟的内核版本及模式，Mr.Hope 推荐您选择 "IE 11 Force Standard Mode"。
       - 当部分网站需要低版本 IE 时(如教师资格证报名系统要求 IE10)，您可以手动切换以模拟对应版本。

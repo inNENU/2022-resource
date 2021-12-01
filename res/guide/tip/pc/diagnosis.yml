@@ -1,6 +1,6 @@
 title: 系统诊断
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
@@ -27,7 +27,7 @@ content:
     text: 找到疑难解答
 
   - tag: text
-    heading: Win11
+    heading: Windows 11
     text:
       - 进入系统设置 (快捷键 Win + I)
 
@@ -41,7 +41,7 @@ content:
     text: 请您根据自己遇到的问题运行对应的疑难解答。
 
   - tag: text
-    heading: Win10
+    heading: Windows 10
     text:
       - 进入系统设置 (快捷键 Win + I)
 

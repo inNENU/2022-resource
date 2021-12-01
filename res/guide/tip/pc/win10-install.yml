@@ -1,17 +1,17 @@
-title: Win10 安装流程
+title: Windows 10 安装流程
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: text
     type: info
     text:
-      - 请从制作好的安装 U 盘启动，启动盘会自动载入 Win 10 安装程序，
+      - 请从制作好的安装 U 盘启动，启动盘会自动载入 Windows 10 安装程序，
 
   - tag: list
     header: false
     content:
-      - text: 制作 Win10 启动盘
+      - text: 制作 Windows 10 启动盘
         icon: udisk
         path: win10-media
 
@@ -20,7 +20,7 @@ content:
         path: usb-boot
 
   - tag: title
-    text: Win10 安装流程
+    text: Windows 10 安装流程
 
   - tag: img
     src: $img/tip/win10-install-1.png
@@ -83,11 +83,11 @@ content:
 
   - tag: img
     src: $img/tip/win10-install-13.png
-    desc: 稍等片刻，您就可以进入 Win 10 用户向导页面，至此系统安装已全部结束。
+    desc: 稍等片刻，您就可以进入 Windows 10 用户向导页面，至此系统安装已全部结束。
 
   - tag: list
     header: false
     content:
-      - text: Win 10 用户向导指引
+      - text: Windows 10 用户向导指引
         icon: idea
         path: win10-setup

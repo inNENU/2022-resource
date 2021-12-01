@@ -1,6 +1,6 @@
 title: 电脑小贴士
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 grey: true
 shareable: true
 content:
@@ -30,52 +30,52 @@ content:
       - text: 更多内容正在制作中...
 
   - tag: list
-    header: Win11
+    header: Windows 11
     content:
-      - text: Win11 支持的设备
+      - text: Windows 11 支持的设备
         icon: support
         path: win11-support
 
-      - text: 如何升级 Win11
+      - text: 如何升级 Windows 11
         icon: upgrade
         path: win11-upgrade
 
-      - text: 制作 Win11 启动盘
+      - text: 制作 Windows 11 启动盘
         icon: udisk
         path: win11-media
 
-      - text: 从 Win11 启动盘启动
+      - text: 从 Windows 11 启动盘启动
         icon: play
         path: usb-boot
 
-      - text: Win11 启动盘安装指引
+      - text: Windows 11 启动盘安装指引
         icon: idea
         path: win11-install
 
-      - text: Win11 用户向导指引
+      - text: Windows 11 用户向导指引
         icon: intro
         path: win11-setup
 
   - tag: list
-    header: Win10
+    header: Windows 10
     content:
-      - text: 更新到最新版 Win10
+      - text: 更新到最新版 Windows 10
         icon: upgrade
         path: win10-upgrade
 
-      - text: 制作 Win10 启动盘
+      - text: 制作 Windows 10 启动盘
         icon: udisk
         path: win10-media
 
-      - text: 从 Win10 启动盘启动
+      - text: 从 Windows 10 启动盘启动
         icon: play
         path: usb-boot
 
-      - text: Win10 启动盘安装指引
+      - text: Windows 10 启动盘安装指引
         icon: idea
         path: win10-install
 
-      - text: Win10 用户向导指引
+      - text: Windows 10 用户向导指引
         icon: intro
         path: win10-setup
 

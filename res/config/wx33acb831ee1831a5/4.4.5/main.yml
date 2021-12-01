@@ -31,7 +31,7 @@ content:
         icon: select
         path: guide/select/
 
-      - text: 各系统找到 IE
+      - text: 使用 IE 内核
         color: olive
         name: IE
         icon: ie

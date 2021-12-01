@@ -11,11 +11,11 @@ content:
   - tag: list
     header: 数码技巧
     content:
-      - text: 如何升级 Win11
+      - text: 如何升级 Windows 11
         icon: upgrade
         path: pc/win11-upgrade
 
-      - text: 各系统找到 IE
+      - text: 使用 IE 内核浏览网页
         icon: ie
         path: ie/
 

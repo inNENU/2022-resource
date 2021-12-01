@@ -1,17 +1,17 @@
-title: Win11 安装流程
+title: Windows 11 安装流程
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: text
     type: info
     text:
-      - 请从制作好的安装 U 盘启动，启动盘会自动载入 Win 11 安装程序，
+      - 请从制作好的安装 U 盘启动，启动盘会自动载入 Windows 11 安装程序，
 
   - tag: list
     header: false
     content:
-      - text: 制作 Win11 启动盘
+      - text: 制作 Windows 11 启动盘
         icon: udisk
         path: win11-media
 
@@ -20,7 +20,7 @@ content:
         path: usb-boot
 
   - tag: title
-    text: Win11 安装流程
+    text: Windows 11 安装流程
 
   - tag: img
     src: $img/tip/win11-install-1.png
@@ -44,7 +44,7 @@ content:
 
   - tag: img
     src: $img/tip/win11-install-7.png
-    desc: 如果你没有出现此页而是提示您的电脑不支持 Win11，并且你正在使用 18 年后发售的电脑，那么大概率是您尚未开启 TPM 2.0。请前往下方链接寻求解决方案，或在自己无法解决的情况下向 Mr.Hope 寻求帮助。
+    desc: 如果你没有出现此页而是提示您的电脑不支持 Windows 11，并且你正在使用 18 年后发售的电脑，那么大概率是您尚未开启 TPM 2.0。请前往下方链接寻求解决方案，或在自己无法解决的情况下向 Mr.Hope 寻求帮助。
 
   - tag: copy
     header: 官方指南
@@ -107,11 +107,11 @@ content:
 
   - tag: img
     src: $img/tip/win11-install-13.png
-    desc: 稍等片刻，您就可以进入 Win 11 用户向导页面，至此系统安装已全部结束。
+    desc: 稍等片刻，您就可以进入 Windows 11 用户向导页面，至此系统安装已全部结束。
 
   - tag: list
     header: false
     content:
-      - text: Win 11 用户向导指引
+      - text: Windows 11 用户向导指引
         icon: idea
         path: win11-setup

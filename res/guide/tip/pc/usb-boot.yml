@@ -1,13 +1,13 @@
 title: 从 U 盘启动
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
     text: 在系统设置中选择高级启动
 
   - tag: text
-    heading: Win11
+    heading: Windows 11
     text: 进入系统设置(快捷键 Win + I)
 
   - tag: img
@@ -17,7 +17,7 @@ content:
     src: $img/tip/win11-advanced-boot-2.png
 
   - tag: text
-    heading: Win10
+    heading: Windows 10
     text: 进入系统设置(快捷键 Win + I)
 
   - tag: img
@@ -31,7 +31,7 @@ content:
 
   - tag: img
     src: $img/tip/usb-boot-1.png
-    desc: 选择使用设备 (Win11 系统会显示“退出并继续使用 Windows 11”)
+    desc: 选择使用设备 (Windows 11 系统会显示“退出并继续使用 Windows 11”)
 
   - tag: img
     src: $img/tip/usb-boot-2.jpg

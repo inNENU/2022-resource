@@ -8,12 +8,12 @@ content:
 
   - tag: text
     text:
-      - 请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。大部分浏览器比如 Chrome、Microsoft Edge、Safari 等在选课时会有兼容性问题，会造成使用时的不方便。
+      - 请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器等在选课时会有兼容性问题，无法正确显示选课弹窗。
 
   - tag: list
     header: false
     content:
-      - text: 找到 IE
+      - text: 使用 IE 内核浏览网页
         icon: ie
         path: /guide/tip/ie/
 

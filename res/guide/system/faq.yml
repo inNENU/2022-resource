@@ -1,14 +1,20 @@
 title: 本科教学服务系统常见问题
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: text
     type: info
     heading: 登陆时出现“无法创建对象”错误
     text:
-      - 请使用 IE 内核的浏览器。
-      - 如果您正在使用一个没有IE的系统，请考虑 IE Tab 插件。
+      - 请使用 Internet Explorer 浏览器。
+      - 如果您正在使用一个没有 IE 的系统，请考虑使用 IE Tab 扩展程序或 Microsoft Edge 的 Internet Explorer 兼容模式。
+
+  - tag: list
+    header: 相关说明
+    content:
+      - text: 使用 IE 内核浏览网页
+        path: /guide/tip/ie/
 
   - tag: text
     type: info
