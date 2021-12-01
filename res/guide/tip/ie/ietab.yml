@@ -1,0 +1,78 @@
+title: IETab
+author: Mr.Hope
+time: 2021年12月1日
+shareable: true
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: text
+    text: IE Tab 是一款强大的扩展程序，允许您在 Chromium 内核浏览器中，通过不同版本 Internet Explorer 内核渲染并浏览网页。
+
+  - tag: title
+    text: 安装
+
+  - tag: list
+    header: false
+    content:
+      - text: 在 Chrome 中添加扩展程序
+        path: chrome
+
+      - text: 在 Microsoft Edge 中添加扩展程序
+        desc: 不推荐
+        path: msedge
+
+  - tag: title
+    text: 使用说明
+
+  - tag: text
+    text:
+      - 安装后，请点击地址栏右侧的扩展程序按钮，您应该可在列表中看到 IE Tab 图标。
+      - 现在导航到任何页面并单击 IE Tab 图标，您就可以使用 IE 引擎打开页面。
+
+  - tag: text
+    type: tip
+    text:
+      - Mr.Hope 建议您点击列表中 IE Tab 右侧的 “📌”图标，将此扩展固定到浏览器地址栏中。
+      - 这样可以更方便的调用该插件启用 IE 内核浏览。
+
+  - tag: title
+    text: 功能描述
+
+  - tag: text
+    heading: 选项面板
+    text:
+      - 右键单击 IE Tab 扩展程序图标并选择“选项”可以查看查看所有选项。
+      - 或者您可以直接访问如下网址。
+
+  - tag: copy
+    header: Microsoft Edge
+    text: extension://npjkkakdacjaihjaoeliacmecofghagh/options.html
+
+  - tag: copy
+    header: Chrome
+    text: chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/options.html
+
+  - tag: text
+    heading: Auto URL
+    text:
+      - Auto URL 是 IE Tab 最重要的功能之一，Auto URL 使您能够指定应在 IE 选项卡中自动打开哪些页面，而不必手动单击 IE 选项卡图标。
+      - 您通常只需要使用 IE Tab 来访问学校的教务系统，所以我们推荐您将以下几个网站添加至 Auto URL 中。
+
+  - tag: copy
+    header: 本科选课系统
+    text: http://xk.nenu.edu.cn/*
+
+  - tag: copy
+    header: 本科教学服务系统
+    text: http://dsjx.nenu.edu.cn/*
+
+  - tag: copy
+    header: 研究生教学服务系统与选课系统
+    text: http://dsyjs.nenu.edu.cn/*
+
+  - tag: text
+    heading: IE Compatibility Mode
+    text:
+      - IE Compatibility Mode 在选项页面的最下方，它允许您设置插件的模拟的内核版本及模式，Mr.Hope 推荐您选择 "IE 11 Force Standard Mode"。
+      - 当部分网站需要低版本 IE 时(如教师资格证报名系统要求 IE10)，您可以手动切换以模拟对应版本。

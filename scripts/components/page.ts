@@ -61,11 +61,6 @@ export const resolvePage = (
     `${pagePath} page`
   );
 
-  // TODO: Remove
-  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-  // @ts-ignore
-  if (page.cite) page.cite = page.cite[0];
-
   if (page.content) {
     // eslint-disable-next-line max-lines-per-function
     page.content.forEach((element, index) => {

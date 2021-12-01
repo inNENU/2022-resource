@@ -1,6 +1,6 @@
 title: 本科教学服务系统介绍
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
@@ -39,11 +39,11 @@ content:
       - 具体的限制及注意事项请见下方链接。
 
   - tag: list
-    header: 系统使用限制
+    header: false
     content:
-      - text: 选择合适的浏览器
+      - text: 浏览器限制
         icon: alert
-        path: /guide/system/limit/
+        path: /guide/tip/ie/
 
   - tag: title
     text: 登陆方式

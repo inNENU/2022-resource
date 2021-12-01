@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 grey: true
 shareable: true
 content:
@@ -15,9 +15,9 @@ content:
         icon: upgrade
         path: pc/win11-upgrade
 
-      - text: 使用 IE Tab 访问学校系统
-        icon: system
-        path: /guide/system/limit/ietab
+      - text: 各系统找到 IE
+        icon: ie
+        path: ie/
 
       - text: 系统修复
         icon: repair

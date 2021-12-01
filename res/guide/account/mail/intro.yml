@@ -1,23 +1,49 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2021年11月27日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
     text: 账号获取
 
+  - tag: text
+    text: 请先完成“东北师范大学”企业微信认证。之后下载企业微信 App 并完成登录。
+
   - tag: list
     header: false
     content:
-      - text: 邮箱账户获取
+      - text: 企业号认证
         icon: apply
-        path: ../authorize
+        path: ../wechat/authorize
+
+  - tag: copy
+    header: 安卓下载企业微信
+    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
+
+  - tag: copy
+    header: iOS 下载企业微信
+    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
+
+  - tag: ol
+    text:
+      - 下载安装完成后，请通过微信登陆企业微信
+      - 在侧边栏中选择“东北师范大学”机构
+      - 点击下方 Tab 栏中的 “工作台”
+      - 在工作台中找到“个人中心”并进入
+      - 点击个人中心下方菜单栏中的“信息查询”-“人员信息”
+
+  # - tag: list
+  #   header: false
+  #   content:
+  #     - text: 邮箱账户获取
+  #       icon: apply
+  #       path: ../authorize
 
   - tag: text
     type: info
     heading: 邮箱默认密码
     text:
-      - 同统一身份认证，为Nenu + 身份证后六位，X 用 1 代替
+      - 同统一身份认证，为 Nenu + 身份证后六位，X 用 1 代替
 
   - tag: text
     type: warning

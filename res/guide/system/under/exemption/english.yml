@@ -1,7 +1,7 @@
 title: 英语免修评定
 desc: 部分截图素材来自阮怀正
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
@@ -35,11 +35,11 @@ content:
       - 具体的限制及注意事项请见下方链接。
 
   - tag: list
-    header: 系统使用限制
+    header: false
     content:
-      - text: 选择合适的浏览器
+      - text: 浏览器限制
         icon: alert
-        path: /guide/system/limit/
+        path: /guide/tip/ie/
 
   - tag: img
     src: $img/system/login.jpg

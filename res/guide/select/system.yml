@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
@@ -8,8 +8,14 @@ content:
 
   - tag: text
     text:
-      - 请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9 或 Firefox 浏览器。其他浏览器比如 Safari 在选课时会有兼容性问题，会造成使用时的不方便。
-      - Windows 10 系统可以在 “开始菜单” —— “Windows 附件” 中找到 “Internet Explorer”。
+      - 请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。大部分浏览器比如 Chrome、Microsoft Edge、Safari 等在选课时会有兼容性问题，会造成使用时的不方便。
+
+  - tag: list
+    header: false
+    content:
+      - text: 找到 IE
+        icon: ie
+        path: /guide/tip/ie/
 
   - tag: text
     type: danger

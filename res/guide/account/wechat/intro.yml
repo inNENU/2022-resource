@@ -1,17 +1,18 @@
 title: 东北师范大学企业号介绍
 author: Mr.Hope
-time: 2021年9月4日
+time: 2021年12月1日
 shareable: true
 content:
   - tag: title
     text: 企业号功能
 
   - tag: text
-    text: 企业号具有非常丰富的功能。请开学后大家自行认证.
+    text:
+      - 企业号具有非常丰富的功能。
 
-  - tag: text
-    type: warning
-    text: 2021级新生请于9月1日之后再进行认证。
+  # - tag: text
+  #   type: warning
+  #   text: 2021级新生请于9月1日之后再进行认证。
 
   - tag: ul
     heading: 功能
