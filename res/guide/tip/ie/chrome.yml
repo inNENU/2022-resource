@@ -17,7 +17,7 @@ content:
 
   - tag: text
     type: info
-    heading: 由于访问 Chrome 扩展商店需要科学上网，Mr.Hope 已为您打包了扩展。
+    text: 由于访问 Chrome 扩展商店需要科学上网，Mr.Hope 已为您打包了扩展。
 
   - tag: copy
     header: 下载地址

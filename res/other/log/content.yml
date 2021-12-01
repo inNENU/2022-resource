@@ -1,6 +1,21 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/1
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 重构 IE 介绍与 IE Tab
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 邮箱地址获取
+      - 统一身份认证管理介绍
+      - 选课详情更新
+
+  - tag: title
     text: 11/28
 
   - tag: ul
