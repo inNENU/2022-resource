@@ -15,6 +15,7 @@ content:
     header: false
     content:
       - text: 使用 IE Tab 扩展程序
+        icon: ie
         path: ietab/
 
   - tag: title

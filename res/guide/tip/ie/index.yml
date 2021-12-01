@@ -47,6 +47,7 @@ content:
   - tag: list
     content:
       - text: 在 Win10 中添加 IE 功能
+        icon: ie
         path: win10-ie
 
   - tag: text
@@ -84,6 +85,7 @@ content:
     header: false
     content:
       - text: 使用 Microsoft Edge 提供的 IE 兼容模式
+        icon: edge
         path: msedge
 
   - tag: text
@@ -98,10 +100,12 @@ content:
     header: false
     content:
       - text: 不建议使用 360 安全浏览器的原因
+        icon: alert
         path: 360-evil
 
       - text: 360 安全浏览器的推荐设置
         desc: 如果你的确想用
+        icon: setting
         path: 360-settings
 
   - tag: text

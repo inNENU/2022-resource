@@ -18,6 +18,7 @@ content:
         path: ietab/
 
       - text: 使用 Microsoft Edge 提供的 IE 兼容模式
+        icon: edge
         path: msedge
 
   - tag: title
@@ -31,6 +32,7 @@ content:
     header: 详情
     content:
       - text: 不建议使用 360 安全浏览器的原因
+        icon: alert
         path: 360-evil
 
   - tag: title

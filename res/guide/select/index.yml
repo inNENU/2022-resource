@@ -76,3 +76,7 @@ content:
       - text: 选课技巧
         icon: idea
         path: skill
+
+      - text: 常见问题
+        icon: faq
+        path: faq

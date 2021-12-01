@@ -1,0 +1,23 @@
+title: 选课相关问题
+author: Mr.Hope
+time: 2021年12月1日
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 点击选课按钮没反应
+    text:
+      - 请确保使用 IE 内核浏览器，并确保允许弹出窗口。
+      - IE Tab 允许弹窗在页面上方，Internet Explorer 和 Microsoft Edge 在页面下方，360 安全浏览器在设置内。
+
+  - tag: text
+    type: info
+    heading: 无法进入选课系统
+    text:
+      - 请先看看周围的小伙伴能否进入系统，都不能的话就是系统崩溃了。否则请排查自身网络原因，并尝试使用新选项卡重新打开选课系统。
+
+  - tag: text
+    type: info
+    heading: 无法选课
+    text:
+      - 请检查自己是否完成了评教。未评教的同学不能参加下学期选课。请务必及时评教。

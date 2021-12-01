@@ -78,8 +78,8 @@ content:
       - 网页弹窗可能被拦截，请务必允许网页弹窗，否则无法正常选课。
 
   - tag: img
-    src: $img/tip/enable-popup.png
-    desc: 允许弹窗
+    src: $img/tip/ietab-enable-popup.png
+    desc: IE Tab 允许弹窗，Internet Explorer 在页面下方
 
   - tag: title
     text: Mr.Hope の 吐槽

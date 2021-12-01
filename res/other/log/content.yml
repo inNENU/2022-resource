@@ -7,6 +7,11 @@ content:
     heading: 新增
     text:
       - 重构 IE 介绍与 IE Tab
+      - 添加 Win10 IE 介绍
+      - 添加 Microsoft Edge 兼容模式介绍
+      - 添加 360 安全浏览器 推荐设置
+      - 添加不推荐使用 360 安全浏览器的原因
+      - 选课页面常见问题
 
   - tag: ul
     heading: 更新

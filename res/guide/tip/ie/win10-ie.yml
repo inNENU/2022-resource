@@ -21,9 +21,11 @@ content:
     header: 相关链接
     content:
       - text: 使用 IE Tab 扩展程序
+        icon: ie
         path: ietab/
 
       - text: 使用 Microsoft Edge 提供的 IE 兼容模式
+        icon: edge
         path: msedge
 
   - tag: title

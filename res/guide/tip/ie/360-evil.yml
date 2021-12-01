@@ -60,4 +60,5 @@ content:
         path: ietab/
 
       - text: 使用 Microsoft Edge 提供的 IE 兼容模式
+        icon: edge
         path: msedge

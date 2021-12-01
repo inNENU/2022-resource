@@ -16,9 +16,11 @@ content:
     header: false
     content:
       - text: 在 Chrome 中添加扩展程序
+        icon: chrome
         path: chrome
 
       - text: 在 Microsoft Edge 中添加扩展程序
+        icon: edge
         desc: 不推荐
         path: msedge
 

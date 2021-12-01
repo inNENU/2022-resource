@@ -10,10 +10,12 @@ content:
   - tag: list
     header: false
     content:
-      - text: 使用 IE Tab 扩展程序
+      - text: 在 Chrome 中使用 IE Tab 扩展程序
+        icon: chrome
         path: chrome
 
       - text: 使用 Microsoft Edge 的 Internet Explorer 兼容模式
+        icon: edge
         path: ../msedge
 
   - tag: title
