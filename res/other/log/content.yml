@@ -1,6 +1,23 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/2
+
+  - tag: ul
+    heading: 新增
+    text:
+      - Mac 贴士
+      - Mac 通过 BootCamp 安装虚拟机
+      - Mac 在系统间切换
+      - Mac 布局介绍
+      - Mac 访达介绍
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 强调 Microsoft Edge 兼容模式仅限 Windows
+
+  - tag: title
     text: 12/1
 
   - tag: ul

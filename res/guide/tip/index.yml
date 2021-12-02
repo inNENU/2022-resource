@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 grey: true
 shareable: true
 content:
@@ -9,11 +9,11 @@ content:
     text: 此页面内容仍在完善中...
 
   - tag: list
-    header: 数码技巧
+    header: Windows
     content:
       - text: 如何升级 Windows 11
         icon: upgrade
-        path: pc/win11-upgrade
+        path: win/win11-upgrade
 
       - text: 使用 IE 内核浏览网页
         icon: ie
@@ -21,19 +21,38 @@ content:
 
       - text: 系统修复
         icon: repair
-        path: pc/os-repair
+        path: win/os-repair
 
       - text: 初始化电脑
         icon: reset
-        path: pc/os-reset
+        path: win/os-reset
 
       - text: 重装系统
         icon: reset
-        path: pc/os-reinstall
+        path: win/os-reinstall
 
-      - text: 更多电脑相关
+      - text: 更多 Windows 相关
         icon: more
-        path: pc/
+        path: win/
+
+  - tag: list
+    header: Mac
+    content:
+      - text: 使用 BootCamp 安装 Windows
+        icon: idea
+        path: mac/bootcamp
+
+      - text: M 系列 Mac 通过虚拟机
+        icon: idea
+        desc: 制作中
+
+      - text: 在 Windows 和 macOS 之间切换
+        icon: change
+        path: mac/switch
+
+      - text: 更多 Mac 相关
+        icon: more
+        path: mac/
 
   - tag: list
     header: 生活常识

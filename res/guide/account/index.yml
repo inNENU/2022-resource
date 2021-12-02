@@ -1,7 +1,7 @@
 title: 账户
 grey: true
 author: Mr.Hope
-time: 2021年9月3日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: p
@@ -35,6 +35,10 @@ content:
       - text: iOS 邮箱客户端设置
         icon: apple
         path: mail/ios
+
+      - text: Windows 邮箱客户端设置
+        icon: windows
+        path: mail/windows
 
   - tag: list
     header: 企业微信

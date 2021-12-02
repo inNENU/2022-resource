@@ -1,0 +1,38 @@
+title: Mac 小贴士
+author: Mr.Hope
+time: 2021年12月2日
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: tip
+    text: 此页面内容仍在完善中...
+
+  - tag: list
+    header: Mac 使用教程
+    content:
+      - text: Mac 上的桌面、菜单栏和帮助
+        icon: intro
+        path: layout
+
+      - text: Mac 上的“访达”
+        icon: finder
+        path: finder
+
+      - text: 更多内容正在制作中...
+
+  - tag: list
+    header: Mac 安装 Windows
+    content:
+      - text: Intel 系列 Mac 使用 BootCamp
+        icon: idea
+        path: bootcamp
+
+      - text: M 系列 Mac 通过虚拟机
+        icon: idea
+        desc: 制作中
+
+      - text: 在 Windows 和 macOS 之间切换
+        icon: change
+        path: switch
+        # path: parallels

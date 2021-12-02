@@ -7,9 +7,11 @@ content:
     text:
       - 如果你不想借助第三方扩展程序，您可以使用 Microsoft Edge 的兼容模式。
 
-  - tag: text
+  - tag: ul
     type: warning
-    text: 由于 Microsoft Edge 启用兼容模式步骤复杂，且兼容模式列表最多存放 30 天，所以 Mr.Hope 建议您使用 Chrome + IETab 来访问。
+    text:
+      - 由于 Microsoft Edge 兼容模式列表最多存放 30 天，所以 Mr.Hope 建议您使用体验更好的 Chrome + IETab。
+      - 只有 Windows 版本的 Microsoft Edge 才有兼容模式功能。
 
   - tag: list
     header: false

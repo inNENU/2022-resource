@@ -118,3 +118,14 @@ content:
         Android: 暂无解决办法
       - |-
         iPhone 和 iPad: 暂无解决办法
+
+  - tag: list
+    header: false
+    content:
+      - text: Intel 系列 MacBook 使用 BootCamp 安装 Windows
+        icon: apple
+        path: ../mac/bootcamp
+
+      - text: M1 系列 MacBook 通过虚拟机安装 Windows
+        icon: apple
+        desc: 制作中
