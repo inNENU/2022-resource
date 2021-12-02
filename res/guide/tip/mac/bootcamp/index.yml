@@ -5,6 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: text
+    heading: " "
     text: |-
       您可以使用“启动转换助理”在搭载 Intel 芯片的 Mac 上安装 Windows 10。
       如果您的 Mac 并非使用 Windows 芯片，请使用虚拟机。

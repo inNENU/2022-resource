@@ -24,7 +24,7 @@ content:
   - tag: title
     text: 鉴别这两种机型
 
-  - tag: text
+  - tag: ul
     text:
       - 在搭载 Apple 芯片的 Mac 电脑上，“关于本机”会显示一个标有“芯片”的项目并跟有这个芯片的名称：
       - 在搭载 Intel 处理器的 Mac 电脑上，“关于本机”会显示一个标有“处理器”的项目并跟有 Intel 处理器的名称。搭载 Intel 处理器的 Mac 也称为基于 Intel 的 Mac。
