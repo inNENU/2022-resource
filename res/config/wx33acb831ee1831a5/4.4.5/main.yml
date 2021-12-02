@@ -15,12 +15,19 @@ content:
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: card
-    cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
-    title: 招纳小程序志愿者
-    logo: $img/inNENU.png
-    name: in东师
-    url: page?path=other/guide/volunteer
+  - tag: text
+    type: info
+    heading: 2022年春季学期本科生选课已开始
+    text:
+      - |-
+        预选时间: 12月1日12:00至12月3日16:00
+        12月7日10:00公布预选抽签结果
+      - |-
+        正选时间: 12月9日12:00至12月14日12:00
+        本部校区正选 :12月9日12:00至12月13日12:00　　
+        净月校区正选 :12月10日12:00至12月14日12:00　
+      - |-
+        退补选时间: 计划在3月7日－3月11日之间进行，具体时间另行通知
 
   - tag: grid
     header: 您可能想关注
@@ -98,3 +105,10 @@ content:
         path: guide/test/
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: card
+    cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+    title: 招纳小程序志愿者
+    logo: $img/inNENU.png
+    name: in东师
+    url: page?path=other/guide/volunteer

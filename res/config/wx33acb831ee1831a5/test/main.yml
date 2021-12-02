@@ -15,62 +15,46 @@ content:
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
+  - tag: text
+    type: info
+    heading: 2022年春季学期本科生选课已开始
+    text:
+      - |-
+        预选时间: 12月1日12:00至12月3日16:00
+        12月7日10:00公布预选抽签结果
+      - |-
+        正选时间: 12月9日12:00至12月14日12:00
+        本部校区正选 :12月9日12:00至12月13日12:00　　
+        净月校区正选 :12月10日12:00至12月14日12:00　
+      - |-
+        退补选时间: 计划在3月7日－3月11日之间进行，具体时间另行通知
+
   - tag: grid
     header: 您可能想关注
     content:
-      - text: 学生组织
-        color: blue
-        name: Orgnazation
-        icon: student-org
-        path: guide/organization/
+      - text: 选课
+        color: cyan
+        name: Select
+        icon: select
+        path: guide/select/
 
-      - text: 社团
-        color: orange
-        name: Association
-        icon: association
-        path: guide/association/
-
-      - text: 入学活动
-        color: purple
-        name: Activity
-        icon: activity
-        path: guide/activity/
-
-      - text: 快递
-        color: mauve
-        name: Express
-        icon: express
-        path: guide/express/
-
-      - text: 寝室
-        color: grey
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: mauve
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
-      - text: 超市
+      - text: 使用 IE 内核
         color: olive
-        name: Shop
-        icon: shop
-        path: guide/shop/
+        name: IE
+        icon: ie
+        path: guide/tip/ie/
 
-      - text: 洗浴
+      - text: 课程
+        color: orange
+        name: Course
+        icon: course
+        path: guide/course/
+
+      - text: 教务系统
         color: red
-        name: Bath
-        icon: bath
-        path: guide/bath/
-
-      - text: 生活
-        color: purple
-        name: Life
-        icon: life
-        path: guide/life/
+        name: System
+        icon: system
+        path: guide/system/
 
       - text: 账户
         color: blue
@@ -78,28 +62,53 @@ content:
         icon: authorize
         path: guide/account/
 
-      - text: 校园卡
-        color: red
-        name: Card
-        icon: card
-        path: guide/card/
+      - text: 校历
+        color: mauve
+        name: Calendar
+        icon: calendar
+        url: calendar
 
-      - text: 校园网
-        color: purple
-        name: Network
-        icon: network
-        path: guide/network/
+      - text: 生活
+        color: olive
+        name: Life
+        icon: life
+        path: guide/life/
+
+      - text: 常见服务
+        color: mauve
+        name: Service
+        icon: service
+        path: guide/action/
+
+      - text: 转专业
+        color: red
+        name: Change Major
+        icon: change
+        path: guide/change-major/
+
+      - text: 学习
+        color: mauve
+        name: Study
+        icon: study
+        path: guide/study/
+
+      - text: 图书馆
+        color: blue
+        name: Library
+        icon: library
+        path: intro/apartment/library/
+
+      - text: 校内考试
+        color: olive
+        name: Test
+        icon: test
+        path: guide/test/
 
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
-    cover: $img/tab/map.jpg
-    title: 校园地图与导航
-    logo: map
-    url: map
-
-  - tag: card
-    cover: $img/tab/faq.png
-    title: 常见问题
-    logo: faq
-    url: page?id=guide/faq/
+    cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+    title: 招纳小程序志愿者
+    logo: $img/inNENU.png
+    name: in东师
+    url: page?path=other/guide/volunteer
