@@ -1,6 +1,6 @@
 title: 在 Windows 中使用 Edge 的兼容模式
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: text
@@ -46,7 +46,7 @@ content:
   - tag: text
     type: tip
     text:
-      - 为了下次方便，你可以点击地址栏，并选择“下次在 Internet Explorer 模式中打开”。
+      - 为了下次方便，你可以点击地址栏中的 Internet Explorer 图标，并选择“下次在 Internet Explorer 模式中打开”。
 
   - tag: img
     src: $img/tip/msedge-ie-compatable-3.jpg

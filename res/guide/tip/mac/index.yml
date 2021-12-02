@@ -19,6 +19,14 @@ content:
         icon: finder
         path: finder
 
+      - text: Mac 上的“控制中心”
+        icon: wifi
+        path: control
+
+      - text: Mac 上的“系统偏好设置”
+        icon: setting
+        path: setting
+
       - text: 更多内容正在制作中...
 
   - tag: list

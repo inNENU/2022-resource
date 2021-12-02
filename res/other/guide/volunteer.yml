@@ -1,6 +1,6 @@
 title: 小程序志愿者招募
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: title
@@ -18,9 +18,17 @@ content:
     text:
       - 如果您想要协助 Mr.Hope，您需要放弃贡献内容的全部版权并将其不可撤销的转让给 Mr.Hope 与 in 东师小程序，与此同时，Mr.Hope 会要求您保留并同时尊重您贡献内容的署名权。
 
+  - tag: card
+    title: in东师计划表
+    options:
+      appId: wxd45c635d754dbf59
+      path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
+
   - tag: copy
-    header: 代办列表
+    header: 计划列表
     text: https://docs.qq.com/sheet/DYnJRZ2RpenJ3WGFH
+    env:
+      - qq
 
   - tag: text
     type: tip
