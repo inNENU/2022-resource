@@ -1,6 +1,6 @@
 title: 课程
 author: Mr.Hope
-time: 2021年9月14日
+time: 2021年12月3日
 grey: true
 shareable: true
 content:
@@ -8,19 +8,19 @@ content:
     header: 本科课程设置
     content:
       - text: 通识教育课程
-        icon: course
+        icon: content
         path: general/
 
       - text: 专业教育课程
-        icon: course
+        icon: content
         path: professional
 
       - text: 发展课程课程
-        icon: course
+        icon: content
         path: develop
 
       - text: 新生研讨课
-        icon: course
+        icon: content
         path: discuss
 
       - text: 本科课程计划

@@ -1,6 +1,6 @@
 title: Mac 小贴士
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 grey: true
 shareable: true
 content:
@@ -22,17 +22,17 @@ content:
       - text: 更多内容正在制作中...
 
   - tag: list
-    header: Mac 安装 Windows
+    header: 使用 Windows
     content:
-      - text: Intel 系列 Mac 使用 BootCamp
-        icon: idea
-        path: bootcamp
+      - text: 识别 MacBook 机型
+        icon: about
+        path: model
 
-      - text: M 系列 Mac 通过虚拟机
+      - text: 使用”启动转换助理“安装 Windows
+        icon: idea
+        path: bootcamp/
+
+      - text: 通过虚拟机运行 Windows
         icon: idea
         desc: 制作中
-
-      - text: 在 Windows 和 macOS 之间切换
-        icon: change
-        path: switch
         # path: parallels

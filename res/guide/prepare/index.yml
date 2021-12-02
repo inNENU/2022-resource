@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年11月21日
+time: 2021年12月3日
 grey: true
 shareable: true
 content:
@@ -40,7 +40,7 @@ content:
     header: 找到组织
     content:
       - text: 专业所属学院
-        icon: course
+        icon: content
         path: /intro/enroll/under/major/2021
 
       - text: 学校新生群

@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 grey: true
 shareable: true
 content:
@@ -38,17 +38,17 @@ content:
   - tag: list
     header: Mac
     content:
-      - text: 使用 BootCamp 安装 Windows
+      - text: 使用”启动转换助理“安装 Windows
         icon: idea
-        path: mac/bootcamp
-
-      - text: M 系列 Mac 通过虚拟机
-        icon: idea
-        desc: 制作中
+        path: mac/bootcamp/
 
       - text: 在 Windows 和 macOS 之间切换
         icon: change
-        path: mac/switch
+        path: mac/bootcamp/switch
+
+      - text: 通过虚拟机运行 Windows
+        icon: idea
+        desc: 制作中
 
       - text: 更多 Mac 相关
         icon: more

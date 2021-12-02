@@ -42,7 +42,7 @@ content:
         path: /intro/about/teacher
 
       - text: 学科建设
-        icon: course
+        icon: content
         path: /intro/about/subject
 
       - text: 东师排名

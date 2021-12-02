@@ -156,7 +156,7 @@ content:
       - text: 课程
         color: orange
         name: Course
-        icon: course
+        icon: content
         path: guide/course/
 
       - text: 学习
