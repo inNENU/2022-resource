@@ -1,6 +1,6 @@
 title: 升级到 Windows 11
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: title
@@ -12,6 +12,7 @@ content:
       - 同时，为了升级到 Windows 11，您的现有 Windows 10 版本不得低于 2004。
 
   - tag: list
+    header: false
     content:
       - text: 检查自己的电脑是否支持 Windows 11
         icon: support

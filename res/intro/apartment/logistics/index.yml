@@ -1,13 +1,13 @@
 title: 后勤管理处
 grey: true
 author: Mr.Hope
-time: 2021年11月28日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: account
     name: 后勤管理处
     logo: $img/media/logistics.jpg
-    detail: 东北师范大学图书馆
+    detail: 东北师范大学后勤管理处
     wxid: dongshihouqin
     wxcode: $img/media/logistics-wechat.jpg
     account: logistics

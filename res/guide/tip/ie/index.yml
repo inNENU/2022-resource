@@ -90,24 +90,18 @@ content:
         path: msedge
 
   - tag: text
-    type: warning
+    type: danger
     heading: 使用自带 IE 内核的 360 安全浏览器
     text:
-      - 360 安全浏览器自带 IE 内核，可以使用 IE 11 兼容模式打开网页。
-      - 但是 Mr.Hope 极其不推荐您安装 360。请您尽可能选择上方的两个选择。
-      - “屠杀恶龙的勇士坐在财宝上，慢慢长出了双翼、利爪和獠牙”，这就是 Mr.Hope 想在这里讲述的故事。如果您实在想用，Mr.Hope 强烈建议您修改下列配置。
+      - 360 安全浏览器自带 IE 内核，可以使用 IE 11 兼容模式打开网页，而且安装简单。但是 360 安全浏览器带有大量的推广、广告以及旗下其他产品、相关游戏的诱导下载，小白极易中招。
+      - Mr.Hope 极其不推荐您安装 360。请您尽可能选择上方的两个选择。
 
   - tag: list
     header: false
     content:
-      - text: 不建议使用 360 安全浏览器的原因
-        icon: alert
-        path: 360-evil
-
-      - text: 360 安全浏览器的推荐设置
-        desc: 如果你的确想用
-        icon: setting
-        path: 360-settings
+      - text: 360安全浏览器介绍
+        icon: 360-brower
+        path: 360/
 
   - tag: text
     type: info
@@ -115,9 +109,9 @@ content:
     text:
       - 由于 Internet Explorer 是微软在 Windows 上开发的软件，只能在 Windows 系统上运行，故其他系统并无较好方式。
       - |-
-        Linux: 大部分的 Linux 均支持双系统。请添加 Windows 作为双系统
+        Linux: 大部分的 Linux 均支持双系统。请添加 Windows 作为双系统。
       - |-
-        Mac 与 MacBook: 可以使用系统自带的 BootCamp 按照提示安装 Windows 作为双系统
+        Mac 与 MacBook: 可以使用系统自带的 BootCamp 按照提示安装 Windows 作为双系统。
       - |-
         MacBook ARM64 (M1 与 M1 Pro 芯片): 建议安装虚拟机 (如 Parallels)，通过虚拟机运行 ARM 版本 Windows。
       - |-

@@ -29,14 +29,16 @@ content:
 
   - tag: text
     text:
-      - 安装后，请点击地址栏右侧的扩展程序按钮，您应该可在列表中看到 IE Tab 图标。
+      - 安装后，点击扩展列表，之后点击 IE Tab 右侧的 “📌”图标，将此扩展固定到浏览器地址栏中。
       - 现在导航到任何页面并单击 IE Tab 图标，您就可以使用 IE 引擎打开页面。
 
-  - tag: text
-    type: tip
-    text:
-      - Mr.Hope 建议您点击列表中 IE Tab 右侧的 “📌”图标，将此扩展固定到浏览器地址栏中。
-      - 这样可以更方便的调用该扩展程序启用 IE 内核浏览。
+  - tag: img
+    src: $img/tip/ietab-pin.jpg
+    desc: 固定 IE Tab 到地址栏
+
+  - tag: img
+    src: $img/tip/ietab-usage.jpg
+    desc: 使用 IE Tab
 
   - tag: title
     text: 功能描述

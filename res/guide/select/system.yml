@@ -1,6 +1,6 @@
 title: 选课系统
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: title
@@ -79,7 +79,11 @@ content:
 
   - tag: img
     src: $img/tip/ietab-enable-popup.png
-    desc: IE Tab 允许弹窗，Internet Explorer 在页面下方
+    desc: IE Tab 允许弹窗
+
+  - tag: img
+    src: $img/tip/ie-enable-popup.jpg
+    desc: Internet Explorer 允许弹窗
 
   - tag: title
     text: Mr.Hope の 吐槽

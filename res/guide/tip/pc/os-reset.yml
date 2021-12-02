@@ -1,6 +1,6 @@
 title: 重置系统
 author: Mr.Hope
-time: 2021年12月1日
+time: 2021年12月2日
 shareable: true
 content:
   - tag: text
@@ -67,7 +67,7 @@ content:
     src: $img/tip/windows-reset-4.png
     desc: 开始重置
 
-  - tag: text
+  - tag: p
     text:
       - 如果您选择了云下载，此时系统会自动开始下载，请确保保持有效的网络连接。
       - 下载完成后，请耐心等待系统自动的重置工作。系统重置需要多个步骤，且电脑会在该过程中多次重启。整个步骤需要 20 - 40 分钟。重置结束后，你会看到 Windows 用户向导。
