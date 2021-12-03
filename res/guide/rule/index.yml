@@ -1,7 +1,7 @@
 title: 规章制度
 grey: true
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: list
@@ -20,18 +20,18 @@ content:
     content:
       - text: 东北师范大学学生违纪惩处办法
         icon: rule
-        path: /intro/apartment/student/rule
+        path: /intro/apt/student/rule
 
       - text: 常见犯错以及相关处罚规定
         icon: punish
-        path: /intro/apartment/student/punish
+        path: /intro/apt/student/punish
 
   - tag: list
     header: 宿舍管理
     content:
       - text: 东北师范大学学生公寓管理办法
         icon: rule
-        path: /intro/apartment/logistics/rule
+        path: /intro/apt/logistics/rule
 
       - text: 常见违禁物品
         icon: ban

@@ -14,4 +14,4 @@ content:
     content:
       - text: 校医院介绍
         icon: hospital
-        path: /intro/apartment/hospital/
+        path: /intro/apt/hospital/

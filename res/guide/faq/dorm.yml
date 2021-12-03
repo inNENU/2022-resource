@@ -1,6 +1,6 @@
 title: 寝室相关问答
 author: Mr.Hope
-time: 2021年11月23日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: title
@@ -130,4 +130,4 @@ content:
     content:
       - text: 原文详情
         icon: rule
-        path: /intro/apartment/logistics/rule
+        path: /intro/apt/logistics/rule

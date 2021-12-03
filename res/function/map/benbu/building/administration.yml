@@ -15,16 +15,16 @@ content:
         color: blue
         name: Student
         icon: student
-        path: /intro/apartment/student/
+        path: /intro/apt/student/
 
       - text: 学校办公室
         color: red
         name: Office
         icon: office
-        path: /intro/apartment/office/
+        path: /intro/apt/office/
 
       - text: 教务处
         color: blue
         name: Course
         icon: jwc
-        path: /intro/apartment/course/
+        path: /intro/apt/course/

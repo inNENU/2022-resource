@@ -1,6 +1,6 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2021年11月23日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: text
@@ -17,7 +17,7 @@ content:
     content:
       - text: 保卫科
         icon: safe
-        path: /intro/apartment/defend
+        path: /intro/apt/defend
 
   - tag: text
     type: tip

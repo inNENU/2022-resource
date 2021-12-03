@@ -1,6 +1,6 @@
 title: 选课相关问题
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: text
@@ -33,4 +33,4 @@ content:
     content:
       - text: 电子阅览室
         icon: pc
-        path: /intro/apartment/library/digit-room
+        path: /intro/apt/library/digit-room

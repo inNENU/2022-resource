@@ -23,4 +23,4 @@ content:
     content:
       - text: 更多详情
         icon: safe
-        path: /intro/apartment/defend
+        path: /intro/apt/defend

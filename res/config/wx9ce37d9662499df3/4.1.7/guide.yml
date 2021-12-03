@@ -193,7 +193,7 @@ content:
         color: blue
         name: Library
         icon: library
-        path: intro/apartment/library/
+        path: intro/apt/library/
 
       - text: 校内考试
         color: olive

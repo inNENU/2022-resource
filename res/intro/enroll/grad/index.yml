@@ -1,7 +1,7 @@
 title: 研究生招生
 grey: true
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: list
@@ -38,4 +38,4 @@ content:
     content:
       - text: 研究生院联系方式
         icon: phone
-        path: /intro/apartment/grad/contact
+        path: /intro/apt/grad/contact

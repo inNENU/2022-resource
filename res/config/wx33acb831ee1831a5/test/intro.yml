@@ -166,84 +166,84 @@ content:
         color: orange
         name: Enroll
         icon: enroll
-        path: intro/apartment/enroll/
+        path: intro/apt/enroll/
 
       - text: 研究生院
         color: grey
         name: Graduate
         icon: degree
-        path: intro/apartment/grad/
+        path: intro/apt/grad/
 
       - text: 党委学生工作部
         color: blue
         name: Student
         icon: student
-        path: intro/apartment/student/
+        path: intro/apt/student/
 
       - text: 党委宣传部
         color: olive
         name: Publicize
         icon: league
-        path: intro/apartment/publicize/
+        path: intro/apt/publicize/
 
       - text: 学生心理健康教育中心
         color: orange
         name: Psychology
         icon: psychology
-        path: intro/apartment/psychology/
+        path: intro/apt/psychology/
 
       - text: 学校办公室
         color: red
         name: Office
         icon: office
-        path: intro/apartment/office/
+        path: intro/apt/office/
 
       - text: 校团委
         color: purple
         name: League
         icon: league
-        path: intro/apartment/youth-league/
+        path: intro/apt/youth-league/
 
       - text: 后勤管理处
         color: cyan
         name: Logistics
         icon: repair
-        path: intro/apartment/logistics/
+        path: intro/apt/logistics/
 
       - text: 校医院
         color: olive
         name: Hospital
         icon: hospital
-        path: intro/apartment/hospital/
+        path: intro/apt/hospital/
 
       - text: 保卫科
         color: mauve
         name: Defend
         icon: safe
-        path: intro/apartment/defend
+        path: intro/apt/defend
 
       - text: 图书馆
         color: cyan
         name: Library
         icon: library
-        path: intro/apartment/library/
+        path: intro/apt/library/
 
       - text: 教务处
         color: blue
         name: Course
         icon: jwc
-        path: intro/apartment/course/
+        path: intro/apt/course/
 
       - text: 学生就业指导服务中心
         color: cyan
         name: Career
         icon: job
-        path: intro/apartment/career
+        path: intro/apt/career
 
       - text: 档案馆
         color: purple
         name: Archive
         icon: archive
-        path: intro/apartment/archive/
+        path: intro/apt/archive/
 
     footer: " "

@@ -1,6 +1,6 @@
 title: 就医
 author: Mr.Hope
-time: 2021年9月7日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     content:
       - text: 校医院详情
         icon: hospital
-        path: /intro/apartment/hospital/
+        path: /intro/apt/hospital/
 
   - tag: p
     type: tip
