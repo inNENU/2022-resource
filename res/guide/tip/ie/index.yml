@@ -128,4 +128,4 @@ content:
 
       - text: MacBook 通过虚拟机运行 Windows
         icon: apple
-        desc: 制作中
+        path: ../mac/parallels/

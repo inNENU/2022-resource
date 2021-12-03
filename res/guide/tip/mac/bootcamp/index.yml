@@ -16,7 +16,7 @@ content:
       - text: 通过虚拟机运行 Windows
         icon: idea
         desc: 制作中
-        # path: ../parallels
+        path: ../parallels/
 
   - tag: list
     content:

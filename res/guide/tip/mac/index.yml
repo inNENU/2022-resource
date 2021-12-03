@@ -40,7 +40,6 @@ content:
         icon: idea
         path: bootcamp/
 
-      - text: 通过虚拟机运行 Windows
+      - text: 通过 Parallels Desktop 运行 Windows
         icon: idea
-        desc: 制作中
-        # path: parallels
+        path: parallels/
