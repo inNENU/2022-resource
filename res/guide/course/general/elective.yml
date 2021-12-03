@@ -1,6 +1,6 @@
 title: 通识选修课程
 author: Mr.Hope
-time: 2021年8月22日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: title
@@ -13,6 +13,12 @@ content:
       - 文科学生至少在自然科学类课程中修满 4 学分
       - 理科学生至少在人文与艺术和社会与行为科学类课程中修满 4 学分
       - 不同专业对学分类别可能有不同的其他要求，具体请见课程计划
+
+  - tag: text
+    type: tip
+    heading: 课程类别更名
+    text:
+      - 对于 2021 级，课程计划中的原”社会行为与科学“修改为”思想政治与行为科学“，两者仅名称修改，实际上完全等同。
 
   - tag: title
     text: 课程介绍

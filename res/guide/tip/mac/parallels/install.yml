@@ -11,13 +11,13 @@ content:
 
   - tag: ol
     text:
-      - 访问上述网址，并允许下载文件。
+      - 访问上述网址，并允许下载文件
       - 下载完成后，运行下载文件
       - 双击图标开始在线下载和安装
 
   - tag: img
     src: $img/tip/mac/parallels/download.png
-    desc: 启动镜像
+    desc: 双击打开镜像
 
   - tag: img
     src: $img/tip/mac/parallels/warning.png
@@ -25,7 +25,7 @@ content:
 
   - tag: img
     src: $img/tip/mac/parallels/install.png
-    desc: 开始安装
+    desc: 双击右侧图标开始安装
 
   - tag: text
     text: 安装程序会自动下载最新版 Parallels Desktop，请您耐心等待。

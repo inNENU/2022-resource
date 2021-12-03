@@ -27,17 +27,17 @@ content:
         icon: windows
         path: win11
 
+      - text: 使用 Parallels Desktop
+        icon: intro
+        path: usage
+
       - text: Parallels Desktop 虚拟机网络设置
         icon: network
         path: network
 
-      - text: 禁止通过 PD Runner 延长试用期
+      - text: 避免通过 PD Runner 延长试用期
         icon: alert
-        path: forbid
-
-      - text: 使用 Parallels Desktop
-        icon: intro
-        path: usage
+        path: pd-runner
 
       # - text: 常见问题
       #   icon: faq

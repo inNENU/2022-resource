@@ -1,0 +1,23 @@
+title: 校园邮箱客户端设置
+grey: true
+author: Mr.Hope
+time: 2021年12月3日
+shareable: true
+content:
+  - tag: list
+    content:
+      - text: 安卓邮箱客户端设置
+        icon: android
+        path: Android
+
+      - text: iOS 邮箱客户端设置
+        icon: apple
+        path: iOS
+
+      - text: Windows 邮箱客户端设置
+        icon: windows
+        path: windows
+
+      - text: macOS 邮箱客户端设置
+        icon: apple
+        path: macos

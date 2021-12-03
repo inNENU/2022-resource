@@ -1,13 +1,28 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/3
+
+  - tag: ul
+    heading: 新增
+    text:
+      - Mac 设置邮件客户端
+      - Mac 通过 Parallel 安装虚拟机
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 添加研究生教学楼地址
+      - 增加新版课程描述
+
+  - tag: title
     text: 12/2
 
   - tag: ul
     heading: 新增
     text:
       - Mac 贴士
-      - Mac 通过 BootCamp 安装虚拟机
+      - Mac 通过 BootCamp 安装双系统
       - Mac 在系统间切换
       - Mac 布局介绍
       - Mac 访达介绍

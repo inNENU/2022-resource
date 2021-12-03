@@ -211,6 +211,11 @@ school:
 building:
   name: 建筑
   content:
+    - latitude: 43.859888
+      longitude: 125.331184
+      name: 研究生教学楼
+      detail: 东北师范大学研究生教学楼
+
     - latitude: 43.86111
       longitude: 125.32752
       name: 研究生多媒体教室

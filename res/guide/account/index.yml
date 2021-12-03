@@ -1,7 +1,7 @@
 title: 账户
 grey: true
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: p
@@ -25,20 +25,12 @@ content:
     header: 校园邮箱
     content:
       - text: 邮箱介绍
-        icon: email
+        icon: intro
         path: mail/intro
 
-      - text: 安卓邮箱客户端设置
-        icon: android
-        path: mail/android
-
-      - text: iOS 邮箱客户端设置
-        icon: apple
-        path: mail/ios
-
-      - text: Windows 邮箱客户端设置
-        icon: windows
-        path: mail/windows
+      - text: 邮箱客户端设置
+        icon: email
+        path: mail/client
 
   - tag: list
     header: 企业微信

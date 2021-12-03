@@ -38,17 +38,17 @@ content:
   - tag: list
     header: Mac
     content:
+      - text: macOS 使用教程
+        icon: intro
+        path: mac/guide
+
       - text: 使用”启动转换助理“安装 Windows
         icon: idea
         path: mac/bootcamp/
 
-      - text: 在 Windows 和 macOS 之间切换
-        icon: change
-        path: mac/bootcamp/switch
-
-      - text: 通过虚拟机运行 Windows
+      - text: 通过 Parallels 运行 Windows
         icon: idea
-        desc: 制作中
+        path: mac/parallels/
 
       - text: 更多 Mac 相关
         icon: more
