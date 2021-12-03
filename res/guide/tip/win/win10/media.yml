@@ -1,0 +1,44 @@
+title: Windows 10 启动盘制作
+author: Mr.Hope
+time: 2021年12月3日
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 请准备一个不小于 8 GB 的空 U 盘 (或你确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
+
+  - tag: copy
+    header: Windows 10 媒体制作工具
+    text: https://go.microsoft.com/fwlink/?LinkId=691209
+
+  - tag: title
+    text: Windows 10 启动盘制作流程
+
+  - tag: img
+    src: $img/tip/win10-media-1.png
+
+  - tag: img
+    src: $img/tip/win10-media-2.png
+
+  - tag: img
+    src: $img/tip/win10-media-3.png
+
+  - tag: img
+    src: $img/tip/win10-media-4.png
+    desc: 视您使用的U盘品牌，其名称可能与图片不符
+
+  - tag: img
+    src: $img/tip/win10-media-5.png
+
+  - tag: img
+    src: $img/tip/win10-media-6.png
+
+  - tag: img
+    src: $img/tip/win10-media-7.png
+
+  - tag: img
+    src: $img/tip/win10-media-8.png
+
+  - tag: img
+    src: $img/tip/win10-media-9.png

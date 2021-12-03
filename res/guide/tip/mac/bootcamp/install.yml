@@ -65,11 +65,11 @@ content:
     content:
       - text: Windows 10 安装
         icon: idea
-        path: ../../win/win10-install
+        path: ../../win/win10/install
 
       - text: Windows 10 用户向导
         icon: intro
-        path: ../../win/win10-setup
+        path: ../../win/win10/setup
 
   - tag: text
     text:

@@ -13,7 +13,7 @@ content:
     content:
       - text: 如何升级 Windows 11
         icon: upgrade
-        path: win/win11-upgrade
+        path: win/win11/upgrade
 
       - text: 使用 IE 内核浏览网页
         icon: ie
@@ -40,7 +40,7 @@ content:
     content:
       - text: macOS 使用教程
         icon: intro
-        path: mac/guide
+        path: mac/guide/
 
       - text: 使用”启动转换助理“安装 Windows
         icon: idea

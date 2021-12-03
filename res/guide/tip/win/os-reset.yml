@@ -1,6 +1,6 @@
 title: 重置系统
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 shareable: true
 content:
   - tag: text
@@ -76,7 +76,7 @@ content:
     header: false
     content:
       - text: Windows 11 用户向导
-        path: win11-setup
+        path: win11/setup
 
       - text: Windows 10 用户向导
-        path: win10-setup
+        path: win10/setup

@@ -1,6 +1,6 @@
 title: Windows 小贴士
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月3日
 grey: true
 shareable: true
 content:
@@ -34,15 +34,15 @@ content:
     content:
       - text: Windows 11 支持的设备
         icon: support
-        path: win11-support
+        path: win11/support
 
       - text: 如何升级 Windows 11
         icon: upgrade
-        path: win11-upgrade
+        path: win11/upgrade
 
       - text: 制作 Windows 11 启动盘
         icon: udisk
-        path: win11-media
+        path: win11/media
 
       - text: 从 Windows 11 启动盘启动
         icon: play
@@ -50,22 +50,22 @@ content:
 
       - text: Windows 11 启动盘安装指引
         icon: idea
-        path: win11-install
+        path: win11/install
 
       - text: Windows 11 用户向导指引
         icon: intro
-        path: win11-setup
+        path: win11/setup
 
   - tag: list
     header: Windows 10
     content:
       - text: 更新到最新版 Windows 10
         icon: upgrade
-        path: win10-upgrade
+        path: win10/upgrade
 
       - text: 制作 Windows 10 启动盘
         icon: udisk
-        path: win10-media
+        path: win10/media
 
       - text: 从 Windows 10 启动盘启动
         icon: play
@@ -73,11 +73,11 @@ content:
 
       - text: Windows 10 启动盘安装指引
         icon: idea
-        path: win10-install
+        path: win10/install
 
       - text: Windows 10 用户向导指引
         icon: intro
-        path: win10-setup
+        path: win10/setup
 
   - tag: list
     header: 系统修复
