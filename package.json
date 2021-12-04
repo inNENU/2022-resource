@@ -4,10 +4,13 @@
   "private": true,
   "description": "inNENU 小程序资源文件",
   "scripts": {
+    "generate-v5": "ts-node ./scripts-v5/gen",
     "generate": "ts-node ./scripts/gen",
     "generate:account": "ts-node ./scripts/gen/account",
-    "lint": "prettier --check --write . && eslint --fix --ext .ts .",
-    "lint:check": "prettier --check . && eslint --ext .ts .",
+    "eslint": "yarn eslint:check --fix",
+    "eslint:check": "eslint --ext .ts .",
+    "lint": "prettier --check --write . && yarn eslint",
+    "lint:check": "prettier --check . && yarn eslint:check",
     "prepare": "husky install",
     "push": "ts-node ./scripts/push",
     "upload": "ts-node ./scripts/upload.ts"

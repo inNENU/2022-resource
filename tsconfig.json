@@ -35,5 +35,5 @@
     "locale": "zh-CN",
     "module": "CommonJS"
   },
-  "include": ["./scripts", "./typings"]
+  "include": ["./scripts", "./scripts-v5", "./typings"]
 }
