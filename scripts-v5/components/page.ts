@@ -17,7 +17,11 @@ import { resolvePhone } from "./phone";
 import { resolveText } from "./text";
 import { resolveTitle } from "./title";
 
-import type { PageConfig, PageData } from "./typings";
+import type {
+  ConvertedComponentOptions,
+  PageOptions,
+  PageConfig,
+} from "./typings";
 
 /**
  * 处理页面数据
@@ -29,17 +33,17 @@ import type { PageConfig, PageData } from "./typings";
  */
 // eslint-disable-next-line max-lines-per-function
 export const resolvePage = (
-  page: PageConfig,
+  page: PageOptions,
   pagePath = "",
   diffResult = ""
-): PageData => {
+): PageConfig => {
   if (!page) throw new Error(`${pagePath} doesn't contain anything`);
   if (!page.content)
     throw new Error(`${pagePath}.content doesn't contain anything`);
 
   const id = page.id || pagePath;
   const images: string[] = [];
-  const pageData: PageData = {
+  const pageData: PageConfig = {
     ...page,
     cite: typeof page.cite === "string" ? [page.cite] : page.cite || [],
     id,
@@ -95,7 +99,7 @@ export const resolvePage = (
       // @ts-ignore
       delete element.tag;
 
-      return [tag, element];
+      return [tag, element] as ConvertedComponentOptions;
     }),
   };
 

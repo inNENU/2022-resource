@@ -18,7 +18,7 @@ import type { AccountConfig, AccountDetail } from "./account";
 import type { Donate } from "./donate";
 import type { PEConfig } from "./peScore";
 import type { MarkerOption } from "./marker";
-import type { ComponentOptions, PageConfig } from "../components/typings";
+import type { ComponentOptions, PageOptions } from "../components/typings";
 
 // 删除旧的文件
 del([
@@ -36,7 +36,7 @@ convertYml2Json("./res/function", "./r/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
-    ? resolveLocationPage(data as PageConfig & { photo?: string[] }, filePath)
+    ? resolveLocationPage(data as PageOptions & { photo?: string[] }, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
     : /account\/(qq|wx)/u.exec(filePath)
@@ -51,17 +51,17 @@ const diffResult = execSync("git status -s").toString();
 
 // 东师介绍
 convertYml2Json("./res/intro", "./r/intro", (data, filePath) =>
-  resolvePage(data as PageConfig, `intro/${filePath}`, diffResult)
+  resolvePage(data as PageOptions, `intro/${filePath}`, diffResult)
 );
 
 // 东师指南
 convertYml2Json("./res/guide", "./r/guide", (data, filePath) =>
-  resolvePage(data as PageConfig, `guide/${filePath}`, diffResult)
+  resolvePage(data as PageOptions, `guide/${filePath}`, diffResult)
 );
 
 // 其他文件
 convertYml2Json("./res/other", "./r/other", (data, filePath) =>
-  resolvePage(data as PageConfig, `other/${filePath}`, diffResult)
+  resolvePage(data as PageOptions, `other/${filePath}`, diffResult)
 );
 
 // 生成转码后的图标
@@ -86,13 +86,13 @@ count();
 
 // 重新生成 guide
 convertYml2Json("./res/other/guide", "./r/other/guide", (data, filePath) =>
-  resolvePage(data as PageConfig, filePath)
+  resolvePage(data as PageOptions, filePath)
 );
 
 // 生成 tab 页
 convertYml2Json("./res/config", "./r/config", (data, filePath) =>
   /(function|guide|intro|main|user)/u.exec(filePath)
-    ? resolvePage(data as PageConfig, filePath)
+    ? resolvePage(data as PageOptions, filePath)
     : /(about|log)/u.exec(filePath)
     ? (data as ComponentOptions[]).map((element) => {
         const { tag } = element;

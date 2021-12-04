@@ -3,7 +3,7 @@ import { resolve } from "path";
 
 import { getFileList } from "../util";
 import type { SearchInfo } from "./typings";
-import type { PageConfig } from "../components/typings";
+import type { PageOptions } from "../components/typings";
 
 // 创建搜索字典
 const createSearchMap = (folder: string): SearchInfo => {
@@ -15,7 +15,7 @@ const createSearchMap = (folder: string): SearchInfo => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const pageConfig = JSON.parse(content) as PageConfig;
+    const pageConfig = JSON.parse(content) as PageOptions;
     const pathName = `${folder}/${filePath}`.replace(
       /\.\/resource\/(.*)\.json/u,
       "$1"

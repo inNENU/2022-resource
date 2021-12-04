@@ -68,7 +68,7 @@ export type ComponentOptions =
   | TitleComponentOptions;
 
 /** 页面配置 */
-export interface PageConfig {
+export interface PageOptions {
   /** 页面标题 */
   title: string;
   /** 页面描述 */
@@ -115,8 +115,54 @@ export interface PageConfig {
   hidden?: boolean;
 }
 
+// type A = {
+//   a: string | undefined;
+//   b: number;
+//   c?: boolean;
+// };
+
+// type KV<K, V> = {
+//   [K]: V;
+// };
+
+// type ExtractRequired<T> = {
+//   [P in keyof T]: Pick<T, P> extends KV<infer K, infer V> ? T[P] : never;
+// };
+
+// type Test = ExtractRequired<A>;
+
+// type RequiredA = {
+//   a: string | undefined;
+//   b: number;
+// };
+
+export type ConvertComponentOptions<T extends ComponentOptions> = keyof Omit<
+  T,
+  "tag"
+> extends never
+  ? [T["tag"]]
+  : [T["tag"], Omit<T, "tag">];
+
+export type ConvertedComponentOptions =
+  | ConvertComponentOptions<AccountComponentOptions>
+  | ConvertComponentOptions<CarouselComponentOptions>
+  | ConvertComponentOptions<CardComponentOptions>
+  | ConvertComponentOptions<CopyComponentOptions>
+  | ConvertComponentOptions<DocComponentOptions>
+  | ConvertComponentOptions<FooterComponentOptions>
+  | ConvertComponentOptions<FunctionalListComponentOptions>
+  | ConvertComponentOptions<GridComponentOptions>
+  | ConvertComponentOptions<ListComponentOptions>
+  | ConvertComponentOptions<LocationComponentOptions>
+  | ConvertComponentOptions<ImageComponentOptions>
+  | ConvertComponentOptions<MediaComponentOptions>
+  | ConvertComponentOptions<LoadingComponentOptions>
+  | ConvertComponentOptions<PhoneComponentOptions>
+  | ConvertComponentOptions<TextComponentOptions>
+  | ConvertComponentOptions<TitleComponentOptions>;
+
 /** 页面数据 */
-export interface PageData {
+export interface PageConfig {
   /** 页面标题 */
   title: string;
   /** 页面描述 */
@@ -130,7 +176,7 @@ export interface PageData {
   /** 是否是灰色背景 */
   grey?: boolean;
   /** 页面内容 */
-  content: [string, Exclude<ComponentOptions, "tag">][];
+  content: ConvertedComponentOptions[];
   /** 页面图片 */
   images?: string[];
   /**

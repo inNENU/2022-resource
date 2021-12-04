@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
 
-import { PageConfig } from "../components/typings";
+import { PageOptions } from "../components/typings";
 import { getFileList, getWordNumber } from "../util";
 
 export const getJSONValue = (content: unknown): string => {
@@ -30,7 +30,7 @@ export const getWords = (path: string): number => {
       readFileSync(resolve(path, filePath), {
         encoding: "utf-8",
       })
-    ) as PageConfig;
+    ) as PageOptions;
 
     const content = getJSONValue(pageContent);
 

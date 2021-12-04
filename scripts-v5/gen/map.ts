@@ -1,12 +1,12 @@
 import { resolvePage } from "../components/page";
 import { aliasResolve } from "../components/utils";
 
-import type { PageConfig, PageData } from "../components/typings";
+import type { PageOptions, PageConfig } from "../components/typings";
 
 export const resolveLocationPage = (
-  data: PageConfig & { photo?: string[] },
+  data: PageOptions & { photo?: string[] },
   filePath: string
-): PageData & { photo?: string[] } => {
+): PageConfig & { photo?: string[] } => {
   data.photo?.forEach((link, index) => {
     // `$` alias resolve and file check
     (data.photo as string[])[index] = aliasResolve(
