@@ -5,8 +5,8 @@
  *
  * PHP version 8
  *
- * @category  donate
- * @package   donate
+ * @category  version
+ * @package   version
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
  * @copyright 2018-2021 Mr.Hope
  * @license   No License
@@ -15,17 +15,14 @@
 
 declare(strict_types=1);
 
-require_once('./header/get-json.php');
+// require_once('./header/post-json.php');
+header("content-type:application/json;charset=utf-8");
 
-chdir("../resource/config/donate/");
+chdir("../r/");
 
-$year = $_GET['year'];
-
-$filename = $year . ".json";
-
-$handle = @fopen($filename, "r");
+$handle = @fopen("version.json", "r");
 if ($handle) {
-  $contents = fread($handle, filesize($filename));
+  $contents = fread($handle, filesize("version.json"));
   fclose($handle);
   echo $contents;
 } else {
