@@ -25,7 +25,7 @@ const convertBase64SVG = (content: string): string =>
 
 export const genIcon = (): void => {
   const fileList = getFileList("./res/icon", "svg");
-  const genFileList = getFileList("./resource/icon");
+  const genFileList = getFileList("./r/icon");
   const hintIconData: Record<string, string> = {};
   const weatherIconData: Record<string, string> = {};
   const shareIconData: Record<string, string> = {};
@@ -33,7 +33,7 @@ export const genIcon = (): void => {
   // remove files
   genFileList.forEach((path) => {
     if (fileList.every((filePath) => !filePath.includes(path)))
-      unlinkSync(resolve("./resource/icon", path));
+      unlinkSync(resolve("./r/icon", path));
   });
 
   fileList.forEach((filePath) => {
@@ -59,7 +59,7 @@ export const genIcon = (): void => {
 
       shareIconData[path] = convertBase64SVG(svgContent);
     } else {
-      const folderPath = dirname(resolve("./resource/icon", filePath));
+      const folderPath = dirname(resolve("./r/icon", filePath));
 
       if (!existsSync(folderPath)) mkdirSync(folderPath, { recursive: true });
 
@@ -68,7 +68,7 @@ export const genIcon = (): void => {
       });
 
       writeFileSync(
-        resolve("./resource/icon", filePath.replace(/\.svg$/u, "")),
+        resolve("./r/icon", filePath.replace(/\.svg$/u, "")),
         convertBase64SVG(svgContent),
         { encoding: "utf-8" }
       );
@@ -76,24 +76,20 @@ export const genIcon = (): void => {
   });
 
   // 生成天气图标
-  const weatherFolderPath = "./resource/icon/weather";
+  const weatherFolderPath = "./r/icon/weather";
 
   if (!existsSync(weatherFolderPath))
     mkdirSync(weatherFolderPath, { recursive: true });
 
-  writeFileSync("./resource/icon/weather/hint", JSON.stringify(hintIconData), {
+  writeFileSync("./r/icon/weather/hint", JSON.stringify(hintIconData), {
     encoding: "utf-8",
   });
 
-  writeFileSync(
-    "./resource/icon/weather/icon",
-    JSON.stringify(weatherIconData),
-    {
-      encoding: "utf-8",
-    }
-  );
+  writeFileSync("./r/icon/weather/icon", JSON.stringify(weatherIconData), {
+    encoding: "utf-8",
+  });
 
-  writeFileSync("./resource/icon/shareicons", JSON.stringify(shareIconData), {
+  writeFileSync("./r/icon/shareicons", JSON.stringify(shareIconData), {
     encoding: "utf-8",
   });
 };

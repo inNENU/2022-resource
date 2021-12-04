@@ -17,7 +17,7 @@ const createSearchMap = (folder: string): SearchInfo => {
     });
     const pageConfig = JSON.parse(content) as PageOptions;
     const pathName = `${folder}/${filePath}`.replace(
-      /\.\/resource\/(.*)\.json/u,
+      /\.\/r\/(.*)\.json/u,
       "$1"
     );
 
@@ -121,14 +121,14 @@ const createSearchMap = (folder: string): SearchInfo => {
 export const genSearchMap = (): void => {
   console.log("Generating search index...");
 
-  const guideSearchMap = createSearchMap("./resource/guide");
-  const introSearchMap = createSearchMap("./resource/intro");
+  const guideSearchMap = createSearchMap("./r/guide");
+  const introSearchMap = createSearchMap("./r/intro");
 
   // 写入关键词列表
-  writeFileSync("./resource/guide-search.json", JSON.stringify(guideSearchMap));
-  writeFileSync("./resource/intro-search.json", JSON.stringify(introSearchMap));
+  writeFileSync("./r/guide-search.json", JSON.stringify(guideSearchMap));
+  writeFileSync("./r/intro-search.json", JSON.stringify(introSearchMap));
   writeFileSync(
-    "./resource/all-search.json",
+    "./r/all-search.json",
     JSON.stringify({ ...guideSearchMap, ...introSearchMap })
   );
 
