@@ -1,9 +1,9 @@
 import { checkKeys } from "@mr-hope/assert-type";
 import { aliasResolve } from "../utils";
-import type { AudioConponentOptions } from "./typings";
+import type { AudioComponentOptions } from "./typings";
 
 export const resolveAudio = (
-  element: AudioConponentOptions,
+  element: AudioComponentOptions,
   location = ""
 ): void => {
   // `$` alias resolve and file check

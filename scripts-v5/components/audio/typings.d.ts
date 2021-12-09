@@ -1,6 +1,6 @@
 import type { BaseComponentOptions } from "../common";
 
-export interface AudioConponentOptions extends BaseComponentOptions {
+export interface AudioComponentOptions extends BaseComponentOptions {
   tag: "audio";
   /** 媒体文件的在线网址或本地路径	 */
   src: string;

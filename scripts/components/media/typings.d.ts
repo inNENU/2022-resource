@@ -18,7 +18,7 @@ interface MediaBaseComponentOptions extends BaseComponentOptions {
   controls?: boolean;
 }
 
-export interface AudioConponentOptions extends MediaBaseComponentOptions {
+export interface AudioComponentOptions extends MediaBaseComponentOptions {
   type: "audio";
   /**
    * 音频名字
@@ -68,5 +68,5 @@ export interface VideoComponentOptions extends MediaBaseComponentOptions {
 }
 
 export type MediaComponentOptions =
-  | AudioConponentOptions
+  | AudioComponentOptions
   | VideoComponentOptions;

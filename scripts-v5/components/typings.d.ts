@@ -1,6 +1,6 @@
 import type { AccountComponentOptions } from "./account/typings";
 import type { ActionComponentOptions } from "./action/typings";
-import type { AudioConponentOptions } from "./audio/typings";
+import type { AudioComponentOptions } from "./audio/typings";
 import type { CardComponentOptions } from "./card/typings";
 import type { CarouselComponentOptions } from "./carousel/typings";
 import type { DocComponentOptions } from "./doc/typings";
@@ -55,7 +55,7 @@ export type PageTag =
 export type ComponentOptions =
   | AccountComponentOptions
   | ActionComponentOptions
-  | AudioConponentOptions
+  | AudioComponentOptions
   | CarouselComponentOptions
   | CardComponentOptions
   | DocComponentOptions
