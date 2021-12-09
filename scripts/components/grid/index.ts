@@ -20,7 +20,7 @@ export const resolveGrid = (
     location
   );
 
-  element.content.forEach((gridItem) => {
+  element.content?.forEach((gridItem) => {
     // 处理路径
     if (gridItem.path)
       if (gridItem.path.startsWith("/")) {

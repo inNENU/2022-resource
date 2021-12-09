@@ -23,7 +23,7 @@ export const resolveList = (
     location
   );
 
-  element.content.forEach((listItem, index) => {
+  element.content?.forEach((listItem, index) => {
     if (listItem.icon)
       if (
         !listItem.icon.match(/^https?:\/\//) &&

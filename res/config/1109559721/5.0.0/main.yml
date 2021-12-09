@@ -8,7 +8,7 @@ content:
 
   # - tag: list
   #   header: false
-  #   content:
+  #   items:
   #     - text: 招新详情
   #       url: page?path=other/hope-studio/invite
 
@@ -17,7 +17,7 @@ content:
 
   - tag: grid
     header: 您可能想关注
-    content:
+    items:
       - text: 学生组织
         color: blue
         name: Orgnazation
