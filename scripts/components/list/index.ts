@@ -24,6 +24,17 @@ export const resolveList = (
   );
 
   element.content.forEach((listItem, index) => {
+    if (listItem.icon)
+      if (
+        !listItem.icon.match(/^https?:\/\//) &&
+        !listItem.icon.match(/\./) &&
+        !existsSync(`./res/icon/${listItem.icon}.svg`)
+      ) {
+        console.warn(`Icon ${listItem.icon} not exist in ${location}`);
+      }
+      // `$` alias resolve and file check
+      else listItem.icon = aliasResolve(listItem.icon, "Image", location);
+
     if ("type" in listItem) {
       if (listItem.type === "navigator") {
         if (!listItem.openType) listItem.openType = "navigate";
@@ -187,17 +198,6 @@ export const resolveList = (
 
         listItem.path = path;
       }
-
-      if (listItem.icon)
-        if (
-          !listItem.icon.match(/^https?:\/\//) &&
-          !listItem.icon.match(/\./) &&
-          !existsSync(`./res/icon/${listItem.icon}.svg`)
-        ) {
-          console.warn(`Icon ${listItem.icon} not exist in ${location}`);
-        }
-        // `$` alias resolve and file check
-        else listItem.icon = aliasResolve(listItem.icon, "Image", location);
 
       checkKeys(
         listItem,

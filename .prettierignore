@@ -1,2 +1,2 @@
-resource/**/*.json
-script/**/*.js
+/r/
+/resource/

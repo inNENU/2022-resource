@@ -3,12 +3,12 @@
 /**
  * Page Handler
  *
- * PHP version 7
+ * PHP version 8
  *
  * @category  weather
  * @package   weather
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2018-2020 Mr.Hope
+ * @copyright 2018-2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
