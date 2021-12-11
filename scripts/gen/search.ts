@@ -36,8 +36,12 @@ const createSearchMap = (folder: string): SearchInfo => {
           ...(searchMap[pathName].title || []),
           element.text,
         ];
-
-      if (element.tag === "text") {
+      else if (
+        element.tag === "text" ||
+        element.tag === "ul" ||
+        element.tag === "ol" ||
+        element.tag === "p"
+      ) {
         /** 写入段落标题 */
         if (element.heading && element.heading !== true)
           searchMap[pathName].heading = [
@@ -51,9 +55,7 @@ const createSearchMap = (folder: string): SearchInfo => {
             ...(searchMap[pathName].text || []),
             ...element.text,
           ];
-      }
-
-      if (element.tag === "list" && element.content) {
+      } else if (element.tag === "list" && element.content) {
         /** 写入段落标题 */
         if (element.header)
           searchMap[pathName].heading = [
@@ -69,9 +71,7 @@ const createSearchMap = (folder: string): SearchInfo => {
               config.text,
             ];
         });
-      }
-
-      if (element.tag === "card")
+      } else if (element.tag === "card")
         searchMap[pathName].card = [
           ...(searchMap[pathName].card || []),
           {
@@ -79,8 +79,7 @@ const createSearchMap = (folder: string): SearchInfo => {
             ...(element.desc ? { desc: element.desc } : {}),
           },
         ];
-
-      if (element.tag === "doc")
+      else if (element.tag === "doc")
         searchMap[pathName].doc = [
           ...(searchMap[pathName].doc || []),
           {
@@ -88,14 +87,12 @@ const createSearchMap = (folder: string): SearchInfo => {
             icon: element.icon,
           },
         ];
-
-      if (element.tag === "img" && element.desc)
+      else if (element.tag === "img" && element.desc)
         searchMap[pathName].text = [
           ...(searchMap[pathName].text || []),
           element.desc,
         ];
-
-      if (element.tag === "account") {
+      else if (element.tag === "account") {
         searchMap[pathName].heading = [
           ...(searchMap[pathName].heading || []),
           element.name,

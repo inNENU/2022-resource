@@ -32,7 +32,12 @@ const createSearchMap = (folder: string): SearchInfo => {
       /** 写入段落大标题 */
       if (element.tag === "title")
         searchMap[pathName].index.push(["title", element.text]);
-      else if (element.tag === "text") {
+      else if (
+        element.tag === "text" ||
+        element.tag === "ul" ||
+        element.tag === "ol" ||
+        element.tag === "p"
+      ) {
         /** 写入段落标题 */
         if (element.heading && element.heading !== true)
           searchMap[pathName].index.push(["heading", element.heading]);
