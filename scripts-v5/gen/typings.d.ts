@@ -1,18 +1,21 @@
+export type TitleSearchIndex = ["title", string];
+export type HeadingSearchIndex = ["heading", string];
+export type TextSearchIndex = ["text", string];
+export type ImageSearchIndex = ["img", string];
+export type CardSearchIndex = ["card", { title: string; desc: string }];
+export type DocSearchIndex = ["doc", { name: string; icon: string }];
+export type SearchIndex =
+  | TitleSearchIndex
+  | HeadingSearchIndex
+  | TextSearchIndex
+  | ImageSearchIndex
+  | DocSearchIndex
+  | CardSearchIndex;
+
 export interface SearchInfoItem {
   /** 页面名称 */
   name: string;
-  /** 页面描述 */
-  desc?: string;
-  /** 页面标题 */
-  title?: string[];
-  /** 页面段落标题 */
-  heading?: string[];
-  /** 页面文字 */
-  text?: string[];
-  /** 页面卡片 */
-  card?: { title: string; desc?: string }[];
-  /** 页面文档 */
-  doc?: { name: string; icon: string }[];
+  index: SearchIndex[];
 }
 
 export type SearchInfo = Record<string, SearchInfoItem>;

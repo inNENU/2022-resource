@@ -24,93 +24,63 @@ const createSearchMap = (folder: string): SearchInfo => {
     // 生成对应页面的索引对象
     searchMap[pathName] = {
       name: pageConfig.title,
+      index: [],
     };
-
-    if (pageConfig.desc) searchMap[pathName].desc = pageConfig.desc;
 
     // 将页面的标题写入搜索详情中
     pageConfig.content.forEach((element) => {
       /** 写入段落大标题 */
       if (element.tag === "title")
-        searchMap[pathName].title = [
-          ...(searchMap[pathName].title || []),
-          element.text,
-        ];
-
-      if (element.tag === "text") {
+        searchMap[pathName].index.push(["title", element.text]);
+      else if (element.tag === "text") {
         /** 写入段落标题 */
         if (element.heading && element.heading !== true)
-          searchMap[pathName].heading = [
-            ...(searchMap[pathName].heading || []),
-            element.heading,
-          ];
+          searchMap[pathName].index.push(["heading", element.heading]);
 
         /** 写入段落文字 */
         if (element.text)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            ...element.text,
-          ];
-      }
-
-      if (element.tag === "list" && element.content) {
+          element.text.forEach((item) => {
+            searchMap[pathName].index.push(["text", item]);
+          });
+      } else if (element.tag === "img" && element.desc)
+        searchMap[pathName].index.push(["img", element.desc]);
+      else if (element.tag === "list") {
         /** 写入段落标题 */
         if (element.header)
-          searchMap[pathName].heading = [
-            ...(searchMap[pathName].heading || []),
-            element.header,
-          ];
+          searchMap[pathName].index.push(["heading", element.header]);
 
         /** 写入段落文字  */
-        element.content.forEach((config) => {
+        element.items?.forEach((config) => {
           if (config.text && !config.path && !config.url)
-            searchMap[pathName].text = [
-              ...(searchMap[pathName].text || []),
-              config.text,
-            ];
+            searchMap[pathName].index.push(["text", config.text]);
         });
-      }
-
-      if (element.tag === "card")
-        searchMap[pathName].card = [
-          ...(searchMap[pathName].card || []),
+      } else if (element.tag === "card")
+        searchMap[pathName].index.push([
+          "card",
           {
             title: element.title,
-            ...(element.desc ? { desc: element.desc } : {}),
+            desc: element.desc || "",
           },
-        ];
-
-      if (element.tag === "doc")
-        searchMap[pathName].doc = [
-          ...(searchMap[pathName].doc || []),
+        ]);
+      else if (element.tag === "doc")
+        searchMap[pathName].index.push([
+          "doc",
           {
             name: element.name,
             icon: element.icon,
           },
-        ];
-
-      if (element.tag === "img" && element.desc)
-        searchMap[pathName].text = [
-          ...(searchMap[pathName].text || []),
-          element.desc,
-        ];
-
-      if (element.tag === "account") {
-        searchMap[pathName].heading = [
-          ...(searchMap[pathName].heading || []),
-          element.name,
-        ];
+        ]);
+      else if (element.tag === "account") {
+        searchMap[pathName].index.push(["heading", element.name]);
         if (element.detail)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            element.detail,
-          ];
+          searchMap[pathName].index.push(["text", element.detail]);
         if (element.desc)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            element.desc,
-          ];
-      }
+          searchMap[pathName].index.push(["text", element.desc]);
+      } else if (element.tag === "phone")
+        searchMap[pathName].index.push([
+          "text",
+          `${element.lName || ""}${element.fName}: ${element.num}`,
+        ]);
     });
   });
 
