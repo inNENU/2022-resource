@@ -3,12 +3,12 @@
 /**
  * Page Handler
  *
- * PHP version 7
+ * PHP version 8
  *
  * @category  Page
  * @package   Page
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2019 Mr.Hope
+ * @copyright 2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */

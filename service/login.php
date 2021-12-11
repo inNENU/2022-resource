@@ -3,12 +3,12 @@
 /**
  * Login Handler
  *
- * PHP version 7
+ * PHP version 8
  *
  * @category  Login
  * @package   Login
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2020 Mr.Hope
+ * @copyright 2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
@@ -19,17 +19,18 @@ require_once('./header/post-json.php');
 require_once('./lib/curl.php');
 require_once('./info/appid.php');
 
-// 获得传递数据
-$json = json_decode(file_get_contents('php://input'));
+if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
+  // 获得传递数据
+  $data = json_decode(file_get_contents('php://input'));
 
-// 获得登录状态码
-$env = $json->env;
-$code = $json->code;
-$appID = $json->appID;
-$secret = $AppSecretList[$appID];
+  // 获得登录状态码
+  $env = $data->env;
+  $code = $data->code;
+  $appID = $data->appID;
+  $secret = $AppSecretList[$appID];
 
-$url =  'https://api.' . ($env === 'qq' ? 'q' : 'weixin') . '.qq.com/sns/jscode2session?appid=' . $appID . '&secret=' . $secret . '&js_code=' . $code . '&grant_type=authorization_code';
+  $url =  'https://api.' . ($env === 'qq' ? 'q' : 'weixin') . '.qq.com/sns/jscode2session?appid=' . $appID . '&secret=' . $secret . '&js_code=' . $code . '&grant_type=authorization_code';
 
-$response = curlGet($url);
-echo $response;
-$data = json_decode($response, true);
+  $response = curlGet($url);
+  echo $response;
+}

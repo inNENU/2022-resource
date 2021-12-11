@@ -15,16 +15,17 @@
 
 declare(strict_types=1);
 
-// require_once('./header/post-json.php');
-header("content-type:application/json;charset=utf-8");
+require_once('./header/post-json.php');
 
-chdir("../r/");
+if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
+  chdir("../r/");
 
-$handle = @fopen("version.json", "r");
-if ($handle) {
-  $contents = fread($handle, filesize("version.json"));
-  fclose($handle);
-  echo $contents;
-} else {
-  echo 'error';
+  $handle = @fopen("version.json", "r");
+  if ($handle) {
+    $contents = fread($handle, filesize("version.json"));
+    fclose($handle);
+    echo $contents;
+  } else {
+    echo 'error';
+  }
 }

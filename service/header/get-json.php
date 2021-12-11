@@ -3,12 +3,12 @@
 /**
  * Request Header for posts that return json
  *
- * PHP version 7
+ * PHP version 8
  *
  * @category  header
  * @package   header/post-json
  * @author    Mr.Hope <zhangbowang1998@gmail.com>
- * @copyright 2020 Mr.Hope
+ * @copyright 2021 Mr.Hope
  * @license   No License
  * @link      https://mrhope.site
  */
