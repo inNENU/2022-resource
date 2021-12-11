@@ -25,7 +25,6 @@ function generateWordInfo($word)
   ];
 }
 
-
 /**
  * 生成匹配词
  * 
@@ -128,7 +127,6 @@ function getWordList($searchWord,  $searchIndex)
   return $words;
 }
 
-
 function getMatchList($words, $indexContent)
 {
   $weight = 0;
@@ -225,7 +223,7 @@ function getMatchList($words, $indexContent)
             $matchList,
             [
               'type' => 'text',
-              'before' => ($startIndex === 0 ? "" : "...") . mb_substr($config, $startIndex, $pos - $startIndex),
+              'pre' => ($startIndex === 0 ? "" : "...") . mb_substr($config, $startIndex, $pos - $startIndex),
               'word' => $word->text,
               'after' => mb_substr($config, $pos + mb_strlen($word->text), $endIndex - $pos + 1) . ($endIndex === mb_strlen($config) - 1 ? "" : "...")
             ]
@@ -319,24 +317,10 @@ function getResult($searchWord, $searchIndex)
   return $searchResult;
 }
 
-function m_mb_convert_encoding($string)
-{
-  if (!is_array($string) && !is_int($string)) {
-    return mb_convert_encoding($string, 'UTF-8', 'UTF-8');
-  }
-
-  foreach ($string as $key => $value) {
-    $string[$key] = m_mb_convert_encoding($value);
-  }
-
-  return $string;
-}
-
 if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   chdir("../r/");
 
   $data = json_decode(file_get_contents('php://input'));
-
 
   $scope = $data->scope || 'all';
   $word = $data->word;
@@ -354,9 +338,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
     if ($type === 'word') {
       echo (json_encode(getWordList($word, $content), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
     } else if ($type === 'result') {
-      echo (json_encode(m_mb_convert_encoding(getResult($word, $content)), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
       echo (json_encode((getResult($word, $content)), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
-      json_last_error();
     } else {
       echo 'error';
     }
