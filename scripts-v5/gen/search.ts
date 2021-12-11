@@ -48,7 +48,17 @@ const createSearchMap = (folder: string): SearchInfo => {
             searchMap[pathName].index.push(["text", item]);
           });
       } else if (element.tag === "img" && element.desc)
-        searchMap[pathName].index.push(["img", element.desc]);
+        searchMap[pathName].index.push([
+          "img",
+          {
+            desc: element.desc,
+            icon: element.src.match(/\.jpe?g$/i)
+              ? "jpg"
+              : element.src.match(/\.png$/i)
+              ? "png"
+              : "document",
+          },
+        ]);
       else if (element.tag === "list") {
         /** 写入段落标题 */
         if (element.header)

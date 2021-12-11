@@ -1,7 +1,7 @@
 export type TitleSearchIndex = ["title", string];
 export type HeadingSearchIndex = ["heading", string];
 export type TextSearchIndex = ["text", string];
-export type ImageSearchIndex = ["img", string];
+export type ImageSearchIndex = ["img", { desc: string; icon: string }];
 export type CardSearchIndex = ["card", { title: string; desc: string }];
 export type DocSearchIndex = ["doc", { name: string; icon: string }];
 export type SearchIndex =

@@ -62,6 +62,8 @@ function generateWords($searchWord)
             'weight' => pow(2, $wordNumber)
           ]);
         }
+
+        array_push($index, $result);
       }
     }
   }
@@ -153,7 +155,10 @@ function getMatchList($words, $indexContent)
           mb_strpos($config, $word->text)  !== false
         ) {
           $weight += 4 * $word->weight;
-          array_push($matchList, ['title', $config]);
+          array_push(
+            $matchList,
+            ['title', $config]
+          );
         }
       }
     }
@@ -164,7 +169,10 @@ function getMatchList($words, $indexContent)
           mb_strpos($config, $word->text)  !== false
         ) {
           $weight += 2 * $word->weight;
-          array_push($matchList, ['heading', $config]);
+          array_push(
+            $matchList,
+            ['heading', $config]
+          );
         }
       }
     }
@@ -175,10 +183,13 @@ function getMatchList($words, $indexContent)
           mb_strpos($config->name, $word->text)  !== false
         ) {
           $weight += 2 * $word->weight;
-          array_push($matchList, ['doc', [
-            'name' => $config->name,
-            'icon' => $config->icon
-          ]]);
+          array_push(
+            $matchList,
+            ['doc', [
+              'name' => $config->name,
+              'icon' => $config->icon
+            ]]
+          );
         }
       }
     }
@@ -189,18 +200,24 @@ function getMatchList($words, $indexContent)
           mb_strpos($config->title, $word->text)  !== false
         ) {
           $weight += 2 * $word->weight;
-          array_push($matchList, ['card', [
-            'title' => $config->title,
-            'desc' => $config->desc
-          ]]);
+          array_push(
+            $matchList,
+            ['card', [
+              'title' => $config->title,
+              'desc' => $config->desc
+            ]]
+          );
         } else if (
           mb_strpos($config->desc, $word->text)  !== false
         ) {
           $weight += 2 * $word->weight;
-          array_push($matchList, ['card', [
-            'title' => $config->title,
-            'desc' => $config->desc
-          ]]);
+          array_push(
+            $matchList,
+            ['card', [
+              'title' => $config->title,
+              'desc' => $config->desc
+            ]]
+          );
         }
       }
     }
@@ -225,6 +242,23 @@ function getMatchList($words, $indexContent)
               'word' => $word->text,
               'pre' => ($startIndex === 0 ? "" : "...") . mb_substr($config, $startIndex, $pos - $startIndex),
               'after' => mb_substr($config, $pos + mb_strlen($word->text), $endIndex - $pos + 1) . ($endIndex === mb_strlen($config) - 1 ? "" : "...")
+            ]]
+          );
+        }
+      }
+    }
+    // 搜索图片，权重为 1
+    else if ($type === 'img') {
+      foreach ($words as $word) {
+        if (
+          mb_strpos($config->desc, $word->text)  !== false
+        ) {
+          $weight += 1 * $word->weight;
+          array_push(
+            $matchList,
+            ['img', [
+              'desc' => $config->desc,
+              'icon' => $config->icon,
             ]]
           );
         }
@@ -273,7 +307,6 @@ function getMatchList($words, $indexContent)
  */
 function getResult($searchWord, $searchIndex)
 {
-
   $wordsInfo = generateWords($searchWord);
   $result = [];
 
@@ -287,16 +320,16 @@ function getResult($searchWord, $searchIndex)
       ];
     } else {
       for ($index = 0; $index < count($wordsInfo['index']); $index++) {
-        $matchResult = getMatchList($wordsInfo['index'][$index], $indexContent);
+        $matchResult = getMatchList($wordsInfo['index'][$index]['items'], $indexContent);
 
         if ($matchResult['weight']) {
           $result[$pageID] = [
-            'weight' => $matchResult['weight'] * 100,
+            'weight' => $matchResult['weight'] * $wordsInfo['index'][$index]['level'],
             'index' => $matchResult['matchList'],
           ];
-        }
 
-        break;
+          break;
+        }
       }
     }
   }
@@ -305,12 +338,18 @@ function getResult($searchWord, $searchIndex)
 
   $searchResult = [];
 
+  $count = 0;
+
   foreach ($result as $pageID => $indexList) {
-    array_push($searchResult, [
-      'title' => $searchIndex->$pageID->name,
-      'id' => $pageID,
-      'index' => $indexList['index'],
-    ]);
+    // max 30 pages
+    if ($count < 30) {
+      $count++;
+      array_push($searchResult, [
+        'title' => $searchIndex->$pageID->name,
+        'id' => $pageID,
+        'index' => $indexList['index'],
+      ]);
+    }
   }
 
   return $searchResult;
