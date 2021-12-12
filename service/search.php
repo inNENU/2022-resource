@@ -86,26 +86,26 @@ function generateWords($searchWord)
  *
  * @return string[] 匹配的候选词列表
  */
-function getWordList($searchWord,  $searchIndex)
+function getWordList($searchWord, $searchIndex)
 {
   $words = [];
 
   foreach ($searchIndex as $indexContent) {
     $name = isset($indexContent->name) ? $indexContent->name : "";
-    $desc = isset($indexContent->desc) ? $indexContent->desc :  "";
+    $desc = isset($indexContent->desc) ? $indexContent->desc : "";
     $title = isset($indexContent->title) ? $indexContent->title : [];
     $heading =
       isset($indexContent->heading) ? $indexContent->heading : [];
 
     // 检查标题是否包含了 searchWord
-    if (mb_strpos($name, $searchWord)  !== false && in_array($name, $words)  === false) {
+    if (mb_strpos($name, $searchWord) !== false && in_array($name, $words) === false) {
       array_push($words, $name);
     }
 
     // 检查描述是否包含了 searchWord
     if (
-      mb_strpos($desc, $searchWord)  !== false
-      && in_array($desc, $words)  === false
+      mb_strpos($desc, $searchWord) !== false
+      && in_array($desc, $words) === false
     ) {
       array_push($words, $desc);
     }
@@ -113,8 +113,8 @@ function getWordList($searchWord,  $searchIndex)
     // 检查大标题是否包含了 searchWord
     foreach ($title as $item) {
       if (
-        mb_strpos($item, $searchWord)  !== false
-        && in_array($item, $words)  === false
+        mb_strpos($item, $searchWord) !== false
+        && in_array($item, $words) === false
       ) {
         array_push($words, $item);
       }
@@ -123,8 +123,8 @@ function getWordList($searchWord,  $searchIndex)
     // 检查小标题是否包含了 searchWord
     foreach ($heading as $item) {
       if (
-        mb_strpos($item, $searchWord)  !== false
-        && in_array($item, $words)  === false
+        mb_strpos($item, $searchWord) !== false
+        && in_array($item, $words) === false
       ) {
         array_push($words, $item);
       }
@@ -136,28 +136,29 @@ function getWordList($searchWord,  $searchIndex)
 
 function getMatchList($words, $indexContent)
 {
-  $weight = 0;
+  $matchTimes = 0;
   $matchList = [];
+  $weight = 0;
 
-  // 搜索页面标题，权重为 8
   foreach ($words as $word) {
+    $currentMatched = count($matchList);
+
+    // 搜索页面标题，权重为 8
     if (
-      mb_strpos($indexContent->name, $word->text)  !== false
+      mb_strpos($indexContent->name, $word->text) !== false
     ) {
       $weight += 8 * $word->weight;
     }
-  }
 
-  // 搜索页面索引
-  foreach ($indexContent->index as $indexItem) {
-    $type = $indexItem[0];
-    $config = $indexItem[1];
+    // 搜索页面索引
+    foreach ($indexContent->index as $indexItem) {
+      $type = $indexItem[0];
+      $config = $indexItem[1];
 
-    // 搜索大标题，权重为 4
-    if ($type === 'title') {
-      foreach ($words as $word) {
+      // 搜索大标题，权重为 4
+      if ($type === 'title') {
         if (
-          mb_strpos($config, $word->text)  !== false
+          mb_strpos($config, $word->text) !== false
         ) {
           $weight += 4 * $word->weight;
           array_push(
@@ -166,12 +167,10 @@ function getMatchList($words, $indexContent)
           );
         }
       }
-    }
-    // 搜索段落标题，权重为 2
-    else if ($type === 'heading') {
-      foreach ($words as $word) {
+      // 搜索段落标题，权重为 2
+      else if ($type === 'heading') {
         if (
-          mb_strpos($config, $word->text)  !== false
+          mb_strpos($config, $word->text) !== false
         ) {
           $weight += 2 * $word->weight;
           array_push(
@@ -180,12 +179,10 @@ function getMatchList($words, $indexContent)
           );
         }
       }
-    }
-    // 搜索文档，权重为 2
-    else if ($type === 'doc') {
-      foreach ($words as $word) {
+      // 搜索文档，权重为 2
+      else if ($type === 'doc') {
         if (
-          mb_strpos($config->name, $word->text)  !== false
+          mb_strpos($config->name, $word->text) !== false
         ) {
           $weight += 2 * $word->weight;
           array_push(
@@ -197,12 +194,10 @@ function getMatchList($words, $indexContent)
           );
         }
       }
-    }
-    // 搜索卡片，权重为 2
-    else if ($type === 'card') {
-      foreach ($words as $word) {
+      // 搜索卡片，权重为 2
+      else if ($type === 'card') {
         if (
-          mb_strpos($config->title, $word->text)  !== false
+          mb_strpos($config->title, $word->text) !== false
         ) {
           $weight += 2 * $word->weight;
           array_push(
@@ -213,7 +208,7 @@ function getMatchList($words, $indexContent)
             ]]
           );
         } else if (
-          mb_strpos($config->desc, $word->text)  !== false
+          mb_strpos($config->desc, $word->text) !== false
         ) {
           $weight += 2 * $word->weight;
           array_push(
@@ -225,10 +220,8 @@ function getMatchList($words, $indexContent)
           );
         }
       }
-    }
-    // 搜索文字，权重为 1
-    else if ($type === 'text') {
-      foreach ($words as $word) {
+      // 搜索文字，权重为 1
+      else if ($type === 'text') {
         $pos = mb_strpos($config, $word->text);
 
         if (
@@ -251,12 +244,10 @@ function getMatchList($words, $indexContent)
           );
         }
       }
-    }
-    // 搜索图片，权重为 1
-    else if ($type === 'img') {
-      foreach ($words as $word) {
+      // 搜索图片，权重为 1
+      else if ($type === 'img') {
         if (
-          mb_strpos($config->desc, $word->text)  !== false
+          mb_strpos($config->desc, $word->text) !== false
         ) {
           $weight += 1 * $word->weight;
           array_push(
@@ -269,10 +260,15 @@ function getMatchList($words, $indexContent)
         }
       }
     }
+
+    if ($currentMatched !== count($matchList)) {
+      $matchTimes++;
+    }
   }
 
+
   return [
-    'weight' => $weight,
+    'weight' => pow(16, $matchTimes - 1) * $weight,
     'matchList' => $matchList,
   ];
 }
@@ -282,31 +278,6 @@ function getMatchList($words, $indexContent)
  *
  * @param searchWord 输入的搜索词
  * @param category 搜索分类
- *
- * 
- * 搜索匹配详情
- * interface SearchContentDetail {
- *   type: "title" | "heading" | "text" | "card" | "doc";
- *   [props: string]: any;
- * }
- * 
- * 搜索内容
- * interface SearchContent {
- *   权重
- *   weight: number;
- *   搜索内容
- *   content: SearchContentDetail[];
- * }
- * 
- * 搜索结果
- * interface SearchResult {
- *   页面标题
- *   title: string;
- *   页面标识
- *   id: string;
- *   搜索内容
- *   content?: SearchContentDetail[];
- * }
  * 
  * @return SearchResult[] 匹配的结果列表
  */
@@ -320,7 +291,7 @@ function getResult($searchWord, $searchIndex)
 
     if ($matchResult['weight']) {
       $result[$pageID] = [
-        'weight' => $matchResult['weight'] * 100,
+        'weight' => $matchResult['weight'] * 4096,
         'index' => $matchResult['matchList'],
       ];
     } else {
