@@ -41,47 +41,24 @@ content:
   - tag: text
     text: 同学们主要有三种交通方式到达本部。
 
-  - tag: title
-    text: 地铁(推荐)
-
   - tag: text
     type: tip
+    heading: 地铁 (推荐)
     text: 地铁是最快最便捷的方式，推荐大家选择地铁。
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: train
-        path: subway
-
-  - tag: title
-    text: 打车
+    path: subway
 
   - tag: text
+    type: info
+    heading: 打车
     text:
       - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
       - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: taxi
-        path: taxi
-
-  - tag: title
-    text: 公交(不推荐)
+    path: taxi
 
   - tag: text
     type: danger
+    heading: 公交 (不推荐)
     text:
       - 乘坐公交比较麻烦，路途花费的时间也更长。
       - Mr.Hope 不认为任何人会差这点钱! 不要坐公交!
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: bus
-        path: bus
+    path: bus

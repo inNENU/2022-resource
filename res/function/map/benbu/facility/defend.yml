@@ -11,6 +11,11 @@ content:
       # - 为保障学生安全，保卫科会派巡逻车在校园内巡视。
 
   - tag: text
+    type: info
+    heading: 保卫处介绍
+    path: /intro/apt/defend
+
+  - tag: text
     type: warning
     text:
       - 如发现或遭遇安全问题，请一定要拨打保卫科热线。
@@ -21,10 +26,3 @@ content:
     org: 东北师范大学
     street: 吉林省长春市人民大街5268号
     postCode: 130024
-
-  - tag: list
-    header: false
-    items:
-      - text: 更多详情
-        icon: safe
-        path: /intro/apt/defend

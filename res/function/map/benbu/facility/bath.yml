@@ -7,17 +7,13 @@ photo:
   - $img/bath/benbu-env.webp
   - $img/bath/benbu-outside.webp
 content:
-  - tag: title
-    text: 简介
-
   - tag: p
+    type: info
     text:
-      - 学生浴池在九舍南侧，一楼是男宾、二楼是女宾。
-      - 浴池一楼还有奶茶店、水果店、健身器材等设施。
+      - 本部学生浴池在九舍南侧，一楼是男宾、二楼是女宾。
+      - 浴池一楼同时包含奶茶店、水果店、理发店、眼镜店、烘焙店、洗衣店等店铺，同时还包含了休息室、健身器材等设施。
 
-  - tag: list
-    header: false
-    items:
-      - text: 更多详情
-        icon: bath
-        path: /guide/bath/
+  - tag: text
+    type: info
+    heading: 更多详情
+    path: /guide/bath/
