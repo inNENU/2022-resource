@@ -9,7 +9,7 @@ content:
     text: 此页面内容仍在完善中...
 
   - tag: list
-    content:
+    items:
       - text: 过年
         path: year
 

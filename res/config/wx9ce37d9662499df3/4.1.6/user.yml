@@ -4,7 +4,7 @@ grey: true
 hidden: true
 content:
   - tag: list
-    content:
+    items:
       - text: 小程序使用指南
         icon: idea
         url: page?path=other/guide/
@@ -19,7 +19,7 @@ content:
 
   - tag: functional-list
     header: 设置
-    content:
+    items:
       - type: picker
         icon: theme
         text: 主题设置
@@ -41,7 +41,7 @@ content:
         url: storage
 
   - tag: functional-list
-    content:
+    items:
       - text: 分享小程序
         icon: share
         type: button

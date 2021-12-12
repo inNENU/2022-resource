@@ -72,7 +72,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 保卫科
         icon: safe
         path: /intro/apt/defend

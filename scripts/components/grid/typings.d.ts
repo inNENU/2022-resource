@@ -19,8 +19,6 @@ export interface GridComponentOptions extends BaseComponentOptions {
   tag: "grid";
   header?: string | false;
   items: GridComponentItemOptions[];
-  // TODO: Remove
-  content?: GridComponentItemOptions[];
   /** 网格页脚 */
   footer?: string;
 }

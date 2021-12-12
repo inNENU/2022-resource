@@ -43,6 +43,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 其他人员班车授权
         path: bus-other

@@ -47,6 +47,6 @@ content:
       - (3)本人对家庭经济困难情况说明；
       - (4)学生家庭所在地有关部门出具的家庭经济困难证明。
 
-  - tag: copy
+  - tag: action
     header: 原文地址
-    text: http://www.moe.gov.cn/jyb_hygq/hygq_zczx/moe_1346/moe_1351/201802/t20180211_327290.html
+    content: http://www.moe.gov.cn/jyb_hygq/hygq_zczx/moe_1346/moe_1351/201802/t20180211_327290.html

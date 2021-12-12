@@ -15,7 +15,7 @@ content:
 
   - tag: list
     header: 图书馆
-    content:
+    items:
       - text: 图书馆简介
         icon: intro
         path: intro
@@ -62,7 +62,7 @@ content:
 
   - tag: list
     header: 图书馆
-    content:
+    items:
       - text: 常见问题
         icon: faq
         path: faq

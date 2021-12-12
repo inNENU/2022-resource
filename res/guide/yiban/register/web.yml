@@ -6,8 +6,8 @@ content:
   - tag: text
     text: 首先打开浏览器访问 https://www.yiban.cn/。点右上角的【注册】按钮。
 
-  - tag: copy
-    text: https://www.yiban.cn/
+  - tag: action
+    content: https://www.yiban.cn/
 
   - tag: img
     src: $img/yiban/web-mainpage.jpg

@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 数学与应用数学
         path: math
 

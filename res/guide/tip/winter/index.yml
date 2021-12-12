@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 冬季御寒衣物选择
         icon: life
         path: cloth

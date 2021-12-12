@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 英语免修申请
         icon: english
         path: /guide/system/under/exemption/english

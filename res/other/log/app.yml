@@ -5,7 +5,7 @@ content:
 
   - tag: list
     header: v4.4.5
-    content:
+    items:
       - text: |-
           · 新增位置组件
           · 优化账户组件
@@ -14,13 +14,13 @@ content:
 
   - tag: list
     header: v4.3.0
-    content:
+    items:
       - text: |-
           · 适配 iPad
 
   - tag: list
     header: v4.2.0
-    content:
+    items:
       - text: |-
           · 新增东师网站
           · 新增东师媒体号
@@ -29,20 +29,20 @@ content:
 
   - tag: list
     header: v4.1.0
-    content:
+    items:
       - text: |-
           · 重构 Tab 页 UI
           · 优化分享逻辑
 
   - tag: list
     header: v4.0.0
-    content:
+    items:
       - text: |-
           · 重构底层，进一步提升性能
 
   - tag: list
     header: 更多
-    content:
+    items:
       - text: 查看详细日志
         icon: time
         url: page?path=other/log/history/

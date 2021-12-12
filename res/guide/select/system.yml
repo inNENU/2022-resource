@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用 IE 内核浏览网页
         icon: ie
         path: /guide/tip/ie/
@@ -31,19 +31,19 @@ content:
     heading: 本科生
     text: 打开浏览器输入 http://xk.nenu.edu.cn/ 直接进入选课页面。
 
-  - tag: copy
-    text: http://xk.nenu.edu.cn/
+  - tag: action
+    content: http://xk.nenu.edu.cn/
 
   - tag: text
     heading: 研究生
     text: 打开浏览器输入 http://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
 
-  - tag: copy
-    text: http://dsyjs.nenu.edu.cn/yjsxk/
+  - tag: action
+    content: http://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: list
     header: 使用说明
-    content:
+    items:
       - text: 选课系统使用说明
         icon: idea
         path: guide
@@ -59,7 +59,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 信息化办
         icon: pc
         path: /guide/card/office

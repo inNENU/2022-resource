@@ -16,7 +16,7 @@ content:
 
   # - tag: list
   #   header: 运营商
-  #   content:
+  #   items:
   #     - text: 中国联通
   #       icon: unicom
   #       desc: 往年政策

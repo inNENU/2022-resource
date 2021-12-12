@@ -15,7 +15,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 选课介绍
         icon: select
         path: /guide/select/

@@ -5,7 +5,7 @@ shareable: true
 content:
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看浴池详情
         icon: bath
         path: /guide/bath/

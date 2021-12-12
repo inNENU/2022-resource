@@ -8,12 +8,6 @@ export const resolveGrid = (
   pageId: string,
   location = ""
 ): void => {
-  // TODO: Remove
-  if (element.content) {
-    element.items = element.content;
-    delete element.content;
-  }
-
   element.items?.forEach((gridItem) => {
     // 处理路径
     if (gridItem.path)

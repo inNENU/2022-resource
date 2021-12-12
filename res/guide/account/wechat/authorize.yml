@@ -19,7 +19,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 修改手机号
         icon: phone
         path: change

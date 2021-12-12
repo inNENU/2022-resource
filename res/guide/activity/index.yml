@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 开学活动
-    content:
+    items:
       - text: 体检
         icon: medical-exam
         path: /guide/check/medical-examination
@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 其他活动
-    content:
+    items:
       - text: 军训介绍
         icon: intro
         path: military/intro

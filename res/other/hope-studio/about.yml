@@ -29,7 +29,7 @@ content:
 
   - tag: list
     header: 工作室招新
-    content:
+    items:
       - type: navigator
         text: 招新详情
         openType: redirect

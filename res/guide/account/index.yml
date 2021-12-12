@@ -16,14 +16,14 @@ content:
 
   - tag: list
     header: 了解更多
-    content:
+    items:
       - text: 统一身份认证
         icon: authorize
         path: authorize
 
   - tag: list
     header: 校园邮箱
-    content:
+    items:
       - text: 邮箱介绍
         icon: intro
         path: mail/intro
@@ -34,7 +34,7 @@ content:
 
   - tag: list
     header: 企业微信
-    content:
+    items:
       - text: 企业号介绍
         icon: wechat
         path: wechat/intro

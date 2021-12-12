@@ -12,13 +12,13 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用“启动转换助理”安装 Windows
         icon: idea
         path: ../bootcamp/
 
   - tag: list
-    content:
+    items:
       - text: 安装 Parallels Desktop
         icon: idea
         path: install

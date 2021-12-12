@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: 替代方案
-    content:
+    items:
       - text: 使用 IETab 扩展程序
         icon: ie
         path: ../ietab/
@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: 详情
-    content:
+    items:
       - text: 不建议使用 360 安全浏览器的原因
         icon: alert
         path: evil
@@ -42,7 +42,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 360 安全浏览器的推荐设置
         icon: setting
         path: setting

@@ -63,7 +63,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

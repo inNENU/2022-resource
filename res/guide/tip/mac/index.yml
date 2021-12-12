@@ -10,14 +10,14 @@ content:
 
   - tag: list
     header: 快速上手
-    content:
+    items:
       - text: Mac 使用教程
         icon: idea
         path: guide/
 
   - tag: list
     header: 使用 Windows
-    content:
+    items:
       - text: 识别 MacBook 机型
         icon: about
         path: model

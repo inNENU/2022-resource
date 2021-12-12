@@ -12,14 +12,14 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 通过虚拟机运行 Windows
         icon: idea
         desc: 制作中
         path: ../parallels/
 
   - tag: list
-    content:
+    items:
       - text: 哪些机型可以使用启动转换助理
         icon: intro
         path: device

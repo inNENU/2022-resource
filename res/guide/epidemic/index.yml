@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: 返校相关
-    content:
+    items:
       - text: 返校/报到需要满足的条件
         icon: alert
         path: requirement
@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: 吉祥码
-    content:
+    items:
       - text: 吉祥码简介
         icon: intro
         path: jixiang-code/intro
@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: 通信行程卡
-    content:
+    items:
       - text: 通信行程卡介绍
         icon: intro
         path: history-visit/intro
@@ -56,13 +56,13 @@ content:
 
   - tag: list
     header: 东师e起战疫
-    content:
+    items:
       - text: 小程序介绍
         icon: intro
         path: /guide/miniapp/
 
   - tag: list
-    content:
+    items:
       - text: 国家防疫健康信息码
         icon: code
         path: health-code

@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 寝室分布
-    content:
+    items:
       - text: 寝室分配
         desc: 是否可以选择寝室
         icon: faq
@@ -26,7 +26,7 @@ content:
 
   - tag: list
     header: 寝室详细介绍
-    content:
+    items:
       - text: 室内环境介绍
         icon: environment
         path: detail/env
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: 配套设置
-    content:
+    items:
       - text: 热水房
         icon: hot-water
         path: detail/hot-water
@@ -64,7 +64,7 @@ content:
 
   - tag: list
     header: 供电供网
-    content:
+    items:
       - text: 供电时间
         icon: time
         path: electricity/time
@@ -83,7 +83,7 @@ content:
 
   - tag: list
     header: 规章制度
-    content:
+    items:
       - text: 寝室门禁
         icon: door-guard
         path: door
@@ -96,12 +96,12 @@ content:
         icon: ban
         path: ban
 
-  - tag: copy
+  - tag: action
     header: 故障报修
-    text: http://gyglxt.nenu.edu.cn/?typeName=repair
+    content: http://gyglxt.nenu.edu.cn/?typeName=repair
 
   - tag: list
-    content:
+    items:
       - text: Mr.Hope の建议
         icon: idea
         path: advice

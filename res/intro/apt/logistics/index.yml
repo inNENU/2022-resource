@@ -15,7 +15,7 @@ content:
     site: http://www.library.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 机构设置
         icon: about
         path: intro

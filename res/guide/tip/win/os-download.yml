@@ -6,13 +6,13 @@ content:
   - tag: title
     text: Windows 镜像下载
 
-  - tag: copy
+  - tag: action
     header: Windows 10
-    text: ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_x64_dvd_cf28838e.iso|5859952640|8B3EDE1AEEEAFAB777F6DFB46960ECE2|/
+    content: ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_x64_dvd_cf28838e.iso|5859952640|8B3EDE1AEEEAFAB777F6DFB46960ECE2|/
 
-  - tag: copy
+  - tag: action
     header: Windows 11
-    text: ed2k://|file|zh-cn_windows_11_consumer_editions_version_21h2_updated_october_2021_x64_dvd_47addd14.iso|5523668992|64F5B433CC2A9814DC4D04DC265E4D3B|/
+    content: ed2k://|file|zh-cn_windows_11_consumer_editions_version_21h2_updated_october_2021_x64_dvd_47addd14.iso|5523668992|64F5B433CC2A9814DC4D04DC265E4D3B|/
 
   - tag: text
     type: tip

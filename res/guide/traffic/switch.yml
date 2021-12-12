@@ -19,7 +19,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 轨道交通运营线路
         icon: flow
         path: railway/line

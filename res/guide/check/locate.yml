@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 本部校区校门介绍
         icon: gate
         path: benbu
@@ -71,7 +71,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 净月校区校门介绍
         icon: gate
         path: jingyue
@@ -96,7 +96,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 地址与快递相关
         icon: express
         path: /guide/express/

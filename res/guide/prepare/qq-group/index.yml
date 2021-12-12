@@ -6,14 +6,14 @@ shareable: true
 content:
   - tag: list
     header: 防止诈骗
-    content:
+    items:
       - text: 常见网上诈骗
         icon: alert
         path: /guide/prepare/cheat
 
   - tag: list
     header: 找到组织
-    content:
+    items:
       - text: 专业所属学院
         icon: content
         path: /intro/enroll/under/major/2021

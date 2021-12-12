@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 轨道交通
         icon: train
         path: subway
@@ -31,7 +31,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码注册与使用
         icon: register
         path: /guide/epidemic/jixiang-code/
@@ -72,7 +72,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 更多打车相关提示
         icon: taxi
         path: /guide/arrival/taxi

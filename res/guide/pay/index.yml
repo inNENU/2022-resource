@@ -15,7 +15,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: PC 缴费
         desc: 推荐
         icon: pc

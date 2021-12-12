@@ -11,7 +11,7 @@ content:
 
   - tag: grid
     header: 衣
-    content:
+    items:
       - text: 洗衣店
         name: Washing
         color: red
@@ -26,7 +26,7 @@ content:
 
   - tag: grid
     header: 食
-    content:
+    items:
       - text: 食堂
         name: Dining
         color: mavue
@@ -53,7 +53,7 @@ content:
 
   - tag: grid
     header: 住
-    content:
+    items:
       - text: 寝室
         name: Dorm
         color: blue
@@ -98,7 +98,7 @@ content:
 
   - tag: grid
     header: 行
-    content:
+    items:
       - text: 交通出行
         name: Traffic
         color: blue

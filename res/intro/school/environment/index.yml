@@ -17,7 +17,7 @@ content:
     site: https://hjxy.nenu.edu.cn
 
   - tag: list
-    content:
+    items:
       - text: 学院简介
         icon: about
         path: intro

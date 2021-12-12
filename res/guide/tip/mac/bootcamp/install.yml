@@ -9,7 +9,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 准备工作
         icon: content
         path: prepare
@@ -62,7 +62,7 @@ content:
 
   - tag: list
     header: 相关内容
-    content:
+    items:
       - text: Windows 10 安装
         icon: idea
         path: ../../win/win10/install

@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 课程说明
-    content:
+    items:
       - text: 课程简介
         icon: english
         path: intro

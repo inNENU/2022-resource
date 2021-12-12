@@ -5,21 +5,21 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 欢迎辞
         icon: letter
         path: welcome
 
   - tag: list
     header: 防止诈骗
-    content:
+    items:
       - text: 常见网上诈骗
         icon: alert
         path: cheat
 
   - tag: list
     header: 报到之前
-    content:
+    items:
       - text: 报到时间
         icon: time
         path: check-in-time
@@ -38,7 +38,7 @@ content:
 
   - tag: list
     header: 找到组织
-    content:
+    items:
       - text: 专业所属学院
         icon: content
         path: /intro/enroll/under/major/2021
@@ -65,7 +65,7 @@ content:
 
   - tag: list
     header: 师范生
-    content:
+    items:
       - text: 师范生相关
         icon: intro
         path: /guide/normal/

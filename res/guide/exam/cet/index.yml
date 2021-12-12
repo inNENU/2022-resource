@@ -6,7 +6,7 @@ time: 2021年11月21日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 测试介绍
         icon: intro
         path: intro
@@ -32,7 +32,7 @@ content:
         path: faq
 
   - tag: list
-    content:
+    items:
       - text: 2021年下半年考试时间
         icon: time
         path: time

@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: 使用指南
-    content:
+    items:
       - text: 长春市轨道交通“一卡通”发行使用指南
         icon: idea
         path: card-guide

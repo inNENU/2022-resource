@@ -14,9 +14,9 @@ content:
     text:
       - 东师的校园网并不是很稳定，如果您连接了 iNENU-2G 或 iNENU-5G 无法上网，请您首先排查是否是校园网认证问题。请先查看自己是否已经成功连接了 Wifi 或有线网，如果已经连接，请打开 "10.100.100.67" 确认自己是否在线。若未在线，请尝试登录并尝试上网。如果登陆过程中出现问题，那么问题出现在学校校园网。
 
-  - tag: copy
+  - tag: action
     header: 校园网认证地址
-    text: "10.100.100.67"
+    content: "10.100.100.67"
 
   - tag: text
     text:
@@ -50,7 +50,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 找到疑难解答
         icon: faq
         path: diagnosis
@@ -100,7 +100,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 系统重置
         icon: reset
         path: os-reset

@@ -55,7 +55,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用媒体制作工具重装
         path: media-reinstall
 
@@ -74,7 +74,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Windows 11 用户向导
         path: win11/setup
 

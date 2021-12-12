@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 报到要求
-    content:
+    items:
       - text: 新生报到需要满足的条件
         icon: alert
         path: /guide/epidemic/requirement
@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 报到流程
-    content:
+    items:
       - text: 报到时间地点
         icon: time
         path: location-and-time
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: 相关事务
-    content:
+    items:
       - text: 使用校园卡
         icon: card
         path: /guide/card/prepare
@@ -63,7 +63,7 @@ content:
 
   - tag: list
     header: 防盗防骗攻略
-    content:
+    items:
       - text: 防盗防骗攻略
         icon: safe
         path: guard

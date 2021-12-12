@@ -6,14 +6,14 @@ grey: true
 content:
   - tag: list
     header: 校党委
-    content:
+    items:
       - text: 大学生记者团
         icon: $img/association/jizhetuan.png
         path: news-group
 
   - tag: list
     header: 校团委
-    content:
+    items:
       - text: 学生会
         icon: $img/organization/nenuyouth.png
         path: student-union
@@ -68,14 +68,14 @@ content:
 
   - tag: list
     header: 学生处
-    content:
+    items:
       - text: 东师小窝
         icon: $img/organization/xiaowo.png
         path: dorm/
 
   - tag: list
     header: 资助管理中心
-    content:
+    items:
       - text: 爱心学校
         icon: $img/organization/love-school.png
         path: love-school/

@@ -64,8 +64,8 @@ content:
     heading: 我该如何查询自己的录取通知书物流?
     text: 您可以访问 http://bkzsw.nenu.edu.cn/col_000018_000169.html 进行查询。
 
-  - tag: copy
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+  - tag: action
+    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
   - tag: text
     type: info

@@ -4,18 +4,18 @@ author: Mr.Hope
 time: 2021年11月21日
 shareable: true
 content:
-  - tag: copy
+  - tag: action
     header: 2021本科招生计划
-    text: http://bkzsw.nenu.edu.cn/col_000018_000171.html
+    content: http://bkzsw.nenu.edu.cn/col_000018_000171.html
 
-  - tag: copy
+  - tag: action
     header: 2021本科招生指南
-    text: https://m-ebook.eol.cn/ebook/3117
+    content: https://m-ebook.eol.cn/ebook/3117
 
-  - tag: copy
+  - tag: action
     header: 本科往年分数线
-    text: http://bkzsw.nenu.edu.cn/col_000018_000170.html
+    content: http://bkzsw.nenu.edu.cn/col_000018_000170.html
 
-  - tag: copy
+  - tag: action
     header: 2021 录取通知书查询
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html

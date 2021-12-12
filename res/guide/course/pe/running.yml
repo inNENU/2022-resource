@@ -15,9 +15,9 @@ content:
   - tag: p
     text: 校园跑需要使用“运动世界校园” APP 进行，同学们需要下载安装。
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: http://h5.gxapp.iydsj.com/gxapp/version/v1.22/download/index.html
+    content: http://h5.gxapp.iydsj.com/gxapp/version/v1.22/download/index.html
 
   - tag: text
     type: info

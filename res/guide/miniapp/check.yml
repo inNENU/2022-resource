@@ -24,7 +24,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 登陆小程序
         path: login
 

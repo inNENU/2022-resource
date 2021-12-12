@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 日常学习
-    content:
+    items:
       - text: 上课时间、地点
         icon: time
         path: location-and-time
@@ -29,7 +29,7 @@ content:
 
   - tag: list
     header: 考核与成绩
-    content:
+    items:
       - text: 学分
         icon: star
         path: credit
@@ -44,7 +44,7 @@ content:
 
   - tag: list
     header: 奖学金
-    content:
+    items:
       - text: 本科生奖学金介绍
         icon: metal
         path: scholarship/undergraduate

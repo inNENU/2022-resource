@@ -21,9 +21,9 @@ content:
     style:
       font-size: 14px
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学2022年硕士研究生招生专业目录
-    text: https://math127.nenu.edu.cn/yjsy/HData/ZSB/ZSJZ2022-TK-2.html
+    content: https://math127.nenu.edu.cn/yjsy/HData/ZSB/ZSJZ2022-TK-2.html
 
   - tag: title
     text: 二、报考条件
@@ -180,17 +180,17 @@ content:
   - tag: title
     text: 相关信息
 
-  - tag: copy
+  - tag: action
     header: 教育部留学服务中心
-    text: http://zwfw.cscse.edu.cn/
+    content: http://zwfw.cscse.edu.cn/
 
-  - tag: copy
+  - tag: action
     header: 中国研究生招生信息网 (研招网)
-    text: https://yz.chsi.com.cn
+    content: https://yz.chsi.com.cn
 
-  - tag: copy
+  - tag: action
     header: 中国高等教育学生信息网 (学信网)
-    text: https://www.chsi.com.cn
+    content: https://www.chsi.com.cn
 
   - tag: phone
     header: 研究生院研究生招生办公室

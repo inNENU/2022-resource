@@ -38,7 +38,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 详情
         icon: railway
         path: train
@@ -50,7 +50,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 详情
         icon: bus
         path: bus
@@ -62,7 +62,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 收费详情
         icon: parking
         path: parking
@@ -72,7 +72,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 详情
         icon: taxi
         path: taxi

@@ -5,7 +5,7 @@ time: 2021年12月12日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 邮箱介绍
         icon: email
         path: intro

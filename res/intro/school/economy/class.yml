@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: 分流专业详情
-    content:
+    items:
       - text: 人力资源管理
         path: manpower
 

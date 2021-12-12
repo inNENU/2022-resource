@@ -15,7 +15,7 @@ content:
       path: package1/pages/qrcode/index
 
   - tag: list
-    content:
+    items:
       - text: 吉祥码简介
         icon: intro
         path: intro

@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: 感谢名单
-    content:
+    items:
       - text: 2018年
         url: page?path=other/donate/2018
 

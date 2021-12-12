@@ -10,7 +10,7 @@ content:
 
   - tag: grid
     header: 机构介绍
-    content:
+    items:
       - text: 党委学生工作部
         color: blue
         name: Student

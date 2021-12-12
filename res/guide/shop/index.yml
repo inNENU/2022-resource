@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 天猫超市
         path: tmall-shop
 
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 本部校外超市
         path: benbu-out
 
@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 净月校内超市
         path: jingyue
 
@@ -58,6 +58,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 净月校外超市
         path: jingyue-out

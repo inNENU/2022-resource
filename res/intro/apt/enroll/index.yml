@@ -15,7 +15,7 @@ content:
     site: https://zsb.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 招生办公室人员
         icon: about
         path: intro

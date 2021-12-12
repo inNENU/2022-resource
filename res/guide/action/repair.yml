@@ -6,5 +6,5 @@ content:
   - tag: text
     text: 请通过以下网址报修
 
-  - tag: copy
-    text: http://gyglxt.nenu.edu.cn/?typeName=repair
+  - tag: action
+    content: http://gyglxt.nenu.edu.cn/?typeName=repair

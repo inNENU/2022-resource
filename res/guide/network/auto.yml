@@ -56,9 +56,9 @@ content:
   - tag: text
     text: 访问以下连接登陆管理页面。
 
-  - tag: copy
+  - tag: action
     header: 地址
-    text: "10.100.100.67:8900"
+    content: "10.100.100.67:8900"
 
   - tag: img
     src: $img/network/auto-manage1.png

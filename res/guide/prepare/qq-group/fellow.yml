@@ -19,98 +19,98 @@ content:
   - tag: text
     text: 吉林
 
-  - tag: copy
-    text: "882426824"
+  - tag: action
+    content: "882426824"
 
   - tag: text
     text: 黑龙江
 
-  - tag: copy
-    text: "1140357621"
+  - tag: action
+    content: "1140357621"
 
   - tag: text
     text: 吉林长春老乡群
 
-  - tag: copy
-    text: "454504509"
+  - tag: action
+    content: "454504509"
 
   - tag: text
     text: 东北师范大学辽宁群
 
-  - tag: copy
-    text: "184208758"
+  - tag: action
+    content: "184208758"
 
   - tag: text
     text: 为内蒙古喝彩
 
-  - tag: copy
-    text: "64016787"
+  - tag: action
+    content: "64016787"
 
   - tag: text
     text: 湖北省老乡群
 
-  - tag: copy
-    text: "315504674"
+  - tag: action
+    content: "315504674"
 
   - tag: text
     text: 河北老乡群
 
-  - tag: copy
-    text: "666048072"
+  - tag: action
+    content: "666048072"
 
   - tag: text
     text: 湖南老乡群
 
-  - tag: copy
-    text: "157808753"
+  - tag: action
+    content: "157808753"
 
   - tag: text
     text: 天津老乡群
 
-  - tag: copy
-    text: "822145879"
+  - tag: action
+    content: "822145879"
 
   - tag: text
     text: 东北师大四川老乡会
 
-  - tag: copy
-    text: "1141767101"
+  - tag: action
+    content: "1141767101"
 
   - tag: text
     text: 北京青年北漂在东师
 
-  - tag: copy
-    text: "174840954"
+  - tag: action
+    content: "174840954"
 
   - tag: text
     text: 上海学生群
 
-  - tag: copy
-    text: "250805068"
+  - tag: action
+    content: "250805068"
 
   - tag: text
     text: 江苏人在东师
 
-  - tag: copy
-    text: "962204345"
+  - tag: action
+    content: "962204345"
 
   - tag: text
     text: 江西老乡会
 
-  - tag: copy
-    text: "254531580"
+  - tag: action
+    content: "254531580"
 
   - tag: text
     text: 山东同学群
 
-  - tag: copy
-    text: "233854449"
+  - tag: action
+    content: "233854449"
 
   - tag: text
     text: 新疆新生群
 
-  - tag: copy
-    text: "307427221"
+  - tag: action
+    content: "307427221"
 
   - tag: text
     type: warning
@@ -119,95 +119,95 @@ content:
   - tag: text
     text: 西藏东师藏娃群
 
-  - tag: copy
-    text: "274507376"
+  - tag: action
+    content: "274507376"
 
   - tag: text
     text: 广东省新生群
 
-  - tag: copy
-    text: "794986523"
+  - tag: action
+    content: "794986523"
 
   - tag: text
     text: 广西东师桂友会
 
-  - tag: copy
-    text: "518898289"
+  - tag: action
+    content: "518898289"
 
   - tag: text
     text: 山西
 
-  - tag: copy
-    text: "303745491"
+  - tag: action
+    content: "303745491"
 
   - tag: text
     text: 青海
 
-  - tag: copy
-    text: "193593119"
+  - tag: action
+    content: "193593119"
 
   - tag: text
     text: 宁夏
 
-  - tag: copy
-    text: "366354996"
+  - tag: action
+    content: "366354996"
 
   - tag: text
     text: 安徽
 
-  - tag: copy
-    text: "340128156"
+  - tag: action
+    content: "340128156"
 
   - tag: text
     text: 福建
 
-  - tag: copy
-    text: "107092900"
+  - tag: action
+    content: "107092900"
 
   - tag: text
     text: 重庆市
 
-  - tag: copy
-    text: "327126156"
+  - tag: action
+    content: "327126156"
 
   - tag: text
     text: 浙江省
 
-  - tag: copy
-    text: "299414484"
+  - tag: action
+    content: "299414484"
 
   - tag: text
     text: 河南省
 
-  - tag: copy
-    text: "282119075"
+  - tag: action
+    content: "282119075"
 
   - tag: text
     text: 海南省
 
-  - tag: copy
-    text: "48355600"
+  - tag: action
+    content: "48355600"
 
   - tag: text
     text: 贵州省
 
-  - tag: copy
-    text: "98786880"
+  - tag: action
+    content: "98786880"
 
   - tag: text
     text: 云南省
 
-  - tag: copy
-    text: "457556109"
+  - tag: action
+    content: "457556109"
 
   - tag: text
     text: 陕西省
 
-  - tag: copy
-    text: "585179914"
+  - tag: action
+    content: "585179914"
 
   - tag: text
     text: 甘肃省
 
-  - tag: copy
-    text: "577264612"
+  - tag: action
+    content: "577264612"

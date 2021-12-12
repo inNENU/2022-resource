@@ -36,5 +36,5 @@ content:
   - tag: text
     heading: 官网
 
-  - tag: copy
-    text: https://dag.nenu.edu.cn/
+  - tag: action
+    content: https://dag.nenu.edu.cn/

@@ -8,7 +8,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - type: navigator
         text: 长春西站南1出口导航到净月
         url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南1出口"}&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71'
@@ -50,7 +50,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: train
         path: railway
@@ -65,7 +65,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: bus
         path: bus
@@ -80,7 +80,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: taxi
         path: taxi

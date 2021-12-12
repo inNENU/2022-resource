@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 学校介绍
-    content:
+    items:
       - text: 学校介绍
         icon: about
         path: /intro/about/intro
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: 东师实力
-    content:
+    items:
       - text: 师资队伍
         icon: teacher
         path: /intro/about/teacher

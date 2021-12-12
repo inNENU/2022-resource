@@ -56,7 +56,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 在系统设置内“初始化电脑”
         path: os-reset
 
@@ -72,7 +72,7 @@ content:
       - 进入 PE 系统格式化系统盘与启动分区再写入镜像虽然比较麻烦，但速度上较第二种方式更有优势，且可以完成磁盘分区调整等高级操作。
 
   - tag: list
-    content:
+    items:
       - text: 通过媒体制作工具重装系统
         icon: udisk
         path: media-reinstall

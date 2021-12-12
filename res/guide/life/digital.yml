@@ -10,7 +10,7 @@ content:
       - 此处需包含电子产品维修、配件购买等相关校内外店铺。
 
   - tag: functional-list
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

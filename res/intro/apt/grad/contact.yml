@@ -15,9 +15,9 @@ content:
     postCode: 130024
     mail: yzb@nenu.edu.cn
 
-  - tag: copy
+  - tag: action
     header: 信箱
-    text: yzb@nenu.edu.cn
+    content: yzb@nenu.edu.cn
 
   - tag: title
     text: 相关问题

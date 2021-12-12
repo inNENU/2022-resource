@@ -12,13 +12,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/D/97/BA/4498E328D4D6FA1629968C37C0B_326AFBEB_E91C1FF.mp4?e=.mp4
 
   - tag: list
     header: 本科各专业介绍
-    content:
+    items:
       - text: 物理学(公费师范)
         path: normal
 

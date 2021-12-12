@@ -12,13 +12,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/C/5E/8F/4594C06AB2423364FC35201F616_92A5E334_169A575E.mp4?e=.mp4
 
   - tag: list
     header: 各专业介绍
-    content:
+    items:
       - text: 地理科学(公费师范)
         path: normal
 

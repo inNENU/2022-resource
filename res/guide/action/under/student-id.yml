@@ -6,13 +6,13 @@ content:
   - tag: text
     text: 请通过本科教学服务系统进行办理。
 
-  - tag: copy
+  - tag: action
     header: 校内
-    text: http://dsjx.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
+    content: http://dsjx.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
 
-  - tag: copy
+  - tag: action
     header: 校外
-    text: https://dsjx.webvpn.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
+    content: https://dsjx.webvpn.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
 
   - tag: title
     text: 收费标准

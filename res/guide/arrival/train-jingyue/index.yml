@@ -8,7 +8,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - type: navigator
         text: 长春站北出口导航到本部
         url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站B1出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: train
         path: railway
@@ -60,7 +60,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: taxi
         path: taxi
@@ -76,7 +76,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看详情
         icon: bus
         path: bus

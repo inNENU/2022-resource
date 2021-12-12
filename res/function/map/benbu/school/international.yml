@@ -5,7 +5,7 @@ photo:
   - $img/school/confucius.jpg
 content:
   - tag: list
-    content:
+    items:
       - text: 学院简介
         icon: about
         path: /intro/school/internation/intro
@@ -14,6 +14,6 @@ content:
         icon: intro
         path: /intro/school/internation/enroll
 
-  - tag: copy
+  - tag: action
     header: 官网地址
-    text: https://scs.nenu.edu.cn/
+    content: https://scs.nenu.edu.cn/

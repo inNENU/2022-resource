@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 1号线转3号线
         icon: train
         path: 1-3
@@ -106,7 +106,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码注册与使用
         icon: register
         path: /guide/epidemic/jixiang-code/

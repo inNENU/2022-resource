@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 制作 Windows 10 启动盘
         icon: udisk
         path: media
@@ -53,7 +53,7 @@ content:
     desc: 一般情况下，系统盘可能会叫 Windows、System、系统等。如果您已经完全备份好所有数据，在这个页面里删除所有分区并重新分配空间也是可以的。如果您在这一步有疑问，可向 Mr.Hope 寻求帮助。
 
   - tag: functional-list
-    content:
+    items:
       - text: 向 Mr.Hope 寻求帮助
         icon: contact
         type: button
@@ -87,7 +87,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Windows 10 用户向导指引
         icon: idea
         path: setup

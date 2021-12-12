@@ -23,7 +23,7 @@ content:
     src: $img/life/benbu/jingshe.jpg
 
   - tag: list
-    content:
+    items:
       - text: 店铺详情
         path: jingshe
 

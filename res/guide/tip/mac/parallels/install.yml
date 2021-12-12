@@ -6,8 +6,8 @@ content:
   - tag: title
     text: 下载 Parallels
 
-  - tag: copy
-    text: https://www.parallels.cn/directdownload/pd/?mode=trial
+  - tag: action
+    content: https://www.parallels.cn/directdownload/pd/?mode=trial
 
   - tag: ol
     text:

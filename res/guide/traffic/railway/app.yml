@@ -3,9 +3,9 @@ author: Mr.Hope
 time: 2021年8月22日
 shareable: true
 content:
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: https://appgallery.huawei.com/#/app/C101180615
+    content: https://appgallery.huawei.com/#/app/C101180615
 
   - tag: text
     text:

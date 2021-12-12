@@ -5,7 +5,7 @@ time: 2021年8月15日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 档案派遣
         icon: dispatch
         path: dispatch

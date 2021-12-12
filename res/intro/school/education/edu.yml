@@ -17,8 +17,7 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/3/14/73/E7EEEC856EECBBCB44A270E3682_321AFE80_889637C.mp4?e=.mp4
 
   - tag: ul

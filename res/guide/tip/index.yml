@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: Windows
-    content:
+    items:
       - text: 如何升级 Windows 11
         icon: upgrade
         path: win/win11/upgrade
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: Mac
-    content:
+    items:
       - text: macOS 使用教程
         icon: intro
         path: mac/guide/
@@ -56,14 +56,14 @@ content:
 
   - tag: list
     header: 生活常识
-    content:
+    items:
       - text: 洗衣相关
         icon: washer
         path: washing/
 
   - tag: list
     header: 过冬贴士
-    content:
+    items:
       - text: 冬季御寒衣物选择
         icon: life
         path: winter/cloth
@@ -73,7 +73,7 @@ content:
         path: winter/warm
 
   - tag: list
-    content:
+    items:
       - text: 东北习俗
         icon: star
         path: custom/

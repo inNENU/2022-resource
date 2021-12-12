@@ -14,13 +14,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/3/0D/44/0771C19C44955999EC5E94626C1_DD99B728_F176376.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍
-    content:
+    items:
       - text: 汉语言文学
         path: chinese
 
@@ -34,13 +33,13 @@ content:
     src: $img/enroll/chinese-master.png
     desc: 2021 年招生情况
 
-  - tag: copy
+  - tag: action
     header: 书目清单
-    text: http://chinese.nenu.edu.cn/book
+    content: http://chinese.nenu.edu.cn/book
 
   - tag: list
     header: 硕士专业介绍
-    content:
+    items:
       - text: 中国古代文学
         path: ancient-chinese
 

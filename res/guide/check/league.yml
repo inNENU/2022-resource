@@ -48,8 +48,8 @@ content:
     heading: Mr.Hope 制作的具体操作流程
     text: 请使用浏览器访问
 
-  - tag: copy
-    text: https://zhtj.youth.cn/zhtj/signin
+  - tag: action
+    content: https://zhtj.youth.cn/zhtj/signin
 
   - tag: text
     text: 输入登陆自己身份证号与密码，登录智慧团建系统。

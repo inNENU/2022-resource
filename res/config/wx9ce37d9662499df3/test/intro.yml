@@ -5,7 +5,7 @@ hidden: true
 content:
   - tag: grid
     header: 学校介绍
-    content:
+    items:
       - text: 学校概况
         color: red
         name: Description
@@ -26,7 +26,7 @@ content:
 
   - tag: grid
     header: 学院介绍
-    content:
+    items:
       - text: 教育学部
         color: blue
         name: Education
@@ -161,7 +161,7 @@ content:
 
   - tag: grid
     header: 机构介绍
-    content:
+    items:
       - text: 招生办公室
         color: orange
         name: Enroll

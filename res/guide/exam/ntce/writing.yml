@@ -15,9 +15,9 @@ content:
   - tag: text
     text: 考生在考试前一周登录中小学教师资格考试网站，自行下载、打印《准考证》，并按照准考证规定的时间、地点参加考试。
 
-  - tag: copy
+  - tag: action
     header: 网站地址
-    text: http://ntce.neea.edu.cn
+    content: http://ntce.neea.edu.cn
 
   - tag: title
     text: 考试方式

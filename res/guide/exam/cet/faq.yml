@@ -22,8 +22,8 @@ content:
     text:
       - 目前，CET暂仅提供当次考试成绩查询，上半年笔试和口试成绩，考生在8月通中国考试网进行查询，下半年笔试和口试成绩，考生在第二年的2月通过中国考试网进行查询。
 
-  - tag: copy
-    text: http://cjcx.neea.edu.cn/html1/folder/21045/4883-1.htm
+  - tag: action
+    content: http://cjcx.neea.edu.cn/html1/folder/21045/4883-1.htm
 
   - tag: text
     type: info
@@ -40,7 +40,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 成绩证明
         path: proof
 
@@ -80,7 +80,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 成绩核查
         path: check
 

@@ -20,7 +20,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 报道要求
         icon: info
         path: /guide/epidemic/requirement
@@ -61,7 +61,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码介绍与注册
         icon: register
         path: /guide/epidemic/jixiang-code/
@@ -77,7 +77,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 疫情管理调整
         icon: virus
         path: /guide/epidemic/manage

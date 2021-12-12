@@ -20,7 +20,7 @@ content:
 
   - tag: list
     header: 关于选课
-    content:
+    items:
       - text: 选/注课介绍
         icon: intro
         path: intro
@@ -39,7 +39,7 @@ content:
 
   - tag: list
     header: 选课流程
-    content:
+    items:
       - text: 流程介绍
         icon: intro
         path: flow
@@ -62,7 +62,7 @@ content:
 
   - tag: list
     header: 选课系统
-    content:
+    items:
       - text: 选课系统介绍
         icon: system
         path: system
@@ -72,7 +72,7 @@ content:
         path: guide
 
   - tag: list
-    content:
+    items:
       - text: 选课技巧
         icon: idea
         path: skill

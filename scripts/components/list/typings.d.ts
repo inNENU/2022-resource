@@ -28,8 +28,6 @@ export interface ListComponentOptions extends BaseComponentOptions {
   header?: string | false;
   /** 列表内容 */
   items: ListComponentItemOptions[];
-  // TODO: Remove
-  content?: ListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }
@@ -175,8 +173,6 @@ export interface FunctionalListComponentOptions extends BaseComponentOptions {
   header?: string | false;
   /** 列表内容 */
   items: FunctionalListComponentItemOptions[];
-  // TODO: Remove
-  content?: FunctionalListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }

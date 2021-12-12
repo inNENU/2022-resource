@@ -10,8 +10,8 @@ content:
     text:
       - 请通过中国教育考试网。
 
-  - tag: copy
-    text: http://cjcx.neea.edu.cn/html1/folder/21045/4883-1.htm
+  - tag: action
+    content: http://cjcx.neea.edu.cn/html1/folder/21045/4883-1.htm
 
   - tag: title
     text: 成绩解释

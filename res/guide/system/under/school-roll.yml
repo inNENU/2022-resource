@@ -10,18 +10,18 @@ content:
     heading: 进入系统
     text: 校内访问使用 IE 浏览器直接在地址栏中输入 http://dsjx.nenu.edu.cn (东师教学缩写)
 
-  - tag: copy
-    text: http://dsjx.nenu.edu.cn
+  - tag: action
+    content: http://dsjx.nenu.edu.cn
 
   - tag: ul
     text: 校外访问使用 IE 浏览器直接在地址栏中输入 https://dsjx.webvpn.nenu.edu.cn 并使用 Web VPN 访问
 
-  - tag: copy
-    text: https://dsjx.webvpn.nenu.edu.cn
+  - tag: action
+    content: https://dsjx.webvpn.nenu.edu.cn
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Web VPN 介绍
         icon: vpn
         path: /guide/network/vpn
@@ -35,7 +35,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用 IE 内核浏览网页
         icon: alert
         path: /guide/tip/ie/

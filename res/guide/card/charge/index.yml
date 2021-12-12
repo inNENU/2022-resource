@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: 详细方式
-    content:
+    items:
       - text: 微信企业号
         desc: 推荐
         icon: wechat

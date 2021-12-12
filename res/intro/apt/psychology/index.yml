@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 学生心理健康教育中心简介
         icon: about
         path: intro

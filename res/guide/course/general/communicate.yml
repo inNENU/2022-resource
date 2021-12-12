@@ -42,6 +42,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 英语课程介绍
         path: ../english/

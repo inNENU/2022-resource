@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: “同学有品”团队
         url: page?path=other/cheat/youpin
 

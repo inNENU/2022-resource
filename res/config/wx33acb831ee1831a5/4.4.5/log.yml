@@ -1,6 +1,6 @@
 - tag: list
   header: 近期更新
-  content:
+  items:
     - text: |-
         V 4.3.0:
         · 适配 iPad

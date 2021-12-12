@@ -27,7 +27,7 @@ content:
 
   - tag: list
     header: 接入的第三方插件信息
-    content:
+    items:
       - text: |-
           插件名称: 腾讯位置服务路线规划
           插件提供方名称: 腾讯科技(北京)有限公司

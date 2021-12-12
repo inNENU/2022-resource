@@ -62,7 +62,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用 IETab 扩展程序
         icon: ie
         path: ../ietab/

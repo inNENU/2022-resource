@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 电子阅览室
         icon: pc
         path: /intro/apt/library/digit-room

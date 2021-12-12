@@ -9,9 +9,9 @@ content:
   - tag: p
     text: 当在校外需要访问校内资源时，大多数情况下，您可以使用 Web VPN 进行身份认证后进行访问。
 
-  - tag: copy
+  - tag: action
     header: 登陆地址
-    text: https://webvpn.nenu.edu.cn/
+    content: https://webvpn.nenu.edu.cn/
 
   - tag: img
     src: $img/account/webvpn-login.jpg

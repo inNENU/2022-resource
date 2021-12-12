@@ -22,12 +22,11 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/D/E0/95/866B7AA4A9FA8E35FE781CEAE39_FCEC3A01_16941046.mp4?e=.mp4
 
   - tag: list
-    content:
+    items:
       - text: 计算机类
         path: class
 

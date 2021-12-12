@@ -16,8 +16,8 @@ content:
     type: tip
     text: 可以把网址发送到文件传输助手、自己的小号或家庭群里，就可以点击打开了。
 
-  - tag: copy
-    text: http://pay.nenu.edu.cn
+  - tag: action
+    content: http://pay.nenu.edu.cn
 
   - tag: title
     text: 登陆方式

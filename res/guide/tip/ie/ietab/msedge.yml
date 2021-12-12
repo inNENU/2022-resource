@@ -9,7 +9,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 在 Chrome 中使用 IE Tab 扩展程序
         icon: chrome
         path: chrome
@@ -21,9 +21,9 @@ content:
   - tag: title
     text: 安装方式
 
-  - tag: copy
+  - tag: action
     header: 扩展程序地址
-    text: https://microsoftedge.microsoft.com/addons/detail/ie-tab/npjkkakdacjaihjaoeliacmecofghagh
+    content: https://microsoftedge.microsoft.com/addons/detail/ie-tab/npjkkakdacjaihjaoeliacmecofghagh
 
   - tag: text
     text: 访问上述地址，点击“获取”，之后允许“添加扩展程序”

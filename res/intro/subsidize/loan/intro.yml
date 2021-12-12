@@ -97,10 +97,10 @@ content:
     heading: 还款期限和还款方式
     text: 生源地信用助学贷款期限原则上按全日制本专科学制加 15 年确定，最长不超过 22 年。学制超过 4 年或继续攻读研究生学位、第二学士学位的，相应缩短学生毕业后的还贷期限。学生在校及毕业后 5 年期间为宽限期，宽限期后由学生和家长(或其他法定监护人)按借款合同约定，按年度分期偿还贷款本息。
 
-  - tag: copy
+  - tag: action
     header: 原文链接
-    text: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199211.html
+    content: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_bzks/201508/t20150810_199211.html
 
-  - tag: copy
+  - tag: action
     header: 原文链接
-    text: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199229.html
+    content: http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt06/15zt06_gxzzzc/gxzz_yjs/201508/t20150810_199229.html

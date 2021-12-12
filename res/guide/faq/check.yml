@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 更多详情
         icon: time
         path: /guide/prepare/check-in-time
@@ -66,7 +66,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 快递详情
         icon: express
         path: /guide/express/

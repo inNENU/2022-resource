@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 2021年
-    content:
+    items:
       - text: 2021 年本科开设专业
         icon: intro
         path: major/2021
@@ -25,14 +25,14 @@ content:
 
   - tag: list
     header: 更多
-    content:
+    items:
       - text: 本科历史招生信息
         icon: time
         path: history
 
   - tag: list
     header: 招生咨询
-    content:
+    items:
       - text: 招生办公室联系方式
         icon: phone
         path: /intro/apt/enroll/contact
@@ -45,6 +45,6 @@ content:
         icon: activity
         path: activity
 
-  - tag: copy
+  - tag: action
     header: 招生办留言板
-    text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
+    content: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123

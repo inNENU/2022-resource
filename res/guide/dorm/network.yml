@@ -26,7 +26,7 @@ content:
       - 本科生寝室不屏蔽手机信号。
 
   - tag: list
-    content:
+    items:
       - text: 了解更多校园网相关
         icon: network
         path: /guide/network/

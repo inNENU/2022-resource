@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       # 制作中
       - text: 免修申请
         icon: exemption
@@ -41,7 +41,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 英语免修申请条件
         icon: plan
         path: /guide/course/english/exemption

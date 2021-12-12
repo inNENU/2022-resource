@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 轨道交通
         icon: train
         path: railway
@@ -67,7 +67,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 更多打车相关提示
         icon: taxi
         path: ../taxi

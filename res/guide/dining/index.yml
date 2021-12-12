@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 北苑餐厅
         path: beiyuan/
 
@@ -26,7 +26,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 一食堂
         path: dining1/
 
@@ -43,7 +43,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 本部美食节
         path: festival/benbu
 

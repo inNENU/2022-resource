@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 教育部直属师范大学师范生公费教育实施办法
         icon: rule
         path: normal

@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 体测
-    content:
+    items:
       - text: 体测简介
         icon: basketball
         path: pe-test/intro
@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: 英语
-    content:
+    items:
       - text: 英语分班考试
         icon: test
         path: grading-exam
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: 国家考试
-    content:
+    items:
       - text: 大学英语水平测试
         icon: cet
         path: /guide/exam/cet/

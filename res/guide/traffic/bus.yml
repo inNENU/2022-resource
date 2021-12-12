@@ -49,6 +49,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码注册与使用
         path: /guide/epidemic/jixiang-code/

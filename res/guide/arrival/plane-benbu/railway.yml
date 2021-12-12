@@ -60,7 +60,7 @@ content:
 
   - tag: list
     header: 后续行程介绍
-    content:
+    items:
       - text: 长春站-本部
         icon: railway
         path: ../train-benbu/

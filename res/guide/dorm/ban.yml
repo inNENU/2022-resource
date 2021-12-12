@@ -47,6 +47,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 东北师范大学学生公寓管理办法
         path: /intro/apt/logistics/rule

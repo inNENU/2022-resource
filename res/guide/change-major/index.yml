@@ -7,7 +7,7 @@ content:
     text: 本科生转专业
 
   - tag: list
-    content:
+    items:
       - text: 相关公告
         desc: 2021年
         icon: notice

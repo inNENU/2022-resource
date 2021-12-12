@@ -17,7 +17,7 @@ content:
       - 如果您的校园卡不幸没有找回，您需要到信息化办补办校园卡。
 
   - tag: list
-    content:
+    items:
       - text: 信息化办
         icon: pc
         path: office

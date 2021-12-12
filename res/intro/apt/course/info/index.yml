@@ -4,7 +4,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 教务处处长人员信息
         path: leader
 

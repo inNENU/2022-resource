@@ -5,14 +5,14 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 党委学生工作部介绍
         icon: about
         path: intro
 
   - tag: list
     header: 联系方式
-    content:
+    items:
       - text: 学院党委副书记通讯录
         icon: phone
         path: league-shuji
@@ -27,7 +27,7 @@ content:
 
   - tag: list
     header: 校园管理条例
-    content:
+    items:
       - text: 东北师范大学学生违纪惩处办法
         icon: punish
         path: rule
@@ -40,6 +40,6 @@ content:
     name: 东北师范大学学生管理规定
     url: $file/student/manage.pdf
 
-  - tag: copy
+  - tag: action
     header: 东师智慧学工系统
-    text: http://sas.nenu.edu.cn/
+    content: http://sas.nenu.edu.cn/

@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: 相关说明
-    content:
+    items:
       - text: 使用 IE 内核浏览网页
         path: /guide/tip/ie/
 

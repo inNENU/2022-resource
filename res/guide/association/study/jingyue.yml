@@ -6,14 +6,14 @@ time: 2021年11月22日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 模拟联合国协会
         icon: $img/association/mun.png
         path: mun
 
   - tag: functional-list
     header: 欢迎社团入驻本页面
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

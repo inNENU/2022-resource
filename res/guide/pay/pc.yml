@@ -6,8 +6,8 @@ content:
   - tag: text
     text: 新生可通过校园缴费平台自行线上缴费。
 
-  - tag: copy
-    text: http://pay.nenu.edu.cn
+  - tag: action
+    content: http://pay.nenu.edu.cn
 
   - tag: img
     src: $img/check/pay-main.png

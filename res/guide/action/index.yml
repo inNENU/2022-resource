@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 东师日常
-    content:
+    items:
       - text: 障碍报修
         icon: repair
         path: repair
@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 学习相关
-    content:
+    items:
       - text: 本科生选课
         icon: select
         path: under/select
@@ -64,7 +64,7 @@ content:
 
   - tag: list
     header: 证件与材料
-    content:
+    items:
       - text: 本科学生证补办
         icon: lost
         path: under/student-id

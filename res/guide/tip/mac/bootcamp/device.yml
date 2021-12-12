@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 识别 MacBook 机型
         icon: about
         path: ../model

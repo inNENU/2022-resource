@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 事件详情
         url: page?path=other/MrHope/interesting/group
 
@@ -26,13 +26,13 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 金句
         url: page?path=other/MrHope/interesting/golden
 
   - tag: list
     header: 态度对比
-    content:
+    items:
       - text: 祖安对话精选
         url: page?path=other/MrHope/interesting/zuan
 
@@ -41,7 +41,7 @@ content:
 
   - tag: list
     header: 对话全文, 无任何删减
-    content:
+    items:
       - text: 图片1
         url: page?path=other/MrHope/interesting/1
 
@@ -68,7 +68,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 后续事件
         url: page?path=other/MrHope/interesting/after
 

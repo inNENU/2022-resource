@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 领导机构
         icon: leader
         path: leader
@@ -29,5 +29,5 @@ content:
   - tag: text
     text: 信息公开网地址
 
-  - tag: copy
-    text: http://publish.nenu.edu.cn
+  - tag: action
+    content: http://publish.nenu.edu.cn

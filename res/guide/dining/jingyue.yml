@@ -19,7 +19,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 一食堂
         path: dining1/
 
@@ -36,6 +36,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 美食节
         path: festival/jingyue

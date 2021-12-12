@@ -38,16 +38,16 @@ content:
     fName: 转专业咨询
     num: 85098320
 
-  - tag: copy
+  - tag: action
     header: 邮箱
-    text: linmy100@nenu.edu.cn
+    content: linmy100@nenu.edu.cn
 
   - tag: title
     text: 相关信息
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 教学服务系统
         icon: system
         path: /guide/system/

@@ -11,13 +11,13 @@ content:
     text:
       - 进入选课网站
 
-  - tag: copy
+  - tag: action
     header: 本科生
-    text: http://xk.nenu.edu.cn/
+    content: http://xk.nenu.edu.cn/
 
-  - tag: copy
+  - tag: action
     header: 研究生
-    text: http://dsyjs.nenu.edu.cn/yjsxk/
+    content: http://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: ul
     text:

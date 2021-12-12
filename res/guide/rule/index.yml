@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 学校章程
-    content:
+    items:
       - text: 东北师范大学章程
         icon: rule
         path: /intro/about/public/rule
@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 校园管理
-    content:
+    items:
       - text: 东北师范大学学生违纪惩处办法
         icon: rule
         path: /intro/apt/student/rule
@@ -28,7 +28,7 @@ content:
 
   - tag: list
     header: 宿舍管理
-    content:
+    items:
       - text: 东北师范大学学生公寓管理办法
         icon: rule
         path: /intro/apt/logistics/rule
@@ -39,7 +39,7 @@ content:
 
   - tag: list
     header: 学籍管理
-    content:
+    items:
       - text: 本科学生学籍管理条例
         icon: plan
         path: /intro/about/public/school-roll1
@@ -50,7 +50,7 @@ content:
 
   - tag: list
     header: 学术
-    content:
+    items:
       - text: 东北师范大学研究生学术道德规范
         icon: rule
         path: /intro/about/public/academic-ethics

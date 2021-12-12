@@ -26,7 +26,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 菜鸟驿站
         icon: cainiao
         path: cainiao

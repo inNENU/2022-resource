@@ -41,7 +41,7 @@ content:
         url: storage
 
   - tag: functional-list
-    content:
+    items:
       - text: 分享小程序
         icon: share
         type: button

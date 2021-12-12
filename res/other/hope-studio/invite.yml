@@ -6,7 +6,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button
@@ -53,7 +53,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 工作室介绍
         url: page?path=other/hope-studio/about
 

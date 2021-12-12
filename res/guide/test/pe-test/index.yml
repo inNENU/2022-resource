@@ -22,7 +22,7 @@ content:
         老生补测: 10月30日
 
   - tag: list
-    content:
+    items:
       - text: 体测简介
         icon: basketball
         path: intro
@@ -40,7 +40,7 @@ content:
         path: exempt
 
   - tag: list
-    content:
+    items:
       - text: Mr.Hope 的个人建议
         icon: idea
         path: advice

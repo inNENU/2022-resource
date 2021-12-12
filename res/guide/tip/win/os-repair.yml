@@ -10,20 +10,20 @@ content:
     text:
       - 如果您怀疑您的系统出现损坏，您可以运行 Mr.Hope 提供的以下工具进行解决。
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: $file/tools/系统镜像离线修复工具.exe
+    content: $file/tools/系统镜像离线修复工具.exe
 
   - tag: text
     text: 如果以上工具提示“本地镜像已损坏，无法解决问题”的字样，请使用在线校验工具与在线修复工具，
 
-  - tag: copy
+  - tag: action
     header: 在线校验工具
-    text: $file/tools/系统镜像在线校验工具.exe
+    content: $file/tools/系统镜像在线校验工具.exe
 
-  - tag: copy
+  - tag: action
     header: 在线恢复工具
-    text: $file/tools/系统镜像在线恢复工具.exe
+    content: $file/tools/系统镜像在线恢复工具.exe
 
   - tag: text
     type: warning

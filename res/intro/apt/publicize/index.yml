@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 党委宣传部介绍
         icon: about
         path: intro

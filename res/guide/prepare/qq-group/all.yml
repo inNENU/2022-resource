@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 查看更多
-    content:
+    items:
       - text: 别有用心群汇总
 
   - tag: title

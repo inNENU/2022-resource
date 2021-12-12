@@ -3,7 +3,7 @@ grey: true
 content:
   - tag: list
     header: 更新日志
-    content:
+    items:
       - text: 小程序更新日志
         icon: log
         url: page?path=other/log/app
@@ -25,8 +25,8 @@ content:
       appId: wxd45c635d754dbf59
       path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
 
-  - tag: copy
+  - tag: action
     header: 计划列表
-    text: https://docs.qq.com/sheet/DYnJRZ2RpenJ3WGFH
+    content: https://docs.qq.com/sheet/DYnJRZ2RpenJ3WGFH
     env:
       - qq

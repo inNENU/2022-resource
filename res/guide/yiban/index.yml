@@ -18,7 +18,7 @@ content:
 
   - tag: list
     header: 客户端
-    content:
+    items:
       - text: 注册账号
         icon: account
         path: register/mobile
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: PC 网页
-    content:
+    items:
       - text: 注册账号
         icon: account
         path: register/web

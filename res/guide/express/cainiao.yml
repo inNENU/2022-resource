@@ -48,7 +48,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 身份码获得
         icon: code
         path: cainiao-code

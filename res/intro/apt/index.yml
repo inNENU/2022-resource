@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: grid
-    content:
+    items:
       - text: 招生办公室
         color: orange
         name: Enroll

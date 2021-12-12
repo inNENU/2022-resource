@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 校团委介绍
         icon: about
         path: intro
@@ -16,7 +16,7 @@ content:
 
   - tag: list
     header: 团务知识
-    content:
+    items:
       - text: 中国共产主义青年团章程
         icon: rule
         path: rule
@@ -33,6 +33,6 @@ content:
         icon: intro
         path: league
 
-  - tag: copy
+  - tag: action
     header: 官网
-    text: http://youth.nenu.edu.cn/index.htm
+    content: http://youth.nenu.edu.cn/index.htm

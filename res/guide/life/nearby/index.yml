@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 吃喝玩乐
-    content:
+    items:
       - text: 本部
         path: benbu
 

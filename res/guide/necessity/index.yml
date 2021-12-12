@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 校内外超市
         icon: shop
 
@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 物品分类
-    content:
+    items:
       - text: 证件材料类
         icon: photo
         path: material
@@ -59,7 +59,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 寝室违禁物品
         icon: ban
         path: /guide/dorm/ban
@@ -69,7 +69,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Mr.Hope 的建议
         icon: idea
         path: advice

@@ -14,13 +14,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/B/27/0B/C28F64C377565C2D4F3A742EB78_21C472D9_117F3DB9.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍
-    content:
+    items:
       - text: 环境科学
         path: science
 

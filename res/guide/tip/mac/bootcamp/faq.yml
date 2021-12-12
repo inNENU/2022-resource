@@ -23,9 +23,9 @@ content:
     text:
       - 如果启动转换程序安装失败，请参考下方链接尝试重新下载并安装 Windows 支持软件。
 
-  - tag: copy
+  - tag: action
     header: 在 Mac 上下载并安装 Windows 支持软件
-    text: https://support.apple.com/zh-cn/HT204923
+    content: https://support.apple.com/zh-cn/HT204923
 
   - tag: text
     heading: 更多其它问题
@@ -34,7 +34,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - text: 向 Mr.Hope 寻求帮助
         icon: contact
         type: button

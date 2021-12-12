@@ -25,17 +25,17 @@ content:
     heading: 传真
     text: 0431-85687511
 
-  - tag: copy
+  - tag: action
     header: 网址
-    text: http://zsb.nenu.edu.cn
+    content: http://zsb.nenu.edu.cn
 
-  - tag: copy
+  - tag: action
     header: 邮箱
-    text: zsb@nenu.edu.cn
+    content: zsb@nenu.edu.cn
 
-  - tag: copy
+  - tag: action
     header: 招生办留言板
-    text: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
+    content: http://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
 
   - tag: text
     heading: 办公时间

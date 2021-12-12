@@ -24,7 +24,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 教务处各部门介绍
         icon: apartment
         path: apartment

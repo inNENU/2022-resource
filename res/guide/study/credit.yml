@@ -34,7 +34,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 各专业课程计划
         icon: plan
         path: /guide/course/plan

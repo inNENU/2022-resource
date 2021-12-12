@@ -42,7 +42,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 免修评定
         icon: exemption
         path: /guide/course/english/exemption

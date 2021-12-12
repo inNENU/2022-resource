@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 各专业介绍
-    content:
+    items:
       - text: 物理学
         path: physics
 

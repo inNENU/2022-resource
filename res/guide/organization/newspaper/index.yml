@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: 纳新
-    content:
+    items:
       - text: 《东师青年》报社纳新啦~
         path: enroll
 
@@ -119,6 +119,6 @@ content:
   - tag: title
     text: 其他联系方式
 
-  - tag: copy
+  - tag: action
     header: 微博
-    text: http://weibo.com/nenuyouth
+    content: http://weibo.com/nenuyouth

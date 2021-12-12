@@ -23,7 +23,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 相关说明
         icon: intro
         path: explain
@@ -54,7 +54,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 缓考申请
         icon: apply
         path: exempt

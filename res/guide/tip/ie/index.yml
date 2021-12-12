@@ -46,7 +46,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 在 Win10 中添加 IE 功能
         icon: ie
         path: win10-ie
@@ -70,7 +70,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用 IETab 扩展程序
         icon: ie
         path: ietab/
@@ -84,7 +84,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 使用 Microsoft Edge 提供的 IE 兼容模式
         icon: edge
         path: msedge
@@ -98,7 +98,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 360安全浏览器介绍
         icon: 360-brower
         path: 360/
@@ -121,7 +121,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: MacBook 使用”启动转换助理“安装 Windows
         icon: apple
         path: ../mac/bootcamp/

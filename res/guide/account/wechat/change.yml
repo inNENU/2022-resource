@@ -11,13 +11,13 @@ content:
     text:
       - 更改企业号的手机号需要下载企业微信App
 
-  - tag: copy
+  - tag: action
     header: 安卓下载
-    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
+    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
 
-  - tag: copy
+  - tag: action
     header: iOS 下载
-    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
+    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
 
   - tag: title
     text: 具体流程

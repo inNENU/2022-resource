@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 简介
-    content:
+    items:
       - text: 校园卡是您在东师校园内的通用消费卡以及身份认证卡，是您在东师的日常生活与学习中是非常重要的存在，一旦忘记携带或丢失校园卡会造成诸多不便。
 
       - text: 校园卡简介
@@ -15,7 +15,7 @@ content:
 
   - tag: list
     header: 初识校园卡
-    content:
+    items:
       - text: 使用前准备
         desc: 新卡到手后
         icon: prepare
@@ -32,7 +32,7 @@ content:
 
   - tag: list
     header: 校园卡充值
-    content:
+    items:
       - text: 校园卡充值
         icon: charge
         path: charge/
@@ -43,7 +43,7 @@ content:
 
   - tag: list
     header: 其他
-    content:
+    items:
       - text: 常见故障及解决办法
         icon: error
         path: malfunction
@@ -59,7 +59,7 @@ content:
         path: office
 
   - tag: list
-    content:
+    items:
       - text: Mr.Hope の个人建议
         icon: idea
         path: advice

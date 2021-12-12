@@ -11,12 +11,6 @@ export const resolveList = (
   pageId: string,
   location = ""
 ): void => {
-  // TODO: Remove
-  if (element.content) {
-    element.items = element.content;
-    delete element.content;
-  }
-
   element.items?.forEach((listItem, index) => {
     if (listItem.icon)
       if (

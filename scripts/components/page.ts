@@ -84,32 +84,7 @@ export const resolvePage = (
       else if (tag === "location") resolveLocation(element, position);
       // 检测加载
       else if (tag === "loading") resolveLoading(element, position);
-      // TODO: Remove
-      // @ts-ignore
-      else if (tag === "media") {
-        // @ts-ignore
-        if (element.type === "audio") {
-          // @ts-ignore
-          element.tag = "audio";
-          // @ts-ignore
-          delete element.type;
-
-          resolveAudio(element, position);
-        } else {
-          // @ts-ignore
-          element.tag = "video";
-          // @ts-ignore
-          delete element.type;
-
-          resolveVideo(element, position);
-        }
-      }
-      // @ts-ignore
-      else if (tag === "copy") {
-        // @ts-ignore
-        element.tag = "action";
-        resolveAction(element, position);
-      } else
+      else
         console.warn(
           `${pagePath} page.content[${index}] 存在非法 tag ${
             tag as unknown as string

@@ -6,8 +6,8 @@ content:
   - tag: title
     text: 访问入口
 
-  - tag: copy
-    text: https://fsso.cnki.net/
+  - tag: action
+    content: https://fsso.cnki.net/
 
   - tag: p
     heading: 登陆地址

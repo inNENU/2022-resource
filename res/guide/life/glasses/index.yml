@@ -4,7 +4,7 @@ time: 2021年9月11日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 本部
         path: benbu
 

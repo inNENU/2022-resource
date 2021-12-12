@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 如何查看电脑是否支持 Windows 11
         icon: support
         path: win11/support
@@ -22,7 +22,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Windows 11 启动盘制作
         icon: udisk
         path: win11/media
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 从启动盘启动
         icon: play
         path: usb-boot
@@ -46,7 +46,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Windows 11 安装
         icon: idea
         path: win11/install
@@ -63,7 +63,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Windows 11 用户向导
         icon: intro
         path: win11/setup

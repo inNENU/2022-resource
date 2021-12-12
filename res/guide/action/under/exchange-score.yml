@@ -23,7 +23,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 本科交流成绩认定
         desc: 制作中
         path: /guide/system/under/

@@ -1,5 +1,5 @@
 - title: 东师介绍
-  content:
+  items:
     - name: 这里是东师
       author: 东北师范大学党委宣传部
       src: https://zsb.nenu.edu.cn/__local/7/84/4E/F0A7F574E9C974800A8402A75E9_351C2AE2_398BFD3F.mp4?e=.mp4
@@ -13,7 +13,7 @@
       src: https://www.nenu.edu.cn/_upload/article/videos/32/b8/e76e9c994b4cbbbd39e8a15e5b3a/a20a8299-b782-4b10-9543-e816c6e2e336.mp4
 
 - title: 专业介绍
-  content:
+  items:
     - name: 东师中文的魅力 (汉语言文学专业)
       author: 东北师范大学招生办公室
       src: https://zsb.nenu.edu.cn/__local/3/0D/44/0771C19C44955999EC5E94626C1_DD99B728_F176376.mp4?e=.mp4
@@ -110,13 +110,13 @@
       author: 东北师范大学招生办公室
       src: https://zsb.nenu.edu.cn/__local/5/2B/23/1F7FB8F33E6AC2D2D7C5594DAD5_8C4A13F1_12D41BC7.mp4?e=.mp4
 # - title: 规章制度
-#   content:
+#   items:
 #     - name: 你只是心存侥幸
 #       author: 东北师范大学党委学生工作部
 #       vid: u0881jlaba6
 
 # - title: 东师风采
-#   content:
+#   items:
 #     - name: 东师版 “好想你” MV
 #       author: 东师新媒体中心制作
 #       vid: q0505z2m913
@@ -146,7 +146,7 @@
 #       vid: e0527tjofyy
 
 - title: 东师文化
-  content:
+  items:
     - name: 师德公约
       author: 东北师范大学党委学生工作部
       src: https://www.nenu.edu.cn/_upload/article/videos/0c/1d/2708df2a430cb95d383b6a5a2a3c/c264ecf0-67ff-4342-85f3-eb90bb6e82db_B.mp4
@@ -156,7 +156,7 @@
       src: https://www.nenu.edu.cn/_upload/article/videos/2c/dd/21695d4f46f0842e759a0a6ed3f0/7f22016c-0da0-4ef0-9749-50d87bd00b6f.mp4
 
 - title: 东师人物
-  content:
+  items:
     - name: 纪念郑德荣
       author: 东北师范大学党委宣传部
       src: https://www.nenu.edu.cn/_upload/article/videos/65/1c/95a61dfa4c78b1845cda528c021d/55c6d9f1-5ad1-48e1-b61e-05a92420eca4_B.mp4
@@ -170,7 +170,7 @@
       src: https://www.nenu.edu.cn/_upload/article/videos/61/d6/9b1561304809a197038aeb6e9e55/f5207709-d950-4876-a566-7bcb1416c125_B.mp4
 
 - title: 远方有你
-  content:
+  items:
     - name: 远方有你 2021 版
       author: 东北师范大学党委学生工作部
       src: https://www.nenu.edu.cn/__local/5/FE/00/1F2779AFB9E6074CB6E65235F96_89B78C83_12E96590.mp4?e=.mp4

@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: 开始使用
-    content:
+    items:
       - text: 企业号介绍
         icon: intro
         path: intro
@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: 功能
-    content:
+    items:
       - text: 校园卡充值
         icon: card
         path: /guide/card/charge/wechat

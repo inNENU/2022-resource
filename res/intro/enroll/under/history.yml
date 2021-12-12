@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 本科招生专业
-    content:
+    items:
       - text: 2020 年本科开设专业
         icon: intro
         path: major/2020
@@ -17,7 +17,7 @@ content:
 
   - tag: list
     header: 本科招生章程
-    content:
+    items:
       - text: 2020 年本科招生章程
         icon: intro
         path: rule/2020

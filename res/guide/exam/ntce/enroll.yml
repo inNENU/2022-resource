@@ -12,9 +12,9 @@ content:
   - tag: title
     text: 报名流程
 
-  - tag: copy
+  - tag: action
     header: 官网地址
-    text: http://ntce.neea.edu.cn/
+    content: http://ntce.neea.edu.cn/
 
   - tag: ol
     text:

@@ -22,8 +22,8 @@ content:
     text:
       - 我校每年春季3月份、秋季9月份组织报名；学生报名须登录《普通话水平测试在线报名系统》。
 
-  - tag: copy
-    text: http://jl.cltt.org/Web/SignUpOnLine/Default.aspx
+  - tag: action
+    content: http://jl.cltt.org/Web/SignUpOnLine/Default.aspx
 
   - tag: text
     text:
@@ -36,21 +36,21 @@ content:
     text:
       - 学校选取了四门网络课程，供学生自行登录网址学习。
 
-  - tag: copy
+  - tag: action
     header: 普通话水平测试注意事项
-    text: https://pan.baidu.com/s/1R6O-BEXmwrwRAJhMk4Cpfg
+    content: https://pan.baidu.com/s/1R6O-BEXmwrwRAJhMk4Cpfg
 
-  - tag: copy
+  - tag: action
     header: 声调分析及朗读训练
-    text: https://pan.baidu.com/s/1eHVrutVXbVl_6IUpRDjmSw
+    content: https://pan.baidu.com/s/1eHVrutVXbVl_6IUpRDjmSw
 
-  - tag: copy
+  - tag: action
     header: 普通话水平测试应考辅导
-    text: http://mooc1.chaoxing.com/course/87352198.html
+    content: http://mooc1.chaoxing.com/course/87352198.html
 
-  - tag: copy
+  - tag: action
     header: 普通话语音和播音发声
-    text: http://mooc1.chaoxing.com/course/80688090.html
+    content: http://mooc1.chaoxing.com/course/80688090.html
 
   - tag: title
     text: 组织测试

@@ -14,12 +14,11 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/5/2B/23/1F7FB8F33E6AC2D2D7C5594DAD5_8C4A13F1_12D41BC7.mp4?e=.mp4
 
   - tag: list
-    content:
+    items:
       - text: 音乐(师范类)
         path: normal
 

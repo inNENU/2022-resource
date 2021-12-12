@@ -19,15 +19,15 @@ content:
     text:
       - 添加QQ
 
-  - tag: copy
-    text: "1002759092"
+  - tag: action
+    content: "1002759092"
 
   - tag: ul
     text:
       - 填写问卷
 
-  - tag: copy
-    text: https://www.wjx.cn/m/61883438.aspx
+  - tag: action
+    content: https://www.wjx.cn/m/61883438.aspx
 
   - tag: ul
     text:
@@ -43,8 +43,8 @@ content:
   - tag: title
     text: 邮件心理服务
 
-  - tag: copy
-    text: xinyun@nenu.edu.cn
+  - tag: action
+    content: xinyun@nenu.edu.cn
 
   - tag: p
     text: 请使用您的师大邮箱发信，并在邮件中注明姓名、年级、学院及联系方式，我们会在3个工作日内予以回复。

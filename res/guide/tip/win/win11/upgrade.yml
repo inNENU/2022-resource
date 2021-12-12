@@ -13,7 +13,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 检查自己的电脑是否支持 Windows 11
         icon: support
         path: support
@@ -26,6 +26,6 @@ content:
       - 请您在确定完成上述步骤后，下载并运行 Windows 11 安装助手。
       - 如果您通过了电脑健康状况检查应用的 Windows 11 兼容性检测，安装助手可以自动为您升级到 Windows 11。
 
-  - tag: copy
+  - tag: action
     header: Windows 11 安装助手
-    text: https://go.microsoft.com/fwlink/?linkid=2171764
+    content: https://go.microsoft.com/fwlink/?linkid=2171764

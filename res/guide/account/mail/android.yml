@@ -44,8 +44,8 @@ content:
   - tag: ul
     text: 在接收服务器中输入
 
-  - tag: copy
-    text: smtphz.qiye.163.com
+  - tag: action
+    content: smtphz.qiye.163.com
 
   - tag: text
     type: tip
@@ -59,8 +59,8 @@ content:
   - tag: ul
     text: 在外发服务器中输入
 
-  - tag: copy
-    text: smtphz.qiye.163.com
+  - tag: action
+    content: smtphz.qiye.163.com
 
   - tag: text
     type: tip

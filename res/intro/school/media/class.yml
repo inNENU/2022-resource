@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 新闻学
         path: news
 

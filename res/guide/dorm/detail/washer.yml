@@ -59,7 +59,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 洗衣贴士
         path: /guide/tip/washing/
 

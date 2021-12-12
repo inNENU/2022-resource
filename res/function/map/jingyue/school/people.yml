@@ -3,7 +3,7 @@ author: Mr.Hope
 time: 2020年9月1日
 content:
   - tag: list
-    content:
+    items:
       - text: 学院简介
         icon: about
         path: /intro/school/people/intro

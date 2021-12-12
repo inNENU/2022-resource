@@ -6,7 +6,7 @@ shareable: true
 cite: http://edu.nenu.edu.cn/xkxs/xkbj1/zyxkfx.htm
 content:
   - tag: list
-    content:
+    items:
       - text: 国家重点学科
         path: national
 

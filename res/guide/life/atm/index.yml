@@ -9,7 +9,7 @@ content:
       - 为方便学生存取款，两校区校内均设有 ATM 机，供同学们使用。
 
   - tag: list
-    content:
+    items:
       - text: 本部
         path: benbu
 

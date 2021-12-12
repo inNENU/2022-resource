@@ -38,7 +38,7 @@ content:
 
   - tag: list
     header: 专业介绍
-    content:
+    items:
       - text: 油画
         path: paint
 

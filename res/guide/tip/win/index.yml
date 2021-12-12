@@ -18,7 +18,7 @@ content:
 
   - tag: list
     header: 常见问题及解决
-    content:
+    items:
       - text: 常见问题的疑难解答
         icon: faq
         path: diagnosis
@@ -31,7 +31,7 @@ content:
 
   - tag: list
     header: Windows 11
-    content:
+    items:
       - text: Windows 11 支持的设备
         icon: support
         path: win11/support
@@ -58,7 +58,7 @@ content:
 
   - tag: list
     header: Windows 10
-    content:
+    items:
       - text: 更新到最新版 Windows 10
         icon: upgrade
         path: win10/upgrade
@@ -81,7 +81,7 @@ content:
 
   - tag: list
     header: 系统修复
-    content:
+    items:
       - text: 系统修复
         icon: repair
         path: os-repair

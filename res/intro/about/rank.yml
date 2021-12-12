@@ -9,8 +9,8 @@ content:
   - tag: text
     text: 2021 年 3 月东北师范大学软科中国大学排名 49，师范院校排名第五。
 
-  - tag: copy
-    text: https://www.shanghairanking.cn/institution/northeast-normal-university
+  - tag: action
+    content: https://www.shanghairanking.cn/institution/northeast-normal-university
 
   - tag: text
     type: info
@@ -20,8 +20,8 @@ content:
   - tag: title
     text: QS国际排名
 
-  - tag: copy
-    text: https://www.qschina.cn/universities/northeast-normal-university
+  - tag: action
+    content: https://www.qschina.cn/universities/northeast-normal-university
 
   - tag: title
     text: 双一流建设
@@ -29,5 +29,5 @@ content:
   - tag: text
     text: 东北师范大学被评为教育部评为“一流学科建设高校”。
 
-  - tag: copy
-    text: http://www.moe.gov.cn/s78/A22/A22_ztzl/ztzl_tjsylpt/sylpt_jsgx/201712/t20171206_320667.html
+  - tag: action
+    content: http://www.moe.gov.cn/s78/A22/A22_ztzl/ztzl_tjsylpt/sylpt_jsgx/201712/t20171206_320667.html

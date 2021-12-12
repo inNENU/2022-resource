@@ -10,9 +10,9 @@ content:
     text:
       - 关于完整的招生专业、人数以及联系方式，请详见官网。
 
-  - tag: copy
+  - tag: action
     header: 查询地址
-    text: https://math127.nenu.edu.cn/yjsy/HData/ZSB/ZSJZ2022-TK-2.html
+    content: https://math127.nenu.edu.cn/yjsy/HData/ZSB/ZSJZ2022-TK-2.html
 
   - tag: doc
     name: 2022年研究生学费及培养校区

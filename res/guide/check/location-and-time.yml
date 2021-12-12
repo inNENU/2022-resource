@@ -35,7 +35,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 认准校区校门
         path: locate
 

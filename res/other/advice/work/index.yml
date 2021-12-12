@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 学生工作
-    content:
+    items:
       - text: 总体介绍
         icon: intro
         path: intro

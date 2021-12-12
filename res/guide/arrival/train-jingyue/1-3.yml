@@ -86,7 +86,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 长春站南出站口进1号线
         icon: ban
         path: ../train-benbu/south-1
@@ -114,7 +114,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码注册与使用
         icon: register
         path: /guide/epidemic/jixiang-code/
@@ -125,7 +125,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 禁止、限制携带物品和禁止行为
         icon: ban
         path: /guide/traffic/railway/ban

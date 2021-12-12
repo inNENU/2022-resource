@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 本科招生
-    content:
+    items:
       - text: 2021 年本科开设专业
         icon: intro
         path: under/major/2021
@@ -29,7 +29,7 @@ content:
 
   - tag: list
     header: 研究生招生
-    content:
+    items:
       - text: 2022 年招生专业、人数与联系方式
         icon: intro
         path: grad/major/2022
@@ -48,7 +48,7 @@ content:
 
   - tag: list
     header: 第二学士学位
-    content:
+    items:
       - text: 2021 年第二学士学位招生简章
         icon: intro
         path: second-degree/2021

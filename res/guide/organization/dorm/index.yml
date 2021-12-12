@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看小窝部门组成
         icon: apartment
         path: apartment
@@ -47,7 +47,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看小窝活动
         icon: activity
         path: activity
@@ -57,7 +57,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 查看小窝氛围
         icon: environment
         path: env

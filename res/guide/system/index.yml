@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 本科教学服务系统
-    content:
+    items:
       - text: 系统介绍
         icon: intro
         path: under/intro
@@ -25,11 +25,11 @@ content:
 
   - tag: list
     header: 研究生教学服务系统
-    content:
+    items:
       - text: 制作中...
 
   - tag: list
-    content:
+    items:
       - text: 常见问题
         icon: faq
         path: faq

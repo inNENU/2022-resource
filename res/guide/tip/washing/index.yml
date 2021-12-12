@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 衣物标签介绍
         icon: intro
         path: tag

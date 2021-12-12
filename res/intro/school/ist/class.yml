@@ -10,7 +10,7 @@ content:
     text: 学生入学3个学期后分流至计算机科学与技术，智能科学与技术，教育技术学和图书馆学等四个专业。
 
   - tag: list
-    content:
+    items:
       - text: 计算机科学与技术
         path: science
 

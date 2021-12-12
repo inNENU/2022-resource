@@ -23,7 +23,7 @@ content:
 
   - tag: list
     header: 功能
-    content:
+    items:
       - text: 校园卡充值
         icon: card
         path: /guide/card/charge/wechat

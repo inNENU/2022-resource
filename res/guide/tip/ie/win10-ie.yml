@@ -19,7 +19,7 @@ content:
 
   - tag: list
     header: 相关链接
-    content:
+    items:
       - text: 使用 IE Tab 扩展程序
         icon: ie
         path: ietab/

@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: 专业介绍
-    content:
+    items:
       - text: 公共事业管理
         path: public
 

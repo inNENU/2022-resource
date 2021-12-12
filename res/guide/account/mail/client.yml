@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 安卓邮箱客户端设置
         icon: android
         path: Android

@@ -7,9 +7,9 @@ content:
   - tag: title
     text: 下载 Windows 10 镜像
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: https://www.microsoft.com/zh-cn/software-download/windows10
+    content: https://www.microsoft.com/zh-cn/software-download/windows10
 
   - tag: text
     text: 请访问上述地址下载 Windows 10。
@@ -36,6 +36,6 @@ content:
   - tag: p
     text: “安全启动”的默认设置为“完整安全性”(也就是默认情况下不需要任何操作)。如果您已将它更改为“无安全性”，请在安装 Windows 之前将它改回“完整安全性”。
 
-  - tag: copy
+  - tag: action
     header: 相关指南
-    text: https://support.apple.com/zh-cn/HT208198
+    content: https://support.apple.com/zh-cn/HT208198

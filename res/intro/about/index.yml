@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 学校介绍
-    content:
+    items:
       - text: 学校介绍
         icon: about
         path: intro
@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: 东师实力
-    content:
+    items:
       - text: 师资队伍
         icon: teacher
         path: teacher
@@ -48,7 +48,7 @@ content:
 
   - tag: list
     header: 信息公开
-    content:
+    items:
       - text: 领导机构
         icon: leader
         path: public/leader
@@ -57,6 +57,6 @@ content:
         icon: data
         path: public/basic
 
-  - tag: copy
+  - tag: action
     header: 信息公开网
-    text: http://publish.nenu.edu.cn
+    content: http://publish.nenu.edu.cn

@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 大学英语水平测试
-    content:
+    items:
       - text: 测试介绍
         icon: intro
         path: cet/intro
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: 计算机等级考试
-    content:
+    items:
       - text: NCRE 介绍
         icon: intro
         path: ncre/intro
@@ -64,7 +64,7 @@ content:
 
   - tag: list
     header: 中小学教师资格考试
-    content:
+    items:
       - text: 介绍
         icon: intro
         path: ntce/intro
@@ -99,6 +99,6 @@ content:
 
   - tag: list
     header: 普通话
-    content:
+    items:
       - text: 普通话水平测试
         path: putong

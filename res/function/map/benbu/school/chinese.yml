@@ -19,7 +19,7 @@ content:
     site: http://chinese.nenu.edu.cn/home
 
   - tag: list
-    content:
+    items:
       - text: 学院简介
         icon: about
         path: /intro/school/chinese/intro

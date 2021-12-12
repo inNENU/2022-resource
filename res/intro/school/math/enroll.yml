@@ -12,13 +12,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/8/9D/F3/2AF2F57278A393CB7E12C5DAF72_60C668FC_EB8477F.mp4?e=.mp4
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 数学与应用数学(公费师范)
         path: math-free
 

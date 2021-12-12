@@ -58,7 +58,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - text: 常见网上诈骗
         path: /guide/prepare/cheat
 
@@ -67,7 +67,7 @@ content:
 
   - tag: functional-list
     header: false
-    content:
+    items:
       - text: 开始探索东师
         type: navigator
         openType: reLaunch

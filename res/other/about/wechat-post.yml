@@ -13,9 +13,9 @@ content:
     text:
       - Mr.Hope 有一个QQ群，当然主要面向本科新生，想吹水也可以加。
 
-  - tag: copy
+  - tag: action
     header: QQ 群号
-    text: "594493757"
+    content: "594493757"
 
   - tag: title
     text: 一些基本的要求

@@ -5,14 +5,14 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 站点介绍
         icon: about
         path: intro
 
   - tag: list
     header: 站点详情
-    content:
+    items:
       - text: 长春站
         path: changchun
 
@@ -21,12 +21,12 @@ content:
 
   - tag: list
     header: 疫情管控
-    content:
+    items:
       - text: 在长春站出站时，需要测量体温、刷身份证查验健康码情况。需要隔离的会直接隔离。
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 吉祥码注册与使用
         icon: register
         path: /guide/epidemic/jixiang-code/

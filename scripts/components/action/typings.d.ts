@@ -8,7 +8,4 @@ export interface ActionComponentOptions extends BaseComponentOptions {
 
   /** 动作内容 */
   content: string;
-
-  /** 复制文字 */
-  text?: string;
 }

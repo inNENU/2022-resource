@@ -65,7 +65,7 @@ content:
 
   - tag: list
     header: 请考虑重新激活
-    content:
+    items:
       - text: 如何激活生活用水
         icon: card
         path: /guide/card/prepare
@@ -92,7 +92,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 洗衣机详细使用说明
         icon: washer
         path: washer

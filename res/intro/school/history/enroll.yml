@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 本科各专业介绍
-    content:
+    items:
       - text: 历史学(公费师范)
         path: history-free
 

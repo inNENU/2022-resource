@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 介绍
-    content:
+    items:
       - text: 龙嘉机场介绍
         icon: intro
         path: intro
@@ -25,7 +25,7 @@ content:
 
   - tag: list
     header: 通勤
-    content:
+    items:
       - text: 从机场出发
         icon: take-off
         path: depart
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: 换乘
-    content:
+    items:
       - text: Mr.Hope 建议首选动车。
 
       - text: 长春龙嘉机场动车组

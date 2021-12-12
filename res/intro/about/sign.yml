@@ -7,8 +7,8 @@ content:
     type: warning
     text: 如果您想使用学校标识，请访问学校视觉形象识别系统下载素材与使用要求以确保正确使用。
 
-  - tag: copy
-    text: http://sjxxsbxt.nenu.edu.cn/index.htm
+  - tag: action
+    content: http://sjxxsbxt.nenu.edu.cn/index.htm
 
   - tag: title
     text: 校名
@@ -60,26 +60,26 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 点击聆听
         url: /function/music/music?name=东北师范大学校歌
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学校歌音频
-    text: https://www.nenu.edu.cn/xgyinpin.rar
+    content: https://www.nenu.edu.cn/xgyinpin.rar
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学校歌伴奏
-    text: https://www.nenu.edu.cn/xgbanzou.rar
+    content: https://www.nenu.edu.cn/xgbanzou.rar
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学校歌乐谱
-    text: https://www.nenu.edu.cn/xgyuepu.pdf
+    content: https://www.nenu.edu.cn/xgyuepu.pdf
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学校歌简谱
-    text: https://www.nenu.edu.cn/xgjianpu.pdf
+    content: https://www.nenu.edu.cn/xgjianpu.pdf
 
-  - tag: copy
+  - tag: action
     header: 东北师范大学校歌MV
-    text: https://www.nenu.edu.cn/xgmv.mp4
+    content: https://www.nenu.edu.cn/xgmv.mp4

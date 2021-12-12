@@ -8,9 +8,9 @@ content:
     type: info
     text: Chrome 浏览器是谷歌出品的一款浏览器。
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: https://www.google.cn/chrome/index.html
+    content: https://www.google.cn/chrome/index.html
 
   - tag: title
     text: 安装方式
@@ -19,9 +19,9 @@ content:
     type: info
     text: 由于访问 Chrome 扩展商店需要科学上网，Mr.Hope 已为您打包了扩展。
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: $file/system/IE-Tab-14.11.12.1.crx
+    content: $file/system/IE-Tab-14.11.12.1.crx
 
   - tag: text
     text: 请下载好文件，并通过下图所述方式打开 Chrome 的扩展程序面板。

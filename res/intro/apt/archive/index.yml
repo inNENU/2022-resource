@@ -15,7 +15,7 @@ content:
     site: https://dag.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 档案馆介绍
         icon: intro
         path: intro

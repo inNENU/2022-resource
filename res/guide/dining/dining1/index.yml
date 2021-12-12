@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 基本餐
-    content:
+    items:
       - text: 基本餐价格相对较低，分时间段供应三餐。
 
       - text: 了解更多
@@ -29,7 +29,7 @@ content:
 
   - tag: list
     header: 特色档口
-    content:
+    items:
       - text: 特色档口以特色餐和各式快餐为主。几乎所有档口不分时段供应对应饮食，价格比外面餐馆略低。
 
       - text: 了解更多
@@ -37,7 +37,7 @@ content:
 
   - tag: list
     header: 其他
-    content:
+    items:
       - text: 一食堂三楼含有清真餐厅和教职工餐厅
 
       - text: 了解更多

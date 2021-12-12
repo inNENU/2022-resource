@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: 介绍
-    content:
+    items:
       - text: 介绍
         icon: intro
         path: intro
@@ -27,7 +27,7 @@ content:
 
   - tag: list
     header: 考试
-    content:
+    items:
       - text: 笔试报名
         icon: enroll
         path: enroll
@@ -42,13 +42,13 @@ content:
 
   - tag: list
     header: 申请
-    content:
+    items:
       - text: 资格证申请
         icon: apply
         path: apply
 
   - tag: list
-    content:
+    items:
       - text: 常见问题
         icon: faq
         path: faq

@@ -12,8 +12,7 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/7/F6/CF/7A5A8154456418A356354C8F71B_DD2F51BA_FC688C7.mp4?e=.mp4
 
   - tag: img
@@ -21,7 +20,7 @@ content:
 
   - tag: list
     header: 各专业介绍
-    content:
+    items:
       - text: 小学教育(公费师范)
         path: primary-free
 

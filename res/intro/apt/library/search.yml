@@ -8,8 +8,8 @@ content:
   - tag: ul
     text: 先访问图书馆主页
 
-  - tag: copy
-    text: http://www.library.nenu.edu.cn/
+  - tag: action
+    content: http://www.library.nenu.edu.cn/
 
   - tag: img
     src: $img/library/libraryGuide1.jpg

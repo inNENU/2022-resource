@@ -83,6 +83,6 @@ content:
   - tag: title
     text: 其他联系方式
 
-  - tag: copy
+  - tag: action
     header: 微博
-    text: https://weibo.com/RCVAofNENU
+    content: https://weibo.com/RCVAofNENU

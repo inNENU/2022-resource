@@ -12,13 +12,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/3/2B/A8/EFAC87FF34B43020087E5E41285_6C2F4F91_DB5B6DE.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍
-    content:
+    items:
       - text: 美术学(师范)
         path: art-normal
 
@@ -33,7 +32,7 @@ content:
 
   - tag: list
     header: 其他院系介绍
-    content:
+    items:
       - text: 综合实验艺术
         path: experiment
 

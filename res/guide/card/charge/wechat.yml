@@ -9,7 +9,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 企业号关注与认证
         icon: wechat
         path: /guide/account/wechat/

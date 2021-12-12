@@ -14,7 +14,7 @@ content:
 
   - tag: list
     header: 院系介绍
-    content:
+    items:
       - text: 环境艺术设计
         path: environment
 

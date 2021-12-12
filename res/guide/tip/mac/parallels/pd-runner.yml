@@ -24,9 +24,9 @@ content:
     text:
       - 请不要试图从诸如下方的示例地址中下载此工具。
 
-  - tag: copy
+  - tag: action
     header: 下载地址
-    text: $file/tools/PD-Runner_v0.2.14_Universal2.dmg
+    content: $file/tools/PD-Runner_v0.2.14_Universal2.dmg
 
   - tag: text
     heading: 不要安装

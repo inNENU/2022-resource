@@ -3,7 +3,7 @@ grey: true
 content:
   - tag: list
     header: 历史日志
-    content:
+    items:
       - text: alpha 日志
         url: page?path=other/log/history/dev
 

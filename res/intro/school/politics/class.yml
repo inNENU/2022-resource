@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: 专业介绍
-    content:
+    items:
       - text: 政治学与行政学
         path: politics
 

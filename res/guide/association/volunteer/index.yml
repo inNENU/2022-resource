@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 东北师范大学国际学生交流协会
         icon: $img/association/NISA.png
         path: NISA
@@ -52,12 +52,12 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 待更新
 
   - tag: functional-list
     header: 欢迎社团入驻本页面
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

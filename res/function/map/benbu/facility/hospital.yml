@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 校医院介绍
         icon: hospital
         path: /intro/apt/hospital/

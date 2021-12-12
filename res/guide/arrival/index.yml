@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 报到要求
-    content:
+    items:
       - text: 新生报到需要满足的条件
         icon: alert
         path: /guide/epidemic/requirement
@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 到本部校区
-    content:
+    items:
       - text: 从长春站
         icon: railway
         path: train-benbu/
@@ -36,7 +36,7 @@ content:
 
   - tag: list
     header: 到净月校区
-    content:
+    items:
       - text: 从长春站
         icon: railway
         path: train-jingyue/
@@ -51,7 +51,7 @@ content:
 
   - tag: functional-list
     header: 到达长春后
-    content:
+    items:
       - type: navigator
         text: 导航到本部
         url: 'plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in东师&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71'
@@ -64,7 +64,7 @@ content:
 
   - tag: list
     header: 注意事项
-    content:
+    items:
       - text: 关于出租车
         icon: taxi
         path: taxi
@@ -75,7 +75,7 @@ content:
 
   - tag: list
     header: 更多
-    content:
+    items:
       - text: 公交介绍
         icon: bus
         path: /guide/traffic/bus

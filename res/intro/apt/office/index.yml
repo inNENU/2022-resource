@@ -5,7 +5,7 @@ time: 2021年12月3日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 学校办公室介绍
         icon: about
         path: intro
@@ -20,7 +20,7 @@ content:
 
   - tag: list
     header: 人员信息
-    content:
+    items:
       - text: 学校办公室主任
         icon: about
         path: info/leader

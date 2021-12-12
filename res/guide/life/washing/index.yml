@@ -9,7 +9,7 @@ content:
       - 为方便学生对多种服装的清洁要求，两校区校内均设有洗衣店与干洗店。
 
   - tag: list
-    content:
+    items:
       - text: 本部
         path: benbu
 

@@ -27,7 +27,7 @@ content:
 
   - tag: list
     header: 接入的第三方插件信息
-    content:
+    items:
       - text: 暂无
 
   - tag: text

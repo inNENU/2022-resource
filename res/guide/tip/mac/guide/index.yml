@@ -9,7 +9,7 @@ content:
     text: 此页面内容仍在完善中...
 
   - tag: list
-    content:
+    items:
       - text: Mac 上的桌面、菜单栏和帮助
         icon: intro
         path: layout

@@ -6,9 +6,9 @@ content:
   - tag: title
     text: 认证方式
 
-  - tag: copy
+  - tag: action
     header: 认证网址
-    text: "10.100.100.67"
+    content: "10.100.100.67"
 
   - tag: title
     text: 认证账户
@@ -18,7 +18,7 @@ content:
 
   - tag: list
     header: 更多信息
-    content:
+    items:
       - text: 统一身份认证
         icon: about
         path: /guide/account/authorize
@@ -38,9 +38,9 @@ content:
   - tag: title
     text: 信息查询与管理
 
-  - tag: copy
+  - tag: action
     header: 地址
-    text: "10.100.100.67:8900"
+    content: "10.100.100.67:8900"
 
   - tag: ul
     heading: 功能

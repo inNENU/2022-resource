@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 本科课程设置
-    content:
+    items:
       - text: 通识教育课程
         icon: content
         path: general/
@@ -29,7 +29,7 @@ content:
 
   - tag: list
     header: 体育课
-    content:
+    items:
       - text: 体育课介绍
         icon: basketball
         path: pe/intro
@@ -40,14 +40,14 @@ content:
 
   - tag: list
     header: 网课
-    content:
+    items:
       - text: 网课说明
         icon: wifi
         path: net-course
 
   - tag: list
     header: 英语课程
-    content:
+    items:
       - text: 课程简介
         icon: english
         path: english/intro
@@ -61,12 +61,12 @@ content:
         path: english/DET
 
   - tag: list
-    content:
+    items:
       - text: Mr.Hope の个人建议
         icon: idea
         path: advice
 
   - tag: list
     header: 硕士研究生课程设置
-    content:
+    items:
       - text: 待补充...

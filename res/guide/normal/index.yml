@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 师范生协议填写说明
         icon: intro
         path: fill
@@ -15,7 +15,7 @@ content:
         path: great-intro
 
   - tag: list
-    content:
+    items:
       - text: 公费师范生介绍
         icon: teacher
         path: free-intro
@@ -26,7 +26,7 @@ content:
 
   - tag: list
     header: 相关政策
-    content:
+    items:
       - text: 教育部直属师范大学师范生公费教育实施办法
         icon: rule
         path: normal
@@ -41,7 +41,7 @@ content:
 
   - tag: list
     header: 常见问题
-    content:
+    items:
       - text: 公费师范生常见问题
         icon: faq
         path: free-faq

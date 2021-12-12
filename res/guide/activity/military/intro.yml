@@ -66,7 +66,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 更多军训详情
         icon: more
         path: detail

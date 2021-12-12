@@ -11,7 +11,7 @@ content:
       - 如果您的电脑支持 Windows 11，Mr.Hope 推荐您直接更新到 Windows 11 系统。
 
   - tag: list
-    content:
+    items:
       - text: 检查自己的电脑是否支持 Windows 11
         icon: support
         path: ../win11/support
@@ -27,9 +27,9 @@ content:
     text:
       - 微软推出了 Windows 10 易升助手，帮助您一键升级 Windows 10 系统。
 
-  - tag: copy
+  - tag: action
     header: Windows 10 易升
-    text: https://go.microsoft.com/fwlink/?LinkID=799445
+    content: https://go.microsoft.com/fwlink/?LinkID=799445
 
   - tag: img
     src: $img/tip/win10-upgrade-1.jpg

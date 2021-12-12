@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 学生社团发展管理中心
         icon: $img/organization/sheguan.png
         path: /guide/organization/association-union
@@ -22,7 +22,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 创新创业类
         path: job/benbu
 
@@ -40,7 +40,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 创新创业类
         path: job/jingyue
 
@@ -52,7 +52,7 @@ content:
 
   - tag: functional-list
     header: 欢迎社团入驻本页面
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button
@@ -70,7 +70,7 @@ content:
 
   # - tag: list
   #   header: 本部入驻中...
-  #   content:
+  #   items:
   #     # - text: 爱创影视协会
   #     #   path: update
 
@@ -199,7 +199,7 @@ content:
 
   # - tag: list
   #   header: 净月入驻中...
-  #   content:
+  #   items:
   #     - text: 马列协会
   #       path: update
 

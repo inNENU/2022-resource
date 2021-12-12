@@ -10,13 +10,13 @@ content:
     heading: 书记
     text: 杨晓慧
 
-  - tag: copy
+  - tag: action
     header: 书记信箱
-    text: shuji@nenu.edu.cn
+    content: shuji@nenu.edu.cn
 
-  - tag: copy
+  - tag: action
     header: 个人介绍
-    text: https://www.nenu.edu.cn/info/1007/9244.htm
+    content: https://www.nenu.edu.cn/info/1007/9244.htm
 
   - tag: ul
     heading: 副书记
@@ -50,13 +50,13 @@ content:
     heading: 校长
     text: 刘益春
 
-  - tag: copy
+  - tag: action
     header: 校长信箱
-    text: xiaozhang@nenu.edu.cn
+    content: xiaozhang@nenu.edu.cn
 
-  - tag: copy
+  - tag: action
     header: 个人介绍
-    text: https://www.nenu.edu.cn/info/1007/9243.htm
+    content: https://www.nenu.edu.cn/info/1007/9243.htm
 
   - tag: phone
     header: 校长公开电话

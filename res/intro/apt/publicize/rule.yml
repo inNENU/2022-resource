@@ -18,6 +18,6 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 东北师范大学校园网“东师新闻”信息发布细则
         path: news

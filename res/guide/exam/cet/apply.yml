@@ -6,8 +6,8 @@ content:
   - tag: title
     text: 四六级报考网站
 
-  - tag: copy
-    text: http://cet.neea.edu.cn
+  - tag: action
+    content: http://cet.neea.edu.cn
 
   - tag: title
     text: 东北师范大学考点
@@ -37,9 +37,9 @@ content:
   - tag: title
     text: 网上报名流程
 
-  - tag: copy
+  - tag: action
     header: 网址
-    text: https://passport.neea.edu.cn/CETLogin?ReturnUrl=http://cet-bm.neea.edu.cn/Home/VerifyPassport/?LoginType=0
+    content: https://passport.neea.edu.cn/CETLogin?ReturnUrl=http://cet-bm.neea.edu.cn/Home/VerifyPassport/?LoginType=0
 
   - tag: ol
     text:

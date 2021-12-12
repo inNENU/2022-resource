@@ -14,9 +14,9 @@ content:
     text:
       - 我校会根据批次、地区分批发出录取通知书。可以在招生办官方查询快递单号。
 
-  - tag: copy
+  - tag: action
     header: 录取查询
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
   - tag: text
     type: info
@@ -33,7 +33,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 师范生相关
         icon: teacher
         path: /guide/normal/

@@ -4,7 +4,7 @@ time: 2021年9月15日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 本部
         desc: 暂无药店
 

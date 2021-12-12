@@ -9,7 +9,7 @@ content:
     text: 作为一所倡导“尊重的教育”理念的师范大学，学校一直十分重视家庭经济困难学生的资助工作，构建了以国家助学贷款为主体，勤工助学为主导，“奖、贷、助、补、减”五位一体的家庭经济困难学生资助工作体系，并成立了专门从事资助工作的机构——学生资助管理中心。所以即便您有经济困难，在收到大学录取通知书的时候，面对学费和生活费，也不必担心。
 
   - tag: list
-    content:
+    items:
       - text: 资助体系介绍
         icon: about
         path: intro
@@ -24,7 +24,7 @@ content:
 
   - tag: list
     header: 助学贷款
-    content:
+    items:
       - text: 国家助学贷款介绍
         icon: about
         path: loan/intro

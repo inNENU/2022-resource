@@ -7,7 +7,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 天宇协会
         path: astronomy
 
@@ -31,7 +31,7 @@ content:
 
   - tag: functional-list
     header: 欢迎社团入驻本页面
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

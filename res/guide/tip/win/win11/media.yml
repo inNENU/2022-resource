@@ -8,9 +8,9 @@ content:
     text:
       - 请准备一个不小于 8 GB 的空 U 盘 (或你确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
 
-  - tag: copy
+  - tag: action
     header: Windows 11 媒体制作工具
-    text: https://go.microsoft.com/fwlink/?linkid=2156295
+    content: https://go.microsoft.com/fwlink/?linkid=2156295
 
   - tag: title
     text: Windows 11 启动盘制作流程

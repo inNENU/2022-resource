@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 签约协议
-    content:
+    items:
       - text: 就业协议书介绍
         icon: about
         desc: 三方协议

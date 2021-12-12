@@ -8,7 +8,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 寝室
         icon: dorm
         path: /guide/dorm/
@@ -35,7 +35,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 寝室照片
         icon: photo
         path: /guide/dorm/detail/env
@@ -76,7 +76,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 卫生间
         icon: toilet
         path: /guide/dorm/detail/toilet
@@ -88,7 +88,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 浴池
         icon: bath
         path: /guide/bath/
@@ -127,7 +127,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 原文详情
         icon: rule
         path: /intro/apt/logistics/rule

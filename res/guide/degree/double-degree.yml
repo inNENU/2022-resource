@@ -12,7 +12,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 转专业实施办法
         icon: intro
         path: /guide/change-major/rule

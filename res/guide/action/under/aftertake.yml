@@ -15,7 +15,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 本科缓考申请
         desc: 制作中
         path: /guide/system/under/

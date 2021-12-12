@@ -24,8 +24,8 @@ content:
   - tag: text
     text: 输入“UVK533RG” ↓
 
-  - tag: copy
-    text: UVK533RG
+  - tag: action
+    content: UVK533RG
 
   - tag: img
     src: $img/yiban/mobile-add5.jpg

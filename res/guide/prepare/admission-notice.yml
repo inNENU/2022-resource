@@ -9,9 +9,9 @@ content:
   - tag: text
     text: 录取通知书会在每批录取工作全部完成之后，陆续制作。
 
-  - tag: copy
+  - tag: action
     header: 快递单号查询网址
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
   - tag: text
     type: info

@@ -18,8 +18,8 @@ content:
   - tag: text
     text: 点击添加课群，输入 “UVK533RG” 并点击确定 ↓
 
-  - tag: copy
-    text: UVK533RG
+  - tag: action
+    content: UVK533RG
 
   - tag: img
     src: $img/yiban/web-add3.jpg

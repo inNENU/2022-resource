@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: 寝室详细介绍
-    content:
+    items:
       - text: 室内环境介绍
         icon: environment
         path: /guide/dorm/detail/env
@@ -45,7 +45,7 @@ content:
 
   - tag: list
     header: 寝室供电
-    content:
+    items:
       - text: 供电时间
         icon: time
         path: /guide/dorm/electricity/time
@@ -60,14 +60,14 @@ content:
 
   - tag: list
     header: 寝室供网
-    content:
+    items:
       - text: 寝室供网
         icon: network
         path: /guide/dorm/network
 
   - tag: list
     header: 规章制度
-    content:
+    items:
       - text: 寝室门禁
         icon: door-guard
         path: /guide/dorm/door
@@ -81,7 +81,7 @@ content:
         path: /guide/dorm/ban
 
   - tag: list
-    content:
+    items:
       - text: Mr.Hope の建议
         icon: idea
         path: /guide/dorm/advice

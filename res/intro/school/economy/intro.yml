@@ -21,8 +21,7 @@ content:
   - tag: p
     text: 东北师范大学是国内较早开设经济管理学科的高校之一，1986 年在原政治经济学教研室基础上成立东北师范大学经济管理系, 1995年经济管理系扩大并成立国际工商管理学院，2004年国际工商管理学院分立商学院和经济学院，2019 年原经济学院与商学院合并成立经济与管理学院。目前是东北师范大学办学规模最大的学院。
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://bs.nenu.edu.cn/__local/4/EC/2D/C5B50CEA39BD5EFFEE9FCEBD788_C8A431AF_3E9A38.mp4?e=.mp4
 
   - tag: title

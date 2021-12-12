@@ -35,7 +35,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 到校路线
         icon: gate
         path: /guide/arrival/

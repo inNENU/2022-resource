@@ -11,7 +11,7 @@ content:
     text: 2020级目前尚未分流，分流据学院院长说计划于大二结束
 
   - tag: list
-    content:
+    items:
       - text: 生物科学
         path: science
 

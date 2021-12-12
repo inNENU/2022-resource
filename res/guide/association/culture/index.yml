@@ -10,7 +10,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 卓音网络工作室
         icon: $img/association/joinin.png
         path: joinin
@@ -76,7 +76,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 师说曲艺社
         icon: $img/association/quyi.png
         path: quyi
@@ -86,7 +86,7 @@ content:
 
   - tag: functional-list
     header: 欢迎社团入驻本页面
-    content:
+    items:
       - text: 联系 Mr.Hope
         icon: contact
         type: button

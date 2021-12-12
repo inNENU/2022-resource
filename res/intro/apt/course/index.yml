@@ -15,7 +15,7 @@ content:
     site: https://jwc.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 教务处介绍
         icon: about
         path: intro
@@ -30,7 +30,7 @@ content:
 
   - tag: list
     header: 人员信息
-    content:
+    items:
       - text: 教务处处长人员信息
         path: info/leader
 

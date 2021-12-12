@@ -63,7 +63,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: Parallels 使用
         icon: idea
         path: usage

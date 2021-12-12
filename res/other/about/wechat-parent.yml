@@ -15,9 +15,9 @@ content:
       - 所有消息都会在 QQ 群发布，微信群未必会同步所有消息。
       - 因为 QQ 群有更完善的群公告和精华消息等功能，您即使后加入也可以很方便浏览公告和精华消息获知全部信息。
 
-  - tag: copy
+  - tag: action
     header: QQ 群号
-    text: "154562293"
+    content: "154562293"
 
   - tag: title
     text: 本群性质

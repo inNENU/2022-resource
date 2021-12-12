@@ -12,7 +12,7 @@ content:
       path: pages/index
 
   - tag: list
-    content:
+    items:
       - text: 通信行程卡介绍
         icon: intro
         path: intro

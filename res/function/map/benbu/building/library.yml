@@ -8,16 +8,16 @@ photo:
 content:
   - tag: list
     header: 疫情相关
-    content:
+    items:
       - text: 目前，由于疫情原因，图书馆限制入馆人数，您可以在图书馆官网或图书馆门口 LED 查看可入馆人数。
 
-  - tag: copy
+  - tag: action
     header: 图书馆官网
-    text: http://www.library.nenu.edu.cn/
+    content: http://www.library.nenu.edu.cn/
 
   - tag: list
     header: 图书馆
-    content:
+    items:
       - text: 馆藏分布
         icon: bookshelf
         path: /intro/apt/library/distribution

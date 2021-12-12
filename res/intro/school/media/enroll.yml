@@ -12,13 +12,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/F/A3/EE/3B09C25A7672419491A7945A56B_2B2A9CD7_1515D839.mp4?e=.mp4
 
   - tag: list
     header: 本科专业介绍
-    content:
+    items:
       - text: 广播电视编导
         path: director
 

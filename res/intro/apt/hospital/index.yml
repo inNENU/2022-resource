@@ -11,7 +11,7 @@ content:
     site: https://hos.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 校医院简介
         icon: about
         path: intro

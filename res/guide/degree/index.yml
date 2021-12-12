@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       # - text: 学位介绍
       #   icon: intro
       #   path: intro

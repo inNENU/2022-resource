@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: list
     header: 报到之前
-    content:
+    items:
       - text: 录取相关
         icon: enroll
         path: enroll
@@ -21,7 +21,7 @@ content:
 
   - tag: list
     header: 新生报到
-    content:
+    items:
       - text: 到校相关
         icon: plane
         path: arrival
@@ -32,7 +32,7 @@ content:
 
   - tag: list
     header: 校园生活
-    content:
+    items:
       - text: 校园卡
         icon: card
         path: card

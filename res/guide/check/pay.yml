@@ -14,7 +14,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 保卫科
         icon: safe
         path: /intro/apt/defend
@@ -26,7 +26,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 绿色通道
         icon: green-tunnel
         path: green-tunnel
@@ -39,7 +39,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 缴费介绍
         icon: money
         path: /guide/pay/

@@ -5,7 +5,7 @@ time: 2021年11月22日
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 本科生奖学金介绍
         icon: metal
         path: undergraduate

@@ -5,7 +5,7 @@ grey: true
 shareable: true
 content:
   - tag: list
-    content:
+    items:
       - text: 系统介绍
         icon: intro
         path: intro
@@ -23,7 +23,7 @@ content:
         path: change-major
 
   - tag: list
-    content:
+    items:
       - text: 常见问题
         icon: faq
         path: /guide/system/faq

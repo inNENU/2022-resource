@@ -18,8 +18,8 @@ content:
   - tag: title
     text: 我校录取查询网址
 
-  - tag: copy
-    text: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+  - tag: action
+    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
 
   - tag: text
     type: warning

@@ -12,7 +12,7 @@ content:
       - "生物科学类: ￥3850/年"
 
   - tag: list
-    content:
+    items:
       - text: 生命科学(公费师范)
         path: normal
 
@@ -22,8 +22,7 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/C/C6/0C/DADBAF8EBD79DB6B4D6C2BC4DD2_C6B015AB_DF6D291.mp4?e=.mp4
 
   - tag: title

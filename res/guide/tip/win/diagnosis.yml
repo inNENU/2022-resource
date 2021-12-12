@@ -18,7 +18,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 重装系统
         icon: reset
         path: os-reinstall

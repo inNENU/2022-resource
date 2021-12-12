@@ -14,7 +14,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 心理学
         path: psychology
 
@@ -24,13 +24,12 @@ content:
   - tag: text
     heading: 专业介绍视频
 
-  - tag: media
-    type: video
+  - tag: video
     src: http://zsb.nenu.edu.cn/__local/B/35/B1/E4AFCA2A39D5861EE36422F5FA5_140E9CE4_ECB601C.mp4?e=.mp4
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 转入要求
         icon: alert
         path: into

@@ -11,7 +11,7 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 小程序介绍
         icon: intro
         path: intro
@@ -22,7 +22,7 @@ content:
 
   - tag: list
     header: 返校相关
-    content:
+    items:
       - text: 每日健康打卡介绍
         icon: check
         path: check
@@ -33,7 +33,7 @@ content:
 
   - tag: list
     header: 在校相关
-    content:
+    items:
       - text: 在校健康检测
         icon: plan
         path: report

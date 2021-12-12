@@ -17,7 +17,7 @@ content:
     site: https://yjsy.nenu.edu.cn/
 
   - tag: list
-    content:
+    items:
       - text: 研究生院介绍
         icon: about
         path: intro

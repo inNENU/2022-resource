@@ -11,18 +11,18 @@ content:
 
   - tag: list
     header: false
-    content:
+    items:
       - text: 企业号认证
         icon: apply
         path: ../wechat/authorize
 
-  - tag: copy
+  - tag: action
     header: 安卓下载企业微信
-    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
+    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
 
-  - tag: copy
+  - tag: action
     header: iOS 下载企业微信
-    text: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
+    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
 
   - tag: ol
     text:
@@ -34,7 +34,7 @@ content:
 
   # - tag: list
   #   header: false
-  #   content:
+  #   items:
   #     - text: 邮箱账户获取
   #       icon: apply
   #       path: ../authorize
@@ -54,8 +54,8 @@ content:
   - tag: title
     text: 登陆地址
 
-  - tag: copy
-    text: https://mail.nenu.edu.cn/
+  - tag: action
+    content: https://mail.nenu.edu.cn/
 
   - tag: text
     type: warning
