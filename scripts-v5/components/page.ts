@@ -105,9 +105,9 @@ export const resolvePage = (
         }
       }
       // @ts-ignore
-      else if (element.tag === "copy") {
+      else if (tag === "copy") {
         // @ts-ignore
-        element.tag === "action";
+        element.tag = "action";
         resolveAction(element, position);
       } else
         console.warn(
