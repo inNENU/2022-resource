@@ -42,7 +42,12 @@ function generateWords($searchWord)
 {
   $length = mb_strlen($searchWord);
 
-  if ($length === 1) return [];
+  if ($length === 1) {
+    return [
+      'words' => [],
+      'index' => [],
+    ];
+  }
 
   $words = preg_split('/ \+/', $searchWord);
 
@@ -360,9 +365,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
 
   $data = json_decode(file_get_contents('php://input'));
 
-  $scope = $data->scope || 'all';
-  $word = $data->word;
-  $type = $data->type;
+  $scope = isset($data->scope) ? $data->scope : 'all';
+  $word = isset($data->scope) ? $data->word : '';
+  $type = isset($data->type) ? $data->type : '';
 
   $filename = $data->scope . "-search.json";
 
@@ -378,9 +383,9 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
     } else if ($type === 'result') {
       echo (json_encode((getResult($word, $content)), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
     } else {
-      echo 'error';
+      echo 'type is invalid';
     }
   } else {
-    echo 'error';
+    echo 'index file not found';
   }
 }
