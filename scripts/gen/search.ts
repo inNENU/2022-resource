@@ -1,9 +1,9 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
-
 import { getFileList } from "../util";
+
 import type { SearchInfo } from "./typings";
-import type { PageConfig } from "../components/typings";
+import type { PageOptions } from "../components/typings";
 
 // 创建搜索字典
 const createSearchMap = (folder: string): SearchInfo => {
@@ -15,27 +15,23 @@ const createSearchMap = (folder: string): SearchInfo => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const pageConfig = JSON.parse(content) as PageConfig;
+    const pageConfig = JSON.parse(content) as PageOptions;
     const pathName = `${folder}/${filePath}`.replace(
-      /\.\/resource\/(.*)\.json/u,
+      /\.\/r\/(.*)\.json/u,
       "$1"
     );
 
     // 生成对应页面的索引对象
     searchMap[pathName] = {
       name: pageConfig.title,
+      index: [],
     };
-
-    if (pageConfig.desc) searchMap[pathName].desc = pageConfig.desc;
 
     // 将页面的标题写入搜索详情中
     pageConfig.content.forEach((element) => {
       /** 写入段落大标题 */
       if (element.tag === "title")
-        searchMap[pathName].title = [
-          ...(searchMap[pathName].title || []),
-          element.text,
-        ];
+        searchMap[pathName].index.push(["title", element.text]);
       else if (
         element.tag === "text" ||
         element.tag === "ul" ||
@@ -44,70 +40,62 @@ const createSearchMap = (folder: string): SearchInfo => {
       ) {
         /** 写入段落标题 */
         if (element.heading && element.heading !== true)
-          searchMap[pathName].heading = [
-            ...(searchMap[pathName].heading || []),
-            element.heading,
-          ];
+          searchMap[pathName].index.push(["heading", element.heading]);
 
         /** 写入段落文字 */
         if (element.text)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            ...element.text,
-          ];
-      } else if (element.tag === "list" && element.content) {
+          element.text.forEach((item) => {
+            searchMap[pathName].index.push(["text", item]);
+          });
+      } else if (element.tag === "img" && element.desc)
+        searchMap[pathName].index.push([
+          "img",
+          {
+            desc: element.desc,
+            icon: element.src.match(/\.jpe?g$/i)
+              ? "jpg"
+              : element.src.match(/\.png$/i)
+              ? "png"
+              : "document",
+          },
+        ]);
+      else if (element.tag === "list") {
         /** 写入段落标题 */
         if (element.header)
-          searchMap[pathName].heading = [
-            ...(searchMap[pathName].heading || []),
-            element.header,
-          ];
+          searchMap[pathName].index.push(["heading", element.header]);
 
         /** 写入段落文字  */
-        element.content.forEach((config) => {
+        element.items?.forEach((config) => {
           if (config.text && !config.path && !config.url)
-            searchMap[pathName].text = [
-              ...(searchMap[pathName].text || []),
-              config.text,
-            ];
+            searchMap[pathName].index.push(["text", config.text]);
         });
       } else if (element.tag === "card")
-        searchMap[pathName].card = [
-          ...(searchMap[pathName].card || []),
+        searchMap[pathName].index.push([
+          "card",
           {
             title: element.title,
-            ...(element.desc ? { desc: element.desc } : {}),
+            desc: element.desc || "",
           },
-        ];
+        ]);
       else if (element.tag === "doc")
-        searchMap[pathName].doc = [
-          ...(searchMap[pathName].doc || []),
+        searchMap[pathName].index.push([
+          "doc",
           {
             name: element.name,
             icon: element.icon,
           },
-        ];
-      else if (element.tag === "img" && element.desc)
-        searchMap[pathName].text = [
-          ...(searchMap[pathName].text || []),
-          element.desc,
-        ];
+        ]);
       else if (element.tag === "account") {
-        searchMap[pathName].heading = [
-          ...(searchMap[pathName].heading || []),
-          element.name,
-        ];
+        searchMap[pathName].index.push(["heading", element.name]);
         if (element.detail)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            element.detail,
-          ];
+          searchMap[pathName].index.push(["text", element.detail]);
         if (element.desc)
-          searchMap[pathName].text = [
-            ...(searchMap[pathName].text || []),
-            element.desc,
-          ];
-      }
+          searchMap[pathName].index.push(["text", element.desc]);
+      } else if (element.tag === "phone")
+        searchMap[pathName].index.push([
+          "text",
+          `${element.lName || ""}${element.fName}: ${element.num}`,
+        ]);
     });
   });
 
@@ -118,14 +106,14 @@ const createSearchMap = (folder: string): SearchInfo => {
 export const genSearchMap = (): void => {
   console.log("Generating search index...");
 
-  const guideSearchMap = createSearchMap("./resource/guide");
-  const introSearchMap = createSearchMap("./resource/intro");
+  const guideSearchMap = createSearchMap("./r/guide");
+  const introSearchMap = createSearchMap("./r/intro");
 
   // 写入关键词列表
-  writeFileSync("./resource/guide-search.json", JSON.stringify(guideSearchMap));
-  writeFileSync("./resource/intro-search.json", JSON.stringify(introSearchMap));
+  writeFileSync("./r/guide-search.json", JSON.stringify(guideSearchMap));
+  writeFileSync("./r/intro-search.json", JSON.stringify(introSearchMap));
   writeFileSync(
-    "./resource/all-search.json",
+    "./r/all-search.json",
     JSON.stringify({ ...guideSearchMap, ...introSearchMap })
   );
 

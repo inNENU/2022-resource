@@ -1,6 +1,6 @@
 import { basename } from "path";
 import { resolvePage } from "../components/page";
-import type { PageConfig } from "../components/typings";
+import type { PageOptions, PageConfig } from "../components/typings";
 
 export interface Donate {
   all: number;
@@ -25,7 +25,7 @@ export const genDonate = (data: Donate, filePath: string): PageConfig => {
     .filter((item) => item[1] < 10)
     .map((item) => `${item[0]}`);
 
-  const pageData: PageConfig = {
+  const pageData: PageOptions = {
     title: `${baseName}年感谢名单`,
     desc: "该页面为手动更新，会出现延迟",
     author: "Mr.Hope",

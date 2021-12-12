@@ -8,19 +8,13 @@ export const resolveGrid = (
   pageId: string,
   location = ""
 ): void => {
-  checkKeys(
-    element,
-    {
-      tag: "string",
-      header: { type: ["string", "undefined"], additional: [false] },
-      content: "array",
-      footer: ["string", "undefined"],
-      env: ["string[]", "undefined"],
-    },
-    location
-  );
+  // TODO: Remove
+  if (element.content) {
+    element.items = element.content;
+    delete element.content;
+  }
 
-  element.content?.forEach((gridItem) => {
+  element.items?.forEach((gridItem) => {
     // 处理路径
     if (gridItem.path)
       if (gridItem.path.startsWith("/")) {
@@ -67,4 +61,16 @@ export const resolveGrid = (
       `${location}.content`
     );
   });
+
+  checkKeys(
+    element,
+    {
+      tag: "string",
+      header: { type: ["string", "undefined"], additional: [false] },
+      items: "array",
+      footer: ["string", "undefined"],
+      env: ["string[]", "undefined"],
+    },
+    location
+  );
 };

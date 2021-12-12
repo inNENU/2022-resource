@@ -27,7 +27,9 @@ export interface ListComponentOptions extends BaseComponentOptions {
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */
-  content: ListComponentItemOptions[];
+  items: ListComponentItemOptions[];
+  // TODO: Remove
+  content?: ListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }
@@ -172,7 +174,9 @@ export interface FunctionalListComponentOptions extends BaseComponentOptions {
   /** 列表标题 */
   header?: string | false;
   /** 列表内容 */
-  content: FunctionalListComponentItemOptions[];
+  items: FunctionalListComponentItemOptions[];
+  // TODO: Remove
+  content?: FunctionalListComponentItemOptions[];
   /** 列表页脚 */
   footer?: string;
 }

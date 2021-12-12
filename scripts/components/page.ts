@@ -2,9 +2,10 @@ import { checkKeys } from "@mr-hope/assert-type";
 import { readFileSync, writeFileSync } from "fs";
 
 import { resolveAccount } from "./account";
+import { resolveAction } from "./action";
+import { resolveAudio } from "./audio";
 import { resolveCard } from "./card";
 import { resolveCarousel } from "./carousel";
-import { resolveCopy } from "./copy";
 import { resolveDoc } from "./doc";
 import { resolveFooter } from "./footer";
 import { resolveGrid } from "./grid";
@@ -12,13 +13,12 @@ import { resolveList } from "./list";
 import { resolveLoading } from "./loading";
 import { resolveLocation } from "./location";
 import { resolveImg } from "./img";
-import { resolveMedia } from "./media";
 import { resolvePhone } from "./phone";
 import { resolveText } from "./text";
 import { resolveTitle } from "./title";
-import { genScopeData } from "./scopeData";
+import { resolveVideo } from "./video";
 
-import type { PageConfig } from "./typings";
+import type { PageConfig, PageOptions } from "./typings";
 
 /**
  * 处理页面数据
@@ -33,15 +33,98 @@ export const resolvePage = (
   page: PageConfig,
   pagePath = "",
   diffResult = ""
-): PageConfig => {
+): PageOptions => {
   if (!page) throw new Error(`${pagePath} doesn't contain anything`);
 
-  if (!page.id) page.id = pagePath;
+  if (!page.content)
+    throw new Error(`${pagePath}.content doesn't contain anything`);
 
-  if (typeof page.cite === "string") page.cite = [page.cite];
+  const id = page.id || pagePath;
+  const images: string[] = [];
+  const pageData: PageOptions = {
+    ...page,
+    cite: typeof page.cite === "string" ? [page.cite] : page.cite || [],
+    id,
+    content: page.content.map((element, index) => {
+      const { tag } = element;
+      /** 当前位置 */
+      const position = `${pagePath} page.content[${index}]`;
+
+      // 处理图片
+      if (tag === "img") resolveImg(element, position);
+      // 设置标题
+      else if (tag === "title") resolveTitle(element, position);
+      // 设置文字
+      else if (tag === "text" || tag === "p" || tag === "ul" || tag === "ol")
+        resolveText(element, id, position);
+      // 设置文档
+      else if (tag === "doc") resolveDoc(element, position);
+      // 设置列表组件
+      else if (tag === "list" || tag === "functional-list")
+        resolveList(element, id, position);
+      // 设置网格组件
+      else if (tag === "grid") resolveGrid(element, id, position);
+      // 设置页脚
+      else if (tag === "footer") resolveFooter(element, position);
+      // 设置电话
+      else if (tag === "phone") resolvePhone(element, position);
+      // 设置轮播图
+      else if (tag === "carousel") resolveCarousel(element, position);
+      // 设置介绍
+      else if (tag === "account") resolveAccount(element, position);
+      // 设置卡片
+      else if (tag === "card") resolveCard(element, position);
+      // 检测动作
+      else if (tag === "action") resolveAction(element, position);
+      // 检测复音频
+      else if (tag === "audio") resolveAudio(element, position);
+      // 检测视频
+      else if (tag === "video") resolveVideo(element, position);
+      // 检测地点
+      else if (tag === "location") resolveLocation(element, position);
+      // 检测加载
+      else if (tag === "loading") resolveLoading(element, position);
+      // TODO: Remove
+      // @ts-ignore
+      else if (tag === "media") {
+        // @ts-ignore
+        if (element.type === "audio") {
+          // @ts-ignore
+          element.tag = "audio";
+          // @ts-ignore
+          delete element.type;
+
+          resolveAudio(element, position);
+        } else {
+          // @ts-ignore
+          element.tag = "video";
+          // @ts-ignore
+          delete element.type;
+
+          resolveVideo(element, position);
+        }
+      }
+      // @ts-ignore
+      else if (tag === "copy") {
+        // @ts-ignore
+        element.tag = "action";
+        resolveAction(element, position);
+      } else
+        console.warn(
+          `${pagePath} page.content[${index}] 存在非法 tag ${
+            tag as unknown as string
+          }`
+        );
+
+      return element;
+    }),
+  };
+
+  if (!pageData.cite?.length) delete page.cite;
+  if (images.length) pageData.images = images;
 
   checkKeys(
-    page,
+    pageData,
     {
       title: "string",
       id: "string",
@@ -49,7 +132,7 @@ export const resolvePage = (
       author: ["string", "undefined"],
       time: ["string", "undefined"],
       grey: ["boolean", "undefined"],
-      content: "object[]",
+      content: "array",
       hidden: ["boolean", "undefined"],
       shareable: ["boolean", "undefined"],
       contact: ["boolean", "undefined"],
@@ -61,64 +144,7 @@ export const resolvePage = (
     `${pagePath} page`
   );
 
-  if (page.content) {
-    // eslint-disable-next-line max-lines-per-function
-    page.content.forEach((element, index) => {
-      const position = `${pagePath} page.content[${index}]`;
-
-      // 处理图片
-      if (element.tag === "img") {
-        resolveImg(element, position);
-
-        page.images = [...(page.images || []), element.res || element.src];
-      }
-      // 设置标题
-      else if (element.tag === "title") resolveTitle(element, position);
-      // 设置文字
-      else if (
-        element.tag === "text" ||
-        element.tag === "p" ||
-        element.tag === "ul" ||
-        element.tag === "ol"
-      )
-        resolveText(element, position);
-      // 设置文档
-      else if (element.tag === "doc") resolveDoc(element, position);
-      // 设置列表组件
-      else if (element.tag === "list" || element.tag === "functional-list")
-        resolveList(element, page.id, position);
-      // 设置网格组件
-      else if (element.tag === "grid") resolveGrid(element, page.id, position);
-      // 设置页脚
-      else if (element.tag === "footer") resolveFooter(element, position);
-      // 设置电话
-      else if (element.tag === "phone") resolvePhone(element, position);
-      // 设置轮播图
-      else if (element.tag === "carousel") resolveCarousel(element, position);
-      // 设置介绍
-      else if (element.tag === "account") resolveAccount(element, position);
-      // 设置媒体
-      else if (element.tag === "media") resolveMedia(element, position);
-      // 设置卡片
-      else if (element.tag === "card") resolveCard(element, position);
-      // 检测复制
-      else if (element.tag === "copy") resolveCopy(element, position);
-      // 检测地点
-      else if (element.tag === "location") resolveLocation(element, position);
-      // 检测加载
-      else if (element.tag === "loading") resolveLoading(element, position);
-      else
-        console.warn(
-          `${pagePath} page.content[${index}] 存在非法 tag ${
-            element.tag as unknown as string
-          }`
-        );
-    });
-  } else console.warn(`${pagePath} 不存在页面内容`);
-
-  genScopeData(page, page.id);
-
-  // 页面有更新
+  // update time
   if (page.time && diffResult.includes(`res/${page.id}`)) {
     const date = new Date();
 
@@ -135,9 +161,8 @@ export const resolvePage = (
       { encoding: "utf-8" }
     );
 
-    page.time = time;
+    pageData.time = time;
   }
 
-  // 返回处理后的 page
-  return page;
+  return pageData;
 };

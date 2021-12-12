@@ -1,7 +1,7 @@
 title: 校园邮箱
 grey: true
 author: Mr.Hope
-time: 2021年12月3日
+time: 2021年12月12日
 shareable: true
 content:
   - tag: list
@@ -25,3 +25,7 @@ content:
       - text: macOS 邮箱客户端设置
         icon: apple
         path: macos
+
+  - tag: img
+    src: $img/account/emailAdvance.png
+    desc: 邮件客户端高级设置

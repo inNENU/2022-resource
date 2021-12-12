@@ -1,11 +1,5 @@
 import type { BaseComponentOptions } from "../common";
 
-export type TextAlign =
-  | "text-align: left;"
-  | "text-align: center;"
-  | "text-align: right;"
-  | "text-align: justify;";
-
 export interface TextComponentOptions extends BaseComponentOptions {
   /** 文字标签 */
   tag: "text" | "p" | "ol" | "ul";
@@ -14,7 +8,7 @@ export interface TextComponentOptions extends BaseComponentOptions {
    *
    * @default 'none'
    */
-  type?: "tip" | "warning" | "danger" | "info" | "none";
+  type?: "tip" | "warning" | "danger" | "info" | "note" | "none";
   /** 段落标题 */
   heading?: string | true;
   /** 段落文字 */
@@ -22,10 +16,16 @@ export interface TextComponentOptions extends BaseComponentOptions {
   /** 段落文字样式 */
   style?: string;
   /**
+   * 跳转到的路径
+   *
+   * @description 只有当指定样式时才有效
+   */
+  path?: string;
+  /**
    * 段落对齐方式
    *
    * @default "left"
    */
 
-  align?: TextAlign;
+  align?: "left" | "right" | "center" | "justify";
 }

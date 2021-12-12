@@ -32,18 +32,18 @@ export const zip = (nameList: string[]): void => {
   /** 文件名 */
   const fileName = nameList.join("-");
 
-  del(`./resource/${fileName}.zip`);
+  del(`./r/${fileName}.zip`);
 
   // 压缩文件
   if (type() === "Linux")
     execSync(
-      `zip -r resource/${fileName}.zip ${nameList
-        .map((name) => `resource/${name}`)
+      `zip -r r/${fileName}.zip ${nameList
+        .map((name) => `r/${name}`)
         .join(" ")}`
     );
   else if (type() === "Windows_NT")
     execSync(
-      `cd ./resource && "../assets/lib/7za" a -r ${fileName}.zip ${nameList
+      `cd ./r && "../assets/lib/7za" a -r ${fileName}.zip ${nameList
         .map((name) => `"${name}/"`)
         .join(" ")} && cd ..`
     );
@@ -58,14 +58,14 @@ export const genResource = (): void => {
 
   /** 版本信息 */
   const versionInfo = JSON.parse(
-    readFileSync("./resource/version.json", { encoding: "utf-8" })
+    readFileSync("./r/version.json", { encoding: "utf-8" })
   ) as { version: Record<string, number>; size: Record<string, number> };
   /** 更新列表 */
   const updateList: string[] = [];
 
   resouceList.forEach((name) => {
     // 更新版本号
-    if (diffResult.includes(`resource/${name}/`)) {
+    if (diffResult.includes(`r/${name}/`)) {
       updateList.push(name);
       versionInfo.version[name] += 1;
     }
@@ -79,13 +79,13 @@ export const genResource = (): void => {
       const fileName = resCombine.join("-");
 
       versionInfo.size[fileName] = Math.round(
-        statSync(`./resource/${fileName}.zip`).size / 1024
+        statSync(`./r/${fileName}.zip`).size / 1024
       );
     }
   );
 
   // 写入版本信息
-  writeFileSync("./resource/version.json", JSON.stringify(versionInfo), {
+  writeFileSync("./r/version.json", JSON.stringify(versionInfo), {
     encoding: "utf-8",
   });
 };

@@ -1,6 +1,6 @@
 title: 体测简介
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月12日
 shareable: true
 content:
   - tag: text
@@ -12,8 +12,10 @@ content:
 
   - tag: ul
     text:
-      - "大一大二: 60分"
-      - "大三大四: 50分"
+      - |-
+        大一大二: 60分
+      - |-
+        大三大四: 50分
 
   - tag: text
     type: info

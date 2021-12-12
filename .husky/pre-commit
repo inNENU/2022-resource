@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-yarn run generate && yarn run generate-v5 && git add r/ res/ resource/ img/ qrcode/
+yarn run generate && git add r/ res/ img/ qrcode/

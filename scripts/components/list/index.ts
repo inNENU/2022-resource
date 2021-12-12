@@ -11,19 +11,13 @@ export const resolveList = (
   pageId: string,
   location = ""
 ): void => {
-  checkKeys(
-    element,
-    {
-      tag: "string",
-      header: ["string", "boolean", "undefined"],
-      content: "array",
-      footer: ["string", "undefined"],
-      env: ["string[]", "undefined"],
-    },
-    location
-  );
+  // TODO: Remove
+  if (element.content) {
+    element.items = element.content;
+    delete element.content;
+  }
 
-  element.content?.forEach((listItem, index) => {
+  element.items?.forEach((listItem, index) => {
     if (listItem.icon)
       if (
         !listItem.icon.match(/^https?:\/\//) &&
@@ -226,4 +220,16 @@ export const resolveList = (
         `${location}.content[${index}]`
       );
   });
+
+  checkKeys(
+    element,
+    {
+      tag: "string",
+      header: ["string", "boolean", "undefined"],
+      items: "array",
+      footer: ["string", "undefined"],
+      env: ["string[]", "undefined"],
+    },
+    location
+  );
 };

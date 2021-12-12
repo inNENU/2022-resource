@@ -1,19 +1,24 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月12日
 shareable: true
 content:
-  - tag: text
-    heading: 2021年
+  - tag: ul
+    type: info
+    heading: 2021年 体测时间
     text:
       - |-
         新生体测时间: 9月11日，12日。
+      - |-
         新生体测补测: 9月19日
+      - |-
         本部2019级体测: 10月10日
         净月2019级体测: 10月16日
+      - |-
         本部2020级体测: 10月17日
         净月2020级体测: 10月24日
+      - |-
         老生补测: 10月30日
 
   - tag: list

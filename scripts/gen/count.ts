@@ -1,8 +1,8 @@
 import { readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
-
-import { PageConfig } from "../components/typings";
 import { getFileList, getWordNumber } from "../util";
+
+import type { PageOptions } from "../components/typings";
 
 export const getJSONValue = (content: unknown): string => {
   if (typeof content === "number") return content.toString();
@@ -30,9 +30,7 @@ export const getWords = (path: string): number => {
       readFileSync(resolve(path, filePath), {
         encoding: "utf-8",
       })
-    ) as PageConfig;
-
-    delete pageContent.scopeData;
+    ) as PageOptions;
 
     const content = getJSONValue(pageContent);
 
@@ -43,10 +41,10 @@ export const getWords = (path: string): number => {
 };
 
 export const count = (): void => {
-  const functionwords = getWords("./resource/function");
-  const guidewords = getWords("./resource/guide");
-  const introWords = getWords("./resource/intro");
-  const otherWords = getWords("./resource/other");
+  const functionwords = getWords("./r/function");
+  const guidewords = getWords("./r/guide");
+  const introWords = getWords("./r/intro");
+  const otherWords = getWords("./r/other");
   const wordsTip = `小程序现有字数为 ${
     functionwords + guidewords + introWords + otherWords
   } 字，其中东师介绍部分 ${introWords} 字，东师指南部分 ${guidewords} 字，功能大厅部分 ${functionwords} 字，其他部分 ${otherWords} 字。`;

@@ -1,6 +1,6 @@
 title: 体育课说明
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年12月12日
 shareable: true
 content:
   - tag: title
@@ -24,9 +24,12 @@ content:
   - tag: ul
     heading: 也就是
     text:
-      - "体测成绩: 30%"
-      - "平时成绩: 20%"
-      - "期末成绩: 50%"
+      - |-
+        体测成绩: 30%
+      - |-
+        平时成绩: 20%
+      - |-
+        期末成绩: 50%
 
   - tag: text
     type: tip

@@ -8,7 +8,6 @@
     "eslint:check": "eslint --ext .ts .",
     "generate": "ts-node ./scripts/gen",
     "generate:account": "ts-node ./scripts/gen/account",
-    "generate-v5": "ts-node ./scripts-v5/gen",
     "lint": "prettier --check --write . && yarn eslint",
     "lint:check": "prettier --check . && yarn eslint:check",
     "prepare": "husky install",

@@ -326,12 +326,6 @@ facility:
       name: 快递柜
       path: express-cabinet
 
-    # - latitude: 43.860065
-    #   longitude: 125.338122
-    #   name: 中通快递点
-    #   detail: 自由校区中通快递点
-    #   path: zhongtong
-
 sports:
   name: 运动场地
   content:

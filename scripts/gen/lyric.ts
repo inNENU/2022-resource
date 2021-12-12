@@ -37,7 +37,7 @@ export const genLyric = (): void => {
     });
 
     writeFileSync(
-      `./resource/function/music/${lyricPath.replace(/lrc$/u, "json")}`,
+      `./r/function/music/${lyricPath.replace(/lrc$/u, "json")}`,
       JSON.stringify(lyricConfig)
     );
   });

@@ -22,17 +22,17 @@ import type { PageConfig } from "../components/typings";
 
 // 删除旧的文件
 del([
-  "./resource/function/**",
-  "./resource/guide/**",
-  "./resource/intro/**",
-  "./resource/icon/**",
-  "./resource/other/**",
+  "./r/function/**",
+  "./r/guide/**",
+  "./r/intro/**",
+  "./r/icon/**",
+  "./r/other/**",
 ]);
 
 // 生成对应的 JSON
 
 // 功能大厅
-convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
+convertYml2Json("./res/function", "./r/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
@@ -50,17 +50,17 @@ convertYml2Json("./res/function", "./resource/function", (data, filePath) =>
 const diffResult = execSync("git status -s").toString();
 
 // 东师介绍
-convertYml2Json("./res/intro", "./resource/intro", (data, filePath) =>
+convertYml2Json("./res/intro", "./r/intro", (data, filePath) =>
   resolvePage(data as PageConfig, `intro/${filePath}`, diffResult)
 );
 
 // 东师指南
-convertYml2Json("./res/guide", "./resource/guide", (data, filePath) =>
+convertYml2Json("./res/guide", "./r/guide", (data, filePath) =>
   resolvePage(data as PageConfig, `guide/${filePath}`, diffResult)
 );
 
 // 其他文件
-convertYml2Json("./res/other", "./resource/other", (data, filePath) =>
+convertYml2Json("./res/other", "./r/other", (data, filePath) =>
   resolvePage(data as PageConfig, `other/${filePath}`, diffResult)
 );
 
@@ -76,10 +76,8 @@ genLyric();
 // 生成捐赠
 
 // 捐赠
-convertYml2Json(
-  "./res/config/donate",
-  "./resource/other/donate",
-  (data, filePath) => genDonate(data as Donate, filePath)
+convertYml2Json("./res/config/donate", "./r/other/donate", (data, filePath) =>
+  genDonate(data as Donate, filePath)
 );
 
 // 生成 Sitemap
@@ -87,14 +85,12 @@ convertYml2Json(
 count();
 
 // 重新生成 guide
-convertYml2Json(
-  "./res/other/guide",
-  "./resource/other/guide",
-  (data, filePath) => resolvePage(data as PageConfig, filePath)
+convertYml2Json("./res/other/guide", "./r/other/guide", (data, filePath) =>
+  resolvePage(data as PageConfig, filePath)
 );
 
 // 生成 tab 页
-convertYml2Json("./res/config", "./resource/config", (data, filePath) =>
+convertYml2Json("./res/config", "./r/config", (data, filePath) =>
   /(function|guide|intro|main|user)/u.exec(filePath)
     ? resolvePage(data as PageConfig, filePath)
     : (data as unknown)

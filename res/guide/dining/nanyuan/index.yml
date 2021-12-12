@@ -1,7 +1,7 @@
 title: 南苑餐厅
 desc: "概况部分来自东北师范大学后勤保障部官网"
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月12日
 shareable: true
 content:
   - tag: p
@@ -36,9 +36,12 @@ content:
   - tag: ul
     heading: 供应时间
     text:
-      - "早: 6:30 - 8:30"
-      - "午: 10:30 - 12:30"
-      - "晚: 16:00 - 18:00"
+      - |-
+        早: 6:30 - 8:30
+      - |-
+        午: 10:30 - 12:30
+      - |-
+        晚: 16:00 - 18:00
 
   - tag: img
     src: $img/dining/dining18.jpg
