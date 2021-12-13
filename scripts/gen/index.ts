@@ -7,6 +7,7 @@ import { count } from "./count";
 import { genDonate } from "./donate";
 import { genIcon } from "./icon";
 import { genLyric } from "./lyric";
+import { checkMusic } from "./music";
 import { genPEScore } from "./peScore";
 import { genQRCode } from "./qrcode";
 import { genSearchMap } from "./search";
@@ -18,6 +19,7 @@ import type { AccountConfig, AccountDetail } from "./account";
 import type { Donate } from "./donate";
 import type { PEConfig } from "./peScore";
 import type { MarkerOption } from "./marker";
+import type { MusicInfo } from "./music";
 import type { PageConfig } from "../components/typings";
 
 // 删除旧的文件
@@ -43,6 +45,8 @@ convertYml2Json("./res/function", "./r/function", (data, filePath) =>
     ? checkAccount(data as AccountConfig[], filePath)
     : /account\//u.exec(filePath)
     ? checkAccountDetail(data as AccountDetail, filePath)
+    : /music\/index/u.exec(filePath)
+    ? checkMusic(data as MusicInfo[], filePath)
     : (data as unknown)
 );
 

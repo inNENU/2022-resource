@@ -28,7 +28,7 @@ export const checkAccount = (
       if (config.logo)
         config.logo = aliasResolve(config.logo, "Image", location);
       if (config.qrcode)
-        config.logo = aliasResolve(config.qrcode, "Image", location);
+        config.qrcode = aliasResolve(config.qrcode, "Image", location);
     });
   });
 

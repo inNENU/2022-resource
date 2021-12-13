@@ -69,6 +69,8 @@ content:
 
   - tag: title
     text: 其他功能
+    env:
+      - wx
 
   - tag: card
     title: 核酸检测查询
