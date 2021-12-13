@@ -87,7 +87,7 @@ content:
 
   - tag: text
     type: tip
-    header: 吉祥码注册与使用
+    heading: 吉祥码注册与使用
     path: /guide/epidemic/jixiang-code/
 
   - tag: text
