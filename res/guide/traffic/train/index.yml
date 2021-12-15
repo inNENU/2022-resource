@@ -10,14 +10,9 @@ content:
         icon: about
         path: intro
 
-  - tag: list
-    header: 站点详情
-    items:
-      - text: 长春站
-        path: changchun
-
-      - text: 长春西站
-        path: changchun-west
+      - text: 关于火车学生票
+        icon: card
+        path: student/
 
   - tag: list
     header: 疫情管控

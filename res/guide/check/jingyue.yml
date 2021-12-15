@@ -6,11 +6,9 @@ content:
   - tag: title
     text: 净月校区图
 
-  - tag: img
-    src: $img/check/jingyue.jpg
-
   - tag: text
-    text: 由于疫情原因，校门只会开放正门(又叫东北门、1 号门)。
+    type: note
+    text: 由于疫情原因，报到期间只会开放正门(又叫东北门、1 号门)。
 
   - tag: title
     text: 净月东北门
@@ -32,6 +30,10 @@ content:
   - tag: title
     text: 净月北门(雕塑门、2 号门)
 
+  - tag: text
+    type: danger
+    text: 疫情报到期间此门关闭!
+
   - tag: location
     title: 北门
     points:
@@ -39,14 +41,9 @@ content:
         longitude: 125.42689
         detail: 雕塑门、2 号门
 
-  - tag: text
-    type: danger
-    text: 疫情报到期间此门关闭!
-
   - tag: img
     src: $img/scenery/jingyue/gate/north.jpg
 
   - tag: p
     text:
       - 此门名称的由来是门口右侧有雕塑。
-      # - 从这个门进去之后直走，看到右手边有一些雕塑(或者图书馆)后右拐，一直走到图书馆前的空地，那里就是迎新摆台的地方。

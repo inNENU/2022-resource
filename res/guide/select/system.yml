@@ -7,21 +7,14 @@ content:
     text: 选课系统登录方式
 
   - tag: text
+    type: note
     text:
       - 请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器等在选课时会有兼容性问题，无法正确显示选课弹窗。
-
-  - tag: list
-    header: false
-    items:
-      - text: 使用 IE 内核浏览网页
-        icon: ie
-        path: /guide/tip/ie/
+    path: /guide/tip/ie/
 
   - tag: text
     type: danger
     text:
-      - Microsoft Edge 不是 IE!
-      - Microsoft Edge 不是 IE!
       - Microsoft Edge 不是 IE!
 
   - tag: img

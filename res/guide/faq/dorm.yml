@@ -31,14 +31,9 @@ content:
   - tag: text
     type: info
     heading: 有寝室照片么?
-    text: 有的，详见下方链接
-
-  - tag: list
-    header: false
-    items:
-      - text: 寝室照片
-        icon: photo
-        path: /guide/dorm/detail/env
+    text:
+      - 有，请点击查看寝室实拍照片。
+    path: /guide/dorm/detail/env
 
   - tag: text
     type: info

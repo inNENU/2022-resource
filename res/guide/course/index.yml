@@ -23,9 +23,13 @@ content:
         icon: content
         path: discuss
 
+      - text: 本科课程表
+        icon: plan
+        path: table
+
       - text: 本科课程计划
         icon: plan
-        path: plan
+        path: plan/
 
   - tag: list
     header: 体育课

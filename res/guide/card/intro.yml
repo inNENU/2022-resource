@@ -40,7 +40,7 @@ content:
     text: 注意事项
 
   - tag: ul
-    type: info
+    type: note
     heading: 不同的计费系统
     text:
       - 直饮机、生活用水、网费都是有自己的小钱包的，并且可通过校园卡充值。
@@ -48,7 +48,7 @@ content:
       - 本部电费是单独计费的。
 
   - tag: p
-    type: info
+    type: note
     heading: 消费限额
     text:
       - 由于校园卡是东师内部的“电子钱包”，为了保障您的资金安全，学校对校园卡在初始情况下进行了消费上的限制。

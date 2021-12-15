@@ -61,6 +61,10 @@ content:
         icon: washer
         path: washing/
 
+      - text: 铁路学生票
+        icon: train
+        path: /guide/traffic/train/student/
+
   - tag: list
     header: 过冬贴士
     items:

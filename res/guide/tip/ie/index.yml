@@ -23,8 +23,6 @@ content:
     type: danger
     text:
       - Microsoft Edge 不是 IE!
-      - Microsoft Edge 不是 IE!
-      - Microsoft Edge 不是 IE!
 
   - tag: img
     src: $img/select/ie.jpg

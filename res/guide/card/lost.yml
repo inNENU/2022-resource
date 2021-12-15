@@ -35,7 +35,8 @@ content:
     text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
 
   - tag: ul
-    type: info
+    type: note
+    heading: 注意
     text:
       - 消费限额以及校园卡密码会被重置为默认值
       - 卡内余额为 0，旧卡余额需要您手动领取才能转入

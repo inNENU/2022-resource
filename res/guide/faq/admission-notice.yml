@@ -29,11 +29,5 @@ content:
     heading: 师范生协议有几份? 怎么填?
     text:
       - 公费师范生共有4份，优师计划共有5份。需要签字，并填写各方空缺的信息。
-      - 具体的协议说明与填写指南详见下方链接。
-
-  - tag: list
-    header: false
-    items:
-      - text: 师范生相关
-        icon: teacher
-        path: /guide/normal/
+      - 点击查看具体的协议说明与填写指南。
+    path: /guide/normal/

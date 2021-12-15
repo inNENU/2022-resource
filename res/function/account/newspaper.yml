@@ -1,7 +1,7 @@
 name: NENU东小青
 detail: 东北师范大学《东师青年》报社
 desc: |-
-  关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人！(原名: 东北师范大学东师青年)
+  关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人! (原名: 东北师范大学东师青年)
 id: nenu-youth
 logo: $img/organization/newspaper.png
 qrcode: $img/media/newspaper-wechat.jpg
@@ -17,7 +17,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmNsJfVrlTFqcL1KQeAHkdEYxJ6npWeJdtxvmyiaywfichSaMhCmc8pYK7OTDebzmGQEQzyU3xzrQicA/0?wx_fmt=jpeg
     title: 微小说大赛 | 获奖名单公布
-    desc: 第六届微小说大赛获奖作品公布啦！
+    desc: 第六届微小说大赛获奖作品公布啦!
     url: https://mp.weixin.qq.com/s/x9byievvqTPBHznDmK4poA
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHn3MiaoO8ZMZeunJfwY9m30kyYZZRp052LOnbGVVlsAAgQSPpnibPUkkzljmmCS8RZ0Xs9a1sbjCxFw/0?wx_fmt=jpeg
@@ -27,12 +27,12 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmTIdOTAPseuxSx48llfZoxibTjVMoT9l44EfPnE5ruNcHYUoX3odZy6sRp1gmXHvpaVZCibAIz6EfQ/0?wx_fmt=jpeg
     title: 微小说大赛|入围复赛作品展示
-    desc: 快来欣赏一下入围决赛的优秀作品吧！
+    desc: 快来欣赏一下入围决赛的优秀作品吧!
     url: https://mp.weixin.qq.com/s/O4wgv0m4wbxk5ZCeQvwvDQ
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHniaV66euIZd3HIVoExhARm1icLPv5jibPNV1aN6aibKpgFnPsDcZuAzWo8mqlfM0ZaCiaDV0xAJBPcnpw/0?wx_fmt=jpeg
     title: 微小说大赛|线上投票通道开启
-    desc: 微小说大赛初稿收集圆满结束啦！快来为自己心仪的作品投票吧！
+    desc: 微小说大赛初稿收集圆满结束啦! 快来为自己心仪的作品投票吧!
     url: https://mp.weixin.qq.com/s/ucBZtq36dlB-KLSMQntdSA
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmLPiaBOYTRIxufABXFvHrapVWJYAyscKFnjYQXHxmqqgE0ibHic0V1TEAYbXhNiaQqmM5LB3IKlgHpicg/0?wx_fmt=jpeg
@@ -52,17 +52,17 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmubJy2icrgOj3iaw5FVulMUzLLE7ib3kEugWy4cewNzPXEnyEtkVydw4IrgGnbYmicPiaicOWpAcgkpBXA/0?wx_fmt=jpeg
     title: 微小说大赛 | 第一波优秀作品展示
-    desc: 在初雪落下的一天，一起来欣赏今日优秀投稿吧！
+    desc: 在初雪落下的一天，一起来欣赏今日优秀投稿吧!
     url: https://mp.weixin.qq.com/s/YXBgjc-GuzD3UNOm4CN9gQ
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmO2IcbzMZibK0VxugUHVlucBNJ9rbFHreodZPHAcsxiaRfWxySsEPbfuOaHXNXdYbH3cZXZK4y2eQw/0?wx_fmt=jpeg
-    title: 微小说大赛 | 第六届微小说大赛正式启动！
-    desc: 微小说大赛 | 第六届微小说大赛正式启动！
+    title: 微小说大赛 | 第六届微小说大赛正式启动!
+    desc: 微小说大赛 | 第六届微小说大赛正式启动!
     url: https://mp.weixin.qq.com/s/nNAUW_L4DLg8eq0vNFDQ2w
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmubJy2icrgOj3iaw5FVulMUziaRneqkYkJcTJuToDsdwGkuJjAVquudsvga3md5tpSql5XB5QEC8NQw/0?wx_fmt=jpeg
     title: 青 · 文墨 | 热血难凉，山河为家泪满眶
-    desc: 我们曾并肩走过风雨苦难，我们将携手走向光芒万丈！
+    desc: 我们曾并肩走过风雨苦难，我们将携手走向光芒万丈!
     url: https://mp.weixin.qq.com/s/YlYyV9g-bXATyBqleESoFg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmOJIdLiaaDe2td2SicX6h9XBrUWShvsSY2m5fiaaRXVZc6elE2yY4N1pynErMk0k7ibYgIVSaNuBh4Og/0?wx_fmt=jpeg
@@ -72,7 +72,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHkEhp3BLZ2IeVahlC0ibjdDBSRcPqrJ8ibFl3PR6ZA0W35QwQtmBqNdk1tDPr5S4bIN55uGaNYKUMicA/0?wx_fmt=jpeg
     title: 评选结果 | 美食节作品征集获奖结果公布
-    desc: 2021年东师第六届美食节作品征集的获奖名单新鲜出炉啦～快来围观吧！
+    desc: 2021年东师第六届美食节作品征集的获奖名单新鲜出炉啦～快来围观吧!
     url: https://mp.weixin.qq.com/s/pTQeZqlZbEomCRK1Ck1_0w
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnpTLrVZRTF503404gl4Sw3JRLQ0s5rvcQpBv6lmwGqXsbNSdXC2oJmQic5YV4k16Bqibx2MJAp88zw/0?wx_fmt=jpeg
@@ -88,7 +88,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlq8tAT9khsYPPqCeGXNqMXlSso7bicibYB8PwlZAiaoibG2NvqLlQRvEXaIYkMDhvuibXIRC3n2iaGEDMA/0?wx_fmt=jpeg
     title: 青·观察 | 枣？猕猴桃？还是……软枣猕猴桃？
-    desc: 电商助农，东师青年在行动！
+    desc: 电商助农，东师青年在行动!
     url: https://mp.weixin.qq.com/s/wYjGh1sCYX0G4PRNh_SLXg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnpYfFrL23hLibxZ077v8ChJ0JdCj0zMfteicicxbPLTpciagX3Fic13cdic2XiafKdOAlMrdPCiaiaXzH0Z8w/0?wx_fmt=jpeg
@@ -107,18 +107,18 @@ article:
     url: https://mp.weixin.qq.com/s/4pTrMZIsuB3IibCq6WU-Vw
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlED11KeQqtODr9ylvqTu0mKXwGr3O8aBF1zc1jiaOf9rpsnOo9H7vWsyeINfkTn1zf23gQia8RSmjg/0?wx_fmt=jpeg
-    title: 美食节 | 干饭人的福音来喽！
+    title: 美食节 | 干饭人的福音来喽!
     desc: 东师小伙伴们看过来～美食节活动很精彩～
     url: https://mp.weixin.qq.com/s/5Q8rFi2BJqomrpKdHNnegw
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlQiaNXiacLO9dznu0M7oWEWXKCdVeVnr3a3U4s221uEsHHyx1q8SUOAHPbt2olVtibSBQHMzicyzOokg/0?wx_fmt=jpeg
-    title: 美食节 | 档口美食八折优惠全面来袭！
-    desc: 美食节打折档口大放送！快来提前掌握第一手资讯~
+    title: 美食节 | 档口美食八折优惠全面来袭!
+    desc: 美食节打折档口大放送! 快来提前掌握第一手资讯~
     url: https://mp.weixin.qq.com/s/YpjNT9EVuwfZZ-t5dl9xVA
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHlED11KeQqtODr9ylvqTu0mpl6TZ8JnHGtOIDAjicNYibseAHIQqiaOibt9jX9YPlMUO2gjP7uXUMQc8A/0?wx_fmt=jpeg
     title: 美食节丨放箸未觉全盘空，与君美食复甘眠(美食节线上活动来啦)
-    desc: 世界上没有什么烦恼，是一顿饭解决不了的。如果有，就来我们的美食节逛逛！
+    desc: 世界上没有什么烦恼，是一顿饭解决不了的。如果有，就来我们的美食节逛逛!
     url: https://mp.weixin.qq.com/s/Y-mfzMFyJkU5wxJJmHr2bg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHl2wx0CAFKwjOicsSXAn6dibRkYDLk3icd74ULeX9wQyqQ0pLk6bCiaLgiayC9bYo1UfibzNMFtRrK5z83w/0?wx_fmt=jpeg

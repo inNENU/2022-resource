@@ -7,6 +7,14 @@ content:
   - tag: title
     text: 寝室安排
 
+  - tag: ul
+    type: note
+    heading: 净月研究生公寓安排
+    text:
+      - 研究生寝室安排在人华、春华、冬华、日华、月华、星华。
+      - 人华、冬华、星华、月华为研究生公寓；
+      - 春华、日华与本科生合寝。
+
   - tag: location
     title: 净月研究生寝室
     points:
@@ -30,56 +38,62 @@ content:
         longitude: 125.422803
         name: 星华公寓
 
-  - tag: ul
-    text:
-      - 研究生宿舍分布于人华、春华、冬华、日华、月华、星华。
-      - 人华、冬华、星华、月华为研究生公寓
-      - 春华、日华与本科生合寝
+  - tag: title
+    text: 人华公寓
 
   - tag: text
-    heading: 人华公寓
     text: 居住美术和音乐学院研究生
 
   - tag: img
     src: $img/dorm/ren-hua.jpg
 
+  - tag: title
+    text: 冬华公寓
+
   - tag: text
-    heading: 冬华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语研究生。
 
   - tag: img
     src: $img/dorm/dong-hua.jpg
 
+  - tag: title
+    text: 星华公寓
+
   - tag: text
-    heading: 星华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生。
 
   - tag: img
     src: $img/dorm/xing-hua.jpg
 
+  - tag: title
+    text: 月华公寓
+
   - tag: text
-    heading: 月华公寓
     text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生
 
   - tag: img
     src: $img/dorm/yue-hua.jpg
 
+  - tag: title
+    text: 春华公寓
+
   - tag: text
-    heading: 春华公寓
     text: 居住外国语学院研究生
 
   - tag: img
     src: $img/dorm/chun-hua.jpg
 
+  - tag: title
+    text: 日华公寓
+
   - tag: text
-    heading: 日华公寓
     text: 居住物理、政法以及外国语学院研究生
 
   - tag: img
     src: $img/dorm/ri-hua.jpg
 
   - tag: text
-    type: info
+    type: tip
     text:
-      - 由于从2020年疫情开始，学校响应国家号召进行扩招，导致寝室严重不足，所以研究生这两届基本处于哪有空床往哪塞的状态。
-      - 本界面仅供参考。请您以研究生院的最终安排为准。
+      - 由于研究生每届人数变动较大，且床位紧张，故每届的具体分配都会存在变动，故本页内容为大多数人的安排，仅供参考，请最终以研究生院的安排为准。
+      - 如果您发现了错误，请点击右下角联系开发者指正我，感谢。

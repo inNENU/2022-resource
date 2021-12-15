@@ -65,6 +65,10 @@ content:
   - tag: list
     header: 注意事项
     items:
+      - text: 关于火车学生票
+        icon: train
+        path: /guide/traffic/train/student/
+
       - text: 关于出租车
         icon: taxi
         path: taxi

@@ -25,7 +25,8 @@ content:
 
   - tag: text
     type: warning
-    text: 请注意，没有任何一个学院会有任何的订阅项目。如果的确有需要收费的，也一定是通过您的辅导员转达给您!!
+    heading: 警惕涉及钱款内容
+    text: 没有任何一个学院会有任何的订阅项目。如果的确有需要收费的，也一定是通过您的辅导员转达给您!!
 
   - tag: text
     type: warning

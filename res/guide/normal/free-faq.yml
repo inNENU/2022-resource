@@ -6,14 +6,8 @@ content:
   - tag: text
     type: info
     heading: 出台背景和依据
-    text: 请查看下方链接
-
-  - tag: list
-    header: false
-    items:
-      - text: 教育部直属师范大学师范生公费教育实施办法
-        icon: rule
-        path: normal
+    text: 请详见《教育部直属师范大学师范生公费教育实施办法》
+    path: normal
 
   - tag: text
     type: info

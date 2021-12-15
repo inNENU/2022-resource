@@ -27,10 +27,12 @@ content:
     heading: 没有电脑或使用非 Windows 系统
     text:
       - 如果您没有电脑，或使用 MacBook 但不会安装双系统亦或虚拟机，请前往图书馆使用电子阅览室。
+    path: /intro/apt/library/digit-room
 
-  - tag: list
-    header: false
-    items:
-      - text: 电子阅览室
-        icon: pc
-        path: /intro/apt/library/digit-room
+  - tag: text
+    type: danger
+    heading: 严禁课程买卖
+    text:
+      - 请注意! 学校严厉打击课程买卖，一经发现严肃处理!
+      - 如果您发现有“学长学姐”在任何群聊内发送“xx元出xx课”的消息，请您立即向教务处举报。
+      - 如果您担心自己的个人信息问题，您可以提供必要信息给 Mr.Hope，Mr.Hope 将很乐意为您代劳。

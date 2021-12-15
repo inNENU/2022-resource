@@ -4,7 +4,7 @@ time: 2021年11月22日
 shareable: true
 content:
   - tag: text
-    type: info
+    type: note
     text: 您需要先关注微信公众号“台州博诚”。
 
   - tag: list

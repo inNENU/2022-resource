@@ -31,11 +31,6 @@ content:
     type: info
     heading: 到达长春后该如何到校?
     text:
-      - 您可以选择出租车、轨道交通或公交车等方式。建议您选择轨道交通。详情见下方链接。
-
-  - tag: list
-    header: false
-    items:
-      - text: 到校路线
-        icon: gate
-        path: /guide/arrival/
+      - 您可以选择出租车、轨道交通、专车或公交车等多种方式。Mr.Hope 认为最佳方式是选择轨道交通。
+      - 关于各种方式的注意事项请点击查看详情。
+    path: /guide/arrival/

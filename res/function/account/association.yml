@@ -1,6 +1,6 @@
 name: 东师社团
 detail: 学生社团发展管理中心
-desc: 最详尽的社团活动预告，最全面的社团活动报道，最前沿的校园资讯。分享精彩社团文化，享受快乐大学生活！东师社团为您服务！
+desc: 最详尽的社团活动预告，最全面的社团活动报道，最前沿的校园资讯。分享精彩社团文化，享受快乐大学生活! 东师社团为您服务!
 id: dsshetuan
 logo: $img/organization/sheguan.png
 qrcode: $img/media/caiwuchu-qrcode.jpg
@@ -11,8 +11,8 @@ article:
     url: https://mp.weixin.qq.com/s/aWToo7tyb95dG6B7NltZow
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ibHpgHJfOhiaXVHZK47se0LRYYMrRkwG2Ly13JIl1yR6egHGMIyNtqA0c9EhbJiaUvCSEfHBzV0acTDr27Id2GibhA/0?wx_fmt=jpeg
-    title: 社管2021破冰活动来啦！与你相遇，好幸运～
-    desc: 社团管理中心第三届破冰大会圆满成功！
+    title: 社管2021破冰活动来啦! 与你相遇，好幸运～
+    desc: 社团管理中心第三届破冰大会圆满成功!
     url: https://mp.weixin.qq.com/s/d4-3Mk-Dr3FVHQxI54mqVg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ibHpgHJfOhiaUDZ0U6g2Vyjj7xVouibMYVryRlK44RALMLV8QO77SuwbNLHy6BjFaszR2bjSfrzQz7QTC82jEiaMSQ/0?wx_fmt=jpeg
@@ -27,12 +27,12 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ibHpgHJfOhiaUow1z5Rj6vFa0KaNc7HV5YAgaY4IA0acwLITbx9ibEnISfMODAH8GNygCiccPRAL1QKABSj3gUdO2A/0?wx_fmt=jpeg
     title: 常春藤协会 | “包装趣哪儿”环保嘉年华
-    desc: “包装趣哪儿”环保嘉年华开始了！！！
+    desc: “包装趣哪儿”环保嘉年华开始了! ! !
     url: https://mp.weixin.qq.com/s/WFAz04pI5HUkP_N-QqIwrg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ibHpgHJfOhiaXysRhSgV8cQyFC9icIff2qj11tqaJWmXtwnVh536gWzJictA2bW9MtJGZHiahIOvK2Viav6ekufXyDAQ/0?wx_fmt=jpeg
     title: 2020全国高校百强学生社团等你来pick
-    desc: 等你来投票,我校三个学生社团入围2020全国高校百强学生社团！
+    desc: 等你来投票,我校三个学生社团入围2020全国高校百强学生社团!
     url: https://mp.weixin.qq.com/s/uu3IW3ZPJLKsaleXzrLVfg
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/ibHpgHJfOhiaUpIKDPa8ticvclWhSYTNJArIUtPoRs7NBMibW2hHbPVicqghcre4qYyrKB7Kf0gZVHuXfMIukmRngXA/0?wx_fmt=jpeg

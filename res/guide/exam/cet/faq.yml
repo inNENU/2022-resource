@@ -18,6 +18,13 @@ content:
 
   - tag: text
     type: info
+    heading: 是否需要自备耳机?
+    text:
+      - 在东北师范大学考点的同学无需自备耳机，听力部分使用教室音响。
+      - Mr.Hope 的个人感受是音响会一定程度增加听力语音的回音，但对人物对话的清晰度影响微小，不会对听力考试成绩产生较大影响。
+
+  - tag: text
+    type: info
     heading: 如何查询CET的成绩?
     text:
       - 目前，CET暂仅提供当次考试成绩查询，上半年笔试和口试成绩，考生在8月通中国考试网进行查询，下半年笔试和口试成绩，考生在第二年的2月通过中国考试网进行查询。
@@ -36,13 +43,9 @@ content:
     type: info
     heading: 成绩报告单丢失了可以补办吗?
     text:
-      - 成绩报告单遗失或毁损后不予补发，但可按规定办理CET考试成绩证明。具体办法请见成绩证明。
-
-  - tag: list
-    header: false
-    items:
-      - text: 成绩证明
-        path: proof
+      - 成绩报告单遗失或毁损后不予补发，但可按规定办理CET考试成绩证明。
+      - 办理成绩证明的流程和所需材料，请点击查看详情。
+    path: proof
 
   - tag: text
     type: info
@@ -86,7 +89,7 @@ content:
 
   - tag: text
     type: info
-    heading: 查询成绩为什么是0?
+    heading: 查询成绩为什么是 0?
     text:
       - |-
         以下几种情况会造成成绩为0分:
