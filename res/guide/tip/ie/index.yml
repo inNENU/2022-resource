@@ -40,14 +40,10 @@ content:
       - 更老版本的系统可以在开始菜单中直接找到“Internet Explorer”。
 
   - tag: text
-    text: 如果在 Windows 10 系统的所述位置没找到 IE 浏览器，请查看下方教程。
-
-  - tag: list
-    header: false
-    items:
-      - text: 在 Win10 中添加 IE 功能
-        icon: ie
-        path: win10-ie
+    type: info
+    heading: 在 Win10 中添加 IE 功能
+    text: 如果在 Windows 10 系统的所述位置没找到 IE 浏览器，请查看本流程指引。
+    path: win10-ie
 
   - tag: text
     type: warning
@@ -65,13 +61,7 @@ content:
     text:
       - 您可以使用 Chrome (Microsoft Edge 也可但不建议) 配合 IETab 扩展程序来使用 IE 内核打开网页。
       - 这也是 Mr.Hope 最为推荐的方式。
-
-  - tag: list
-    header: false
-    items:
-      - text: 使用 IETab 扩展程序
-        icon: ie
-        path: ietab/
+    path: ietab/
 
   - tag: text
     type: info
@@ -79,13 +69,7 @@ content:
     text:
       - Microsoft Edge 目前提供了 IE 兼容模式。您可以通过 IE 兼容模式访问所有历史版本的 IE 网页。
       - 这是微软推荐的做法，且该功能将会被支持到 2029 年。但此过程较上方选项较为繁琐。
-
-  - tag: list
-    header: false
-    items:
-      - text: 使用 Microsoft Edge 提供的 IE 兼容模式
-        icon: edge
-        path: msedge
+    path: msedge
 
   - tag: text
     type: danger
@@ -93,13 +77,7 @@ content:
     text:
       - 360 安全浏览器自带 IE 内核，可以使用 IE 11 兼容模式打开网页，而且安装简单。但是 360 安全浏览器带有大量的推广、广告以及旗下其他产品、相关游戏的诱导下载，小白极易中招。
       - Mr.Hope 极其不推荐您安装 360。请您尽可能选择上方的两个选择。
-
-  - tag: list
-    header: false
-    items:
-      - text: 360安全浏览器介绍
-        icon: 360-brower
-        path: 360/
+    path: 360/
 
   - tag: text
     type: info
@@ -112,18 +90,22 @@ content:
         Mac 与 MacBook: 可以使用系统自带的 BootCamp 按照提示安装 Windows 作为双系统。
       - |-
         MacBook ARM64 (M1 与 M1 Pro 芯片): 建议安装虚拟机 (如 Parallels)，通过虚拟机运行 ARM 版本 Windows。
+
       - |-
         Android: 暂无解决办法
       - |-
         iPhone 和 iPad: 暂无解决办法
 
-  - tag: list
-    header: false
-    items:
-      - text: MacBook 使用”启动转换助理“安装 Windows
-        icon: apple
-        path: ../mac/bootcamp/
+  - tag: text
+    type: info
+    heading: 搭载 Intel 处理器的 MacBook
+    text:
+      - 建议使用“启动转换助理” (BootCamp) 安装 Windows。
+    path: ../mac/bootcamp/
 
-      - text: MacBook 通过虚拟机运行 Windows
-        icon: apple
-        path: ../mac/parallels/
+  - tag: text
+    type: info
+    heading: 搭载 Apple 芯片的 MacBook
+    text:
+      - 建议安装虚拟机 (如 Parallels)，通过虚拟机运行 ARM 版本 Windows。
+    path: ../mac/parallels/
