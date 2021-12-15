@@ -1,9 +1,9 @@
-# http://www.ccairport.cn/Traffic/train
 title: 长春龙嘉机场动车组
 desc: 相关资料来自长春市龙嘉国际机场官网
 author: Mr.Hope
 time: 2021年11月22日
 shareable: true
+cite: http://www.ccairport.cn/Traffic/train
 content:
   - tag: title
     text: 长春-吉林城际高速铁路简介

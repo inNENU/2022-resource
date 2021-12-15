@@ -1,18 +1,15 @@
-# http://cet.neea.edu.cn/html1/category/16093/1124-1.htm
 title: 大学英语水平测试
 grey: true
 author: Mr.Hope
 time: 2021年11月21日
 shareable: true
+cite: http://cet.neea.edu.cn/html1/category/16093/1124-1.htm
 content:
-  - tag: text
-    type: info
-    heading: 2021年下半年四六级考试时间
-    text:
-      - 英语四级口语考试考试时间为11月21日
-      - 英语六级口语考试考试时间为11月22日
-      - 英语四级笔试考试考试时间为12月18日 9:00 - 11:20
-      - 英语六级笔试考试考试时间为12月18日 15:00 - 17:25
+  - tag: list
+    items:
+      - text: 2021年下半年时间安排
+        icon: time
+        path: time
 
   - tag: list
     items:
@@ -39,9 +36,3 @@ content:
       - text: 常见问题
         icon: faq
         path: faq
-
-  - tag: list
-    items:
-      - text: 2021年下半年考试时间
-        icon: time
-        path: time

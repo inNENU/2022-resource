@@ -4,10 +4,6 @@ time: 2021年12月3日
 grey: true
 shareable: true
 content:
-  - tag: text
-    type: tip
-    text: 此页面内容仍在完善中...
-
   - tag: list
     header: 快速上手
     items:

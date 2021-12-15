@@ -1,9 +1,9 @@
-# http://www.ccairport.cn/Traveller/arrive
 title: 到达龙嘉机场
 desc: 相关资料来自长春市龙嘉国际机场官网
 author: Mr.Hope
 time: 2021年8月29日
 shareable: true
+cite: http://www.ccairport.cn/Traveller/arrive
 content:
   - tag: text
     text: 国内航班到达长春龙嘉国际机场后停泊在2号航站楼。

@@ -1,8 +1,8 @@
-# http://cet.neea.edu.cn/html1/category/16093/1129-1.htm
 title: 大学生水平英语测试常见问题
 author: Mr.Hope
 time: 2021年11月23日
 shareable: true
+cite: http://cet.neea.edu.cn/html1/category/16093/1129-1.htm
 content:
   - tag: text
     type: info
@@ -44,7 +44,7 @@ content:
     heading: 成绩报告单丢失了可以补办吗?
     text:
       - 成绩报告单遗失或毁损后不予补发，但可按规定办理CET考试成绩证明。
-      - 办理成绩证明的流程和所需材料，请点击查看详情。
+      - 点击查看办理成绩证明的流程和所需材料。
     path: proof
 
   - tag: text
@@ -79,21 +79,17 @@ content:
     type: info
     heading: 如对成绩有异议怎么办?
     text:
-      - 如对成绩有异议，可按规定进行分数核查，具体办法请见成绩核查。
-
-  - tag: list
-    header: false
-    items:
-      - text: 成绩核查
-        path: check
+      - 如对成绩有异议，可按规定进行分数核查。具体办法请见成绩核查。
+      - 点击查看办理成绩核查的流程和所需材料。
+    path: check
 
   - tag: text
     type: info
     heading: 查询成绩为什么是 0?
     text:
       - |-
-        以下几种情况会造成成绩为0分:
+        以下几种情况均会造成成绩为0分:
       - 1. 缺考
       - 2. 违规
       - 3. 参加考试，但在考试时未按规定粘贴条形码
-      - 4. 参加考试，总成绩在220分及以下。
+      - 4. 参加考试，总成绩在220分及以下

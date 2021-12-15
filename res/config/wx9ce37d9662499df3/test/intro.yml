@@ -234,4 +234,16 @@ content:
         icon: jwc
         path: intro/apt/course/
 
+      - text: 学生就业指导服务中心
+        color: cyan
+        name: Career
+        icon: job
+        path: intro/apt/career
+
+      - text: 档案馆
+        color: purple
+        name: Archive
+        icon: archive
+        path: intro/apt/archive/
+
     footer: " "

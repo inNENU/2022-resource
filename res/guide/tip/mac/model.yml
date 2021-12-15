@@ -26,8 +26,12 @@ content:
 
   - tag: ul
     text:
-      - 在搭载 Apple 芯片的 Mac 电脑上，“关于本机”会显示一个标有“芯片”的项目并跟有这个芯片的名称：
-      - 在搭载 Intel 处理器的 Mac 电脑上，“关于本机”会显示一个标有“处理器”的项目并跟有 Intel 处理器的名称。搭载 Intel 处理器的 Mac 也称为基于 Intel 的 Mac。
+      - 在搭载 Apple 芯片的 Mac 电脑上，“关于本机”会显示一个标有“芯片”的项目并跟有这个芯片的名称。
+      - 在搭载 Intel 处理器的 Mac 电脑上，“关于本机”会显示一个标有“处理器”的项目并跟有 Intel 处理器的名称。
+
+  - tag: text
+    type: note
+    text: 搭载 Intel 处理器的 Mac 也称为基于 Intel 的 Mac。
 
   - tag: img
     src: $img/tip/mac/guide/model.png

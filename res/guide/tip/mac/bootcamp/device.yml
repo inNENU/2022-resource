@@ -8,7 +8,7 @@ content:
     type: info
     heading: 硬件要求
     text:
-      - BootCamp (启动转换助理) 只适用于大在 Intel 芯片的 Macbook。如果你在使用搭载 M 系列芯片 (M1、M1 Pro) 的 Macbook，您只能使用虚拟机启动 Windows。
+      - BootCamp (启动转换助理) 只适用于搭载 Intel 处理器的 MacBook。如果你在使用搭载 Apple 芯片 (M1、M1 Pro) 的 MacBook，您只能使用虚拟机启动 Windows。
 
   - tag: list
     header: false

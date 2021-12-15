@@ -4,18 +4,18 @@ time: 2021年12月3日
 grey: true
 shareable: true
 content:
-  - tag: text
-    heading: " "
-    text: |-
-      您可以使用“启动转换助理”在搭载 Intel 芯片的 Mac 上安装 Windows 10。
-      如果您的 Mac 并非使用 Windows 芯片，请使用虚拟机。
+  - tag: ul
+    type: note
+    heading: 仅限搭载 Intel 处理器的 Mac
+    text:
+      - 您可以使用“启动转换助理”在搭载 Intel 处理器的 Mac 上安装 Windows 10。
+      - 如果您的 Mac 搭载 Apple 芯片，您需要使用虚拟机。
 
   - tag: list
-    header: false
     items:
       - text: 通过虚拟机运行 Windows
         icon: idea
-        desc: 制作中
+        desc: Apple 芯片
         path: ../parallels/
 
   - tag: list

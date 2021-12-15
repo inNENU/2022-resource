@@ -50,7 +50,7 @@ content:
 
   - tag: text
     text:
-      - 安装完成后，Parallels 会用显著的图标提醒您，请单击继续。
+      - 安装完成后，Parallels 会醒目的图标提醒您，请单击继续。
       - 至此，Windows 11 系统安装已完成。
 
   - tag: img

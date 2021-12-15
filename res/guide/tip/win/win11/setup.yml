@@ -42,7 +42,7 @@ content:
 
   - tag: img
     src: $img/tip/win11-setup-7.png
-    desc: 按照要求设置 PIN 码，PIN 码主要用户开机登陆
+    desc: 按照要求设置 PIN 码，PIN 码主要用于开机登陆
 
   - tag: img
     src: $img/tip/win11-setup-8.png

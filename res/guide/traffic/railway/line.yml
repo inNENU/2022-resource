@@ -1,9 +1,9 @@
-# http://ccqg.com/yyxl
 title: 长春轨道交通线路
 desc: 数据来自长春市轨道交通集团有限公司官网
 author: Mr.Hope
 time: 2021年11月22日
 shareable: true
+cite: http://ccqg.com/yyxl
 content:
   - tag: title
     text: 轨道交通总线路图

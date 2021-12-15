@@ -1,9 +1,9 @@
-# http://www.ccairport.cn/Traveller/depart.html
 title: 在机场起飞
 desc: 相关资料来自长春市龙嘉国际机场官网
 author: Mr.Hope
 time: 2021年8月28日
 shareable: true
+cite: http://www.ccairport.cn/Traveller/depart.html
 content:
   - tag: text
     text: 从长春龙嘉国际机场出发前往国内需要使用2号航站楼。

@@ -63,15 +63,24 @@ content:
   - tag: list
     header: 选课系统
     items:
-      - text: 选课系统介绍
-        icon: system
-        path: system
+      - text: 登录选课系统
+        icon: intro
+        path: system/login
 
-      - text: 选课系统使用说明
+      - text: 系统使用指南
         icon: idea
-        path: guide
+        path: system/guide
+
+      - text: 系统注意事项
+        icon: alert
+        path: system/alert
+
+      - text: 系统常见问题
+        icon: faq
+        path: system/faq
 
   - tag: list
+    header: 友情提示
     items:
       - text: 选课技巧
         icon: idea
@@ -80,7 +89,3 @@ content:
       - text: 严禁课程买卖
         icon: ban
         path: ban
-
-      - text: 常见问题
-        icon: faq
-        path: faq

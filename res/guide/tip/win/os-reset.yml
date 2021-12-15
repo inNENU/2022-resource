@@ -51,13 +51,13 @@ content:
     type: warning
     text:
       - 只有选择“云下载”，才是下载完整的 Windows 系统镜像并安装它。
-      - 如果没有看到“云下载”选项，那么你的电脑可能版本较低，本地系统重置的前提是您的系统镜像必须完好。如果您的系统镜像已被恶意软件篡改或已经损坏，系统重置可能无法解决问题。请考虑使用媒体制作工具安装。
 
-  - tag: list
-    header: false
-    items:
-      - text: 使用媒体制作工具重装
-        path: media-reinstall
+  - tag: text
+    type: note
+    text:
+      - 如果没有看到“云下载”选项，说明你电脑系统版本较低。
+      - 本地系统重置的前提是您的系统镜像必须完好。如果您的系统镜像已被恶意软件篡改或已经损坏，系统重置可能无法解决问题。请考虑使用媒体制作工具安装。
+    path: media-reinstall
 
   - tag: img
     src: $img/tip/windows-reset-3.png

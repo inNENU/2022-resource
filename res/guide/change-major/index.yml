@@ -1,4 +1,6 @@
 title: 转专业
+desc: |-
+  注: “公开公示信息”不涉及到个人隐私，
 author: Mr.Hope
 time: 2021年11月22日
 shareable: true
@@ -42,8 +44,8 @@ content:
     text: 转专业公示名单
 
   - tag: text
-    type: info
-    text: 以下信息为“公开公示信息”，不涉及到个人隐私之说，仅供热门专业、人数的参考。
+    type: note
+    text: 以下仅供热门专业、人数的参考。
 
   - tag: doc
     name: 2021年转专业公示名单
