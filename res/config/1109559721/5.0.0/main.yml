@@ -75,12 +75,6 @@ content:
         icon: life
         path: guide/life/
 
-      - text: 常见服务
-        color: mauve
-        name: Service
-        icon: service
-        path: guide/action/
-
       - text: 转专业
         color: red
         name: Change Major
