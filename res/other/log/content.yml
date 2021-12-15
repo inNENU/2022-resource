@@ -1,6 +1,21 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/15
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 火车学生票介绍
+      - 火车学生票核验
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 拆分并重构课程表与课程计划
+      - 部分页面适配 V5 最新功能
+
+  - tag: title
     text: 12/3
 
   - tag: ul
