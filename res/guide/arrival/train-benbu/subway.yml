@@ -77,15 +77,8 @@ content:
 
   - tag: text
     type: warning
-    heading: 不小心从南出站口出站
-    text: 如果您不小心从南出站口出站，请遵循以下流程进地铁站!
-
-  - tag: list
-    header: false
-    items:
-      - text: 长春站南出站口进1号线
-        icon: ban
-        path: south-1
+    heading: 如果您不小心从南出站口出站，请参阅“从南出站口进地铁站”。
+    path: south-1
 
   - tag: text
     heading: 地铁口位置
@@ -116,15 +109,12 @@ content:
         path: /guide/epidemic/jixiang-code/
 
   - tag: text
+    type: info
     heading: 地铁安检
-    text: 进入地铁时需要安检。如果您觉得有必要，请您自行核对以下内容。
-
-  - tag: list
-    header: false
-    items:
-      - text: 禁止、限制携带物品和禁止行为
-        icon: ban
-        path: /guide/traffic/railway/ban
+    text:
+      - 为了保证地铁安全，地铁会规定禁止携带的物品清单。
+      - 进入地铁时需要通过安检。如果您觉得有必要 (如您携带了大量化妆品、水果刀等)，请您自行核对“禁止、限制携带物品和禁止行为”。
+    path: /guide/traffic/railway/ban
 
   - tag: title
     text: 购票相关

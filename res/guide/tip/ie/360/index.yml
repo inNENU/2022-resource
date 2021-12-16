@@ -36,16 +36,10 @@ content:
         path: evil
 
   - tag: text
+    type: note
     text:
       - 如果您因为某些原因，的确需要使用 360 安全浏览器，Mr.Hope 为您准备了推荐设置，还您清爽的页面。
-      - 请您按找下方指引进行设置修改。
-
-  - tag: list
-    header: false
-    items:
-      - text: 360 安全浏览器的推荐设置
-        icon: setting
-        path: setting
+    path: setting
 
   - tag: img
     src: $img/tip/360-settings-after.jpg

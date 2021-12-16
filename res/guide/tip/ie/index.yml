@@ -49,7 +49,7 @@ content:
     type: warning
     heading: Internet Explorer 将被停用
     text:
-      - Internet Explorer 11 将于 2022 年 6 月份被自动禁用，只要你在使用 20H2 及更新版本的半年渠道 Windows 10，届时 Internet Explorer 都将被彻底禁用 (就跟不久前的 Flash 一样)。
+      - Internet Explorer 11 将于 2022 年 6 月份被自动禁用，只要您在使用 20H2 及更新版本的半年渠道 Windows 10，届时 Internet Explorer 都将被彻底禁用 (就跟不久前的 Flash 一样)。
       - 为了提供历史向下兼容，微软在 Microsoft Edge 提供了兼容模式 (但它被刻意做的很不方便)。为了良好的体验，Mr.Hope 建议您使用 Chrome 配合 IE Tab 扩展程序。
 
   - tag: title

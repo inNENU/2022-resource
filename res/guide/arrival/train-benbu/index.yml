@@ -43,28 +43,17 @@ content:
   - tag: text
     type: tip
     text: 地铁是最快最便捷的方式，推荐大家选择地铁。
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: train
-        path: subway
+    path: subway
 
   - tag: title
     text: 出租车
 
   - tag: text
+    type: note
     text:
       - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
       - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: taxi
-        path: taxi
+    path: taxi
 
   - tag: title
     text: 公交 (极其不建议)
@@ -74,10 +63,4 @@ content:
     text:
       - 乘坐公交比较麻烦，而且步行的距离较长，路途花费的时间也更长。
       - Mr.Hope 不认为任何人会差这 1 元钱! 不要坐公交!
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: bus
-        path: bus
+    path: bus

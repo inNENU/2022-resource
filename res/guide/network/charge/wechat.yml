@@ -11,11 +11,8 @@ content:
     src: $img/card/wechat-card-charge.jpg
 
   - tag: img
-    src: $img/network/pay.jpg
-
-  - tag: img
-    src: $img/network/pay-list.jpg
-    desc: 点击上方的网费充值
+    src: $img/network/charge.png
+    desc: 点击右上角“网费充值”
 
   - tag: img
     src: $img/network/network-pay.jpg

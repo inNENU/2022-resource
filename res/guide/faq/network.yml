@@ -28,10 +28,5 @@ content:
     text:
       - 校园网为 20 元包月预付费制，满足开通条件即会自动开通。
       - 您可以在在校内自助终端机内通过花费校园卡余额缴费，也可以通过微信企业号“东北师范大学”完成缴费。
-
-  - tag: list
-    header: false
-    items:
-      - text: 充值
-        icon: charge
-        path: /guide/network/charge/
+      - 具体的充值操作详情，请详见“网费充值”。
+    path: /guide/network/charge/

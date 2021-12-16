@@ -36,7 +36,7 @@ content:
     heading: 系统兼容性
     text:
       - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器。
-      - 具体的限制及注意事项请点击查看。
+      - 具体的限制及注意事项请详见“如何使用 IE 内核浏览器”。
     path: /guide/tip/ie/
 
   - tag: title

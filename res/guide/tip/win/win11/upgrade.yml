@@ -7,16 +7,16 @@ content:
     text: 升级要求
 
   - tag: text
+    type: note
+    heading: 查看电脑是否支持
     text:
-      - Windows 11拥有最低安装要求，对处理器以及 TPM 芯片版本提出了额外要要求。
-      - 同时，为了升级到 Windows 11，您的现有 Windows 10 版本不得低于 2004。
+      - Windows 11 相对于 Windows 10 对处理器以及 TPM 芯片版本提出了额外要求。
+      - 请参阅“Windows 11 支持”确认在自己电脑是否支持 Windows 11。
+    path: support
 
-  - tag: list
-    header: false
-    items:
-      - text: 检查自己的电脑是否支持 Windows 11
-        icon: support
-        path: support
+  - tag: text
+    text:
+      - 同时，为了升级到 Windows 11，您的现有 Windows 10 版本不得低于 2004。
 
   - tag: title
     text: Windows 11 升级

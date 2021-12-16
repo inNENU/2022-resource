@@ -46,14 +46,8 @@ content:
   - tag: text
     type: info
     text:
-      - 请通过下方教程打开疑难解答，并运行 “Internet 链接” 疑难解答。
-
-  - tag: list
-    header: false
-    items:
-      - text: 找到疑难解答
-        icon: faq
-        path: diagnosis
+      - 请参阅“系统诊断”，并运行 “Internet 链接” 疑难解答。
+    path: diagnosis
 
   - tag: title
     text: 尝试禁用/重置网络

@@ -32,7 +32,7 @@ content:
     type: info
     heading: 有寝室照片么?
     text:
-      - 有，请点击查看寝室实拍照片。
+      - 有，寝室实拍照片请详见“寝室环境”。
     path: /guide/dorm/detail/env
 
   - tag: text
@@ -67,26 +67,15 @@ content:
   - tag: text
     type: info
     heading: 寝室有独卫么
-    text: 没有，只有公共卫生间。有阿姨每天定期打扫 (一天几次)，非常整洁。
-
-  - tag: list
-    header: false
-    items:
-      - text: 卫生间
-        icon: toilet
-        path: /guide/dorm/detail/toilet
+    text:
+      - 没有，只有公共卫生间。有阿姨每天定期打扫 (一天几次)，非常整洁。
+    path: /guide/dorm/detail/toilet
 
   - tag: text
     type: info
     heading: 寝室有独立浴室么
     text: 没有，只有公共浴池。公共浴池有隔间，洗一次澡约 3 - 5 元。
-
-  - tag: list
-    header: false
-    items:
-      - text: 浴池
-        icon: bath
-        path: /guide/bath/
+    path: /guide/bath/
 
   - tag: text
     type: info
@@ -119,10 +108,4 @@ content:
       - 不能。
       - |-
         《东北师范大学学生公寓管理办法》『第六章 卫生管理』第三十七条 (三): 起床后要叠被、整理床铺，个人物品摆放整齐，禁止悬挂床帘、吊椅；
-
-  - tag: list
-    header: false
-    items:
-      - text: 原文详情
-        icon: rule
-        path: /intro/apt/logistics/rule
+    path: /intro/apt/logistics/rule

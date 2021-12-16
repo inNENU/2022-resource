@@ -44,11 +44,7 @@ content:
     text: 疫情管控
 
   - tag: text
+    type: note
     text:
       - 在乘坐长春市的公共交通时，需要出示“吉祥码”。
-
-  - tag: list
-    header: false
-    items:
-      - text: 吉祥码注册与使用
-        path: /guide/epidemic/jixiang-code/
+    path: /guide/epidemic/jixiang-code/

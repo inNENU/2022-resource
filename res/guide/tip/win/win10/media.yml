@@ -6,7 +6,7 @@ content:
   - tag: text
     type: info
     text:
-      - 请准备一个不小于 8 GB 的空 U 盘 (或你确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
+      - 请准备一个不小于 8 GB 的空 U 盘 (或您确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
 
   - tag: action
     header: Windows 10 媒体制作工具

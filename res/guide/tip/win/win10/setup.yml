@@ -24,7 +24,7 @@ content:
 
   - tag: img
     src: $img/tip/win10-setup-4.png
-    desc: 此时系统会检测你是否联网 (如果没有会指引你连接网络) 并开始检查更新。请连接网络并耐心等待。
+    desc: 此时系统会检测您是否联网 (如果没有会指引您连接网络) 并开始检查更新。请连接网络并耐心等待。
 
   - tag: img
     src: $img/tip/win10-setup-5.png

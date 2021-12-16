@@ -31,7 +31,7 @@ content:
 
   - tag: img
     src: $img/dorm/washer-guide.jpg
-    desc: 洗衣机使用指南，请以使用的洗衣机提示为准
+    desc: 洗衣机使用指引，不同寝室洗衣机型号可能略有不同，请以使用的洗衣机提示为准
 
   - tag: text
     type: tip

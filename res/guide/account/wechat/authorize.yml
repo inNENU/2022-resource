@@ -10,19 +10,16 @@ content:
     src: $img/account/wechat-follow.png
     desc: 企业微信二维码
 
-  - tag: ul
-    type: info
+  - tag: ol
     text:
       - 扫描上方的二维码。
       - 点击“欢迎关注”栏目，按照要求输入高考报名时的手机号并填写收到的验证码完成关注。
-      - 如您高考报名使用的是父母的手机号，您可以在关注成功后，下载企业微信App对绑定手机号进行修改。
 
-  - tag: list
-    header: false
-    items:
-      - text: 修改手机号
-        icon: phone
-        path: change
+  - tag: text
+    type: note
+    text:
+      - 如您高考报名使用的是父母的手机号，您可以在关注成功后，下载企业微信App对绑定手机号进行修改。
+    path: change
 
   - tag: text
     type: danger

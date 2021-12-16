@@ -34,13 +34,8 @@ content:
     heading: 特别提示
     text:
       - 您不得以任何手段重置或延长试用期。尤其是使用 “PD Runner” 工具绕过 Parallels Desktop 的试用检测，以长期试用 Parallels Desktop。
-      - 关于详细的如何避免此类违反用户协议的行为，请详见 “避免通过 PD Runner 延长试用期”。
-
-  - tag: list
-    header: false
-    items:
-      - text: 避免通过 PD Runner 延长试用期
-        path: pd-runner
+      - 关于详细的如何避免此类违反用户协议的行为，请参阅本指引。
+    path: pd-runner
 
   - tag: p
     heading: 购买 Parallels 许可证

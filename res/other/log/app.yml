@@ -4,8 +4,18 @@ content:
     text: 近期更新
 
   - tag: list
-    header: v5.0.0
+    header: v5.0.1
     items:
       - text: |-
           · 重构搜索功能
           · 微信小程序支持卫星图
+          · 增加动作组件
+          · 重构媒体组件
+          · 重构提示框并支持跳转
+
+  - tag: list
+    header: 更多
+    items:
+      - text: 查看详细日志
+        icon: time
+        url: page?path=other/log/history/

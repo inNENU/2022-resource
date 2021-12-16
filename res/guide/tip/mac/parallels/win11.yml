@@ -60,10 +60,4 @@ content:
     type: tip
     text:
       - 如果您单击后弹出登录窗口，请参考 Parallels 使用。
-
-  - tag: list
-    header: false
-    items:
-      - text: Parallels 使用
-        icon: idea
-        path: usage
+    path: usage

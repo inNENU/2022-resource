@@ -30,7 +30,7 @@ content:
   - tag: text
     heading: 更多其它问题
     text:
-      - 你也可针对遇到的此类或其他相关问题向 Mr.Hope 寻求帮助。
+      - 您也可针对遇到的此类或其他相关问题向 Mr.Hope 寻求帮助。
 
   - tag: functional-list
     header: false
