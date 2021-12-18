@@ -5,6 +5,8 @@ shareable: true
 content:
   - tag: title
     text: 腾讯地图导航
+    env:
+      - wx
 
   - tag: functional-list
     header: false
@@ -20,23 +22,14 @@ content:
       - wx
 
   - tag: text
-    type: warning
+    type: note
+    text:
+      - 导航功能仅在微信小程序上提供
     env:
       - qq
-    text:
-      - 导航功能仅在微信小程序上提供!
 
   - tag: title
-    text: 新生接待处
-
-  - tag: text
-    text:
-      - 学校在长春站北出站口设置新生接待处，提供新生咨询服务。
-
-  - tag: text
-    type: tip
-    text:
-      - 由于新冠疫情，学校不再安排大巴进行统一接送。新生同学需要自行选择并乘坐交通工具到达学校参与报到。
+    text: 到校方式
 
   - tag: text
     text: 同学们主要有三种交通方式到达净月校区。
@@ -84,3 +77,15 @@ content:
       - text: 查看详情
         icon: taxi
         path: taxi
+
+  - tag: title
+    text: 新生接待处
+
+  - tag: text
+    text:
+      - 学校在长春站北出站口设置新生接待处，提供新生咨询服务。
+
+  - tag: text
+    type: tip
+    text:
+      - 由于新冠疫情，学校不再安排大巴进行统一接送。新生同学需要自行选择并乘坐交通工具到达学校参与报到。

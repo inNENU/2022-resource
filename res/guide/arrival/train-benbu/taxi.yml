@@ -3,24 +3,19 @@ author: Mr.Hope
 time: 2021年12月2日
 shareable: true
 content:
-  - tag: text
+  - tag: p
     text:
-      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
-      - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
-
-  - tag: list
-    header: false
-    items:
-      - text: 轨道交通
-        icon: train
-        path: subway
+      - 如果您有太多的行李很难自行搬运，或您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 一般情况下，半夜是无法办理报到的，所以您可能要找一个酒店住一晚。酒店请您自行导航，这里不做额外介绍。
 
   - tag: text
     type: tip
-    text: 一般情况下，半夜是无法办理报到的，所以您可能要找一个酒店住一晚。酒店请您自行导航，这里不做额外介绍。
+    text:
+      - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
+    path: subway
 
   - tag: title
-    text: 流程
+    text: 乘坐出租车流程
 
   - tag: ol
     text:
@@ -30,7 +25,7 @@ content:
 
   - tag: text
     type: tip
-    text: 不可能有司机不知道动植物公园。如果司机的确看起来不知道，建议您赶紧检查是不是黑车。
+    text: 可能有师傅记不准东北师范大学在哪，但不可能有司机不知道动植物公园。如果司机的确看起来不知道，建议您赶紧检查是不是黑车。
 
   - tag: title
     text: 价格与时间
@@ -38,7 +33,11 @@ content:
   - tag: text
     text:
       - 从长春站约 13—17 元
-      - 早晚高峰期在路上可能会堵车，不堵就很快，平均用时应该在 20 分钟左右。
+      - 路况良好的情况下，平均用时应该在 20 分钟左右。
+
+  - tag: text
+    type: warning
+    text: 早晚高峰期在路上可能会堵车
 
   - tag: title
     text: 出租车乘降中心位置
@@ -46,7 +45,7 @@ content:
   - tag: text
     heading: 北出站口 B1
     text:
-      - 从北出站口 B1 出来后，请右转直行.
+      - 从北出站口 B1 出来后，请右转直行。
       - 在直行过程中，请留意头上和左手边指示，乘降中心通道在左手边。
 
   - tag: text
