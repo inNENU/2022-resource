@@ -34,49 +34,25 @@ content:
   - tag: text
     text: 同学们主要有三种交通方式到达净月校区。
 
-  - tag: title
-    text: 轨道交通换乘(推荐)
-
   - tag: text
     type: tip
+    heading: 轨道交通换乘(推荐)
     text: 轨道交通是最便捷最快的的方式。票价 5 元。
+    path: railway
 
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: train
-        path: railway
-
-  - tag: title
-    text: 公交转轻轨
+  - tag: text
+    type: info
+    heading: 出租车
+    text:
+      - 如果您有太多的行李很难自行搬运，或您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+    path: taxi
 
   - tag: text
     type: warning
+    heading: 公交转轻轨
     text:
       - 此选项仅为那些携带了无法通过地铁安检物品的人列出!
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: bus
-        path: bus
-
-  - tag: title
-    text: 打车
-
-  - tag: text
-    text:
-      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
-      - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
-
-  - tag: list
-    header: false
-    items:
-      - text: 查看详情
-        icon: taxi
-        path: taxi
+    path: bus
 
   - tag: title
     text: 新生接待处

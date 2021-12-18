@@ -28,16 +28,10 @@ content:
       - 出站时要测量体温。
       - 在长春乘坐公共交通工具、出入公共场所，都需要用到吉林省内的吉祥码。
       - 请提前进行相关注册并在地铁安检前自助扫描吉祥码。
-
-  - tag: list
-    header: false
-    items:
-      - text: 吉祥码注册与使用
-        icon: register
-        path: /guide/epidemic/jixiang-code/
+    path: /guide/epidemic/jixiang-code/
 
   - tag: text
     type: danger
-    heading: 乘坐 160 路注意
+    heading: 乘坐 160 路需注意
     text:
       - 下车的站名为站名动植物公园，千万不要到东北师范大学站才下车，那个是净月校区!!!

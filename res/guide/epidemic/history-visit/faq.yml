@@ -7,11 +7,6 @@ cite: https://xc.caict.ac.cn/help.html
 content:
   - tag: text
     type: info
-    heading: 什么是“通信大数据行程卡”?
-    text: “通信大数据行程卡”是中国电信、中国移动、中国联通、中国信通院联合推出的行程查询服务，可以免费为用户提供本人过往14天内到访过的国家(地区)和国内城市证明。
-
-  - tag: text
-    type: info
     heading: “通信大数据行程卡”是否只显示归属地?
     text: 不是，“通信大数据行程卡”可以显示用户过往14天内所有到访过的国家(地区)和停留超过4小时的国内城市。
 

@@ -5,16 +5,15 @@ shareable: true
 content:
   - tag: text
     type: tip
-    text: 地铁是最快最便捷的方式，推荐大家选择地铁。
+    text: 地铁是最快最便捷的方式，推荐大家选择
 
   - tag: text
     type: info
     heading: 运营时间
-    text: 开往红嘴子方向的地铁运营时间是 6:06 - 21:46，其他时间请选择打车去宾馆 (别想着报到了)。
-
-  - tag: img
-    src: $img/traffic/subway-1-time.jpg
-    desc: 地铁 1 号线时刻表
+    text:
+      - 开往红嘴子方向的地铁运营时间是 6:06 - 21:46，其他时间请选择打车去宾馆 (别想着报到了)。
+      - 详细的地铁时刻表请详见“地铁运营时间”
+    path: /guide/traffic/railway/time
 
   - tag: title
     text: 路线流程
@@ -76,7 +75,7 @@ content:
     type: warning
     heading: 选择南出站口
     text: 如果您不小心从南出站口出站，请参阅“从南出站口进地铁站”。
-    path: south-1
+    path: ../south-1
 
   - tag: text
     heading: 地铁口位置
@@ -95,7 +94,6 @@ content:
     type: info
     heading: 疫情相关
     text:
-      - 出站时要测量体温。
       - 在长春乘坐公共交通工具、出入公共场所，都需要用到吉林省内的吉祥码。
       - 请提前进行相关注册并在地铁安检前自助扫描吉祥码。
     path: /guide/epidemic/jixiang-code/
@@ -115,16 +113,11 @@ content:
     text: 从 长春站北 / 长春站 到 东北师大 票价 2 元。
 
   - tag: text
+    type: tip
     heading: 扫码乘车
     text:
-      - 长春轨道交通支持微信和支付宝扫码乘车。强烈推荐使用小程序扫码进出站，方便快捷无需买票!
-
-  - tag: list
-    header: false
-    items:
-      - text: 扫码乘车
-        icon: scan
-        path: /guide/traffic/railway/scan
+      - 长春轨道交通支持微信和支付宝扫码乘车。强烈推荐使用小程序扫码进出站，方便快捷无需买票! 相关内容详见“扫码乘车”。
+    path: /guide/traffic/railway/scan
 
   - tag: text
     heading: 其他方式

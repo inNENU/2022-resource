@@ -3,6 +3,12 @@ author: Mr.Hope
 time: 2021年11月23日
 shareable: true
 content:
+  - tag: text
+    type: tip
+    text:
+      - 由于新冠疫情学校封闭管控，而且考虑到同学们自身的安全，Mr.Hope 不建议频繁到校外超市进行小额采购。
+      - 如果您对学校的零售价格不满，您可以考虑网购。
+
   - tag: title
     text: 本部
 
@@ -25,14 +31,10 @@ content:
   - tag: text
     type: info
     heading: 南苑超市
-    text: 南苑 1F 也有一个私人开的超市，价格为普通零售价。主要售卖大众食品饮料以及常用生活用品等，东西不全。
+    text: 南苑 1F 也有一个私人开的超市，价格为普通零售价，性质类似于小区食杂店。主要售卖大众食品饮料以及常用生活用品等，东西不全。
 
   - tag: text
     heading: 校外超市
-
-  - tag: text
-    type: tip
-    text: 由于新冠疫情学校封闭管控，所以 Mr.Hope 不建议频繁到校外超市进行小额采购。
 
   - tag: list
     header: false
@@ -43,6 +45,9 @@ content:
   - tag: title
     text: 净月
 
+  - tag: text
+    text: 本部校区的主要超市是京东超市。
+
   - tag: list
     header: false
     items:
@@ -51,10 +56,6 @@ content:
 
   - tag: text
     heading: 校外超市
-
-  - tag: text
-    type: tip
-    text: 由于新冠疫情学校封闭管控，所以 Mr.Hope 不建议频繁到校外超市进行小额采购。
 
   - tag: list
     header: false

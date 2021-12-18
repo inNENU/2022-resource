@@ -6,12 +6,14 @@ time: 2021年11月22日
 shareable: true
 content:
   - tag: text
+    type: info
+    heading: 银行卡充值
     text: 在自助终端机绑定银行卡后(学校发的交行学子卡无需开通网银即可绑定)，可以在自助终端机操作，直接将银行卡余额转入校园卡。
 
-  - tag: text
+  - tag: ul
     type: tip
     text:
-      - 19级及以前的同学所拥有的学校下发的交行学子卡无需开通网银即可绑定。
+      - 19级及以前的同学所拥有的学校下发的交行学子卡无需开通网银即可绑定
       - 其他银行卡需开通网上银行服务
 
   - tag: img
@@ -43,11 +45,11 @@ content:
     desc: 转账界面
 
   - tag: title
-    text: 提示
+    text: Mr.Hope の提示
 
   - tag: text
-    type: tip
-    text: 校园卡每次最多充值 200 元。
+    type: info
+    text: 通过此渠道充值校园卡每次最多充值 200 元。
 
   - tag: ul
     type: warning

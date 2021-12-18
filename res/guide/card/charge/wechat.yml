@@ -5,7 +5,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    text: 在成功关注并认证东北师范大学企业微信号后，可以通过企业微信号中的校园卡栏目，通过微信充值校园卡
+    text: 在成功关注并认证东北师范大学企业微信号后，可以通过企业微信号中的校园卡栏目，通过微信充值校园卡。
 
   - tag: list
     header: false
@@ -26,24 +26,20 @@ content:
   - tag: text
     text: 点击屏幕下方的“校园卡”自定义菜单
 
-  - tag: text
-    text: (图片略)
-    style:
-      color: "#888"
-      font-size: 14px
-
-  - tag: text
-    text: 点击下方的校园卡充值，直接输入充值金额点击付款即可
-
   - tag: img
     src: $img/card/card-service.jpg
-
-  - tag: title
-    text: 提示
+    desc: 在弹出的页面选择“校园卡充值”
 
   - tag: text
-    type: tip
-    text: 每次最多充值 500 元。
+    text: 直接输入充值金额点击付款即可
+
+  - tag: title
+    text: Mr.Hope の提示
+
+  - tag: text
+    type: info
+    text:
+      - 校园卡每次最多充值 500 元。
 
   - tag: ul
     type: warning

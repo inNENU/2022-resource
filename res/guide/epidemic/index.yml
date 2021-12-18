@@ -61,16 +61,14 @@ content:
         icon: intro
         path: /guide/miniapp/
 
+  - tag: title
+    text: 其他功能
+
   - tag: list
     items:
       - text: 国家防疫健康信息码
         icon: code
         path: health-code
-
-  - tag: title
-    text: 其他功能
-    env:
-      - wx
 
   - tag: card
     title: 核酸检测查询

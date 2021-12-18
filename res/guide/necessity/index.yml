@@ -16,7 +16,6 @@ content:
     items:
       - text: 校内外超市
         icon: shop
-
         path: /guide/shop/
 
   - tag: list

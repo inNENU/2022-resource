@@ -4,14 +4,11 @@ author: Mr.Hope
 time: 2021年11月28日
 shareable: true
 content:
-  - tag: list
-    header: 简介
-    items:
-      - text: 校园卡是您在东师校园内的通用消费卡以及身份认证卡，是您在东师的日常生活与学习中是非常重要的存在，一旦忘记携带或丢失校园卡会造成诸多不便。
-
-      - text: 校园卡简介
-        icon: intro
-        path: intro
+  - tag: text
+    type: info
+    heading: 校园卡简介简介
+    text: 校园卡是您在东师校园内的通用消费卡以及身份认证卡，是您在东师的日常生活与学习中是非常重要的存在，一旦忘记携带或丢失校园卡会造成诸多不便。
+    path: intro
 
   - tag: list
     header: 初识校园卡
@@ -21,9 +18,9 @@ content:
         icon: prepare
         path: prepare
 
-      - text: 照片???
+      - text: 校园卡照片
         icon: photo
-        desc: 为什么它这么丑
+        desc: why这么丑
         path: photo
 
       - text: 爱护校园卡

@@ -10,10 +10,6 @@ content:
         icon: intro
         path: fill
 
-      - text: 优师专项师范生介绍
-        icon: teacher
-        path: great-intro
-
   - tag: list
     items:
       - text: 公费师范生介绍

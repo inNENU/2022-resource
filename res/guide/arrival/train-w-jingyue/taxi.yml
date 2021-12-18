@@ -3,24 +3,19 @@ author: Mr.Hope
 time: 2021年12月2日
 shareable: true
 content:
-  - tag: text
+  - tag: p
     text:
-      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
-      - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
-
-  - tag: list
-    header: false
-    items:
-      - text: 轨道交通
-        icon: train
-        path: railway
+      - 如果您有太多的行李很难自行搬运，或您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 一般情况下，半夜是无法办理报到的，所以您可能要找一个酒店住一晚。酒店请您自行导航，这里不做额外介绍。
 
   - tag: text
     type: tip
-    text: 一般情况下，半夜是无法办理报到的，所以您可能要找一个酒店住一晚。酒店请您自行导航，这里不做额外介绍。
+    text:
+      - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
+    path: railway
 
   - tag: title
-    text: 流程
+    text: 乘坐出租车流程
 
   - tag: ol
     text:
@@ -28,13 +23,6 @@ content:
       - 右侧掉头并前往出租车乘降中心
       - 排队候车并上车
       - 告知师傅到东北师范大学净月校区，在净月大街上的正门下车
-
-  - tag: list
-    header: false
-    items:
-      - text: 吉祥码注册与使用
-        icon: register
-        path: /guide/epidemic/jixiang-code/
 
   - tag: img
     src: $img/arrival/train-west-exit.jpg
@@ -52,10 +40,6 @@ content:
     src: $img/arrival/train-west-taxi-entrance.jpg
     desc: 长春西站出租车乘降中心入口
 
-  - tag: text
-    type: tip
-    text: 不可能有司机不知道东北师范大学净月校区。如果司机的确看起来不知道，建议您赶紧检查是不是黑车。
-
   - tag: title
     text: 价格与时间
 
@@ -65,10 +49,16 @@ content:
       - 平均用时应该在 50 分钟左右。
 
   - tag: text
-    type: tip
+    type: note
     text:
-      - 在出租车乘降中心请排队等待上车。
-      - 请不要被乘降中心附近拉客拼车的人吸引! 队伍在非恶劣天气下会前进的很快，恶劣天气最多等待半个小时(因为这个时候打车来火车站的人也很多)，切勿不要听信在附近拉客的人的说辞。
+      - 在出租车乘降中心请有序排队等待，依次上车。
+
+  - tag: text
+    type: warning
+    heading: 不要考虑拉客拼车
+    text:
+      - 请不要被乘降中心附近拉客拼车的人吸引! 队伍在非恶劣天气下会前进的很快，恶劣天气最多等待半个小时(因为这个时候打车来火车站的人也很多)。
+      - 切勿不要听信在附近拉客的人的说辞，因为这样你不仅有可能乘坐黑车，更有可能被迫跟其他陌生人 (比如其他三个大汉) 拼同一辆车。这是对自己安全的不负责。
 
   - tag: list
     header: false

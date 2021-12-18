@@ -25,7 +25,7 @@ content:
         path: terminal
 
   - tag: title
-    text: 提示
+    text: Mr.Hope の提示
 
   - tag: ul
     type: warning

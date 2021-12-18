@@ -1,12 +1,11 @@
 title: 东师e起战疫
 author: Mr.Hope
 time: 2021年11月20日
+grey: true
 shareable: true
 content:
-  - tag: title
-    text: 东师e起战疫
-
   - tag: text
+    type: info
     text: 东师e起战疫是由学校外包团队开发的学生健康信息报送小程序，具有居家健康报送、在校健康汇报、出入校审批等功能。
 
   - tag: list

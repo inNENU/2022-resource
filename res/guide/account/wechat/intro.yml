@@ -15,11 +15,10 @@ content:
   #   text: 2021级新生请于9月1日之后再进行认证。
 
   - tag: ul
-    heading: 功能
     text:
-      - 通过“教务助理中心”进行课表、考场、成绩的查询。
-      - 通过校园卡查询流水、充值、挂失、网费充值等
-      - 通过档案馆进行毕业生档案追踪等
+      - 通过“教务助理中心”进行课表、考场、成绩的查询
+      - 通过校园卡查询流水、充值、挂失、网费充值
+      - 通过档案馆进行毕业生档案追踪
 
   - tag: list
     header: 功能
@@ -29,5 +28,5 @@ content:
         path: /guide/card/charge/wechat
 
       - text: 校园网充值
-        icon: card
+        icon: network
         path: /guide/network/charge/wechat

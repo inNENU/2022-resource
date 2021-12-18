@@ -5,23 +5,17 @@ shareable: true
 content:
   - tag: text
     type: tip
-    text: 地铁是最快最便捷的方式，推荐大家选择地铁，票价三元。
+    text: 地铁是最快最便捷的方式，推荐大家选择
 
   - tag: text
-    type: warning
+    type: info
     heading: 运营时间
     text:
-      - 地铁二号线东方广场方向首车 5:15、末车 21:00；
-      - 地铁一号线红嘴子方向首车 5:50、末车 21:30。
-      - 其他时间请选择打车去宾馆 (别想着报到了)。
-
-  - tag: img
-    src: $img/traffic/subway-1-time.jpg
-    desc: 地铁 1 号线时刻表
-
-  - tag: img
-    src: $img/traffic/subway-2-time.jpg
-    desc: 地铁 2 号线时刻表
+      - 地铁二号线东方广场方向首车 5:15、末车 21:00
+      - 地铁一号线红嘴子方向首车 5:50、末车 21:30
+      - 其他时间请选择打车去宾馆 (别想着报到了)
+      - 详细的地铁时刻表请详见“地铁运营时间”
+    path: /guide/traffic/railway/time
 
   - tag: title
     text: 路线流程
@@ -52,7 +46,8 @@ content:
     type: info
     heading: 疫情相关
     text:
-      - 由于新冠疫情，从长春西站出站时要测量体温、刷身份证、查验吉祥码，请提前做好准备。
+      - 由于新冠疫情，从长春站出站时要测量体温、刷身份证、查验吉祥码，请提前做好准备。
+    path: /guide/epidemic/jixiang-code/
 
   - tag: img
     src: $img/arrival/train-west-exit.jpg
@@ -81,37 +76,30 @@ content:
     type: info
     heading: 疫情相关
     text:
-      - 出站时要测量体温。
       - 在长春乘坐公共交通工具、出入公共场所，都需要用到吉林省内的吉祥码。
       - 请提前进行相关注册并在地铁安检前自助扫描吉祥码。
-
-  - tag: text
-    type: tip
-    heading: 吉祥码注册与使用
     path: /guide/epidemic/jixiang-code/
 
   - tag: text
+    type: info
     heading: 地铁安检
-    text: 进入地铁时需要安检。如果您觉得有必要，请您自行核对以下内容。
-
-  - tag: list
-    header: false
-    items:
-      - text: 禁止、限制携带物品和禁止行为
-        icon: ban
-        path: /guide/traffic/railway/ban
+    text:
+      - 为了保证地铁安全，地铁会规定禁止携带的物品清单。
+      - 进入地铁时需要通过安检。如果您觉得有必要 (如您携带了大量化妆品、水果刀等)，请您自行核对“禁止、限制携带物品和禁止行为”。
+    path: /guide/traffic/railway/ban
 
   - tag: title
     text: 购票相关
 
   - tag: text
-    text: 票价 3 元。
+    text: 从长春西站到东北师大票价 3 元。
 
   - tag: text
     type: tip
+    heading: 扫码乘车
     text:
-      - 长春轨道交通支持微信官方“乘车码”小程序，强烈推荐使用小程序扫码进出站!
-      - 只需搜索小程序打开并绑定自动扣费协议即可，十分方便快捷!
+      - 长春轨道交通支持微信和支付宝扫码乘车。强烈推荐使用小程序扫码进出站，方便快捷无需买票! 相关内容详见“扫码乘车”。
+    path: /guide/traffic/railway/scan
 
   - tag: text
     heading: 其他方式
@@ -171,8 +159,8 @@ content:
     text: 到达校门
 
   - tag: text
-    heading: 提示
-    text: 由于疫情原因，今年报到仅开放学校东北门。
+    type: warning
+    text: 由于疫情原因，2021 年报到仅开放学校东北门。
 
   - tag: ul
     text:
