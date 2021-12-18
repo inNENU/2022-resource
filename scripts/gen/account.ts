@@ -57,7 +57,7 @@ export const checkAccountDetail = (
 };
 
 export const genAccount = (filePath: string): Promise<void> => {
-  let content = readFileSync(`./res/function/account/${filePath}`, {
+  let content = readFileSync(`./res/account/${filePath}`, {
     encoding: "utf-8",
   });
 
@@ -86,16 +86,14 @@ export const genAccount = (filePath: string): Promise<void> => {
       })
     )
   ).then(() => {
-    writeFileSync(`./res/function/account/${filePath}`, content, {
+    writeFileSync(`./res/account/${filePath}`, content, {
       encoding: "utf-8",
     });
   });
 };
 
-const fileList = getFileList("./res/function/account", "yml");
+const fileList = getFileList("./res/account", "yml");
 
-fileList
-  .filter((item) => item !== "wx.yml" && item !== "qq.yml")
-  .forEach((item) => {
-    genAccount(item);
-  });
+fileList.forEach((item) => {
+  genAccount(item);
+});

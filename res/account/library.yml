@@ -1,0 +1,131 @@
+name: 东北师范大学图书馆
+detail: 东北师范大学图书馆
+desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动态!
+id: nenu_lib
+logo: $img/media/library.png
+qrcode: $img/media/library-wx.jpg
+article:
+  - cover: http://mmbiz.qpic.cn/mmbiz_png/SgzbtMw6Xbd4SBI8MqQUl0Tbc5cVDwzYWHmsUImIZVEp9Z68TerCj39ia1SocDq0rKiaxJA9DkU34r5dR0buLEPQ/0?wx_fmt=png
+    title: 3分钟get百科知识? 「百科奇妙物语」科普视频赛等你来
+    desc: 快来了解一下吧!
+    url: https://mp.weixin.qq.com/s/RRdrN6Ny0nQWvgPBiPMPiQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSkNy4icBJg6doc97Qdv3xEX9SlUXicQM2dqpIgtm5g9mPKdtpSdMibS0y4OrJUVxUBicWibeCwCLUEtYng/0?wx_fmt=png
+    title: "迎新季系列之三: 温馨小贴士"
+    desc: 图书馆欢迎你~
+    url: https://mp.weixin.qq.com/s/vCl9j_okT9c2Hzou6HTkPw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSkNy4icBJg6doc97Qdv3xEX9WAgy5WCb71FhxSiaCBzOz0SGcGbyAk5EzicH8P65NVuU2TMIgzIib1ueQ/0?wx_fmt=png
+    title: "迎新季系列之二: 如何使用“图书预约”服务"
+    desc: 开启预约模式!
+    url: https://mp.weixin.qq.com/s/yLAV_cAfz7SPZoMYHw7nMQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSk5ZFIU91GvRYsiaZUo3CdtRicIbib9uticN49eTrjGOPfsZZfBlGBKUV5sjUqnrdqvfOO2HP7k89pYCQ/0?wx_fmt=png
+    title: 小书偶·大创意 | 2021年书偶创意设计征集活动
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/GT7AmzeZ_w09mXVh3xosLg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSlEaXgNSXHvQVbHC7DE0b8ibJg2unJMqurxBj47N8YgNM7J2388P5Wqto2iaDwCFq9qdG7LoUN7Cwow/0?wx_fmt=png
+    title: "迎新季系列之一: 寻找自己想要的图书"
+    desc: 满满的干货
+    url: https://mp.weixin.qq.com/s/CvOh1uoo-v9DReVvo-DT6Q
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSlhtppX9T3cToBeShUWF4WxDkDQvuYJiayscdzjfjxZlXbTCgmMBWS0goC0LQPqovAHQ2WDiboOLEJw/0?wx_fmt=png
+    title: 迎新 | 带你走进东师图书馆!
+    desc: 图书馆，不止于读书
+    url: https://mp.weixin.qq.com/s/H0NphGZlQwwsY3mmLLSIAA
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSmoDLQDox3zFcFIpJiaXfJkZxL0BYibiaS8icQ782W9VfHnPjZPTC35Y4wQggybxvl4ibe6FbQhTs2iaJpA/0?wx_fmt=png
+    title: 有奖征集 | 我与考研的那点事儿
+    desc: 来吧，展示!
+    url: https://mp.weixin.qq.com/s/uugg1tKCaP3FZtEkKToADw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSnjK7EC9Nyjl4Z41CVtuC6ibmsRpaDOQtga6j6vQUSYRsomutoL4iaNVGZJnFHVg7s9D6zSYhWc6BOA/0?wx_fmt=png
+    title: 2021年“研究生科研素养提升”系列公益讲座
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/yLUTCvnIa2QjPcy7i529mg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSkgofqCicBoha03UOF89ef7AxwXOzHt9ZQtq9zqoDZMWvfQI6ElObH5KibI64NbGznpTNbAakBCCUng/0?wx_fmt=png
+    title: 2021年暑假图书馆施工安排及服务方式的通知
+    desc: 注意啦!
+    url: https://mp.weixin.qq.com/s/zPkHd876feRFrlxthlvPZQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnbtyu3s6Fo4YibTSY6ZG8IudfOUqqPJYHQWJgdia9DAv5OCAFiaWq2KbVF1nV977GoEacmicgGPJ4iamw/0?wx_fmt=jpeg
+    title: 毕业季 | 图书馆留言拾贝
+    desc: 挥一挥衣袖，留下深深的祝福
+    url: https://mp.weixin.qq.com/s/CPvD7dkVTxITrGVGtD1fyQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkQd6oDjPDJg1A5sDJVxzcn8Lxq534MwpOIgkznlwibnRvgiaicItCawiampFic60rmt5zTWCsETdLDLKQ/0?wx_fmt=jpeg
+    title: 回眸之间，远方有你。
+    desc: 回眸之间，远方有你。
+    url: https://mp.weixin.qq.com/s/Vedh3MYDxpemv7gXVUx5LQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSnZ44RWiaqcGb7AcH686ib3A4ib8n5jKtPRbcctbuUwopZ6cbWibYsIJzjCwOfaBibhXd4c8ncQHpiaSeicA/0?wx_fmt=png
+    title: 本部图书馆又有新空间开放了!
+    desc: 我为师生办实事—新环境，新服务，新体验!
+    url: https://mp.weixin.qq.com/s/hhNF2xE8K5FVgd31WcH__w
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnZ44RWiaqcGb7AcH686ib3A4rySJaibibMWuiaGFJmkeWzPyahwdjZ5lq0sWGDib5ib1ln42NUKxicUTTQrw/0?wx_fmt=jpeg
+    title: “东师教学工作坊——教学学术研究工具”教师工作坊成功举办
+    desc: 完美收官!
+    url: https://mp.weixin.qq.com/s/xwgEJIS6RBrgWTUhMCU8nw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSl1D0olcDE1naA3qcSJQcRB4MQR0LWDicgIT4RIK7d2352MQWLBv4sRfuEq608vqzwkB1E5aP6ib89w/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第29期: 阅读: 一剂世界的解药"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/K1dpNMEXHOqwlcWpPz-F1g
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmY3RgZvIECo5H92rKz28BLA6TPoicMsWBxG3THibzJpDagPUibUoyHtoe1g5ibGkicIB6iaN61h5LbcKjQ/0?wx_fmt=jpeg
+    title: 第三届“慧源共享”全国高校开放数据创新研究大赛来了!
+    desc: 奖品丰富，欢迎参加!
+    url: https://mp.weixin.qq.com/s/UApYK32C1DgVLF61Bl9T9w
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSlxMicUBuKct1ZMXQpf6Y3XKVicmWvAqWGAK62PBfvyjc2viccNYvkmnF0yQFicbym1LVwltDibqUNCI6g/0?wx_fmt=png
+    title: 党外专家大讲堂 | 智能教育的理论逻辑与实践
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/ewqCoYc98bEMoSs5M1tsoA
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSmY3RgZvIECo5H92rKz28BLgZmrSPFmTvuLRJ9MEv0NRXzVXsyvPoMicRCQUxAQhKH3FBDlV0VQBew/0?wx_fmt=png
+    title: 读书传递力量，红色经典阅读
+    desc: 献礼建党百年!
+    url: https://mp.weixin.qq.com/s/k4-4lj3dYbA3w0DtHEex6Q
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSkKQbAk0ouibjvHn5WKnVibeRibfwCp8VclZ9ZXicTUOC0RPaLGUIXnEqLO1DQkUWSwKmzjr1CKlQibeMw/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第27期: 残破的樱花与其凋谢之路——共读《金阁寺》"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/NC1W6mrRtisXIHWRqElyMA
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSloGHhFFgakibJu7rjFkaWqmdTbCDNEkMkvBoeHYPgFHlgbfL50s2ibicHo6P7yGEl48gm9IQyqI8gMA/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第26期: 学习如何学习——共读万维钢"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/S2dpfzJnC-isaM6UAd_Icg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSloGHhFFgakibJu7rjFkaWqmCaqkGmH6IK1TzhNE9mWsYXtPcicuOjS12ZF8J9JDBZy6XN5bGkMnOXg/0?wx_fmt=png
+    title: 乘风破浪的图书馆之“通借通还”
+    desc: 出馆前别忘记先办好借书手续哦!
+    url: https://mp.weixin.qq.com/s/1SAqb5yMoNLray7PfV9tZw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmSaicsSticbpz1WH8COp2QR6vysNyUFaOp5ibp6mowINDYFbfwUfEzgVia8cJfaw6XKPjicQgR1uWX3Sw/0?wx_fmt=jpeg
+    title: "净月·阅读分享会 | 第25期: 扬帆书海听风吟——村上春树作品共读与分享"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/V9JBQvEMIHYq54KqpUDiJQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSmSaicsSticbpz1WH8COp2QR6y05ESHyPJFn5sqbvGpNrcibLZk3r2kiaxwkplkPIRuNTVYzbUOI1icgRg/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第24期: 如何界定全球化——共读《全球化面面观》"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/7cgIjKuGCLShAvtlA6g1yg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSmAhUVmHpVDO8YwrkdPA8lzQFv3522MHHWOpTE4ibMAnM73sicicmEJtgVQdkVUB4cCLjiaz0ImH1ibIRA/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第23期: 先生之风  山高水长——唐宋八大家主题文物展解读"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/wyc7gO9ihX1e6TQfgRYssg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSlS8tzMavnMwQiaibCGM4ZkSeoaj39oylV6odmVsv1P7UqWz0SMRSaBPbQmIk09fGaJFfkLdNUMapicw/0?wx_fmt=png
+    title: 你看书，我买单
+    desc: 好消息~
+    url: https://mp.weixin.qq.com/s/UEr_OElf-HmZkPSRXujNwA
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSnHjfxpibG4tFketCILoeWibUt0xLhEu99gsAY2n9FUDzYlE8FQrj2aPHmI0zNQgC08o1G051SzsfYA/0?wx_fmt=png
+    title: "净月·阅读分享会 | 第22期: 当我们谈论村上春树，我们在谈论什么?"
+    desc: 欢迎参加!
+    url: https://mp.weixin.qq.com/s/zpRkblCuemu1ocV0wmqUGw

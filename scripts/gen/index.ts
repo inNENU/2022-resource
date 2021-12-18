@@ -33,6 +33,15 @@ del([
 
 // 生成对应的 JSON
 
+// 转换账号
+convertYml2Json("./res/account", "./r/account", (data, filePath) =>
+  checkAccountDetail(data as AccountDetail, filePath)
+);
+// TODO: Remove
+convertYml2Json("./res/account", "./r/function/account", (data, filePath) =>
+  checkAccountDetail(data as AccountDetail, filePath)
+);
+
 // 功能大厅
 convertYml2Json("./res/function", "./r/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
@@ -41,10 +50,8 @@ convertYml2Json("./res/function", "./r/function", (data, filePath) =>
     ? resolveLocationPage(data as PageConfig & { photo?: string[] }, filePath)
     : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
-    : /account\/(qq|wx)/u.exec(filePath)
-    ? checkAccount(data as AccountConfig[], filePath)
     : /account\//u.exec(filePath)
-    ? checkAccountDetail(data as AccountDetail, filePath)
+    ? checkAccount(data as AccountConfig[], filePath)
     : /music\/index/u.exec(filePath)
     ? checkMusic(data as MusicInfo[], filePath)
     : (data as unknown)
