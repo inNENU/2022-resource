@@ -7,7 +7,6 @@ content:
     text: 考试科目
 
   - tag: ul
-    heading: 共五个科目
     text:
       - 网络技术
       - 数据库技术
@@ -37,14 +36,17 @@ content:
   - tag: title
     text: 题型及分值比例
 
-  - tag: ol
+  - tag: ul
     text:
-      - 单选题，40 题，40 分
-      - 综合题，40 分
-      - 应用题，20 分
+      - |-
+        单选题: 40 题，40 分
+      - |-
+        综合题: 40 分
+      - |-
+        应用题: 20 分
 
   - tag: title
     text: 考试环境及使用的软件
 
-  - tag: p
-    text: NCRE 三级上机考试环境为 Windows 7 简体中文版
+  - tag: text
+    text: NCRE 三级上机考试环境为 Windows 7 简体中文版。

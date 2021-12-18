@@ -5,42 +5,21 @@ time: 2021年12月1日
 shareable: true
 content:
   - tag: title
-    text: 申请方法
-
-  - tag: ul
-    heading: 进入系统
-    text: 校内访问使用 IE 浏览器直接在地址栏中输入 http://dsjx.nenu.edu.cn (东师教学缩写)
-
-  - tag: action
-    content: http://dsjx.nenu.edu.cn
-
-  - tag: ul
-    text: 校外访问使用 IE 浏览器直接在地址栏中输入 https://dsjx.webvpn.nenu.edu.cn 并使用 Web VPN 访问
-
-  - tag: action
-    content: https://dsjx.webvpn.nenu.edu.cn
-
-  - tag: list
-    header: false
-    items:
-      - text: Web VPN 介绍
-        icon: vpn
-        path: /guide/network/vpn
+    text: 申请方式
 
   - tag: text
-    type: warning
-    heading: 系统兼容性
-    text:
-      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器。
-      - 具体的限制及注意事项请详见“如何使用 IE 内核浏览器”。
-    path: /guide/tip/ie/
+    text: 访问本科教学服务系统，在系统内发起申请。
 
-  - tag: img
-    src: $img/system/login.jpg
+  - tag: text
+    type: info
+    heading: 如何访问本科教学服务系统
+    path: ../intro
+
+  - tag: title
+    text: 申请流程
 
   - tag: ol
     text:
-      - 输入学号和密码完成登录
       - 点击“考试管理”
       - “点击专项课程免修申请”，并点击增加
       - 选择“大学英语读写1”、“大学英语读写2”

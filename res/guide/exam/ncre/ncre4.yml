@@ -40,13 +40,15 @@ content:
   - tag: title
     text: 题型及分值比例
 
-  - tag: ol
+  - tag: ul
     text:
-      - 单选题，60 题，60 分
-      - 多选题，20 题，40 分
+      - |-
+        单选题: 60 题，60 分
+      - |-
+        多选题: 20 题，40 分
 
   - tag: title
     text: 考试环境及使用的软件
 
-  - tag: p
-    text: NCRE 四级上机考试环境为 Windows 7 简体中文版。
+  - tag: text
+    text: NCRE 三级上机考试环境为 Windows 7 简体中文版。

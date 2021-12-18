@@ -101,4 +101,5 @@ content:
     header: 普通话
     items:
       - text: 普通话水平测试
+        icon: about
         path: putong

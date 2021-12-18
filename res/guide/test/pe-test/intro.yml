@@ -5,6 +5,7 @@ shareable: true
 content:
   - tag: text
     type: info
+    heading: 体测的重要性
     text: 每人每年秋季学期都要进行一次体质与健康测试，体质与健康测试不达标的，不能取得评奖、评优及毕业资格。
 
   - tag: title
@@ -18,31 +19,31 @@ content:
         大三大四: 50分
 
   - tag: text
-    type: info
+    type: note
     text: 体重严重超重者，及格线会随 BMI 增加而降低。
-
-  - tag: list
-    header: false
-    items:
-      - text: 相关说明
-        icon: intro
-        path: explain
+    path: explain
 
   - tag: title
     text: 体测时间安排
 
-  - tag: p
+  - tag: text
     heading: 大一、大二、大三学年
     text:
       - 大一、大二、大三的学生每年秋季学期(一般安排在开学后第两周周末)参加测试。
+
+  - tag: ul
+    text:
       - 对于因病或因事不能参加测试的，提供一次缓考机会 (一般安排在正式测试的一周或两周后)
       - 秋季测试不合格的，学校会于年底安排一轮补测
       - 秋季学期测试未通过的，需在每年的春季学期(一般安排在 4 月末 5 月初)再进行测试、并提供一次补测机会。
 
-  - tag: p
+  - tag: text
     heading: 大四学年
     text:
       - 大四学年的测试安排在大三学年的春季学期(一般安排在 4 月末 5 月初)进行。
+
+  - tag: ul
+    text:
       - 因病因事无法参加测试、或测试不合格的，可在大四学年的春季学期(一般安排在4月末5月初)再测试一次。
 
   - tag: text
@@ -51,13 +52,8 @@ content:
     text:
       - 考虑到不同学生的情况，体质与健康测试会提供缓考。
       - 缓考一般在正式考试后的后一两周或两个月。如果因为原因无法参加正式测试，需要提出缓考申请。
-
-  - tag: list
-    header: false
-    items:
-      - text: 缓考申请
-        icon: apply
-        path: exempt
+      - 申请的材料和流程请详见“缓考申请”。
+    path: exempt
 
   - tag: title
     text: 体测测试项目及权重
@@ -65,6 +61,9 @@ content:
   - tag: text
     text:
       - 体测成绩为 标准分(100分) + 附加分(20分)，满分为 120 分。
+
+  - tag: ul
+    text:
       - 标准分由各单项指标得分与权重乘积之和组成，满分为 100 分
       - 附加分根据实测成绩确定，即对成绩超过 100 分的加分指标进行加分，满分为 20 分。男生加分指标为引体向上和 1000 米跑，女生加分指标为 1 分钟仰卧起坐和 800 米跑，各指标加分幅度均为 10 分。
 

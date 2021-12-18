@@ -43,7 +43,7 @@ content:
   - tag: list
     header: false
     items:
-      - text: 免修评定
+      - text: 英语免修申请
         icon: exemption
         path: /guide/course/english/exemption
 

@@ -42,7 +42,7 @@ content:
         icon: cet
         path: /guide/exam/cet/
 
-      - text: 计算机等级考试说明
+      - text: 计算机等级考试
         icon: pc
         path: /guide/exam/ncre/
 
