@@ -14,12 +14,12 @@ content:
 
   - tag: ul
     text:
-      - MacBook Pro（14 英寸，2021 年）
-      - MacBook Pro（16 英寸，2021 年）
-      - iMac（24 英寸，M1，2021 年）
-      - Mac mini（M1，2020 年）
-      - MacBook Air（M1，2020 年）
-      - MacBook Pro（13 英寸，M1，2020 年）
+      - MacBook Pro (14 英寸，2021 年)
+      - MacBook Pro (16 英寸，2021 年)
+      - iMac (24 英寸，M1，2021 年)
+      - Mac mini (M1，2020 年)
+      - MacBook Air (M1，2020 年)
+      - MacBook Pro (13 英寸，M1，2020 年)
 
   - tag: title
     text: 鉴别这两种机型

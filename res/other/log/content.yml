@@ -1,6 +1,19 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/19
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 保险费用
+      - 城镇居民保险
+      - 大学生补充保险
+      - 大学生公费医疗
+      - 保险办理流程
+      - in东师开发记录
+
+  - tag: title
     text: 12/15
 
   - tag: ul
