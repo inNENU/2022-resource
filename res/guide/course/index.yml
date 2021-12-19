@@ -4,8 +4,11 @@ time: 2021年12月3日
 grey: true
 shareable: true
 content:
+  - tag: title
+    text: 本科课程
+
   - tag: list
-    header: 本科课程设置
+    header: 课程设置
     items:
       - text: 通识教育课程
         icon: content
@@ -23,6 +26,9 @@ content:
         icon: content
         path: discuss
 
+  - tag: list
+    header: 课程安排
+    items:
       - text: 本科课程表
         icon: plan
         path: table
@@ -70,7 +76,10 @@ content:
         icon: idea
         path: advice
 
+  - tag: title
+    text: 研究生课程
+
+  # TODO: 完善
   - tag: list
-    header: 硕士研究生课程设置
     items:
       - text: 待补充...

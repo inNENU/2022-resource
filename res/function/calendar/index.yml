@@ -125,6 +125,11 @@
   icon: ./icon/study.svg
   text: 2018 年 3 月 15 日(正月十八)—— 2018 年 7 月 20 日(共 20 周)
 
+- title: 2018 年元旦
+  icon: ./icon/flag.svg
+  text: in东师立项
+  path: innenu
+
 - title: 1946 年
   icon: ./icon/flag.svg
   text: 东北师范大学建校

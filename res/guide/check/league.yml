@@ -44,8 +44,10 @@ content:
     type: warning
     text: 一些学院会在开学后统一发出转入申请，无需学生进行任何操作，请以辅导员的具体通知为准。
 
+  - tag: title
+    text: 具体流程
+
   - tag: text
-    heading: Mr.Hope 制作的具体操作流程
     text: 请使用浏览器访问
 
   - tag: action
@@ -56,7 +58,8 @@ content:
 
   - tag: text
     type: info
-    text: 智慧团建默认密码为身份证号后八位。
+    heading: 智慧团建默认密码
+    text: 身份证号后八位
 
   - tag: img
     src: $img/check/youth-login.png

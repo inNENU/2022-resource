@@ -1,0 +1,18 @@
+title: 转专业公示名单
+desc: |-
+  注: “公开公示信息”不涉及到个人隐私，
+author: Mr.Hope
+time: 2021年11月22日
+shareable: true
+content:
+  - tag: text
+    type: note
+    text: 以下仅供热门专业、人数的参考。
+
+  - tag: doc
+    name: 2021年转专业公示名单
+    url: $file/study/switch-major-2021.xlsx
+
+  - tag: doc
+    name: 2020年转专业公示名单
+    url: $file/study/switch-major-2020.xlsx

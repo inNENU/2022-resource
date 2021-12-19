@@ -46,13 +46,14 @@ content:
         icon: plan
         path: /guide/course/english/exemption
 
-      - text: 英语免修申请条件
+      - text: 英语免修申请操作
         icon: exemption
         path: /guide/system/under/exemption/english
 
   - tag: title
     text: 计算机免修
 
+  # TODO: 制作免修流程
   - tag: p
     heading: 免修条件
     text:

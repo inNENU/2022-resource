@@ -1,6 +1,4 @@
 title: 转专业
-desc: |-
-  注: “公开公示信息”不涉及到个人隐私，
 author: Mr.Hope
 time: 2021年11月22日
 shareable: true
@@ -9,6 +7,7 @@ content:
     text: 本科生转专业
 
   - tag: list
+    header: false
     items:
       - text: 相关公告
         desc: 2021年
@@ -32,6 +31,10 @@ content:
         icon: alert
         path: requirement
 
+      - text: 公示名单
+        icon: plan
+        path: list
+
       - text: 常见问题
         icon: faq
         path: faq
@@ -41,16 +44,7 @@ content:
         path: advice
 
   - tag: title
-    text: 转专业公示名单
+    text: 研究生转专业
 
   - tag: text
-    type: note
-    text: 以下仅供热门专业、人数的参考。
-
-  - tag: doc
-    name: 2021年转专业公示名单
-    url: $file/study/switch-major-2021.xlsx
-
-  - tag: doc
-    name: 2020年转专业公示名单
-    url: $file/study/switch-major-2020.xlsx
+    text: 研究生原则上不得转专业，只有当身体出现问题、家庭无法完成学业、导师调整无法继续指导学业或其他重大原因，可经公示后调整专业或学校。

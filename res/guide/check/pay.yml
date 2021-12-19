@@ -11,25 +11,13 @@ content:
     type: warning
     text:
       - 如果有人要求您现场缴纳学费，请稳住他记住他的相貌并第一时间反馈给保卫科。
-
-  - tag: list
-    header: false
-    items:
-      - text: 保卫科
-        icon: safe
-        path: /intro/apt/defend
+    path: /intro/apt/defend
 
   - tag: text
     type: tip
     text:
       - 如果您缴纳学费有困难，请通过绿色通道进行入学。
-
-  - tag: list
-    header: false
-    items:
-      - text: 绿色通道
-        icon: green-tunnel
-        path: green-tunnel
+    path: green-tunnel
 
   - tag: title
     text: 缴费方式
@@ -43,6 +31,9 @@ content:
       - text: 缴费介绍
         icon: money
         path: /guide/pay/
+
+  - tag: title
+    text: 学院缴费
 
   - tag: text
     type: tip

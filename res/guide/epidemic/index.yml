@@ -65,6 +65,7 @@ content:
     text: 其他功能
 
   - tag: list
+    header: false
     items:
       - text: 国家防疫健康信息码
         icon: code
