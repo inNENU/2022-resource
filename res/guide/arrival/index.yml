@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2021年9月25日
+time: 2021年12月20日
 grey: true
 shareable: true
 content:
@@ -78,19 +78,19 @@ content:
         path: pickup
 
   - tag: list
-    header: 更多
+    header: 长春交通
     items:
       - text: 公交介绍
         icon: bus
-        path: /guide/traffic/bus
+        path: /guide/traffic/bus/
 
-      - text: 轨道交通介绍
+      - text: 长春轨道交通介绍
         icon: train
         path: /guide/traffic/railway/
 
       - text: 火车站介绍
         icon: railway
-        path: /guide/traffic/train/station
+        path: /guide/traffic/station/
 
       - text: 机场介绍
         icon: plane

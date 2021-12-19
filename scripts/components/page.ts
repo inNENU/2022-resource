@@ -120,7 +120,8 @@ export const resolvePage = (
   );
 
   // update time
-  if (page.time && diffResult.includes(`res/${page.id}`)) {
+  if (pageData.time && diffResult.includes(`res/${pageData.id}`)) {
+    console.log("update");
     const date = new Date();
 
     const time = `${date.getFullYear()}年${
@@ -130,7 +131,7 @@ export const resolvePage = (
     writeFileSync(
       `./res/${pagePath}.yml`,
       readFileSync(`./res/${pagePath}.yml`, { encoding: "utf-8" }).replace(
-        page.time,
+        pageData.time,
         time
       ),
       { encoding: "utf-8" }

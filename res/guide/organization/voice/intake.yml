@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: text
     text:
-      - “你听，这是什么？”
+      - “你听，这是什么?”
       - “这是’东师之声’校园广播站。”
     align: center
     style:
