@@ -52,7 +52,7 @@ content:
   - tag: text
     heading: 两个报销前提
     text:
-      - 门诊经校医院转诊戒校外急诊就医 (盖急诊章)
+      - 门诊经校医院转诊或校外急诊就医 (盖急诊章)
 
   - tag: text
     type: tip

@@ -44,7 +44,7 @@ content:
     heading: v0.1.4
     text: |-
       重新编写了滚动动画，优化了iOS主题下navBar的显示效果；
-      略微减小了navBar高度；去除兀余语句；
+      略微减小了navBar高度；去除冗余语句；
       优化了代码包的体积；
 
   - tag: text
@@ -59,7 +59,7 @@ content:
     heading: v0.1.6
     text: |-
       重新构建小程序；
-      去除兀余语句；
+      去除冗余语句；
       大幅减少代码包的体积；
 
   - tag: text

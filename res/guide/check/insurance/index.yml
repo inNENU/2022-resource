@@ -7,7 +7,7 @@ content:
     items:
       - text: 保险介绍
         icon: intro
-        path: info
+        path: intro
 
   - tag: list
     header: 相关详情
