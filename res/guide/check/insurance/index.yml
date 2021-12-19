@@ -1,0 +1,29 @@
+title: 保险
+author: Mr.Hope
+time: 2021年9月13日
+shareable: true
+content:
+  - tag: title
+    text: 保险内容
+
+  - tag: text
+    text:
+      - 学校会组织学生统一办理“长春市城乡居民基本医疗保险”、“大学生医疗补充保险”(商业补充保险)，并为全体学生提供“大学生公费医疗”，以保障学生的健康成长需要。
+
+  - tag: text
+    type: tip
+    heading: 建议办理医保的原因
+    text:
+      - 当代大学生伴随身体素质的下降，身体健康状况不容乐观，据教育部数据，大学生这一特殊群体中有15%—35%存在不同程度身心健康问题
+      - 大学生体质健康指标近年来仅增长0.2%，整体体质呈下降趋势。
+      - 在全国各高校，每年由亍体质问题等被迫退学的大学生数量在不断增加
+
+  - tag: text
+    type: info
+    heading: 城乡居民基本医疗保险
+    path: base
+
+  - tag: text
+    type: info
+    heading: 大学生医疗补充保险
+    path: supplement

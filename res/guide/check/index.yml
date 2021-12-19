@@ -59,7 +59,7 @@ content:
 
       - text: 保险
         icon: insurance
-        path: insurance
+        path: insurance/
 
   - tag: list
     header: 防盗防骗攻略

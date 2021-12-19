@@ -9,6 +9,18 @@ content:
   - tag: p
     text: 目前，学校开发了 “奖学宝” 微信小程序，同学们可以在其上申请奖学金。
 
+  - tag: card
+    title: 奖学宝
+    options:
+      appId: wx1a044b87a35bfdef
+      path: pages/index/index
+
+  - tag: img
+    src: $img/study/jiangxuebao.jpg
+    desc: 奖学宝小程序二维码
+    env:
+      - qq
+
   - tag: title
     text: 相关文件
 
