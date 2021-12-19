@@ -12,7 +12,7 @@ content:
 
   - tag: text
     type: info
-    text: 在铁路官网推出“候补车票”后，Mr.Hope 强烈建议使用官方 App ：“铁路 12306”进行购买。
+    text: 在铁路官网推出“候补车票”后，Mr.Hope 强烈建议使用官方 App“铁路 12306”进行购买。
 
   - tag: text
     type: warning

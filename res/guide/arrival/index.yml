@@ -90,8 +90,8 @@ content:
 
       - text: 火车站介绍
         icon: railway
-        path: /guide/traffic/train/
+        path: /guide/traffic/train/station
 
       - text: 机场介绍
         icon: plane
-        path: /guide/traffic/plane/
+        path: /guide/traffic/airport/

@@ -14,13 +14,13 @@ content:
         icon: train
         path: railway/
 
-      - text: 火车站介绍
+      - text: 铁路出行
         icon: railway
         path: train/
 
       - text: 机场介绍
         icon: plane
-        path: plane/
+        path: airport/
 
       - text: 本部净月往返
         icon: change

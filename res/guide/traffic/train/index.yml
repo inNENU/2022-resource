@@ -1,4 +1,4 @@
-title: 长春火车站介绍
+title: 铁路出行
 author: Mr.Hope
 time: 2021年11月20日
 grey: true
@@ -10,10 +10,6 @@ content:
 
   - tag: list
     items:
-      - text: 站点介绍
-        icon: about
-        path: intro
-
       - text: 车票购买
         icon: money
         path: buy
@@ -25,6 +21,12 @@ content:
       - text: 关于火车学生票
         icon: study
         path: student/
+
+  - tag: list
+    items:
+      - text: 长春站点介绍
+        icon: about
+        path: station
 
   - tag: list
     header: 相关规章
