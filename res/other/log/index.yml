@@ -6,18 +6,18 @@ content:
     items:
       - text: 小程序更新日志
         icon: log
-        url: page?path=other/log/app
+        url: page?path=Olog/app
 
       - text: 内容更新日志
         icon: log
-        url: page?path=other/log/content
+        url: page?path=Olog/content
 
   - tag: card
     cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
     title: Mr.Hope 需要您的帮助
     logo: $img/inNENU.png
     name: in东师
-    url: page?path=other/guide/volunteer
+    url: page?path=Oguide/volunteer
 
   - tag: card
     title: in东师计划表

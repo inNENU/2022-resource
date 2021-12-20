@@ -7,11 +7,11 @@ content:
     items:
       - text: 使用指南
         icon: idea
-        url: page?path=other/guide/
+        url: page?path=Oguide/
 
       - text: 更新日志
         icon: log
-        url: page?path=other/log/
+        url: page?path=Olog/
 
       - text: 关于
         icon: about

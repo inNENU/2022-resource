@@ -1,6 +1,6 @@
 title: 致谢名单
 author: Mr.Hope
-time: 2021年11月26日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: title
@@ -32,13 +32,13 @@ content:
     header: 感谢名单
     items:
       - text: 2018年
-        url: page?path=other/donate/2018
+        url: page?path=Odonate/2018
 
       - text: 2019年
-        url: page?path=other/donate/2019
+        url: page?path=Odonate/2019
 
       - text: 2020年
-        url: page?path=other/donate/2020
+        url: page?path=Odonate/2020
 
       - text: 2021年
-        url: page?path=other/donate/2021
+        url: page?path=Odonate/2021

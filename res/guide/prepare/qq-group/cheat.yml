@@ -1,6 +1,6 @@
 title: 别有用心群汇总
 author: Mr.Hope
-time: 2021年12月2日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: text
@@ -27,7 +27,7 @@ content:
     header: false
     items:
       - text: “同学有品”团队
-        url: page?path=other/cheat/youpin
+        url: page?path=Ocheat/youpin
 
       - text: 校友群
-        url: page?path=other/cheat/alumnus
+        url: page?path=Ocheat/alumnus

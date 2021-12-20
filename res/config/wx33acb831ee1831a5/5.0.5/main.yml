@@ -10,7 +10,7 @@ content:
   #   header: false
   #   items:
   #     - text: 招新详情
-  #       url: page?path=other/hope-studio/invite
+  #       url: page?path=Ohope-studio/invite
 
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
@@ -102,4 +102,4 @@ content:
     cover: $img/tab/faq.png
     title: 常见问题
     logo: faq
-    url: page?id=guide/faq/
+    url: page?id=Gfaq/

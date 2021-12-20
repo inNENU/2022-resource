@@ -262,6 +262,6 @@ content:
     #       color: blue
     #       name: Advice
     #       icon: idea
-    #       url: page?path=other/advice/
+    #       url: page?path=Oadvice/
 
     footer: " "

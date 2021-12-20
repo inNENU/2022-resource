@@ -10,40 +10,25 @@ content:
   #   header: false
   #   items:
   #     - text: 招新详情
-  #       url: page?path=other/hope-studio/invite
+  #       url: page?path=Ohope-studio/invite
 
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
 
-  - tag: text
-    type: info
-    heading: 2021年下半年四六级考试时间
-    text:
-      - 英语四级口语考试考试时间为11月21日
-      - 英语六级口语考试考试时间为11月22日
-      - 英语四级笔试考试考试时间为12月18日 9:00 - 11:20
-      - 英语六级笔试考试考试时间为12月18日 15:00 - 17:25
-
   - tag: grid
     header: 您可能想关注
     items:
-      - text: 四六级
-        color: red
-        name: CET
-        icon: cet
-        path: guide/exam/cet/
+      - text: 校历
+        color: mauve
+        name: Calendar
+        icon: calendar
+        url: calendar
 
-      - text: 选课
-        color: cyan
-        name: Select
-        icon: select
-        path: guide/select/
-
-      - text: 使用 IE 内核
-        color: olive
-        name: IE
-        icon: ie
-        path: guide/tip/ie/
+      - text: 火车票购买
+        color: blue
+        name: Ticket
+        icon: train
+        url: guide/traffic/train/
 
       - text: 课程
         color: orange
@@ -56,30 +41,6 @@ content:
         name: System
         icon: system
         path: guide/system/
-
-      - text: 账户
-        color: blue
-        name: Account
-        icon: authorize
-        path: guide/account/
-
-      - text: 校历
-        color: mauve
-        name: Calendar
-        icon: calendar
-        url: calendar
-
-      - text: 生活
-        color: olive
-        name: Life
-        icon: life
-        path: guide/life/
-
-      - text: 转专业
-        color: red
-        name: Change Major
-        icon: change
-        path: guide/change-major/
 
       - text: 学习
         color: mauve
@@ -99,6 +60,12 @@ content:
         icon: test
         path: guide/test/
 
+      - text: 生活
+        color: olive
+        name: Life
+        icon: life
+        path: guide/life/
+
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
@@ -106,4 +73,4 @@ content:
     title: 招纳小程序志愿者
     logo: $img/inNENU.png
     name: in东师
-    url: page?path=other/guide/volunteer
+    url: page?path=Oguide/volunteer

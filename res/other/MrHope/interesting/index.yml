@@ -1,6 +1,6 @@
 title: 今日趣事
 author: Mr.Hope
-time: 2021年8月15日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: p
@@ -19,7 +19,7 @@ content:
     header: false
     items:
       - text: 事件详情
-        url: page?path=other/MrHope/interesting/group
+        url: page?path=OMrHope/interesting/group
 
   - tag: title
     text: 私聊对话
@@ -28,40 +28,40 @@ content:
     header: false
     items:
       - text: 金句
-        url: page?path=other/MrHope/interesting/golden
+        url: page?path=OMrHope/interesting/golden
 
   - tag: list
     header: 态度对比
     items:
       - text: 祖安对话精选
-        url: page?path=other/MrHope/interesting/zuan
+        url: page?path=OMrHope/interesting/zuan
 
       - text: 我全程克制的对话作为对比
-        url: page?path=other/MrHope/interesting/mrhope
+        url: page?path=OMrHope/interesting/mrhope
 
   - tag: list
     header: 对话全文, 无任何删减
     items:
       - text: 图片1
-        url: page?path=other/MrHope/interesting/1
+        url: page?path=OMrHope/interesting/1
 
       - text: 图片2
-        url: page?path=other/MrHope/interesting/2
+        url: page?path=OMrHope/interesting/2
 
       - text: 图片3
-        url: page?path=other/MrHope/interesting/3
+        url: page?path=OMrHope/interesting/3
 
       - text: 图片4
-        url: page?path=other/MrHope/interesting/4
+        url: page?path=OMrHope/interesting/4
 
       - text: 图片5
-        url: page?path=other/MrHope/interesting/5
+        url: page?path=OMrHope/interesting/5
 
       - text: 图片6
-        url: page?path=other/MrHope/interesting/6
+        url: page?path=OMrHope/interesting/6
 
       - text: 图片7
-        url: page?path=other/MrHope/interesting/7
+        url: page?path=OMrHope/interesting/7
 
   - tag: title
     text: 后续
@@ -70,7 +70,7 @@ content:
     header: false
     items:
       - text: 后续事件
-        url: page?path=other/MrHope/interesting/after
+        url: page?path=OMrHope/interesting/after
 
   - tag: title
     text: Mr.Hope 个人观点

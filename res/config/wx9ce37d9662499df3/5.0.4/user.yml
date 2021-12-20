@@ -7,11 +7,11 @@ content:
     items:
       - text: 使用指南
         icon: idea
-        url: page?path=other/guide/
+        url: page?path=Oguide/
 
       - text: 更新日志
         icon: log
-        url: page?path=other/log/
+        url: page?path=Olog/
 
       - text: 关于
         icon: about
@@ -40,6 +40,14 @@ content:
         icon: file
         url: storage
 
+  - tag: p
+    heading: " "
+    text:
+      - 小程序由 Mr.Hope 个人开发编写，其观点和陈述仅代表 Mr.Hope 个人。如果您对内容有疑问或意见，欢迎联系校会君。
+    style:
+      color: "#888"
+      font-size: 14px
+
   - tag: functional-list
     items:
       - text: 分享小程序
@@ -47,7 +55,7 @@ content:
         type: button
         openType: share
 
-      - text: 联系 Mr.Hope
+      - text: 联系校会君
         icon: contact
         type: button
         openType: contact
