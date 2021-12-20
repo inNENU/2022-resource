@@ -1,6 +1,6 @@
 title: 校园网相关问答
 author: Mr.Hope
-time: 2021年9月8日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
     items:
       - text: 统一身份认证
         icon: about
-        path: /guide/account/authorize
+        path: /guide/account/authorize/
 
   - tag: title
     text: 充值

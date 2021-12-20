@@ -15,10 +15,6 @@ content:
     name: 化学专业（优师计划)人才培养方案 (2021)
     url: $file/courseplan/chemistry/great-2021.docx
 
-  - tag: doc
-    name: 统计学专业人才培养方案 (2021)
-    url: $file/courseplan/chemistry/statistics-2021.docx
-
   - tag: title
     text: 历史版本
 

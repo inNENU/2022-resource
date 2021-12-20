@@ -75,9 +75,11 @@ content:
     name: 物理学院本科课程计划
     url: $file/courseplan/physics.pdf
 
-  - tag: doc
-    name: 化学学院本科课程计划
-    url: $file/courseplan/chemistry.pdf
+  - tag: list
+    header: false
+    items:
+      - text: 化学学院本科课程计划
+        path: chemistry
 
   - tag: doc
     name: 生命科学学院本科课程计划

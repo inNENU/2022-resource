@@ -63,12 +63,6 @@ content:
         icon: card
         path: guide/card/
 
-      - text: 账户
-        color: blue
-        name: Account
-        icon: authorize
-        path: guide/account/
-
       - text: 校园网
         color: purple
         name: Network
@@ -151,6 +145,39 @@ content:
         path: guide/traffic/
 
   - tag: grid
+    header: 数字东师
+    items:
+      - text: 统一身份认证
+        color: blue
+        name: Identify
+        icon: authorize
+        path: guide/account/authorize/
+
+      - text: 校园邮箱
+        color: red
+        name: Email
+        icon: email
+        path: guide/account/mail/
+
+      - text: 企业号
+        color: blue
+        name: Wechat
+        icon: Wechat
+        path: guide/account/wechat/
+
+      - text: 教务系统
+        color: purple
+        name: System
+        icon: system
+        path: guide/system/
+
+      - text: 选课系统
+        color: olive
+        name: Select
+        icon: select
+        path: guide/select/system/
+
+  - tag: grid
     header: 学在东师
     items:
       - text: 学位
@@ -212,12 +239,6 @@ content:
         name: Exam
         icon: exam
         path: guide/exam/
-
-      - text: 教务系统
-        color: red
-        name: System
-        icon: system
-        path: guide/system/
 
   - tag: grid
     header: 乐在东师
