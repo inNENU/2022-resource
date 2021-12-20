@@ -1,6 +1,6 @@
 title: 本部浴池
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: title
@@ -20,11 +20,11 @@ content:
     desc: 正门
 
   - tag: img
-    src: $img/bath/benbu-outside.webp
+    src: $img/bath/benbu-outside.jpg
     desc: 外景
 
   - tag: img
-    src: $img/bath/benbu-main.webp
+    src: $img/bath/benbu-main-2.jpg
     desc: 大厅
 
   - tag: text
@@ -54,19 +54,19 @@ content:
       - 每个洗浴间都有可上锁的门，周围是毛玻璃，门后有放置衣服和鞋子的箱子。
 
   - tag: img
-    src: $img/bath/benbu-env.webp
+    src: $img/bath/benbu-env.jpg
     desc: 洗浴区
 
   - tag: img
-    src: $img/bath/benbu-cloth-box.webp
+    src: $img/bath/benbu-cloth-box.jpg
     desc: 衣物箱
 
   - tag: img
-    src: $img/bath/benbu-dressing-table.webp
+    src: $img/bath/benbu-dressing-table.jpg
     desc: 梳妆台 (有吹风机)
 
   - tag: img
-    src: $img/bath/benbu-scale.webp
+    src: $img/bath/benbu-scale.jpg
     desc: 体重秤
 
   - tag: title

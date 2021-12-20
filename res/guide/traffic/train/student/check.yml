@@ -25,23 +25,23 @@ content:
     text: 前往售票大厅、候车室的任意一台自助终端机。
 
   - tag: img
-    src: $img/traffic/train/student-check-1.webp
+    src: $img/traffic/train/student-check-1.jpg
     desc: 点击“优惠资质绑定”
 
   - tag: img
-    src: $img/traffic/train/student-check-2.webp
+    src: $img/traffic/train/student-check-2.jpg
     desc: 选择“学生购优惠票资质绑定”
 
   - tag: img
-    src: $img/traffic/train/student-check-3.webp
+    src: $img/traffic/train/student-check-3.jpg
     desc: 确认绑定须知
 
   - tag: img
-    src: $img/traffic/train/student-check-4.webp
+    src: $img/traffic/train/student-check-4.jpg
     desc: 刷“学生购票优惠卡”
 
   - tag: img
-    src: $img/traffic/train/student-check-5.webp
+    src: $img/traffic/train/student-check-5.jpg
     desc: 刷“身份证”
 
   - tag: title

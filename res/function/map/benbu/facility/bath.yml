@@ -3,9 +3,9 @@ author: Mr.Hope
 time: 2020年9月1日
 photo:
   - $img/bath/benbu-main.jpg
-  - $img/bath/benbu-main.webp
-  - $img/bath/benbu-env.webp
-  - $img/bath/benbu-outside.webp
+  - $img/bath/benbu-main-2.jpg
+  - $img/bath/benbu-env.jpg
+  - $img/bath/benbu-outside.jpg
 content:
   - tag: p
     type: info
