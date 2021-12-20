@@ -88,45 +88,28 @@ function generateWords($searchWord)
  */
 function getWordList($searchWord, $searchIndex)
 {
+  $TITLE = 1;
+  $HEADING = 2;
+
   $words = [];
 
   foreach ($searchIndex as $indexContent) {
-    $name = isset($indexContent->name) ? $indexContent->name : "";
-    $desc = isset($indexContent->desc) ? $indexContent->desc : "";
-    $title = isset($indexContent->title) ? $indexContent->title : [];
-    $heading =
-      isset($indexContent->heading) ? $indexContent->heading : [];
 
-    // 检查标题是否包含了 searchWord
-    if (mb_strpos($name, $searchWord) !== false && in_array($name, $words) === false) {
-      array_push($words, $name);
+    // 检查页面标题是否包含了 searchWord
+    if (mb_strpos($indexContent[0], $searchWord) !== false && in_array($indexContent[0], $words) === false) {
+      array_push($words, $indexContent[0]);
     }
 
-    // 检查描述是否包含了 searchWord
-    if (
-      mb_strpos($desc, $searchWord) !== false
-      && in_array($desc, $words) === false
-    ) {
-      array_push($words, $desc);
-    }
+    // 搜索页面索引
+    foreach ($indexContent[1] as $indexItem) {
+      $type = $indexItem[0];
+      $config = $indexItem[1];
 
-    // 检查大标题是否包含了 searchWord
-    foreach ($title as $item) {
-      if (
-        mb_strpos($item, $searchWord) !== false
-        && in_array($item, $words) === false
-      ) {
-        array_push($words, $item);
-      }
-    }
-
-    // 检查小标题是否包含了 searchWord
-    foreach ($heading as $item) {
-      if (
-        mb_strpos($item, $searchWord) !== false
-        && in_array($item, $words) === false
-      ) {
-        array_push($words, $item);
+      // 检查大小标题是否包含了 searchWord
+      if ($type === $TITLE || $type === $HEADING) {
+        if (mb_strpos($config, $searchWord) !== false && in_array($config, $words) === false) {
+          array_push($words, $config);
+        }
       }
     }
   }
@@ -136,6 +119,13 @@ function getWordList($searchWord, $searchIndex)
 
 function getMatchList($words, $indexContent)
 {
+  $TITLE = 1;
+  $HEADING = 2;
+  $TEXT = 3;
+  $IMAGE = 4;
+  $CARD = 5;
+  $DOC = 6;
+
   $matchTimes = 0;
   $matchList = [];
   $weight = 0;
@@ -145,18 +135,18 @@ function getMatchList($words, $indexContent)
 
     // 搜索页面标题，权重为 8
     if (
-      mb_strpos($indexContent->name, $word->text) !== false
+      mb_strpos($indexContent[0], $word->text) !== false
     ) {
       $weight += 8 * $word->weight;
     }
 
     // 搜索页面索引
-    foreach ($indexContent->index as $indexItem) {
+    foreach ($indexContent[1] as $indexItem) {
       $type = $indexItem[0];
       $config = $indexItem[1];
 
       // 搜索大标题，权重为 4
-      if ($type === 'title') {
+      if ($type === $TITLE) {
         if (
           mb_strpos($config, $word->text) !== false
         ) {
@@ -168,7 +158,7 @@ function getMatchList($words, $indexContent)
         }
       }
       // 搜索段落标题，权重为 2
-      else if ($type === 'heading') {
+      else if ($type === $HEADING) {
         if (
           mb_strpos($config, $word->text) !== false
         ) {
@@ -180,7 +170,7 @@ function getMatchList($words, $indexContent)
         }
       }
       // 搜索文档，权重为 2
-      else if ($type === 'doc') {
+      else if ($type === $DOC) {
         if (
           mb_strpos($config->name, $word->text) !== false
         ) {
@@ -195,7 +185,7 @@ function getMatchList($words, $indexContent)
         }
       }
       // 搜索卡片，权重为 2
-      else if ($type === 'card') {
+      else if ($type === $CARD) {
         if (
           mb_strpos($config->title, $word->text) !== false
         ) {
@@ -221,7 +211,7 @@ function getMatchList($words, $indexContent)
         }
       }
       // 搜索文字，权重为 1
-      else if ($type === 'text') {
+      else if ($type === $TEXT) {
         $pos = mb_strpos($config, $word->text);
 
         if (
@@ -245,7 +235,7 @@ function getMatchList($words, $indexContent)
         }
       }
       // 搜索图片，权重为 1
-      else if ($type === 'img') {
+      else if ($type === $IMAGE) {
         if (
           mb_strpos($config->desc, $word->text) !== false
         ) {
@@ -321,7 +311,7 @@ function getResult($searchWord, $searchIndex)
     if ($count < 30) {
       $count++;
       array_push($searchResult, [
-        'title' => $searchIndex->$pageID->name,
+        'title' => $searchIndex->$pageID[0],
         'id' => $pageID,
         'index' => $indexList['index'],
       ]);

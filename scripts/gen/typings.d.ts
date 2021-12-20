@@ -1,9 +1,16 @@
-export type TitleSearchIndex = ["title", string];
-export type HeadingSearchIndex = ["heading", string];
-export type TextSearchIndex = ["text", string];
-export type ImageSearchIndex = ["img", { desc: string; icon: string }];
-export type CardSearchIndex = ["card", { title: string; desc: string }];
-export type DocSearchIndex = ["doc", { name: string; icon: string }];
+declare const TITLE = 1;
+declare const HEADING = 2;
+declare const TEXT = 3;
+declare const IMAGE = 4;
+declare const CARD = 5;
+declare const DOC = 6;
+
+export type TitleSearchIndex = [typeof TITLE, string];
+export type HeadingSearchIndex = [typeof HEADING, string];
+export type TextSearchIndex = [typeof TEXT, string];
+export type ImageSearchIndex = [typeof IMAGE, { desc: string; icon: string }];
+export type CardSearchIndex = [typeof CARD, { title: string; desc: string }];
+export type DocSearchIndex = [typeof DOC, { name: string; icon: string }];
 export type SearchIndex =
   | TitleSearchIndex
   | HeadingSearchIndex
@@ -12,11 +19,12 @@ export type SearchIndex =
   | DocSearchIndex
   | CardSearchIndex;
 
-export interface SearchInfoItem {
+export type SearchInfoItem = [
   /** 页面名称 */
-  name: string;
-  index: SearchIndex[];
-}
+  string,
+  /** 搜索索引 */
+  SearchIndex[]
+];
 
 export type SearchInfo = Record<string, SearchInfoItem>;
 
