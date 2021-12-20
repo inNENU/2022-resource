@@ -2,7 +2,9 @@ title: 候补订单
 author: Mr.Hope
 time: 2021年12月20日
 shareable: true
-cite: https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html
+cite:
+  - https://kyfw.12306.cn/otn/gonggao/alternate.html
+  - https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html
 content:
   - tag: title
     text: 候补购票要求

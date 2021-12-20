@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2021年11月20日
+time: 2021年12月20日
 shareable: true
 content:
   - tag: text
@@ -36,7 +36,7 @@ content:
         path: jixiang-code/intro
 
       - text: 注册吉祥码
-        icon: time
+        icon: register
         path: jixiang-code/register
 
       - text: 吉祥码常见问题

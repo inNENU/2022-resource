@@ -2,6 +2,9 @@ title: 退票相关
 author: Mr.Hope
 time: 2021年12月20日
 shareable: true
+cite:
+  - https://kyfw.12306.cn/otn/gonggao/windowRefund.html
+  - https://kyfw.12306.cn/otn/gonggao/onlineRefund.html
 content:
   - tag: title
     text: 退票途径
@@ -43,11 +46,11 @@ content:
       - 24小时以上、不足48小时的按票价10%计
       - 不足24小时的按票价20%计
 
-  - tag: text
+  - tag: ul
     type: note
     text:
       - 开车前48小时～8天期间内，改签或变更到站至距开车8天以上的其他列车，又在距开车8天前退票的，仍核收5%的退票费。
-      - 改签或变更到站后的车票乘车日期在春运期间的，退票时一律按开车时间前不足24小时标准核收退票费
+      - 改签或变更到站后的车票乘车日期在春运期间的，退票时一律按开车时间前不足24小时标准核收退票费。
 
   - tag: text
     text:

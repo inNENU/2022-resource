@@ -28,7 +28,7 @@ content:
         color: blue
         name: Ticket
         icon: train
-        url: guide/traffic/train/
+        path: guide/traffic/train/
 
       - text: 课程
         color: orange

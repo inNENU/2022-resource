@@ -11,6 +11,10 @@ content:
   - tag: list
     header: 购票相关
     items:
+      - text: 车票介绍
+        icon: ticket
+        path: ticket
+
       - text: 购票介绍
         icon: money
         path: buy
@@ -26,6 +30,10 @@ content:
       - text: 退票介绍
         icon: charge
         path: refund
+
+      - text: 携带品与行李
+        icon: office
+        path: luggage
 
   - tag: list
     header: 学生票相关

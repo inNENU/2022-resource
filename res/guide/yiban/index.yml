@@ -1,6 +1,6 @@
 title: 新生课程学习
 author: Mr.Hope
-time: 2021年12月3日
+time: 2021年12月20日
 grey: true
 shareable: true
 content:
@@ -20,7 +20,7 @@ content:
     header: 客户端
     items:
       - text: 注册账号
-        icon: account
+        icon: register
         path: register/mobile
 
       - text: 课程添加
@@ -39,7 +39,7 @@ content:
     header: PC 网页
     items:
       - text: 注册账号
-        icon: account
+        icon: register
         path: register/web
 
       - text: 课程添加

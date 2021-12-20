@@ -121,7 +121,6 @@ export const resolvePage = (
 
   // update time
   if (pageData.time && diffResult.includes(`res/${pageData.id}`)) {
-    console.log("update");
     const date = new Date();
 
     const time = `${date.getFullYear()}年${
