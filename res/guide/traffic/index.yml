@@ -1,11 +1,11 @@
-title: 交通
+title: 交通出行
 author: Mr.Hope
 time: 2021年12月20日
 grey: true
 shareable: true
 content:
   - tag: list
-    header: 站点介绍
+    header: 长春站点介绍
     items:
       - text: 火车站介绍
         icon: railway
@@ -22,10 +22,6 @@ content:
         icon: train
         path: railway/
 
-      - text: 公交出行
-        icon: bus
-        path: bus/
-
       - text: 铁路出行
         icon: railway
         path: train/
@@ -34,6 +30,10 @@ content:
         icon: plane
         desc: 制作中
         # path: plane/
+
+      - text: 公交出行
+        icon: bus
+        path: bus/
 
       - text: 本部净月往返
         icon: change

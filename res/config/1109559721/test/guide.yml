@@ -69,12 +69,6 @@ content:
         icon: network
         path: guide/network/
 
-      - text: E起战疫
-        color: grey
-        name: MiniApp
-        icon: miniapp
-        path: guide/miniapp/
-
       - text: 学费缴纳
         color: olive
         name: Pay
@@ -132,18 +126,6 @@ content:
         icon: life
         path: guide/life/
 
-      - text: 小贴士
-        color: bule
-        name: Tips
-        icon: idea
-        path: guide/tip/
-
-      - text: 交通出行
-        color: grey
-        name: Traffic
-        icon: traffic
-        path: guide/traffic/
-
   - tag: grid
     header: 数字东师
     items:
@@ -162,8 +144,14 @@ content:
       - text: 企业号
         color: blue
         name: Wechat
-        icon: Wechat
+        icon: wechat
         path: guide/account/wechat/
+
+      - text: E起战疫
+        color: grey
+        name: MiniApp
+        icon: miniapp
+        path: guide/miniapp/
 
       - text: 教务系统
         color: purple
@@ -239,6 +227,27 @@ content:
         name: Exam
         icon: exam
         path: guide/exam/
+
+  - tag: grid
+    header: 东师贴士
+    items:
+      - text: 生活贴士
+        color: blue
+        name: Life
+        icon: life
+        path: guide/tip/life
+
+      - text: 交通出行
+        color: grey
+        name: Traffic
+        icon: traffic
+        path: guide/traffic/
+
+      - text: 数码产品
+        color: red
+        name: Digital
+        icon: digital
+        path: guide/tip/digital
 
   - tag: grid
     header: 乐在东师
