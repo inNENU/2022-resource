@@ -1,6 +1,6 @@
 title: 课程计划
 author: Mr.Hope
-time: 2021年11月22日
+time: 2021年12月20日
 desc: 学院顺序来自东北师范大学教务处
 shareable: true
 content:
@@ -64,9 +64,8 @@ content:
       - text: 马克思主义学部本科课程计划
         path: marx
 
-  - tag: doc
-    name: 数学与统计学院本科课程计划
-    url: $file/courseplan/math.pdf
+      - text: 数学与统计学院本科课程计划
+        path: math
 
   - tag: doc
     name: 信息科学与技术学院本科课程计划
