@@ -12,7 +12,7 @@ content:
         path: /guide/epidemic/requirement
 
       - text: 专业所在校区
-        icon: gate
+        icon: map
         path: /guide/check/locate
 
   - tag: text
@@ -65,9 +65,9 @@ content:
   - tag: list
     header: 注意事项
     items:
-      - text: 关于火车学生票
+      - text: 火车出行
         icon: train
-        path: /guide/traffic/train/student/
+        path: /guide/traffic/train/
 
       - text: 关于出租车
         icon: taxi

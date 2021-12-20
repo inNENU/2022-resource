@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年12月3日
+time: 2021年12月20日
 grey: true
 shareable: true
 content:
@@ -67,5 +67,5 @@ content:
     header: 师范生
     items:
       - text: 师范生相关
-        icon: intro
+        icon: teacher
         path: /guide/normal/

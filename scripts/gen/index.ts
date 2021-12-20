@@ -37,10 +37,6 @@ del([
 convertYml2Json("./res/account", "./r/account", (data, filePath) =>
   checkAccountDetail(data as AccountDetail, filePath)
 );
-// TODO: Remove
-convertYml2Json("./res/account", "./r/function/account", (data, filePath) =>
-  checkAccountDetail(data as AccountDetail, filePath)
-);
 
 // 功能大厅
 convertYml2Json("./res/function", "./r/function", (data, filePath) =>

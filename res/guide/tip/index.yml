@@ -1,6 +1,6 @@
 title: 小贴士
 author: Mr.Hope
-time: 2021年12月3日
+time: 2021年12月20日
 grey: true
 shareable: true
 content:
@@ -61,9 +61,9 @@ content:
         icon: washer
         path: washing/
 
-      - text: 铁路学生票
+      - text: 火车出行
         icon: train
-        path: /guide/traffic/train/student/
+        path: /guide/traffic/train/
 
   - tag: list
     header: 过冬贴士
