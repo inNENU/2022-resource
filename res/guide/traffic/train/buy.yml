@@ -1,6 +1,6 @@
 title: 火车票购买
 author: Mr.Hope
-time: 2021年12月20日
+time: 2021年12月25日
 shareable: true
 content:
   - tag: title
@@ -57,6 +57,8 @@ content:
     text:
       - 为做好新冠疫情常态化防控，同时便于及时将列车运行变更信息通知到乘车人，所有车票必须预留联系人方式。
       - 通过 12306 线上购票时，乘车人对应联系方式未完成核验的，无法购票。
+      - 关于“预留联系方式”的途径和具体操作，详见“联系方式预留”。
+    path: contact
 
   - tag: text
     type: warning

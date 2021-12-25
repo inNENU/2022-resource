@@ -2,7 +2,7 @@ title: 社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2021年11月23日
+time: 2021年12月25日
 shareable: true
 content:
   - tag: text
@@ -110,12 +110,6 @@ content:
   #     - text: 翩鸿汉服社
   #       path: update
 
-  #     - text: 史学协会
-  #       path: update
-
-  #     - text: 爱踏足旅游协会
-  #       path: update
-
   #     - text: 清雨坊书画协会
   #       path: update
 
@@ -125,19 +119,10 @@ content:
   #     - text: 法研教育学习社
   #       path: update
 
-  #     - text: 千格刀笔油画协会
-  #       path: update
-
   #     - text: 塞上未来
   #       path: update
 
   #     - text: “原”诗社
-  #       path: update
-
-  #     - text: 中华古诗词吟诵团
-  #       path: update
-
-  #     - text: 星星辽原支教团
   #       path: update
 
   #     - text: 公费师范生协会

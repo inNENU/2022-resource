@@ -1,6 +1,6 @@
 title: 铁路出行
 author: Mr.Hope
-time: 2021年12月20日
+time: 2021年12月25日
 grey: true
 shareable: true
 content:
@@ -11,6 +11,10 @@ content:
   - tag: list
     header: 购票相关
     items:
+      - text: 联系方式预留
+        icon: phone
+        path: contact
+
       - text: 车票介绍
         icon: ticket
         path: ticket
@@ -45,6 +49,17 @@ content:
       - text: 学生票核验
         icon: check
         path: student/check
+
+  - tag: list
+    header: 服务
+    items:
+      - text: 遗失物品寻找
+        icon: lost
+        path: lost
+
+      - text: 临时身份证
+        icon: card
+        path: id-card
 
   - tag: list
     header: 相关规章
