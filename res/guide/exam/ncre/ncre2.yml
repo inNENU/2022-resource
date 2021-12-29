@@ -1,6 +1,6 @@
 title: 计算机二级
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年12月29日
 shareable: true
 content:
   - tag: title
@@ -12,6 +12,10 @@ content:
       - 语言程序设计类(C、C++、Java、Web、Python)
       - 数据库程序设计类(Access、MySQL)
       - 办公软件高级应用(MS Office 高级应用、WPS 高级应用)。
+
+  - tag: text
+    type: info
+    text: 从2022年9月考试起，新增二级openGauss数据库程序设计（科目代码68）
 
   - tag: title
     text: 考核内容

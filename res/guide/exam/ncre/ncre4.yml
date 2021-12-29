@@ -1,6 +1,6 @@
 title: 计算机四级
 author: Mr.Hope
-time: 2021年9月5日
+time: 2021年12月29日
 shareable: true
 content:
   - tag: text
@@ -51,4 +51,15 @@ content:
     text: 考试环境及使用的软件
 
   - tag: text
-    text: NCRE 三级上机考试环境为 Windows 7 简体中文版。
+    text: NCRE 四级上机考试环境为 Windows 7 简体中文版。
+
+  - tag: title
+    text: 成绩保留时间
+
+  - tag: text
+    text: 四级科目的合格成绩，自考试结束之日起可保留半年（按月计算）。
+
+  - tag: text
+    type: tip
+    heading: 例子
+    text: 考生同时报考了三级网络技术和四级网络工程师两个科目，结果通过了四级网络工程师考试，但没有通过三级网络技术考试，将不颁发任何证书，四级网络工程师成绩保留半年。半年内考生报考三级网络技术并通过，将一次性获得三级网络技术和四级网络工程师两个科目的证书；若没有通过三级网络技术考试，将不能获得任何证书。超过时限，四级网络工程师成绩自动失效。

@@ -6,7 +6,7 @@ content:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 575363 字，其中东师介绍部分 215448 字，东师指南部分 296077 字，功能大厅部分 28538 字，其他部分 35300 字。
+      - text: 小程序现有字数为 578175 字，其中东师介绍部分 215448 字，东师指南部分 297986 字，功能大厅部分 28538 字，其他部分 36203 字。
 
       - text: 小程序介绍
         icon: about
@@ -19,6 +19,10 @@ content:
       - text: 搜索介绍
         icon: search
         url: page?path=Oguide/search
+
+      - text: |-
+          记: in东师
+        url: page?path=Oabout/history
 
   - tag: functional-list
     header: 支持小程序

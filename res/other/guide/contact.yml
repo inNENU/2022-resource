@@ -3,7 +3,9 @@ author: Mr.Hope
 shareable: true
 content:
   - tag: text
-    text: Mr.Hope 欢迎大家前来对自己的疑问进行咨询。东师指南板块可能会缺少个别偏门的内容，如果您无法找到相关说明，欢迎向我咨询，我会耐心解答并过后补充在小程序中。
+    type: tip
+    heading: 欢迎咨询
+    text: Mr.Hope 欢迎大家前来对自己的疑问进行咨询。如果您无法找到相关说明，欢迎向我咨询，我会耐心解答并过后补充在小程序中。
 
   - tag: title
     text: 您应当保证

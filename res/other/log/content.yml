@@ -1,6 +1,28 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 12/29
+
+  - tag: ul
+    heading: 新增
+    text:
+      - NCRE 考试时间
+
+  - tag: ul
+    heading: 更新
+    text:
+      - NCRE 介绍
+
+  - tag: title
+    text: 12/25
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 铁路联系人方式核验
+      - 火车站补办临时身份证
+
+  - tag: title
     text: 12/19
 
   - tag: ul
