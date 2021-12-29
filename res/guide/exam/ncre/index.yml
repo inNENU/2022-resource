@@ -25,7 +25,7 @@ content:
         path: outline
 
       - text: 成绩说明
-        icon: grade
+        icon: score
         path: grade
 
   - tag: list
