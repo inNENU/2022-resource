@@ -1,7 +1,7 @@
 title: 国家考试
 grey: true
 author: Mr.Hope
-time: 2021年11月28日
+time: 2022年1月5日
 shareable: true
 content:
   - tag: list
@@ -38,13 +38,29 @@ content:
   - tag: list
     header: 计算机等级考试
     items:
+      - text: 2022 年时间安排
+        icon: time
+        path: ncre/time
+
       - text: NCRE 介绍
         icon: intro
         path: ncre/intro
 
+      - text: 考试报名
+        icon: apply
+        path: ncre/apply
+
+      - text: 环境安装
+        icon: environment
+        path: ncre/env
+
       - text: 考试大纲
         icon: rule
         path: ncre/outline
+
+      - text: 成绩说明
+        icon: score
+        path: ncre/grade
 
       - text: 计算机二级
         icon: pc

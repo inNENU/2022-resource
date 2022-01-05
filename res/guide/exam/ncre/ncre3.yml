@@ -1,6 +1,6 @@
 title: 计算机三级
 author: Mr.Hope
-time: 2021年9月5日
+time: 2022年1月5日
 shareable: true
 content:
   - tag: title
@@ -12,7 +12,6 @@ content:
       - 数据库技术
       - 信息安全技术
       - 嵌入式系统开发技术
-      - Linux应用与开发技术
 
   - tag: title
     text: 考核内容

@@ -1,6 +1,6 @@
 title: NCRE
 author: Mr.Hope
-time: 2021年12月29日
+time: 2022年1月5日
 grey: true
 shareable: true
 content:
@@ -23,6 +23,10 @@ content:
       - text: 考试大纲
         icon: rule
         path: outline
+
+      - text: 环境安装
+        icon: environment
+        path: env
 
       - text: 成绩说明
         icon: score
