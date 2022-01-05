@@ -1,7 +1,7 @@
 title: 图书馆
 grey: true
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022年1月5日
 shareable: true
 content:
   - tag: account
@@ -14,7 +14,6 @@ content:
     site: http://www.library.nenu.edu.cn/
 
   - tag: list
-    header: 图书馆
     items:
       - text: 图书馆简介
         icon: intro
@@ -52,6 +51,10 @@ content:
         icon: photo
         path: scene
 
+      - text: 电子资源
+        icon: bookshelf
+        path: res
+
       - text: 其他服务
         icon: contact
         path: service
@@ -61,7 +64,6 @@ content:
         path: digit-room
 
   - tag: list
-    header: 图书馆
     items:
       - text: 常见问题
         icon: faq

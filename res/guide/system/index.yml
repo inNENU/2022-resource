@@ -1,6 +1,6 @@
 title: 教务系统
 author: Mr.Hope
-time: 2021年9月13日
+time: 2022年1月5日
 grey: true
 shareable: true
 content:
@@ -26,10 +26,10 @@ content:
   - tag: list
     header: 研究生教学服务系统
     items:
-      - text: 制作中...
+      - text: 系统介绍
+        icon: intro
+        path: post/intro
 
-  - tag: list
-    items:
-      - text: 常见问题
-        icon: faq
-        path: faq
+      - text: 评教
+        icon: teacher
+        path: post/course-evaluate
