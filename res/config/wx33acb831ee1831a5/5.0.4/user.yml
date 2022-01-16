@@ -56,6 +56,11 @@ content:
         type: button
         openType: share
 
+      # - text: 关注 Mr.Hope
+      #   icon: wechat
+      #   type: button
+      #   handler: openProfile
+
       - text: 联系 Mr.Hope
         icon: contact
         type: button
