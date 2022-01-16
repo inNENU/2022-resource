@@ -1,9 +1,15 @@
 title: 本科招生
 grey: true
 author: Mr.Hope
-time: 2022年1月16日
+time: 2022年1月17日
 shareable: true
 content:
+  - tag: list
+    items:
+      - text: 本科招生信息
+        icon: about
+        path: info
+
   - tag: list
     header: 2021年
     items:
@@ -26,10 +32,6 @@ content:
   - tag: list
     header: 更多
     items:
-      - text: 本科招生信息
-        icon: about
-        path: history
-
       - text: 本科历史招生信息
         icon: time
         path: history

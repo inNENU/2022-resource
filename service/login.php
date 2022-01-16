@@ -19,18 +19,16 @@ require_once('./header/post-json.php');
 require_once('./lib/curl.php');
 require_once('./info/appid.php');
 
-if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
-  // 获得传递数据
-  $data = json_decode(file_get_contents('php://input'));
+// 获得传递数据
+$data = json_decode(file_get_contents('php://input'));
 
-  // 获得登录状态码
-  $env = $data->env;
-  $code = $data->code;
-  $appID = $data->appID;
-  $secret = $AppSecretList[$appID];
+// 获得登录状态码
+$env = $data->env;
+$code = $data->code;
+$appID = $data->appID;
+$secret = $AppSecretList[$appID];
 
-  $url =  'https://api.' . ($env === 'qq' ? 'q' : 'weixin') . '.qq.com/sns/jscode2session?appid=' . $appID . '&secret=' . $secret . '&js_code=' . $code . '&grant_type=authorization_code';
+$url =  'https://api.' . ($env === 'qq' ? 'q' : 'weixin') . '.qq.com/sns/jscode2session?appid=' . $appID . '&secret=' . $secret . '&js_code=' . $code . '&grant_type=authorization_code';
 
-  $response = curlGet($url);
-  echo $response;
-}
+$response = curlGet($url);
+echo $response;

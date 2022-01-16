@@ -4,7 +4,7 @@ content:
     text: 近期更新
 
   - tag: list
-    header: v5.0.1
+    header: v5.0.5
     items:
       - text: |-
           · 重构搜索功能
@@ -12,6 +12,10 @@ content:
           · 增加动作组件
           · 重构媒体组件
           · 重构提示框并支持跳转
+          · 支持跳转到视频号主页
+          · 微信支持保存文件到微信收藏
+          · 地图组件支持地点边距
+          · PC 支持分栏模式
 
   - tag: list
     header: 更多

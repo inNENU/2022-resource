@@ -5,6 +5,7 @@ import { resolvePage } from "../components/page";
 import { checkAccount, checkAccountDetail } from "./account";
 import { count } from "./count";
 import { genDonate } from "./donate";
+import { genEnrollPlan } from "./enroll-plan";
 import { genIcon } from "./icon";
 import { genLyric } from "./lyric";
 import { checkMusic } from "./music";
@@ -80,9 +81,10 @@ genSearchMap();
 // 生成歌词
 genLyric();
 
-// 生成捐赠
+// 生成招生计划信息
+genEnrollPlan();
 
-// 捐赠
+// 生成捐赠
 convertYml2Json("./res/config/donate", "./r/other/donate", (data, filePath) =>
   genDonate(data as Donate, filePath)
 );

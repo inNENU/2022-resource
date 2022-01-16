@@ -17,19 +17,17 @@ declare(strict_types=1);
 
 require_once('./header/post-json.php');
 
-if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
-  chdir("../r/");
+chdir("../r/");
 
-  $data = json_decode(file_get_contents('php://input'));
+$data = json_decode(file_get_contents('php://input'));
 
-  $filename = $data->path . ".json";
+$filename = $data->path . ".json";
 
-  $handle = @fopen($filename, "r");
-  if ($handle) {
-    $contents = fread($handle, filesize($filename));
-    fclose($handle);
-    echo $contents;
-  } else {
-    echo 'error';
-  }
+$handle = @fopen($filename, "r");
+if ($handle) {
+  $contents = fread($handle, filesize($filename));
+  fclose($handle);
+  echo $contents;
+} else {
+  echo 'error';
 }

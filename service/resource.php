@@ -17,15 +17,13 @@ declare(strict_types=1);
 
 require_once('./header/post-json.php');
 
-if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
-  chdir("../r/");
+chdir("../r/");
 
-  $handle = @fopen("version.json", "r");
-  if ($handle) {
-    $contents = fread($handle, filesize("version.json"));
-    fclose($handle);
-    echo $contents;
-  } else {
-    echo 'error';
-  }
+$handle = @fopen("version.json", "r");
+if ($handle) {
+  $contents = fread($handle, filesize("version.json"));
+  fclose($handle);
+  echo $contents;
+} else {
+  echo 'error';
 }
