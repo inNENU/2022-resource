@@ -1,3 +1,4 @@
+/* eslint-disable line-comment-position */
 import { existsSync, mkdirSync, writeFileSync } from "fs";
 
 interface ClassConfig {
@@ -1528,7 +1529,7 @@ dsy.add('0_3_30_2_0',['文科','理科']);
 dsy.add('0_3_30_3_0',['文科']);
 */
 
-export const genEnrollPlan = () => {
+export const genEnrollPlan = (): void => {
   if (!existsSync("./r/function/enroll/"))
     mkdirSync("./r/function/enroll/", { recursive: true });
   writeFileSync("./r/function/enroll/plan.json", dsy.exportJSON());
