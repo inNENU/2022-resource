@@ -10,6 +10,9 @@ extends:
 plugins:
   - prettier
 
+ignorePatterns:
+  - other/
+
 rules:
   eqeqeq: error
   line-comment-position: error
