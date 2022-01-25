@@ -18,82 +18,59 @@ content:
   - tag: grid
     header: 您可能想关注
     items:
-      - text: 学生组织
+      - text: 校历
+        color: mauve
+        name: Calendar
+        icon: calendar
+        url: calendar
+
+      - text: 火车票购买
         color: blue
-        name: Orgnazation
-        icon: student-org
-        path: guide/organization/
+        name: Ticket
+        icon: train
+        path: guide/traffic/train/
 
-      - text: 社团
+      - text: 课程
         color: orange
-        name: Association
-        icon: association
-        path: guide/association/
+        name: Course
+        icon: content
+        path: guide/course/
 
-      - text: 入学活动
-        color: purple
-        name: Activity
-        icon: activity
-        path: guide/activity/
-
-      - text: 快递
-        color: mauve
-        name: Express
-        icon: express
-        path: guide/express/
-
-      - text: 寝室
-        color: grey
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: mauve
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
-      - text: 超市
-        color: olive
-        name: Shop
-        icon: shop
-        path: guide/shop/
-
-      - text: 洗浴
+      - text: 教务系统
         color: red
-        name: Bath
-        icon: bath
-        path: guide/bath/
+        name: System
+        icon: system
+        path: guide/system/
+
+      - text: 学习
+        color: mauve
+        name: Study
+        icon: study
+        path: guide/study/
+
+      - text: 图书馆
+        color: blue
+        name: Library
+        icon: library
+        path: intro/apt/library/
+
+      - text: 校内考试
+        color: olive
+        name: Test
+        icon: test
+        path: guide/test/
 
       - text: 生活
-        color: purple
+        color: olive
         name: Life
         icon: life
         path: guide/life/
 
-      - text: 账户
-        color: blue
-        name: Account
-        icon: authorize
-        path: guide/account/
-
-      - text: 校园卡
-        color: red
-        name: Card
-        icon: card
-        path: guide/card/
-
-      - text: 校园网
-        color: purple
-        name: Network
-        icon: network
-        path: guide/network/
-
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
-    cover: $img/tab/faq.png
-    title: 常见问题
-    logo: faq
-    url: page?id=Gfaq/
+    cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+    title: 招纳小程序志愿者
+    logo: $img/inNENU.png
+    name: in东师
+    url: page?path=Oguide/volunteer
