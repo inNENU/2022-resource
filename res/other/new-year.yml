@@ -1,6 +1,11 @@
 title: 新春快乐
 shareable: true
 content:
+  - tag: carousel
+    fill: true
+    images:
+      - $img/new-year.jpg
+
   - tag: text
     text: |-
       各位同学、家长们:

@@ -24,6 +24,7 @@ export const resolveCarousel = (
     {
       tag: "string",
       images: "string[]",
+      fill: ["boolean", "undefined"],
       class: ["string", "undefined"],
       style: ["string", "undefined"],
       indicatorDots: ["boolean", "undefined"],
