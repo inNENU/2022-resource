@@ -1,6 +1,6 @@
 title: 长春站-到净月-4号线转3号线
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022年2月25日
 shareable: true
 content:
   - tag: text
@@ -137,11 +137,11 @@ content:
     text: 请不要忘记在“职业学院”站准时下车换乘，以及在“博硕路”站下车!
 
   - tag: img
-    src: $img/traffic/railway-3.png
+    src: $img/traffic/ccqg/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: img
-    src: $img/traffic/railway-4.png
+    src: $img/traffic/ccqg/railway-4.png
     desc: 轻轨 4 号线停靠点
 
   - tag: title

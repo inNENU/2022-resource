@@ -1,6 +1,6 @@
 title: 长春西站-到净月-轨道交通
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022年2月25日
 shareable: true
 content:
   - tag: text
@@ -167,19 +167,19 @@ content:
       - 下楼后，左侧的方向是开往红嘴子的正确方向。
 
   - tag: img
-    src: $img/traffic/subway-2.png
+    src: $img/traffic/ccqg/subway-2.png
     desc: 地铁 2 号线停靠点
 
   - tag: img
-    src: $img/traffic/subway-1.png
+    src: $img/traffic/ccqg/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img
-    src: $img/traffic/railway-4.png
+    src: $img/traffic/ccqg/railway-4.png
     desc: 轻轨 4 号线停靠点
 
   - tag: img
-    src: $img/traffic/railway-3.png
+    src: $img/traffic/ccqg/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: img

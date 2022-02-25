@@ -1,6 +1,6 @@
 title: 长春站-到净月-轨道交通
 author: Mr.Hope
-time: 2021年9月4日
+time: 2022年2月25日
 shareable: true
 content:
   - tag: text
@@ -22,10 +22,6 @@ content:
 
   - tag: title
     text: 3号线
-
-  - tag: text
-    type: danger
-    text: 当前由于施工原因，3号线部分路段停运，无法直达!
 
   - tag: list
     header: false

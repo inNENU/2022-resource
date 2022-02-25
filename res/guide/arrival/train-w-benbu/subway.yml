@@ -1,6 +1,6 @@
 title: 长春西站-到本部乘坐地铁
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022年2月25日
 shareable: true
 content:
   - tag: text
@@ -140,11 +140,11 @@ content:
     text: 请不要忘记在“东北师大”站准时下车!
 
   - tag: img
-    src: $img/traffic/subway-2.png
+    src: $img/traffic/ccqg/subway-2.png
     desc: 地铁 2 号线停靠点
 
   - tag: img
-    src: $img/traffic/subway-1.png
+    src: $img/traffic/ccqg/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img

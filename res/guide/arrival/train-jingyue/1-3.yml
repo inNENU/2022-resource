@@ -1,6 +1,6 @@
 title: 长春站-到净月-1转3
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022年2月25日
 shareable: true
 content:
   - tag: text
@@ -166,11 +166,11 @@ content:
     text: 请不要忘记在“卫星广场”站准时下车换乘，以及在“博硕路”站下车!
 
   - tag: img
-    src: $img/traffic/subway-1.png
+    src: $img/traffic/ccqg/subway-1.png
     desc: 地铁 1 号线停靠点
 
   - tag: img
-    src: $img/traffic/railway-3.png
+    src: $img/traffic/ccqg/railway-3.png
     desc: 轻轨 3 号线停靠点
 
   - tag: img
