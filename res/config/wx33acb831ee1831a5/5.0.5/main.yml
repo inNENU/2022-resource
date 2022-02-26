@@ -3,12 +3,12 @@ id: main
 grey: true
 hidden: true
 content:
-  - tag: card
-    cover: $img/new-year.jpg
-    title: 虎年祝词
-    logo: https://mr.hope.site/logo.svg
-    name: Mr. Hope
-    url: page?path=Onew-year
+  - tag: text
+    type: tip
+    text:
+      - 到校需出示吉祥码、返校健康码和 48 小时内核酸报告。
+      - 本部开放东北门 (动植物公园对面)，净月开放 2 号门 (雕塑门)。
+      - 入校时会进行核酸检测。
 
   # - tag: title
   #   text: 希望工作室长期招新
