@@ -28,12 +28,14 @@
 
 - title: 2022 年暑假
   icon: ./icon/vacation.svg
-  text: 2022 年 7 月 9 日 - 2022 年 8 月 21 日(共 6 周)
+  text: 2022 年 6 月 22 日 - 2022 年 8 月 21 日(共 8 周)
 
 - title: 2022 年春季学期
   path: 2022-spring
   icon: ./icon/study.svg
-  text: 2022 年 2 月 28 日 - 2022 年 7 月 8 日(共 19 周)
+  text: |-
+    2022 年 2 月 28 日 - 2022 年 6 月 21 日(共 17 周)
+    由于疫情原因劳动节和端午节不调休正常上课，休息日加入暑假补休
 
 - title: 2022 年寒假
   icon: ./icon/vacation.svg

@@ -1,9 +1,14 @@
 title: 入学准备
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022年4月21日
 grey: true
 shareable: true
+outdated: true
 content:
+  - tag: text
+    type: note
+    text: 本页内容对应2021年入学准备。
+
   - tag: list
     items:
       - text: 欢迎辞
