@@ -137,7 +137,7 @@ class Dsy {
     }
   }
 
-  exportJSON() {
+  exportJSON(): string {
     return JSON.stringify(this.config);
   }
 }
