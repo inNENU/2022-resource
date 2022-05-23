@@ -1,6 +1,6 @@
 title: 化学学院本科课程计划
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022年5月23日
 shareable: true
 content:
   - tag: doc
@@ -8,11 +8,11 @@ content:
     url: $file/courseplan/chemistry/chemistry-2021.docx
 
   - tag: doc
-    name: 化学专业（公费师范）本科人才培养方案 (2021)
+    name: 化学专业 (公费师范) 本科人才培养方案 (2021)
     url: $file/courseplan/chemistry/normal-2021.docx
 
   - tag: doc
-    name: 化学专业（优师计划)人才培养方案 (2021)
+    name: 化学专业 (优师计划) 人才培养方案 (2021)
     url: $file/courseplan/chemistry/great-2021.docx
 
   - tag: title

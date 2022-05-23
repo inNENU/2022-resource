@@ -1,13 +1,13 @@
 title: 使用 KMS 激活微软产品
 author: Mr.Hope
-time: 2022年1月5日
+time: 2022年5月23日
 shareable: true
 content:
   - tag: text
     type: info
     heading: KMS
     text:
-      - Key Management Service（简称:KMS），是密钥管理服务。这个功能是在 Windows Vista 之后的产品中的一种新型产品激活机制。
+      - Key Management Service (简称:KMS) ，是密钥管理服务。这个功能是在 Windows Vista 之后的产品中的一种新型产品激活机制。
 
   - tag: title
     text: 激活方式

@@ -1,9 +1,13 @@
 title: 本科招生相关信息
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2022年5月23日
 shareable: true
 content:
+  - tag: text
+    type: tip
+    text: 目前 2022 年计划暂未公布。
+
   - tag: action
     header: 2021本科招生计划
     content: http://bkzsw.nenu.edu.cn/col_000018_000171.html

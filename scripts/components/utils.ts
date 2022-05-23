@@ -31,12 +31,8 @@ export const resolveStyle = (styleObj: Record<string, string>): string => {
   return result;
 };
 
-export const aliasResolve = (
-  link: string,
-  type: string,
-  location = ""
-): string => {
-  if (link.startsWith("$")) {
+export const aliasResolve = (link = "", type = "", location = ""): string => {
+  if (typeof link === "string" && link.startsWith("$")) {
     const localePath = link.replace(/^\$/, "./");
 
     if (existsSync(localePath))

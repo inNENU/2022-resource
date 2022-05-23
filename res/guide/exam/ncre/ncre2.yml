@@ -1,6 +1,6 @@
 title: 计算机二级
 author: Mr.Hope
-time: 2022年1月5日
+time: 2022年5月23日
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
 
   - tag: text
     type: info
-    text: 从2022年9月考试起，新增二级openGauss数据库程序设计（科目代码68）
+    text: 从2022年9月考试起，新增二级 openGauss 数据库程序设计 (科目代码 68)
 
   - tag: title
     text: 考核内容

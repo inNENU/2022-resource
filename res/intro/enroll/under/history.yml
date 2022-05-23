@@ -1,7 +1,7 @@
 title: 本科招生历史信息
 grey: true
 author: Mr.Hope
-time: 2021年11月21日
+time: 2022年5月23日
 shareable: true
 content:
   - tag: list
@@ -18,6 +18,10 @@ content:
   - tag: list
     header: 本科招生章程
     items:
+      - text: 2021 年本科招生章程
+        icon: intro
+        path: rule/2021
+
       - text: 2020 年本科招生章程
         icon: intro
         path: rule/2020
@@ -25,3 +29,10 @@ content:
       - text: 2019 年本科招生章程
         icon: intro
         path: rule/2019
+
+  - tag: list
+    header: 其他招生简章
+    items:
+      - text: 2021 年国家优师专项计划招生简章
+        icon: intro
+        path: rule/2021-great
