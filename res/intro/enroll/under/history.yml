@@ -7,6 +7,10 @@ content:
   - tag: list
     header: 本科招生专业
     items:
+      - text: 2021 年本科开设专业
+        icon: intro
+        path: major/202
+
       - text: 2020 年本科开设专业
         icon: intro
         path: major/2020
