@@ -7,6 +7,7 @@ content:
     text: 本科招生
 
   - tag: list
+    header: false
     items:
       - text: 2022 年本科招生章程
         icon: intro
