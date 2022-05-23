@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022年5月23日
 shareable: true
 content:
   - tag: list
@@ -29,6 +29,10 @@ content:
       - text: 师资队伍
         icon: teacher
         path: teacher
+
+      - text: 杰出人才
+        icon: star
+        path: talent
 
       - text: 学科建设
         icon: content
