@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022年4月21日
+time: 2022年5月27日
 grey: true
 shareable: true
 outdated: true
@@ -40,6 +40,14 @@ content:
       - text: 新生入学前课程学习
         icon: study
         path: /guide/yiban/
+
+      - text: 党员组织关系接转
+        icon: league
+        path: league
+
+      - text: 团员组织关系接转
+        icon: league
+        path: group
 
   - tag: list
     header: 找到组织

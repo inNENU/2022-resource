@@ -1,10 +1,20 @@
 title: 档案相关
 grey: true
 author: Mr.Hope
-time: 2021年8月15日
+time: 2022年5月27日
 shareable: true
 content:
   - tag: list
+    header: 档案转入
+    items:
+      - text: 本科生档案转入
+        path: under-in
+
+      - text: 研究生档案转入
+        path: post-in
+
+  - tag: list
+    header: 档案转出
     items:
       - text: 档案派遣
         icon: dispatch

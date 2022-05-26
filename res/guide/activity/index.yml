@@ -1,6 +1,6 @@
 title: 开学活动
 author: Mr.Hope
-time: 2021年11月21日
+time: 2022年5月27日
 grey: true
 shareable: true
 content:
@@ -19,13 +19,6 @@ content:
         icon: basketball
         path: /guide/test/pe-test/
 
-  - tag: list
-    header: 其他活动
-    items:
-      - text: 军训介绍
-        icon: intro
+      - text: 军训
+        icon: military
         path: military/intro
-
-      - text: 军训详情
-        icon: detail
-        path: military/detail

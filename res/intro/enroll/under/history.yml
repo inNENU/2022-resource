@@ -1,7 +1,7 @@
 title: 本科招生历史信息
 grey: true
 author: Mr.Hope
-time: 2022年5月23日
+time: 2022年5月27日
 shareable: true
 content:
   - tag: list
@@ -9,7 +9,7 @@ content:
     items:
       - text: 2021 年本科开设专业
         icon: intro
-        path: major/202
+        path: major/2021
 
       - text: 2020 年本科开设专业
         icon: intro

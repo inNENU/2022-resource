@@ -1,0 +1,24 @@
+title: 本科生开学活动
+author: Mr.Hope
+time: 2022年5月27日
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 开学活动
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /guide/check/medical-examination
+
+      - text: 英语分班考试
+        icon: english
+        path: /guide/test/grading-exam
+
+      - text: 体测考试
+        icon: basketball
+        path: /guide/test/pe-test/
+
+      - text: 军训
+        icon: military
+        path: military/intro

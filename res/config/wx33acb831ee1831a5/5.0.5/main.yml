@@ -13,10 +13,6 @@ content:
         icon: intro
         path: intro/enroll/under/rule/2022
 
-      - text: 2022 年高校专项计划招生简章
-        icon: intro
-        path: intro/enroll/under/rule/2022-plan
-
       - text: 2022 年美术类专业招生简章
         icon: intro
         path: intro/enroll/under/rule/2022-art
@@ -36,6 +32,11 @@ content:
       - text: 更多
         icon: more
         path: intro/enroll/under/
+
+  - tag: list
+    items:
+      - text: 硕士调档
+        path: guide/archive/post-in
 
   # - tag: text
   #   type: tip
