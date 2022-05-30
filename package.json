@@ -39,7 +39,7 @@
     "ftp-hope": "0.1.1",
     "husky": "8.0.1",
     "js-yaml": "4.1.0",
-    "lint-staged": "12.4.2",
+    "lint-staged": "12.4.3",
     "prettier": "2.6.2",
     "qrcode": "1.5.0",
     "svgo": "2.8.0",
