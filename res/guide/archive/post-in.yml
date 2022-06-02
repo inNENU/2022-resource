@@ -1,6 +1,6 @@
 title: 研究生档案转入
 author: Mr.Hope
-time: 2022年5月27日
+time: 2022年6月2日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
 
   - tag: doc
     name: 硕士调档函
-    url: $file/archive/doctor-archive-transfer-letter.pdf
+    url: $file/archive/postgraduate-archive-transfer-letter.pdf
 
   - tag: doc
     name: 博士调档函
