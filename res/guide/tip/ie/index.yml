@@ -1,6 +1,6 @@
 title: 使用 IE 内核浏览网页
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022年6月6日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
   - tag: text
     text:
       - 由于教学服务系统研发于 21 世纪初期，只能运行在 IE(Internet Explorer) 内核浏览器上 (如 IE11、IE10、IE9)。
-      - 其他浏览器无法解析运行脚本，会出现“无法创建对象”的错误提示。
+      - 其他浏览器无法解析运行脚本，会出现“不能创建对象”的错误提示。
 
   - tag: text
     type: danger
