@@ -1,7 +1,7 @@
 title: 本科招生
 grey: true
 author: Mr.Hope
-time: 2022年5月23日
+time: 2022年6月11日
 shareable: true
 content:
   - tag: list
@@ -40,6 +40,10 @@ content:
       - text: 2022 年音乐学专业招生简章
         icon: intro
         path: rule/2022-music
+
+      - text: 2022 年国家优师专项计划招生简章
+        icon: intro
+        path: rule/2022-great
 
       # - text: 2021 年录取通知书查询
       #   icon: search
