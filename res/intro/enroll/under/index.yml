@@ -1,7 +1,7 @@
 title: 本科招生
 grey: true
 author: Mr.Hope
-time: 2022年6月11日
+time: 2022年6月18日
 shareable: true
 content:
   - tag: list
@@ -45,9 +45,9 @@ content:
         icon: intro
         path: rule/2022-great
 
-      # - text: 2021 年录取通知书查询
-      #   icon: search
-      #   path: search
+      - text: 2022 年录取通知书查询
+        icon: search
+        path: search
 
   - tag: list
     header: 更多
@@ -65,7 +65,7 @@ content:
 
       - text: 招生咨询群
         icon: qq-group
-        path: qqgroup
+        path: qq-group
 
       - text: 线下招生咨询活动
         icon: activity
