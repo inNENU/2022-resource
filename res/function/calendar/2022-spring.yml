@@ -62,10 +62,10 @@ content:
 
       期末考试
 
-  # - title: 7 月
-  #   icon: ./icon/study.svg
-  #   text: |-
-  #     毕业证书、学位证书制作与发放(第二批)
+  - title: 7 月
+    icon: ./icon/study.svg
+    text: |-
+      毕业证书、学位证书制作与发放(第二批)
 
   #     毕业生学历数据注册、学位数据备案
 
