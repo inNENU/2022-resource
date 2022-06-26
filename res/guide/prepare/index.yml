@@ -1,19 +1,18 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022年5月27日
+time: 2022年6月26日
 grey: true
 shareable: true
-outdated: true
 content:
-  - tag: text
-    type: note
-    text: 本页内容对应2021年入学准备。
-
   - tag: list
     items:
       - text: 欢迎辞
         icon: letter
         path: welcome
+
+      - text: 报到时间
+        icon: time
+        path: /guide/check/location-and-time
 
   - tag: list
     header: 防止诈骗
@@ -25,10 +24,6 @@ content:
   - tag: list
     header: 报到之前
     items:
-      - text: 报到时间
-        icon: time
-        path: check-in-time
-
       - text: 录取通知书详情
         icon: letter
         path: admission-notice
