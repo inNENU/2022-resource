@@ -23,7 +23,7 @@
     "email": "zhangbowang1998@gmail.com",
     "url": "https://mrhope.site"
   },
-  "packageManager": "pnpm@7.2.1",
+  "packageManager": "pnpm@7.3.0",
   "dependencies": {
     "@mr-hope/assert-type": "1.2.3",
     "@types/js-yaml": "4.0.5",
