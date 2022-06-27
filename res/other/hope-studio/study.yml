@@ -18,7 +18,7 @@ content:
   - tag: ul
     heading: 第二周期
     text:
-      - 学习 HTML5 的特性并进一步深入掌握 HTMl 相关内容，了解 canvas, svg, picture, audio, video 等新标签。
+      - 学习 HTML5 的特性并进一步深入掌握 HTML 相关内容，了解 canvas, svg, picture, audio, video 等新标签。
       - 深入学习最新的 ECMAScript，掌握函数闭包、Promise, Proxy，Iterator, Generator, Class, asycn/await 等语法与使用。
       - 熟练掌握 CSS3 transition, transform, animation 等属性，并能够通过渐变、变换、动画、伪类制作精美的页面与交互动画。
       - 熟练了解 document, window, navigator 等对象，了解 ajax, fetch, localStorage, sessionStorage 等方法或 API。

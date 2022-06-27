@@ -1,27 +1,18 @@
 title: 转专业
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: title
     text: 本科生转专业
 
   - tag: list
-    header: false
+    header: 规则与流程
     items:
-      - text: 相关公告
-        desc: 2021年
-        icon: notice
-        path: notice
-
       - text: 全日制本科生转专业实施办法
         desc: 官方文件
         icon: contract
         path: rule
-
-      - text: 本科生转专业实施办法解读
-        icon: intro
-        path: explain
 
       - text: 本科生转专业执行流程
         icon: flow
@@ -31,9 +22,24 @@ content:
         icon: alert
         path: requirement
 
+  - tag: list
+    header: 相关公告
+    items:
+      - text: 相关公告
+        desc: 2021年
+        icon: notice
+        path: notice
+
       - text: 公示名单
         icon: plan
         path: list
+
+  - tag: list
+    header: 解读与建议
+    items:
+      - text: 本科生转专业实施办法解读
+        icon: intro
+        path: explain
 
       - text: 常见问题
         icon: faq

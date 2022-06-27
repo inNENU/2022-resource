@@ -1,6 +1,6 @@
 title: NCRE 介绍
 author: Mr.Hope
-time: 2022年5月23日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: title
@@ -22,3 +22,10 @@ content:
       - 无纸化考试中，全部考试过程在计算机上完成，考核内容和要求参见2022年考试大纲。
       - 为方便考生作答，考点会给考生提供草稿纸和铅笔 (铅笔也可由考生自带) ，草稿纸考后收回，考生不能带离考场。
       - 无纸化考试期间考试机上会显示和校验考生的照片，对于照片不符合要求的考生，不允许参加考试。
+
+  - tag: list
+    header: 考核方式
+    items:
+      - text: 查看详情
+        icon: exam
+        path: grade

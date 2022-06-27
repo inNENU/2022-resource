@@ -1,6 +1,6 @@
 title: 选课系统使用说明
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: title
@@ -34,7 +34,7 @@ content:
 
   - tag: p
     heading: 步骤二
-    text: 系统登录成功后，进入选课系统登录信息确认，确认无问题，点击右下方【进入选课】按钮,等待约 3 秒钟正式进入选课系统
+    text: 系统登录成功后，进入选课系统登录信息确认，确认无问题，点击右下方【进入选课】按钮，等待约 3 秒钟正式进入选课系统
 
   - tag: img
     src: $img/select/info.png

@@ -1,6 +1,6 @@
 title: 系统重装
 author: Mr.Hope
-time: 2021年12月2日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: title
@@ -41,7 +41,7 @@ content:
 
   - tag: ul
     text:
-      - 通过系统设置内进行系统重置 (最简单, Windows 11可直接使用此方式)
+      - 通过系统设置内进行系统重置 (最简单，Windows 11可直接使用此方式)
       - 使用媒体制作工具和空白U盘制作官方镜像启动盘，并通过U盘重装
       - 进入 PE 系统调整硬盘分区或格式化，以执行完整的重装。
 

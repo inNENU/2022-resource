@@ -33,7 +33,7 @@ content:
     heading: v0.2.6
     text: |-
       优化util调用方式；
-      建立empty模板,加入wx:key减少报错；
+      建立empty模板，加入wx:key减少报错；
 
   - tag: text
     heading: v0.2.7

@@ -1,6 +1,6 @@
 title: NCRE 考试成绩
 author: Mr.Hope
-time: 2022年5月23日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: title
@@ -35,6 +35,7 @@ content:
     type: info
     heading: 证书直邮服务
     text: 考生在考后可登录中国教育考试网申请NCRE证书直邮服务，有关要求和申请流程详见网站。
+
   - tag: text
     type: warning
     heading: 四级证书限制

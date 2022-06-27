@@ -1,6 +1,6 @@
 title: 今日趣事
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022年6月27日
 shareable: true
 content:
   - tag: p
@@ -40,7 +40,7 @@ content:
         url: page?path=OMrHope/interesting/mrhope
 
   - tag: list
-    header: 对话全文, 无任何删减
+    header: 对话全文，无任何删减
     items:
       - text: 图片1
         url: page?path=OMrHope/interesting/1
