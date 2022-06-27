@@ -123,9 +123,9 @@ export const resolvePage = (
   if (pageData.time && diffResult.includes(`res/${pageData.id}`)) {
     const date = new Date();
 
-    const time = `${date.getFullYear()}年${
+    const time = `${date.getFullYear()} 年 ${
       date.getMonth() + 1
-    }月${date.getDate()}日`;
+    } 月 ${date.getDate()} 日`;
 
     writeFileSync(
       `./res/${pagePath}.yml`,

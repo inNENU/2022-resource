@@ -153,7 +153,7 @@ content:
         icon: wechat
         path: guide/account/wechat/
 
-      - text: E起战疫
+      - text: E 起战疫
         color: grey
         name: MiniApp
         icon: miniapp

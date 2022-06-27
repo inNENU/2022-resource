@@ -1,6 +1,6 @@
 name: 志愿东师
 detail: 东北师范大学红烛志愿者协会
-desc: 东北师范大学红烛志愿者协会是在学校团委具体指导下的学生群众性志愿服务组织，成立于1994年1月，是全国首批高校青年志愿组织之一，也是全国第一个实行商标注册的学生志愿服务团体。
+desc: 东北师范大学红烛志愿者协会是在学校团委具体指导下的学生群众性志愿服务组织，成立于 1994 年 1 月，是全国首批高校青年志愿组织之一，也是全国第一个实行商标注册的学生志愿服务团体。
 id: zhiyuandongshi
 logo: $img/media/zhiyuandongshi.png
 qrcode: $img/media/zhiyuandongshi-qrcode.jpg
@@ -34,7 +34,7 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5Lye7UYBZ3IRuia1UYcIHXI5IAdHILT2X83tLzcSx38JT4H1q2ooVwNoQHNNd3nxVxK2WFtBgwDB42Q/0?wx_fmt=jpeg
     title: 见“疫”勇为，感谢有你
-    desc: 新冠肺炎疫情暴发以来，我校已有2700多名志愿者主动投身疫情防控，以实际行动展现了东师青年的理想信念、爱心善意、责任担当。
+    desc: 新冠肺炎疫情暴发以来，我校已有 2700 多名志愿者主动投身疫情防控，以实际行动展现了东师青年的理想信念、爱心善意、责任担当。
     url: https://mp.weixin.qq.com/s/fT7tcOQxIjj0fJ7wxOiEmw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5LxR1FciafQsc2AApmPQDGDmlNBJIXcFHSSN5jqmX4SaLMFgmAaL6ib1vor0kgUeWyiasVyPQicfkaic6BA/0?wx_fmt=jpeg
@@ -58,8 +58,8 @@ article:
     url: https://mp.weixin.qq.com/s/0Sm3tQj2No6SMwovKitgmw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5LyWYhyJWoFwGJbRNZTte2YiaL587sdOM4rHwQ5W8N4XZfxQdMPMsurXxQOABvicKQib8P7Yh53LPvD1A/0?wx_fmt=jpeg
-    title: 2020年秋季学期总结大会
-    desc: 2020年秋季学期总结大会
+    title: 2020 年秋季学期总结大会
+    desc: 2020 年秋季学期总结大会
     url: https://mp.weixin.qq.com/s/NRYwERovaZBByuXCr4EoNw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5LwIt1IakCVt8NOu4ric22GQNZHp36mQRVFACT8lCBOMeLH0uicPv9psYeyKh0iaric1CsXXofsGm7IBkQ/0?wx_fmt=jpeg
@@ -79,12 +79,12 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5Lxplu1g5B0Y3whqSLVbx8xPbGKBsibNheBJ88TACQ95fQKOQP7lWtCHv1lSlIy9kbcwE8Y6iaHHgVDw/0?wx_fmt=jpeg
     title: 志愿支教净月潭小学
-    desc: 净月潭实验小学 红烛志愿者协会关爱学校项目部成员赖懿欣、丁诗萍与志愿教师冀芃宇于本周一11月30日一同前往净
+    desc: 净月潭实验小学 红烛志愿者协会关爱学校项目部成员赖懿欣、丁诗萍与志愿教师冀芃宇于本周一 11 月 30 日一同前往净
     url: https://mp.weixin.qq.com/s/v69bGOQbOho7L_UsMyGhTg
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5Lxplu1g5B0Y3whqSLVbx8xPiaXhd6yVHwN6iaDwyCymn94wTL9pRXcNaSC4UJzwCfuiaZzQSQSAPT4vw/0?wx_fmt=jpeg
     title: 艾与被爱，连着红丝带
-    desc: 与艾同行，为爱防艾202012/1食堂门口的桌椅已然撤去预防艾滋的种子却悄然发芽世界艾滋病日12月1日
+    desc: 与艾同行，为爱防艾 202012/1 食堂门口的桌椅已然撤去预防艾滋的种子却悄然发芽世界艾滋病日 12 月 1 日
     url: https://mp.weixin.qq.com/s/8Q6hodeMonVwDJmIiIka-Q
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/LMUpVUIs5LwuqficxkXDuztWUwgvMKHRJTSm0WCa7AUrFCQFtTVqf8xWOP5Djica4DFd3DGINAbPY4sGic8cqoNuQ/0?wx_fmt=jpeg

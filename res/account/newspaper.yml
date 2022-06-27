@@ -1,7 +1,7 @@
-name: NENU东小青
+name: NENU 东小青
 detail: 东北师范大学《东师青年》报社
 desc: |-
-  关注NENU东小青，即时获取校园新鲜资讯，东小青带你做最IN的东师人! (原名: 东北师范大学东师青年)
+  关注 NENU 东小青，即时获取校园新鲜资讯，东小青带你做最 IN 的东师人! (原名: 东北师范大学东师青年)
 id: nenu-youth
 logo: $img/organization/newspaper.png
 qrcode: $img/media/newspaper-wechat.jpg
@@ -22,7 +22,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHn3MiaoO8ZMZeunJfwY9m30kyYZZRp052LOnbGVVlsAAgQSPpnibPUkkzljmmCS8RZ0Xs9a1sbjCxFw/0?wx_fmt=jpeg
     title: 青·观察|不对称有机催化——第二次闪耀在诺奖舞台
-    desc: 北京时间10月6日下午5点49分许，2021年诺贝尔化学奖落下帷幕。
+    desc: 北京时间 10 月 6 日下午 5 点 49 分许，2021 年诺贝尔化学奖落下帷幕。
     url: https://mp.weixin.qq.com/s/tyWZazXTol1FsNhr0-rmdw
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmTIdOTAPseuxSx48llfZoxibTjVMoT9l44EfPnE5ruNcHYUoX3odZy6sRp1gmXHvpaVZCibAIz6EfQ/0?wx_fmt=jpeg
@@ -67,12 +67,12 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmOJIdLiaaDe2td2SicX6h9XBrUWShvsSY2m5fiaaRXVZc6elE2yY4N1pynErMk0k7ibYgIVSaNuBh4Og/0?wx_fmt=jpeg
     title: 青 · 光影 | 镜头下的秋色
-    desc: 当白色渐渐代替黄色，你是否会怀念2021年秋天的光？
+    desc: 当白色渐渐代替黄色，你是否会怀念 2021 年秋天的光？
     url: https://mp.weixin.qq.com/s/VlADRDgT_OQSbIxsVBV8Dw
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHkEhp3BLZ2IeVahlC0ibjdDBSRcPqrJ8ibFl3PR6ZA0W35QwQtmBqNdk1tDPr5S4bIN55uGaNYKUMicA/0?wx_fmt=jpeg
     title: 评选结果 | 美食节作品征集获奖结果公布
-    desc: 2021年东师第六届美食节作品征集的获奖名单新鲜出炉啦～快来围观吧!
+    desc: 2021 年东师第六届美食节作品征集的获奖名单新鲜出炉啦～快来围观吧!
     url: https://mp.weixin.qq.com/s/pTQeZqlZbEomCRK1Ck1_0w
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnpTLrVZRTF503404gl4Sw3JRLQ0s5rvcQpBv6lmwGqXsbNSdXC2oJmQic5YV4k16Bqibx2MJAp88zw/0?wx_fmt=jpeg
@@ -123,7 +123,7 @@ article:
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHl2wx0CAFKwjOicsSXAn6dibRkYDLk3icd74ULeX9wQyqQ0pLk6bCiaLgiayC9bYo1UfibzNMFtRrK5z83w/0?wx_fmt=jpeg
     title: 一见“青新”｜《东师青年》报社纳新圆满结束啦
-    desc: 岁岁年年，来来往往。这里是《东师青年》报社。9月12日，《东师青年》报社2021年秋季纳新笔、面试圆满结束。
+    desc: 岁岁年年，来来往往。这里是《东师青年》报社。9 月 12 日，《东师青年》报社 2021 年秋季纳新笔、面试圆满结束。
     url: https://mp.weixin.qq.com/s/_3d8ndeWMB7rhWIs7yZ6HQ
 
   - cover: http://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHmibjZnBziab1wBFTUwSumNd9EjKUJqJt13mylDm88uJTibalJ3KaOl9r4qglOY0EEllKWQWkowM5hyg/0?wx_fmt=jpeg

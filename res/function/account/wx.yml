@@ -97,7 +97,7 @@
       logo: $img/media/history.jpg
       path: history
 
-    - name: NENU外国语
+    - name: NENU 外国语
       desc: 东北师范大学外国语学院微信平台
       logo: $img/media/foreign.jpg
       path: foreign
@@ -107,7 +107,7 @@
       logo: $img/media/music.png
       path: music
 
-    - name: 东师美术NENUART
+    - name: 东师美术 NENUART
       desc: 东北师范大学美术学院微信平台
       logo: $img/media/art.png
       path: art
@@ -157,7 +157,7 @@
       logo: $img/media/media.png
       path: media
 
-    - name: NENU环境学院
+    - name: NENU 环境学院
       desc: 东北师范大学环境学院官方微信平台
       logo: $img/media/environment.png
       path: environment
@@ -214,12 +214,12 @@
       logo: $img/organization/daChuang.png
       path: career-center
 
-    - name: NENU东小青
+    - name: NENU 东小青
       desc: 东北师范大学《东师青年》报社
       logo: $img/organization/newspaper.png
       path: newspaper
 
-    - name: NENU艺术团
+    - name: NENU 艺术团
       desc: 东北师范大学生艺术团
       logo: $img/organization/daYi.png
       path: art-ensemble
@@ -231,7 +231,7 @@
       logo: $img/association/yinghuo.png
       path: yinghuo
 
-    - name: 东师模联NENUMUN
+    - name: 东师模联 NENUMUN
       desc: 东北师范大学模拟联合国协会
       logo: $img/association/mun.png
       path: mun
