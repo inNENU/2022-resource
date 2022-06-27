@@ -39,7 +39,7 @@ content:
     text: |-
       进一步优化设置界面显示效果；
       初步构建listIcon；
-      iOS主题下list样式的细节调整;
+      iOS主题下list样式的细节调整；
 
   - tag: text
     heading: v0.4.8

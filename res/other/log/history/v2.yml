@@ -197,6 +197,6 @@ content:
   - tag: text
     heading: v2.4.1 2019.11.18
     text: |-
-      doc 组件新增下载按钮;
-      phone 组件在 QQ 环境的改进增强;
-      修复 NENU 主题的部分显示问题;
+      doc 组件新增下载按钮；
+      phone 组件在 QQ 环境的改进增强；
+      修复 NENU 主题的部分显示问题；

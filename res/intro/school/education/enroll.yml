@@ -15,9 +15,6 @@ content:
   - tag: video
     src: http://zsb.nenu.edu.cn/__local/7/F6/CF/7A5A8154456418A356354C8F71B_DD2F51BA_FC688C7.mp4?e=.mp4
 
-  - tag: img
-    src: $img/enroll/education-major.png
-
   - tag: list
     header: 各专业介绍
     items:

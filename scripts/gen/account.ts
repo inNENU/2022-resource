@@ -18,6 +18,14 @@ export interface AccountConfig {
   account: AccountInfo[];
 }
 
+const decodeText = (text: string) =>
+  text
+    .replace("&quot;", '"')
+    .replace("&amp;", "&")
+    .replace("&lt;", "<")
+    .replace("&gt;", ">")
+    .replace("&nbsp;", " ");
+
 export const checkAccount = (
   data: AccountConfig[],
   location: string
@@ -79,8 +87,8 @@ export const genAccount = (filePath: string): Promise<void> => {
 
         content = content.replace(
           `- url: ${item}`,
-          `- cover: ${cover}\n    title: ${title}\n${
-            desc ? `    desc: ${desc}\n` : ""
+          `- cover: ${cover}\n    title: ${decodeText(title)}\n${
+            desc ? `    desc: ${decodeText(desc)}\n` : ""
           }    url: ${item}`
         );
       })
