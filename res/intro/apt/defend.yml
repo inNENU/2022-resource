@@ -1,6 +1,6 @@
 title: 保卫科
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     fName: 保卫科
     num: 0431-85098110
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
     site: https://bwc.nenu.edu.cn/
 
@@ -46,6 +46,6 @@ content:
   - tag: ul
     heading: 费用
     text:
-      - "月: 50元"
-      - "季: 150元"
-      - "年: 600元"
+      - "月: 50 元"
+      - "季: 150 元"
+      - "年: 600 元"

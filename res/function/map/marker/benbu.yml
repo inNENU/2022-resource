@@ -4,7 +4,7 @@ general:
     - latitude: 43.86188
       longitude: 125.33137
       name: 自由校区
-      detail: 吉林省长春市南关区人民大街5268号
+      detail: 吉林省长春市南关区人民大街 5268 号
       path: index
 
 gate:
@@ -75,8 +75,8 @@ dorm:
 
     - latitude: 43.863549
       longitude: 125.335808
-      name: 三舍C
-      detail: 东北师范大学学生三舍C
+      name: 三舍 C
+      detail: 东北师范大学学生三舍 C
       path: dorm3C
 
     - latitude: 43.863553

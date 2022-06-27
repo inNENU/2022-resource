@@ -1,6 +1,6 @@
 title: 教育学部介绍
 desc: 摘自 2022 年本科招生指南
-time: 2022年6月27日
+time: 2022 年 6 月 27 日
 cite: https://book.eol.cn/books/cusm/mobile/index.html
 content:
   - tag: account
@@ -36,7 +36,7 @@ content:
 
   - tag: ul
     text:
-      - "地址: 吉林省长春市人民大街5268号"
+      - "地址: 吉林省长春市人民大街 5268 号"
       - "邮编: 130024"
       - "电话: 0431-85099557"
       - "电邮: fed@nenu.edu.cn"
@@ -45,7 +45,7 @@ content:
     fName: 教育学部
     num: 0431-85099557
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     hostNum: 0431-85099557
     postCode: 130024
     mail: fed@nenu.edu.cn

@@ -1,6 +1,6 @@
 title: 英语课程说明
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: p
@@ -19,7 +19,7 @@ content:
     text: 考试以及成绩计算
 
   - tag: p
-    text: 东北师范大学大学英语课程成绩由“东北师范大学英语水平测试”(DET)成绩和过程性评价成绩两部分组成。其中两者各占期末总成绩的50%。
+    text: 东北师范大学大学英语课程成绩由“东北师范大学英语水平测试”(DET)成绩和过程性评价成绩两部分组成。其中两者各占期末总成绩的 50%。
 
   - tag: p
     heading: “大学英语水平测试” (DET)
@@ -40,5 +40,5 @@ content:
     text: 更多详情
 
   - tag: doc
-    name: 东北师范大学大学外语人才培养方案(2020版)
+    name: 东北师范大学大学外语人才培养方案(2020 版)
     url: $file/courseplan/english-course-plan.docx

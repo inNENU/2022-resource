@@ -37,7 +37,7 @@ content:
 
   - tag: p
     text:
-      - 新的一年，in东师与Mr.Hope会继续陪伴大家，携手一起共同成长!
+      - 新的一年，in 东师与 Mr.Hope 会继续陪伴大家，携手一起共同成长!
 
   - tag: text
     text: 𝓜𝓻. 𝓗𝓸𝓹𝓮
@@ -49,4 +49,4 @@ content:
   - tag: text
     type: info
     heading: 红包祝福
-    text: 为庆祝虎年，送出祝福，Mr.Hope 将会于除夕夜晚间在QQ频道“东北师大”发放红包。欢迎大家前来领取。
+    text: 为庆祝虎年，送出祝福，Mr.Hope 将会于除夕夜晚间在 QQ 频道“东北师大”发放红包。欢迎大家前来领取。

@@ -1,6 +1,6 @@
 title: QQ 群
 author: Mr.Hope
-time: 2022年6月26日
+time: 2022 年 6 月 27 日
 grey: true
 shareable: true
 content:
@@ -34,7 +34,7 @@ content:
         icon: qq-group
         path: parent
 
-      - text: in东师咨询群
+      - text: in 东师咨询群
         icon: qq-group
         path: innenu
 

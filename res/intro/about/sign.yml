@@ -1,6 +1,6 @@
 title: 学校标识
-desc: 2021年4月8日更新，由学校办公室、党委宣传部提供
-time: 2021年11月22日
+desc: 2021 年 4 月 8 日更新，由学校办公室、党委宣传部提供
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -56,7 +56,7 @@ content:
   - tag: ul
     text:
       - 词作者公木(张松如)是我校创始人之一，著名诗人
-      - 曲作者吕远是我校1954年音乐系毕业生，著名作曲家
+      - 曲作者吕远是我校 1954 年音乐系毕业生，著名作曲家
 
   - tag: list
     header: false
@@ -81,5 +81,5 @@ content:
     content: https://www.nenu.edu.cn/xgjianpu.pdf
 
   - tag: action
-    header: 东北师范大学校歌MV
+    header: 东北师范大学校歌 MV
     content: https://www.nenu.edu.cn/xgmv.mp4

@@ -4,7 +4,7 @@ general:
     - latitude: 43.82738
       longitude: 125.4274
       name: 净月校区
-      detail: 中国吉林省长春市南关区净月大街2555号
+      detail: 中国吉林省长春市南关区净月大街 2555 号
       path: index
 
 gate:

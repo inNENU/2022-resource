@@ -1,6 +1,6 @@
 title: 政法学院介绍
 desc: 摘自 2022 年本科招生指南
-time: 2022年6月27日
+time: 2022 年 6 月 27 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
 shareable: true
@@ -45,7 +45,7 @@ content:
 
   - tag: ul
     text:
-      - "地址: 长春市净月大街2555号"
+      - "地址: 长春市净月大街 2555 号"
       - "邮政编码: 130117"
       - "电话: 0431-84536465"
       - "传真: 0431-84520601"
@@ -54,6 +54,6 @@ content:
     fName: 政法学院
     num: 0431-84536465
     org: 东北师范大学
-    street: 长春市净月大街2555号
+    street: 长春市净月大街 2555 号
     postCode: 130117
     site: https://zf.nenu.edu.cn/

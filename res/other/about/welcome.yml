@@ -1,6 +1,6 @@
 title: 欢迎加入新生群
 author: Mr.Hope
-time: 2022年5月23日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: p
@@ -10,7 +10,7 @@ content:
 
   - tag: text
     type: tip
-    heading: in东师小程序
+    heading: in 东师小程序
     text:
       - 小程序包含 59 万余字的学校介绍与新生攻略，它可以解答您绝大部分的疑问。我们同时提供同名微信小程序。
       - 小程序在首页有搜索栏，提供全文搜索功能。您可以对您的疑问进行搜索，如果问题在小程序内搜索不到，欢迎您群内提问。
@@ -23,7 +23,7 @@ content:
 
   - tag: text
     type: warning
-    text: 本群仅面向在校生和校友，如果您非本校学生，请现在退群，您可加入“in东师咨询群”提问。
+    text: 本群仅面向在校生和校友，如果您非本校学生，请现在退群，您可加入“in 东师咨询群”提问。
 
   - tag: title
     text: 身份认证

@@ -1,6 +1,6 @@
 title: 严禁课程买卖
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -8,13 +8,13 @@ content:
     heading: 严禁课程买卖
     text:
       - 请注意! 学校严厉打击课程买卖，一经发现严肃处理!
-      - 如果您发现有“学长学姐”在任何群聊内发送“xx元出xx课”的消息，请您立即向教务处举报。
+      - 如果您发现有“学长学姐”在任何群聊内发送“xx 元出 xx 课”的消息，请您立即向教务处举报。
 
   - tag: phone
     header: 学生处电话
     fName: 学生处
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
     num: 85099381
 
@@ -22,7 +22,7 @@ content:
     header: 教务处电话
     fName: 教务处
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 85099162
     num: 85099162
 

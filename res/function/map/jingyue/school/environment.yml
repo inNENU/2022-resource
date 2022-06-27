@@ -1,11 +1,11 @@
 title: 环境学院
 author: Mr.Hope
-time: 2020年9月1日
+time: 2020 年 9 月 1 日
 content:
   - tag: account
     name: 环境学院
     logo: $img/media/environment.png
-    detail: NENU环境学院
+    detail: NENU 环境学院
     wxid: dongshihuanjing
     wxcode: $img/media/environment-wechat.jpg
     account: environment

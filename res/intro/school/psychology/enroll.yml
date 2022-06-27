@@ -1,7 +1,7 @@
 title: 心理学院招生
 desc: 研究生招生信息来自研究生院
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -57,7 +57,7 @@ content:
 
   - tag: img
     src: $img/enroll/psychology-master.png
-    desc: 2021年招生信息
+    desc: 2021 年招生信息
 
   - tag: phone
     header: 硕士研究生招生咨询电话
@@ -66,7 +66,7 @@ content:
     num: 0431-85098465
     org: 东北师范大学心理学院
     title: 硕士研究生招生负责人
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
     mail: bic537@nenu.edu.cn
 

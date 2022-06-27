@@ -1,6 +1,6 @@
 title: 菜鸟驿站
 author: Mr.Hope、战俊华
-time: 2021年8月30日
+time: 2021 年 8 月 30 日
 photo:
   - $img/express/cainiao1.jpg
   - $img/express/cainiao2.jpg
@@ -51,7 +51,7 @@ content:
     heading: 取件提示
     text:
       - 由于菜鸟驿站允许代取，使用自己身份码扫描他人快递也可成功取出，(机器语音提示代取成功)，在扫码之前建议二次确认收件人名称，避免错拿快递造成不便与误会。
-      - 如果不幸错取他人快递，请及时联系原主，和TA协商送还，或者直接与工作人员联系存放在驿站中。
+      - 如果不幸错取他人快递，请及时联系原主，和 TA 协商送还，或者直接与工作人员联系存放在驿站中。
 
   - tag: ul
     type: warning

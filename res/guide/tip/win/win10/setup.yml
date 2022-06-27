@@ -1,6 +1,6 @@
 title: Windows 10 用户向导指引
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -12,7 +12,7 @@ content:
 
   - tag: img
     src: $img/tip/win10-setup-1.png
-    desc: 国家地区必须选择“中国”以避免后续微软商店商店、OneDrive、Office访问等的潜在问题，如果您需要其他语言请在流程完毕后在系统中设置修改语言。
+    desc: 国家地区必须选择“中国”以避免后续微软商店商店、OneDrive、Office 访问等的潜在问题，如果您需要其他语言请在流程完毕后在系统中设置修改语言。
 
   - tag: img
     src: $img/tip/win10-setup-2.png

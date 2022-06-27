@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -55,7 +55,7 @@ content:
         path: history-visit/faq
 
   - tag: list
-    header: 东师e起战疫
+    header: 东师 e 起战疫
     items:
       - text: 小程序介绍
         icon: intro

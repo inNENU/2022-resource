@@ -1,7 +1,7 @@
 title: 研究生院联系方式
 desc: |-
   信息来自东北师范大学研究生院
-time: 2021年12月3日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,7 @@ content:
     fName: 研究生院研究生招生办公室
     num: 0431-85099608
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
     mail: yzb@nenu.edu.cn
 
@@ -31,7 +31,7 @@ content:
     remark: 学籍相关问题
     num: 0431-85099629
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
 
   - tag: text
@@ -44,7 +44,7 @@ content:
     num: 0431-85098152
     workNum: 0431-85099602
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
 
   - tag: text
@@ -57,7 +57,7 @@ content:
     num: 0431-85098152
     workNum: 0431-85099602
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
 
   - tag: text
@@ -69,7 +69,7 @@ content:
     remark: 学位授予相关问题
     num: 0431-85099638
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
 
   - tag: text
@@ -81,7 +81,7 @@ content:
     remark: 学费、住宿费相关问题
     num: 0431-85099359
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024
 
   - tag: text
@@ -93,5 +93,5 @@ content:
     remark: 就业相关问题
     num: 400-998-7757
     org: 东北师范大学
-    street: 吉林省长春市人民大街5268号
+    street: 吉林省长春市人民大街 5268 号
     postCode: 130024

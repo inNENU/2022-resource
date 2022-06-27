@@ -1,6 +1,6 @@
 title: Windows 10 启动盘制作
 author: Mr.Hope
-time: 2021年12月3日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -26,7 +26,7 @@ content:
 
   - tag: img
     src: $img/tip/win10-media-4.png
-    desc: 视您使用的U盘品牌，其名称可能与图片不符
+    desc: 视您使用的 U 盘品牌，其名称可能与图片不符
 
   - tag: img
     src: $img/tip/win10-media-5.png

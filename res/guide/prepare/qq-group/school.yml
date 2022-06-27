@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2021年11月22日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -58,7 +58,7 @@ content:
 
   - tag: img
     src: $img/about/psychology-2021.png
-    desc: 心理学院新生群 (有18级辅导员)
+    desc: 心理学院新生群 (有 18 级辅导员)
 
   - tag: img
     src: $img/about/ist-2021.png

@@ -1,6 +1,6 @@
 title: 转专业
 author: Mr.Hope
-time: 2022年6月27日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -26,7 +26,7 @@ content:
     header: 相关公告
     items:
       - text: 相关公告
-        desc: 2021年
+        desc: 2021 年
         icon: notice
         path: notice
 

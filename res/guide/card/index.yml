@@ -1,7 +1,7 @@
 title: 校园卡
 grey: true
 author: Mr.Hope
-time: 2021年11月28日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -20,7 +20,7 @@ content:
 
       - text: 校园卡照片
         icon: photo
-        desc: why这么丑
+        desc: why 这么丑
         path: photo
 
       - text: 爱护校园卡

@@ -1,6 +1,6 @@
 title: 净月校区校门
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
     points:
       - latitude: 43.82853
         longitude: 125.43107
-        detail: 1号门
+        detail: 1 号门
 
   - tag: img
     src: $img/scenery/jingyue/gate/east.jpg

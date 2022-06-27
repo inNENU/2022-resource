@@ -1,6 +1,6 @@
 title: 长春站-到本部乘坐地铁
 author: Mr.Hope
-time: 2022年2月25日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -25,7 +25,7 @@ content:
       - 登上开往红嘴子方向(南)的列车
       - 乘坐 5 站到东北师大下车 (最快 8 分钟可到达)
       - 下车后从 C 出站口出站
-      - 出站后掉头向北走至[人民大街-自由大路]十字路口(站口向南)
+      - 出站后掉头向北走至 [ 人民大街-自由大路 ] 十字路口(站口向南)
       - 右转延自由大路直行，即可在右手边找到东北门。
 
   - tag: title
@@ -160,7 +160,7 @@ content:
 
   - tag: img
     src: $img/arrival/subway-nenu.jpg
-    desc: 东北师大站C出入口
+    desc: 东北师大站 C 出入口
 
   - tag: title
     text: 到达校门

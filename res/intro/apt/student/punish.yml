@@ -1,6 +1,6 @@
 title: 关于处分
 author: Mr.Hope
-time: 2022年6月27日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -37,7 +37,7 @@ content:
       - 哦对还有寝室禁止裸奔
 
   - tag: text
-    text: 没人真的会这么做吧hhh
+    text: 没人真的会这么做吧 hhh
     style:
       text-decoration: line-through
 

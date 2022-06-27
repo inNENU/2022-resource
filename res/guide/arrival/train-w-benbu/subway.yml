@@ -1,6 +1,6 @@
 title: 长春西站-到本部乘坐地铁
 author: Mr.Hope
-time: 2022年2月25日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -23,14 +23,14 @@ content:
   - tag: ol
     text:
       - 从长春站出站
-      - 前往地铁2号线“长春西站”站点
+      - 前往地铁 2 号线“长春西站”站点
       - 登上开往东方广场方向(东)的列车
       - 乘坐 9 站到解放大路下车
       - 站内换乘地铁 1 号线 (下楼)
       - 登上开往红嘴子方向(南)的列车
       - 乘坐 1 站在“东北师大”站下车
       - 下车后从 C 出站口出站
-      - 出站后掉头向北走至[人民大街-自由大路]十字路口(站口向南)
+      - 出站后掉头向北走至 [ 人民大街-自由大路 ] 十字路口(站口向南)
       - 右转延自由大路直行，即可在右手边找到东北门。
 
   - tag: title
@@ -62,11 +62,11 @@ content:
 
   - tag: img
     src: $img/arrival/train-west-subway-entrance1.jpg
-    desc: 2号线“长春西站”入口
+    desc: 2 号线“长春西站”入口
 
   - tag: img
     src: $img/arrival/train-west-subway-entrance2.jpg
-    desc: 2号线“长春西站”站台扶梯入口
+    desc: 2 号线“长春西站”站台扶梯入口
 
   - tag: text
     text:
@@ -129,7 +129,7 @@ content:
       - 扫码进站时，出站也需扫相同的码
 
   - tag: ul
-    heading: 2号线转1号线换乘提示
+    heading: 2 号线转 1 号线换乘提示
     text:
       - 请注意解放大路站开另一侧的门，地铁铁路在站台中间，乘客在两侧站台下车。
       - 下车走过通道后，请左转掉头下楼乘坐 1 号线，不要错误刷卡或扫码直行出站。
@@ -153,7 +153,7 @@ content:
 
   - tag: img
     src: $img/arrival/subway-nenu.jpg
-    desc: 东北师大站C出口
+    desc: 东北师大站 C 出口
 
   - tag: title
     text: 到达校门

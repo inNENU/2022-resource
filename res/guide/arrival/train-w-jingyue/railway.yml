@@ -1,6 +1,6 @@
 title: 长春西站-到净月-轨道交通
 author: Mr.Hope
-time: 2022年2月25日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -11,7 +11,7 @@ content:
     type: info
     heading: 运营时间
     text:
-      - 轨道交通末班车都在21点左右。
+      - 轨道交通末班车都在 21 点左右。
       - 其他时间请选择打车去宾馆 (别想着报到了)。
       - 详细的地铁时刻表请详见“地铁运营时间”
     path: /guide/traffic/railway/time
@@ -22,8 +22,8 @@ content:
 
   - tag: ul
     text:
-      - 2号线转1号线转3号线
-      - 2号线转4号线转3号线
+      - 2 号线转 1 号线转 3 号线
+      - 2 号线转 4 号线转 3 号线
 
   - tag: text
     type: tip
@@ -35,10 +35,10 @@ content:
     text: 路线流程
 
   - tag: ol
-    heading: 2号线转1号线转3号线
+    heading: 2 号线转 1 号线转 3 号线
     text:
       - 从长春站出站
-      - 前往地铁2号线“长春西站”站点
+      - 前往地铁 2 号线“长春西站”站点
       - 登上开往东方广场方向(东)的列车
       - 乘坐 9 站到解放大路下车
       - 站内换乘地铁 1 号线 (下楼)
@@ -50,10 +50,10 @@ content:
       - 下车出站后右转(向西南)直行，即可在右手侧看到 1 号门
 
   - tag: ol
-    heading: 2号线转4号线转3号线
+    heading: 2 号线转 4 号线转 3 号线
     text:
       - 从长春站出站
-      - 前往地铁2号线“长春西站”站点
+      - 前往地铁 2 号线“长春西站”站点
       - 登上开往东方广场方向(东)的列车
       - 乘坐 12 站到解放大路下车
       - 站内换乘轻轨 4 号线
@@ -89,11 +89,11 @@ content:
 
   - tag: img
     src: $img/arrival/train-west-subway-entrance1.jpg
-    desc: 2号线“长春西站”入口
+    desc: 2 号线“长春西站”入口
 
   - tag: img
     src: $img/arrival/train-west-subway-entrance2.jpg
-    desc: 2号线“长春西站”站台扶梯入口
+    desc: 2 号线“长春西站”站台扶梯入口
 
   - tag: text
     text:
@@ -160,7 +160,7 @@ content:
     text: 请不要忘记在相应站点下车换乘或出站!
 
   - tag: ul
-    heading: 2号线转1号线换乘提示
+    heading: 2 号线转 1 号线换乘提示
     text:
       - 请注意解放大路站开另一侧的门，地铁铁路在站台中间，乘客在两侧站台下车。
       - 下车走过通道后，请左转掉头下楼乘坐 1 号线，不要错误刷卡或扫码直行出站。

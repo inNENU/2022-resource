@@ -1,6 +1,6 @@
 title: 自助终端机
 author: Mr.Hope
-time: 2021年11月14日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -38,11 +38,11 @@ content:
 
       - latitude: 43.863661
         longitude: 125.337605
-        name: 三舍A入口
+        name: 三舍 A 入口
 
       - latitude: 43.863613
         longitude: 125.336914
-        name: 三舍B入口
+        name: 三舍 B 入口
 
   - tag: ul
     heading: 净月校区

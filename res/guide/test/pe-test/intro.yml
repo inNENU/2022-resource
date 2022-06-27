@@ -1,6 +1,6 @@
 title: 体测简介
 author: Mr.Hope
-time: 2022年6月27日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -14,9 +14,9 @@ content:
   - tag: ul
     text:
       - |-
-        大一大二: 60分
+        大一大二: 60 分
       - |-
-        大三大四: 50分
+        大三大四: 50 分
 
   - tag: text
     type: note
@@ -44,7 +44,7 @@ content:
 
   - tag: ul
     text:
-      - 因病因事无法参加测试、或测试不合格的，可在大四学年的春季学期(一般安排在4月末5月初)再测试一次。
+      - 因病因事无法参加测试、或测试不合格的，可在大四学年的春季学期(一般安排在 4 月末 5 月初)再测试一次。
 
   - tag: text
     type: info
@@ -60,7 +60,7 @@ content:
 
   - tag: text
     text:
-      - 体测成绩为 标准分(100分) + 附加分(20分)，满分为 120 分。
+      - 体测成绩为 标准分(100 分) + 附加分(20 分)，满分为 120 分。
 
   - tag: ul
     text:

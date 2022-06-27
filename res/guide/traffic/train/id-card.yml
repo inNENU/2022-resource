@@ -1,6 +1,6 @@
 title: 临时身份证
 author: Mr.Hope
-time: 2021年12月25日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
@@ -32,7 +32,7 @@ content:
     type: warning
     text:
       - 只能本人亲自办理，办理时需本人在摄像头前进行人脸识别。
-      - 18岁以下的旅客不能在自助制证设备上办理临时身份证明，需要到制证窗口进行办理。
+      - 18 岁以下的旅客不能在自助制证设备上办理临时身份证明，需要到制证窗口进行办理。
 
   - tag: title
     text: 常见问题

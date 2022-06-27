@@ -1,6 +1,6 @@
 title: 信息化办
 author: Mr.Hope
-time: 2021年11月22日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: account
@@ -77,9 +77,9 @@ content:
     text: 上述为本部电话，可用时间同本部工作时间。
 
   - tag: phone
-    header: 24小时自助服务电话
+    header: 24 小时自助服务电话
     num: 0431-85099119
-    fName: 信息化办24小时自助服务电话
+    fName: 信息化办 24 小时自助服务电话
     org: 东北师范大学
     site: https://xxhb.nenu.edu.cn/
 
@@ -87,5 +87,5 @@ content:
     heading: "其他联系方式"
     text:
       - "微信公众平台: 东师信息化办"
-      - "官方QQ: 1309969928"
+      - "官方 QQ: 1309969928"
       - "电子邮件: xxhb@nenu.edu.cn"

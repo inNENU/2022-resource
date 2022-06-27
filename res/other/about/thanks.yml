@@ -1,6 +1,6 @@
 title: 致谢名单
 author: Mr.Hope
-time: 2021年12月20日
+time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
 
   - tag: p
     heading: 校会旧版网站录入
-    text: 感谢陈旭、董雨馨、傅阳、林传舜、沈竞泽、孙祎凡、苏炀、邱诗懿、王一竹、张霁月在in东师早期版本中，对页面编写、文字排版与订正上给予的无私帮助。
+    text: 感谢陈旭、董雨馨、傅阳、林传舜、沈竞泽、孙祎凡、苏炀、邱诗懿、王一竹、张霁月在 in 东师早期版本中，对页面编写、文字排版与订正上给予的无私帮助。
 
   - tag: ul
     heading: 历史图标
@@ -26,19 +26,19 @@ content:
     text: 捐赠支持
 
   - tag: text
-    text: in东师的持续运行离不开大家的支持，感谢你们!
+    text: in 东师的持续运行离不开大家的支持，感谢你们!
 
   - tag: list
     header: 感谢名单
     items:
-      - text: 2018年
+      - text: 2018 年
         url: page?path=Odonate/2018
 
-      - text: 2019年
+      - text: 2019 年
         url: page?path=Odonate/2019
 
-      - text: 2020年
+      - text: 2020 年
         url: page?path=Odonate/2020
 
-      - text: 2021年
+      - text: 2021 年
         url: page?path=Odonate/2021
