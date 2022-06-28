@@ -1,6 +1,6 @@
 title: 信息科学与技术学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -30,10 +30,10 @@ content:
       - text: 计算机类
         path: class
 
-      - text: 教育技术学 (公费示范)
+      - text: 教育技术学 (公费师范)
         path: tech-normal
 
-      - text: 计算机科学与技术(中外合作办学)
+      - text: 计算机科学与技术 (中外合作办学)
         path: science-cop
 
   - tag: text

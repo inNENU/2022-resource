@@ -1,6 +1,6 @@
 title: 历史文化学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -28,9 +28,9 @@ content:
       - text: 历史学
         path: history
 
-      - text: 旅游管理
-        path: travel
-        desc: 已停招
+      # - text: 旅游管理
+      #   path: travel
+      #   desc: 已停招
 
   - tag: title
     text: 历史文化学院硕士专业设置

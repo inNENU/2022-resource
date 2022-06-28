@@ -28,12 +28,12 @@ content:
       - text: 会计学
         path: accountant
 
-  - tag: list
-    header: 经济学
-    items:
       - text: 市场营销
         path: market
 
+  - tag: list
+    header: 经济学
+    items:
       - text: 经济学
         path: economy
 

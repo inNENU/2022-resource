@@ -1,15 +1,15 @@
 title: 心理学院招生
 desc: 研究生招生信息来自研究生院
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
     text: 本科专业
 
-  - tag: ul
+  - tag: p
     text:
-      - 心理学专业，招生类别为师范类，授予心理学理学学士学位。
+      - 心理学院开设心理学本科专业，招生类别为师范类，授予心理学理学学士学位。
       - 学费为 3850 元/年。
 
   - tag: list
@@ -18,7 +18,7 @@ content:
       - text: 心理学
         path: psychology
 
-      - text: 心理学(公费师范)
+      - text: 心理学 (公费师范)
         path: normal
 
   - tag: text

@@ -1,7 +1,7 @@
 title: 企业微信号
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: list
@@ -27,7 +27,7 @@ content:
         path: /guide/card/charge/wechat
 
       - text: 校园网充值
-        icon: card
+        icon: network
         path: /guide/network/charge/wechat
 
   - tag: img
