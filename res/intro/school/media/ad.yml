@@ -1,6 +1,10 @@
 title: 广告学专业
-desc: "来源: 传媒科学学院官网"
-time: 2022 年 6 月 27 日
+desc: |-
+  来源: 2022 本科招生指南、传媒科学学院官网
+time: 2022 年 6 月 28 日
+cite:
+  - https://book.eol.cn/books/cusm/mobile/index.html
+  - http://chuanmei.nenu.edu.cn/yxsz/ggxx.htm
 shareable: true
 content:
   - tag: title
@@ -70,4 +74,4 @@ content:
     text: 就业方向
 
   - tag: text
-    text: 广告创意与策划、品牌运营、整合营销传播等 3 个专业方向，就业主要面向广告公司、新闻媒体、网络媒体、市场调查及信息咨询机构、企事业单位的营销部门、宣传部门、公关部门以及电子商务等领域。
+    text: 广告学有广告创意与策划、品牌运营、整合营销传播等 3 个专业方向，就业主要面向广告公司、新闻媒体、网络媒体、市场调查及信息咨询机构、企事业单位的营销部门、宣传部门、公关部门以及电子商务等领域。

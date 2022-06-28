@@ -1,6 +1,6 @@
 title: 地理科学学院专业
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
   - tag: list
     header: 各专业介绍
     items:
-      - text: 地理科学(公费师范)
+      - text: 地理科学 (公费师范)
         path: normal
 
       - text: 地理科学类

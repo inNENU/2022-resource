@@ -1,6 +1,6 @@
 title: 体育学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -25,6 +25,9 @@ content:
     items:
       - text: 体育教育 (含公费师范)
         path: education
+
+      - text: 冰雪运动
+        path: ice
 
       - text: 运动训练
         path: sport

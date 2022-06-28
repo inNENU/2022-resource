@@ -1,6 +1,6 @@
 title: 地理科学类介绍
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
   - tag: list
     header: false
     items:
-      - text: 地理科学(普通类)
+      - text: 地理科学
         path: geography
 
       - text: 人文地理与城乡规划
