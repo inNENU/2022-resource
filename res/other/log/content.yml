@@ -1,7 +1,103 @@
 title: 内容更新日志
 content:
   - tag: title
-    text: 12/29
+    text: 2022/06/27
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 新增 2022 本科招生指南
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新 2022 招生专业
+      - 更新本科专业介绍与招生情况
+
+  - tag: title
+    text: 2022/06/18
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 新增招生咨询群
+      - 新增招生咨询活动信息
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修复招生 FAQ 中有变动的部分
+
+  - tag: title
+    text: 2022/06/11
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 新增优师计划招生简章
+
+  - tag: title
+    text: 2022/05/23
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 新增 2022 年本科招生简章
+      - 新增杰出人才页面
+      - 新增研究生调档、党团关系的等页面
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新学校教师人数等数据
+
+  - tag: title
+    text: 2022/02/25
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新地铁运行情况
+
+  - tag: title
+    text: 2022/01/24
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新教师资格证相关时间
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修订老乡群
+
+  - tag: title
+    text: 2022/01/17
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新招生计划
+
+  - tag: title
+    text: 2022/01/06
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 研究生评教
+
+  - tag: title
+    text: 2022/01/05
+
+  - tag: ul
+    heading: 新增
+    text:
+      - NCRE 大纲，考试内容等
+
+  - tag: title
+    text: 2021/12/29
 
   - tag: ul
     heading: 新增
@@ -14,7 +110,7 @@ content:
       - NCRE 介绍
 
   - tag: title
-    text: 12/25
+    text: 2021/12/25
 
   - tag: ul
     heading: 新增
@@ -23,7 +119,7 @@ content:
       - 火车站补办临时身份证
 
   - tag: title
-    text: 12/19
+    text: 2021/12/19
 
   - tag: ul
     heading: 新增
@@ -39,7 +135,7 @@ content:
       - 互联网购票相关规定
 
   - tag: title
-    text: 12/15
+    text: 2021/12/15
 
   - tag: ul
     heading: 新增
@@ -108,7 +204,7 @@ content:
       - 选课详情更新
 
   - tag: title
-    text: 11/28
+    text: 2021/11/28
 
   - tag: ul
     heading: 新增
@@ -127,7 +223,7 @@ content:
       - 错字与格式修复
 
   - tag: title
-    text: 11/27
+    text: 2021/11/27
 
   - tag: ul
     heading: 新增
@@ -140,7 +236,7 @@ content:
       - Windows 11 用户向导指引
 
   - tag: title
-    text: 11/26
+    text: 2021/11/26
 
   - tag: ul
     heading: 新增
@@ -162,7 +258,7 @@ content:
       - 错字与格式修复
 
   - tag: title
-    text: 11/25
+    text: 2021/11/25
 
   - tag: ul
     heading: 新增
@@ -171,7 +267,7 @@ content:
       - 冬季保暖指南
 
   - tag: title
-    text: 11/24
+    text: 2021/11/24
 
   - tag: ul
     heading: 新增
@@ -181,7 +277,7 @@ content:
       - 东北部分习俗文化介绍
 
   - tag: title
-    text: 11/23
+    text: 2021/11/23
 
   - tag: ul
     heading: 新增
@@ -199,7 +295,7 @@ content:
       - 部分页面新增原文链接
 
   - tag: title
-    text: 11/22
+    text: 2021/11/22
 
   - tag: ul
     heading: 新增
@@ -212,7 +308,7 @@ content:
       - 小贴士中的手洗技巧
 
   - tag: title
-    text: 11/21
+    text: 2021/11/21
 
   - tag: ul
     heading: 新增
@@ -227,7 +323,7 @@ content:
       - 更新四六级介绍
 
   - tag: title
-    text: 11/20
+    text: 2021/11/20
 
   - tag: ul
     heading: 新增
@@ -243,7 +339,7 @@ content:
       - 更新吉祥码流程图片
 
   - tag: title
-    text: 11/19
+    text: 2021/11/19
 
   - tag: ul
     heading: 更新
@@ -253,7 +349,7 @@ content:
       - 生活等大量地点新增地图点位组件
 
   - tag: title
-    text: 11/17
+    text: 2021/11/17
 
   - tag: ul
     heading: 更新
@@ -262,7 +358,7 @@ content:
       - 更新临时取件点图片
 
   - tag: title
-    text: 11/16
+    text: 2021/11/16
 
   - tag: ul
     heading: 新增
@@ -277,7 +373,7 @@ content:
       - 本部菜鸟驿站介绍
 
   - tag: title
-    text: 11/15
+    text: 2021/11/15
 
   - tag: ul
     heading: 新增
@@ -285,7 +381,7 @@ content:
       - 小程序隐私说明
 
   - tag: title
-    text: 11/14
+    text: 2021/11/14
 
   - tag: ul
     heading: 新增
@@ -298,7 +394,7 @@ content:
       - 修正一些排版和错字问题
 
   - tag: title
-    text: 11/13
+    text: 2021/11/13
 
   - tag: ul
     heading: 更新
@@ -311,7 +407,7 @@ content:
       - 修正一些排版和错字问题
 
   - tag: title
-    text: 11/12
+    text: 2021/11/12
 
   - tag: ul
     heading: 更新
@@ -320,7 +416,7 @@ content:
       - 更新大体介绍
 
   - tag: title
-    text: 11/11
+    text: 2021/11/11
 
   - tag: ul
     heading: 更新
@@ -329,7 +425,7 @@ content:
       - 东师之声校园广播站介绍
 
   - tag: title
-    text: 11/10
+    text: 2021/11/10
 
   - tag: ul
     heading: 更新
