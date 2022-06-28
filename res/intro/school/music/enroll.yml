@@ -1,6 +1,6 @@
 title: 音乐学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -19,10 +19,12 @@ content:
 
   - tag: list
     items:
-      - text: 音乐(师范类)
+      - text: |-
+          音乐 (师范: 钢琴、声乐)
         path: normal
 
-      - text: 音乐(普通类)
+      - text: |-
+          音乐 (普通: 器乐)
         path: music
 
       - text: 舞蹈编导
