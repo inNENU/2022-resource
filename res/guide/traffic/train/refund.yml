@@ -1,6 +1,6 @@
 title: 退票相关
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 cite:
   - https://kyfw.12306.cn/otn/gonggao/windowRefund.html
@@ -34,7 +34,7 @@ content:
     heading: 妥善保存报销凭证
     text:
       - 已打印报销凭证的铁路电子客票办理改签、退票手续时，旅客须交回报销凭证。
-      - 如有遗失、污损、票面不完整等情况,车站将无法返款。
+      - 如有遗失、污损、票面不完整等情况，车站将无法返款。
 
   - tag: title
     text: 退票手续费

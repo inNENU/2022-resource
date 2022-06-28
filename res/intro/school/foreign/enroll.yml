@@ -1,6 +1,6 @@
 title: 外国语学院专业
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 28 日
 shareable: true
 content:
   - tag: title
@@ -10,15 +10,17 @@ content:
     text:
       - "英语(公费师范): ￥0/年"
       - "英语: ￥5060/年"
+      - "英语(中外合作办学): ￥19000元/年"
       - "日语: ￥3850/年"
       - "俄语: ￥3850/年"
+      - "德语: ￥3850/年"
       - "商务英语: ￥5060/年"
 
   - tag: ul
     type: warning
     text:
-      - “英语(公费师范)”和“英语”在本部校区外国语学院
-      - “日语”、“俄语”、“商务英语”在净月校区外国语学院
+      - “英语(公费师范)”和“英语”在本部校区外国语学院。
+      - “日语”、“俄语”、、“德语”、“商务英语”在净月校区外国语学院。
 
   - tag: text
     heading: 专业介绍视频
@@ -37,8 +39,14 @@ content:
       - text: 俄语
         path: russia
 
+      - text: 德语
+        path: german
+
       - text: 商务英语
         path: business
+
+      - text: 英语 (中外合作办学)
+        path: english-cop
 
   - tag: title
     text: 硕士研究生招生概况
