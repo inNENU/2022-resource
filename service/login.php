@@ -31,4 +31,6 @@ $secret = $AppSecretList[$appID];
 $url =  'https://api.' . ($env === 'qq' ? 'q' : 'weixin') . '.qq.com/sns/jscode2session?appid=' . $appID . '&secret=' . $secret . '&js_code=' . $code . '&grant_type=authorization_code';
 
 $response = curlGet($url);
-echo $response;
+$result = json_decode($response, true);
+unset($result['session_key']);
+echo (json_encode($result, 320));
