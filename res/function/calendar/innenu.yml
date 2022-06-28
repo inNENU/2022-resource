@@ -166,3 +166,8 @@ content:
     icon: ./icon/flag.svg
     text: |-
       V5 版本发布
+
+  - title: 2022 年 6 月
+    icon: ./icon/flag.svg
+    text: |-
+      小程序突破 60 万字
