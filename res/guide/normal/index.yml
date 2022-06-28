@@ -1,6 +1,6 @@
 title: 师范生介绍
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 29 日
 grey: true
 shareable: true
 content:
@@ -36,8 +36,27 @@ content:
         path: great-contract
 
   - tag: list
+    header: 师范类专业认证
+    items:
+      - text: 普通高等学校师范类专业认证实施办法 (暂行)
+        icon: rule
+        path: authorize/rule
+
+      - text: 师范类专业认证解释
+        icon: idea
+        path: authorize/explain
+
+  - tag: list
     header: 常见问题
     items:
+      - text: 师范类专业与公费师范生解释
+        icon: idea
+        path: explain
+
       - text: 公费师范生常见问题
         icon: faq
         path: free-faq
+
+      - text: 优师专项师范生常见问题
+        icon: faq
+        path: great-faq
