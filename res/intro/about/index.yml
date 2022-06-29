@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 29 日
 shareable: true
 content:
   - tag: list
@@ -36,15 +36,11 @@ content:
 
       - text: 学科建设
         icon: content
-        path: subject
+        path: ../subject/
 
       - text: 东师排名
         icon: rank
         path: rank
-
-      - text: 专业排名
-        icon: rank
-        path: major-rank
 
       - text: 对外合作办学
         icon: student-org

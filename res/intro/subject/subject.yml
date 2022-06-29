@@ -1,5 +1,5 @@
 title: 学科建设
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 29 日
 shareable: true
 cite: http://fzghc.nenu.edu.cn/xkjs/xkgk.htm
 content:
@@ -19,8 +19,17 @@ content:
   - tag: title
     text: 国家重点学科
 
-  - tag: p
-    text: "东北师范大学有 5 个国家重点学科，分别是: 思想政治教育、教育学原理、世界史、细胞生物学、生态学。"
+  - tag: text
+    text: |-
+      东北师范大学有 5 个国家重点学科:
+
+  - tag: ul
+    text:
+      - 思想政治教育
+      - 教育学原理
+      - 世界史
+      - 细胞生物学
+      - 生态学
 
   - tag: title
     text: 吉林省特色高水平学科

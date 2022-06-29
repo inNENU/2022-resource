@@ -43,7 +43,7 @@ content:
 
       - text: 学科建设
         icon: content
-        path: /intro/about/subject
+        path: /intro/subject/
 
       - text: 东师排名
         icon: rank
@@ -51,7 +51,7 @@ content:
 
       - text: 专业排名
         icon: rank
-        path: /intro/about/major-rank
+        path: /intro/subject/rank
 
       - text: 对外合作办学
         icon: student-org

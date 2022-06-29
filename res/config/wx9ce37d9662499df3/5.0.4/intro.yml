@@ -12,6 +12,12 @@ content:
         icon: about
         path: intro/about/
 
+      - text: 学科建设
+        color: olive
+        name: Subject
+        icon: content
+        path: intro/subject/
+
       - text: 招生概况
         color: orange
         name: Enroll
