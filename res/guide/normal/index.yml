@@ -49,6 +49,10 @@ content:
   - tag: list
     header: 常见问题
     items:
+      - text: 公费师范生转专业相关解答
+        icon: faq
+        path: /guide/change-major/faq
+
       - text: 师范类专业与公费师范生解释
         icon: idea
         path: explain

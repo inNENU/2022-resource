@@ -1,7 +1,7 @@
 title: 本科招生
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 28 日
+time: 2022 年 6 月 29 日
 shareable: true
 content:
   - tag: list
@@ -51,6 +51,10 @@ content:
       - text: 报考相关
         icon: apply
         path: faq/apply
+
+      - text: 公费师范生相关
+        icon: teacher
+        path: /guide/normal/
 
       - text: 录取相关
         icon: letter

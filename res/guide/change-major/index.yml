@@ -1,10 +1,14 @@
 title: 转专业
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 29 日
 shareable: true
 content:
   - tag: title
     text: 本科生转专业
+
+  - tag: text
+    type: tip
+    text: 受疫情影响，2022 年转专业工作尚未开始。
 
   - tag: list
     header: 规则与流程

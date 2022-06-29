@@ -1,13 +1,16 @@
 title: 官方招生咨询群
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 29 日
 shareable: true
 content:
   - tag: title
     text: 各学院招生咨询群
 
   - tag: img
-    src: $img/enroll/school-2022.jpg
+    src: $img/enroll/school-2022-1.jpg
+
+  - tag: img
+    src: $img/enroll/school-2022-2.jpg
 
   - tag: title
     text: 各省份招生咨询群
