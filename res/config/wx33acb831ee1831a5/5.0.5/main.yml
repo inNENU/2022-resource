@@ -104,6 +104,12 @@ content:
         icon: content
         path: guide/course/
 
+      - text: 找到组织
+        color: olive
+        name: Contact
+        icon: qq-group
+        path: guide/prepare/qq-group/
+
       - text: 学习
         color: mauve
         name: Study

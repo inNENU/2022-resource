@@ -24,6 +24,12 @@ content:
         icon: enroll
         path: intro/enroll/
 
+      - text: 学生就业
+        color: cyan
+        name: Job
+        icon: job
+        path: intro/job/
+
       - text: 资助
         color: purple
         name: Subsidize

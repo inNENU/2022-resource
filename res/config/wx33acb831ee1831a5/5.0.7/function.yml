@@ -22,7 +22,7 @@ content:
   #   url: music
 
   # - tag: card
-  #   src: $img/tab/video.jpg
+  #   cover: $img/tab/video.jpg
   #   title: 影约东师
   #   logo: media
   #   url: video?type=video
@@ -34,7 +34,7 @@ content:
     url: PEcal
 
   # - tag: card
-  #   src: $img/tab/media.jpg
+  #   cover: $img/tab/media.jpg
   #   title: 校园媒体
   #   logo: account
   #   url: account
