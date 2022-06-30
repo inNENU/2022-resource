@@ -1,6 +1,6 @@
 {
   "name": "innenu-server",
-  "version": "3.0.0-alpha.1",
+  "version": "2022.6.30",
   "private": true,
   "description": "inNENU 小程序资源文件",
   "repository": {
@@ -39,7 +39,7 @@
     "dotenv": "16.0.1",
     "eslint": "8.18.0",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-prettier": "4.1.0",
+    "eslint-plugin-prettier": "4.2.1",
     "ftp-hope": "0.1.1",
     "husky": "8.0.1",
     "js-yaml": "4.1.0",
@@ -52,5 +52,5 @@
     "tslib": "2.4.0",
     "typescript": "4.7.4"
   },
-  "packageManager": "pnpm@7.4.0"
+  "packageManager": "pnpm@7.4.1"
 }
