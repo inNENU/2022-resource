@@ -1,6 +1,6 @@
 title: 长春站-到本部
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 30 日
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
     items:
       - type: navigator
         text: 长春站北出口导航到本部
-        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in 东师&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站 B1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=东师青年+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站 B1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
     env:
       - wx
 

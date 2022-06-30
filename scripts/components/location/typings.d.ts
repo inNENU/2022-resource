@@ -22,7 +22,7 @@ export interface LocationComponentOptions extends BaseComponentOptions {
   /**
    * 是否可以导航
    *
-   * @default false
+   * @default true
    */
   navigate?: boolean;
 }

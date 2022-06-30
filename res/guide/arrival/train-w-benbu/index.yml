@@ -1,6 +1,6 @@
 title: 长春西站-到本部
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 6 月 30 日
 shareable: true
 content:
   - tag: title
@@ -13,11 +13,11 @@ content:
     items:
       - type: navigator
         text: 长春西站南 1 出口导航到本部
-        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in 东师&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=东师青年+&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
 
       - type: navigator
         text: 长春西站南 2 出口导航到本部
-        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=in 东师&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4&referer=东师青年+&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"&mode=transit&themeColor=#2ecc71
     env:
       - wx
 
