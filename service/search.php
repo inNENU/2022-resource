@@ -15,9 +15,9 @@
 
 declare(strict_types=1);
 
-require_once('./header/post-json.php');
+require_once 'header/post-json.php';
 
-function generateWordInfo($word)
+function generateWordInfo(string $word): object
 {
   return (object) [
     'text' => $word,
@@ -35,10 +35,10 @@ function generateWordInfo($word)
  * }
  * ```
  *
- * @param string $word 搜索词
+ * @param $word 搜索词
  * @return [word: WordInfo[], index: WordInfo[]]
  */
-function generateWords($searchWord)
+function generateWords(string $searchWord): array
 {
   $length = mb_strlen($searchWord);
 
@@ -86,7 +86,7 @@ function generateWords($searchWord)
  *
  * @return string[] 匹配的候选词列表
  */
-function getWordList($searchWord, $searchIndex)
+function getWordList(string $searchWord, array $searchIndex): array
 {
   $TITLE = 1;
   $HEADING = 2;
@@ -117,7 +117,7 @@ function getWordList($searchWord, $searchIndex)
   return $words;
 }
 
-function getMatchList($words, $indexContent)
+function getMatchList(array $words, array $indexContent)
 {
   $TITLE = 1;
   $HEADING = 2;
@@ -271,7 +271,7 @@ function getMatchList($words, $indexContent)
  * 
  * @return SearchResult[] 匹配的结果列表
  */
-function getResult($searchWord, $searchIndex)
+function getResult(string $searchWord, object $searchIndex)
 {
   $wordsInfo = generateWords($searchWord);
   $result = [];

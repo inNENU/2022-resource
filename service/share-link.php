@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-require_once('./header/post-json.php');
+require_once 'header/post-json.php';
 
 $data = json_decode(file_get_contents('php://input'));
 $appID = $data->appID;

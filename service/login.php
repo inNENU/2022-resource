@@ -15,8 +15,8 @@
 
 declare(strict_types=1);
 
-require_once('./header/post-json.php');
-require_once('./lib/curl.php');
+require_once 'header/post-json.php';
+require_once 'lib/curl.php';
 require_once('./info/appid.php');
 
 // 获得传递数据
