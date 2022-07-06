@@ -14,33 +14,30 @@
  */
 
 declare(strict_types=1);
-require_once('./header/post-json.php');
-require_once('./lib/curl.php');
+require_once 'header/post-json.php';
+require_once 'lib/curl.php';
 
 /**
  * 获得天气代码
  * 
- * @param string $icon 天气代码
- * @param string $isday 当前是否是白天
+ * @param $icon 天气代码
+ * @param $isday 当前是否是白天
  */
-function getWeatherCode($icon, $isday)
+function getWeatherCode(string $icon, bool $isday)
 {
   return (
     ($icon === "00" || $icon === "01" || $icon === "03" || $icon === "13"
       ? ($isday ? "day/" : "night/")
       : "") . $icon);
-}
+};
 
 /**
  * 对字符串键值进行排序
- *
- * @param string $a 键值 a
- * @param string $b 键值 b
  */
-function sortKey($a, $b)
+function sortKey(string $a, string $b)
 {
-  return number_format($a) - number_format($b);
-}
+  return intval($a) - intval($b);
+};
 
 // 获得天气
 $weather = curlGet("https://wis.qq.com/weather/common?source=xw&weather_type=observe|rise|air|forecast_1h|forecast_24h|index|alarm|limit|tips&province=吉林&city=长春&county=南关");
