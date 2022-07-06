@@ -1,10 +1,18 @@
 title: 登陆选课系统
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 6 日
 shareable: true
 content:
+  - tag: text
+    type: warning
+    heading: 系统兼容性
+    text:
+      - 由于选课研发于 21 世纪初期，请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器存在兼容性问题，无法正确显示选课弹窗。
+      - 具体的限制及注意事项请点击查看。
+    path: /guide/tip/ie/
+
   - tag: title
-    text: 进入选课系统
+    text: 校内进入选课系统
 
   - tag: text
     heading: 本科生
@@ -20,13 +28,24 @@ content:
   - tag: action
     content: http://dsyjs.nenu.edu.cn/yjsxk/
 
+  - tag: title
+    text: 校外进入选课系统
+
   - tag: text
-    type: warning
-    heading: 系统兼容性
-    text:
-      - 由于选课研发于 21 世纪初期，请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器存在兼容性问题，无法正确显示选课弹窗。
-      - 具体的限制及注意事项请点击查看。
-    path: /guide/tip/ie/
+    text: 打开浏览器输入 https://webvpn.nenu.edu.cn/ 进入 Web VPN 并登录。
+
+  - tag: action
+    content: https://webvpn.nenu.edu.cn/
+
+  - tag: list
+    header: false
+    items:
+      - text: VPN 介绍
+        icon: vpn
+        path: /guide/network/vpn
+
+  - tag: text
+    text: 之后选择选课系统进入。
 
   - tag: title
     text: 用户名与密码
