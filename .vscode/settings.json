@@ -1,0 +1,9 @@
+{
+  "yaml.schemas": {
+    "./res.schema.json": [
+      "/res/guide/**/*.yml",
+      "/res/intro/**/*.yml",
+      "/res/other/**/*.yml"
+    ]
+  }
+}
