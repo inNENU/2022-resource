@@ -11,7 +11,7 @@
     "location": {
       "type": "object",
       "properties": {
-        "longtidude": {
+        "longitude": {
           "description": "经度",
           "type": "number"
         },
@@ -20,13 +20,13 @@
           "type": "number"
         }
       },
-      "required": ["longtidude", "latitude"],
+      "required": ["longitude", "latitude"],
       "additionalProperties": false
     },
     "point": {
       "type": "object",
       "properties": {
-        "longtidude": {
+        "longitude": {
           "description": "经度",
           "type": "number"
         },
@@ -47,7 +47,7 @@
           "type": "string"
         }
       },
-      "required": ["longtidude", "latitude"],
+      "required": ["longitude", "latitude"],
       "additionalProperties": false
     },
     "style-object": {

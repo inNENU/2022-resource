@@ -1,6 +1,6 @@
 title: 无线上网(Wifi)
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
   - tag: text
     type: tip
     text:
-      - 如果网费余额用光，您将无法通过 WiFi 认证 (提示余额不足)，只能连接上 WiFi 但不能上网。所以如果您发现无法上网，请先排除自己是否欠费。
+      - 如果网费余额用光，您将无法通过 Wifi 认证 (提示余额不足)，只能连接上 Wifi 但不能上网。所以如果您发现无法上网，请先排除自己是否欠费。
 
   - tag: list
     header: 认证相关

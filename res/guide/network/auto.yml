@@ -1,13 +1,13 @@
 title: 无感知认证
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
 content:
   - tag: title
     text: 介绍
 
   - tag: text
-    text: 校园网提供了“无感知认证”功能，可以在设备连接 WiFi 之后登陆完成认证。
+    text: 校园网提供了“无感知认证”功能，可以在设备连接 Wifi 之后登陆完成认证。
 
   - tag: text
     type: info
