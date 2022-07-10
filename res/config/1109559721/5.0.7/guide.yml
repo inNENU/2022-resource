@@ -12,11 +12,11 @@ content:
         icon: prepare
         path: guide/prepare/
 
-      # - text: 找到组织
-      #   color: olive
-      #   name: Contact
-      #   icon: qq-group
-      #   path: guide/prepare/qq-group/
+      - text: 找到组织
+        color: olive
+        name: Contact
+        icon: qq-group
+        path: guide/prepare/qq-group/
 
       - text: 新生入学教育
         color: blue
