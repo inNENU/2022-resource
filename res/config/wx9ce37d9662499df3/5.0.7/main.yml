@@ -14,12 +14,15 @@ content:
         path: intro/enroll/under/search
 
       - text: 研究生调档
+        icon: archive
         path: guide/archive/post-in
 
       - text: 研究生党员组织关系接转
+        icon: league
         path: guide/prepare/league
 
       - text: 研究生团员组织关系接转
+        icon: league
         path: guide/prepare/group
 
   # - tag: text
@@ -44,6 +47,24 @@ content:
   - tag: grid
     header: 您可能想关注
     items:
+      - text: 入学准备
+        color: red
+        name: Prepare
+        icon: prepare
+        path: guide/prepare/
+
+      - text: 找到组织
+        color: olive
+        name: Contact
+        icon: qq-group
+        path: guide/prepare/qq-group/
+
+      - text: 需带物品
+        color: olive
+        name: Necessity
+        icon: necessity
+        path: guide/necessity/
+
       - text: 寝室
         color: blue
         name: Dorm
@@ -56,11 +77,41 @@ content:
         icon: dining
         path: guide/dining/
 
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: express
+        path: guide/express/
+
+      - text: 超市
+        color: olive
+        name: Shop
+        icon: shop
+        path: guide/shop/
+
       - text: 洗浴
         color: red
         name: Bath
         icon: bath
         path: guide/bath/
+
+      - text: 社团
+        color: orange
+        name: Association
+        icon: association
+        path: guide/association/
+
+      - text: 校园卡
+        color: red
+        name: Card
+        icon: card
+        path: guide/card/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: network
+        path: guide/network/
 
       - text: 生活
         color: purple

@@ -1,8 +1,8 @@
 title: 返校/报到常见问题
-desc: 相关信息来自通信大数据行程卡官网
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
+outdated: true
 content:
   - tag: text
     type: info
@@ -24,7 +24,7 @@ content:
     type: info
     heading: 我是不是只要保证不到访国家卫健委列出的中高风险及重点地区就行了?
     text:
-      - 不是!!! 学校在长春，您要服从长春本地疾控中心的要求。任何长春疾控中心标记的管控地区，都不能停留或到访。
+      - 不是!!! 学校在长春，您要服从长春本地疾控中心的要求。长春疾控中心可能会对一些疫情集中发生地或可能发生本土传播风险的地区额外进行管控和限制。
 
   - tag: text
     type: info

@@ -362,6 +362,10 @@
           "description": "文字块类型",
           "enum": ["tip", "warning", "danger", "info", "note"]
         },
+        "path": {
+          "description": "跳转路径",
+          "type": "string"
+        },
         "align": {
           "description": "文字块对齐",
           "enum": ["left", "right", "center", "justify"]
@@ -1038,7 +1042,7 @@
     "time": {
       "description": "页面更新时间",
       "type": "string",
-      "pattern": "\\d\\d\\d\\d 年 1?\\d 月 (?:1|2|3)\\d 日"
+      "pattern": "\\d\\d\\d\\d 年 1?\\d 月 (?:1|2|3)?\\d 日"
     },
     "grey": {
       "description": "页面是否使用黑色背景",

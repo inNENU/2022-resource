@@ -45,10 +45,6 @@ content:
         icon: content
         path: /intro/subject/
 
-      - text: 东师排名
-        icon: rank
-        path: /intro/about/rank
-
       - text: 专业排名
         icon: rank
         path: /intro/subject/rank

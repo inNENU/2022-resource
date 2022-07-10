@@ -1,6 +1,6 @@
 title: 使用 IE 内核浏览网页
 author: Mr.Hope
-time: 2022 年 7 月 6 日
+time: 2022 年 7 月 11 日
 shareable: true
 content:
   - tag: title
@@ -38,7 +38,7 @@ content:
       - 为了提供历史向下兼容，微软在 Microsoft Edge 提供了兼容模式 (但它被刻意做的很不方便)。为了良好的体验，Mr.Hope 建议您使用 Chrome 配合 IE Tab 扩展程序。
 
   - tag: text
-    header: 老版本 Windows
+    heading: 老版本 Windows
     text:
       - Window 10 20H1 及以前版本的系统仍然包含了 IE (Internet Explorer)。
 
