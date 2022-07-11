@@ -65,7 +65,7 @@ export const genResource = (): void => {
 
   resouceList.forEach((name) => {
     // 更新版本号
-    if (diffResult.includes(`r/${name}/`)) {
+    if (diffResult.includes(` r/${name}/`)) {
       updateList.push(name);
       versionInfo.version[name] += 1;
     }
