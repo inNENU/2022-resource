@@ -16,7 +16,7 @@ content:
       #   color: olive
       #   name: Contact
       #   icon: qq-group
-      #   path: guide/prepare/qq-group/
+      #   path: guide/contact/
 
       - text: 新生入学教育
         color: blue

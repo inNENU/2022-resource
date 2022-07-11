@@ -1,6 +1,6 @@
 title: Mac 上的桌面、菜单栏和帮助
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
 cite: https://support.apple.com/zh-cn/guide/macbook-pro/apd65991c417/mac
 content:
@@ -14,7 +14,7 @@ content:
   - tag: text
     type: tip
     text:
-      - 在屏幕上找不到指针？若要暂时放大鼠标指针，请在触控板上快速来回移动您的手指。或者如果您使用的是鼠标，请将它快速来回滑动。
+      - 在屏幕上找不到指针? 若要暂时放大鼠标指针，请在触控板上快速来回移动您的手指。或者如果您使用的是鼠标，请将它快速来回滑动。
 
   - tag: p
     heading: 菜单栏

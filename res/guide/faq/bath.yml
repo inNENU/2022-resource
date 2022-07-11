@@ -1,10 +1,9 @@
 title: 洗浴相关问答
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
 content:
   - tag: list
-    header: false
     items:
       - text: 查看浴池详情
         icon: bath
@@ -31,7 +30,8 @@ content:
     type: info
     heading: 水流大不大?
     text:
-      - 水流还算比较正常的。Mr.Hope 个人觉得大部分笼头可能还是有点偏大的，毕竟是按水量计费的，水流太大就有点浪费。
+      - 水流还算比较正常的。
+      - 收到水压影响，在浴池几乎全空的情况下，水流会略大；在高峰期水流会略小。
 
   - tag: text
     type: info

@@ -1,11 +1,11 @@
 title: 开学活动
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 grey: true
 shareable: true
 content:
   - tag: list
-    header: 开学活动
+    header: 本科生
     items:
       - text: 体检
         icon: medical-exam
@@ -22,3 +22,18 @@ content:
       - text: 军训
         icon: military
         path: military/intro
+
+      - text: 基地班选拔考试
+        icon: star
+        path: base
+
+  - tag: list
+    header: 研究生
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /guide/check/medical-examination
+
+      - text: 选择导师
+        icon: teacher
+        path: choose

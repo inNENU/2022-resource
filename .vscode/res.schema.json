@@ -862,8 +862,8 @@
           "description": "跳转的路径",
           "type": "string"
         },
-        "src": {
-          "description": "卡片图片地址",
+        "cover": {
+          "description": "卡片封面地址",
           "type": "string",
           "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
         },
@@ -883,17 +883,31 @@
           "description": "卡片 Logo 名称",
           "type": "string"
         },
+        "options": {
+          "description": "卡片额外参数",
+          "type": "object",
+          "properties": {
+            "appID": {
+              "description": "跳转小程序 ID",
+              "type": "string"
+            },
+            "path": {
+              "description": "跳转小程序路径",
+              "type": "string"
+            }
+          }
+        },
         "env": {
           "$ref": "#/definitions/env"
         }
       },
-      "required": ["tag", "type", "url", "src", "title"],
+      "required": ["tag", "title"],
       "default": {
         "tag": "card",
         "type": "",
         "url": "",
         "title": "",
-        "src": ""
+        "cover": ""
       },
       "additionalProperties": false
     },

@@ -1,6 +1,6 @@
 title: 校园网相关问答
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 11 日
 shareable: true
 content:
   - tag: title
@@ -10,14 +10,9 @@ content:
     type: info
     heading: 校园网的账户和密码是什么?
     text:
-      - 校园网的认证方式即是统一身份认证，在认证上网时，请您使用邮箱(或学号)及密码。
-
-  - tag: list
-    header: false
-    items:
-      - text: 统一身份认证
-        icon: about
-        path: /guide/account/authorize/
+      - 校园网的认证方式通过统一身份认证。
+      - 在认证上网时，请您使用邮箱(或学号)及密码。
+    path: /guide/account/authorize/
 
   - tag: title
     text: 充值

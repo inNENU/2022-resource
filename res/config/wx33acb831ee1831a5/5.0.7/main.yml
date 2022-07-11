@@ -57,7 +57,7 @@ content:
         color: olive
         name: Contact
         icon: qq-group
-        path: guide/prepare/qq-group/
+        path: guide/contact/
 
       - text: 需带物品
         color: olive
