@@ -199,11 +199,11 @@
       "default": { "text": "", "select": [], "key": "" },
       "additionalProperties": false
     },
-    "button-list-item": {
+    "slider-list-item": {
       "type": "object",
       "properties": {
         "type": {
-          "const": "button"
+          "const": "slider"
         },
         "text": {
           "description": "列表项目文字",
@@ -239,14 +239,14 @@
         }
       },
       "required": ["text", "key"],
-      "default": { "type": "button", "text": "", "handler": "" },
+      "default": { "type": "slider", "text": "", "handler": "" },
       "additionalProperties": false
     },
-    "slider-list-item": {
+    "button-list-item": {
       "type": "object",
       "properties": {
         "type": {
-          "const": "slider"
+          "const": "button"
         },
         "text": {
           "description": "列表项目文字",
@@ -264,13 +264,43 @@
           "description": "开关对应的函数名称",
           "type": "string"
         },
+        "openType": {
+          "description": "开放能力",
+          "type": "string",
+          "enum": [
+            "share",
+            "openSetting",
+            "openGroupProfile",
+            "openGuildProfile",
+            "contact",
+            "addFriend",
+            "addGroupApp",
+            "addToFavorites",
+            "getPhoneNumber",
+            "getUserInfo",
+            "feedback",
+            "chooseAvatar"
+          ]
+        },
+        "openId": {
+          "description": "用户 openId",
+          "type": "string"
+        },
+        "groupId": {
+          "description": "群 ID",
+          "type": "string"
+        },
+        "guildId": {
+          "description": "频道 ID",
+          "type": "string"
+        },
         "disabled": {
           "description": "是否禁用按钮",
           "type": "boolean"
         }
       },
-      "required": ["text", "key"],
-      "default": { "type": "slider", "text": "", "handler": "" },
+      "required": ["text"],
+      "default": { "type": "button", "text": "", "handler": "" },
       "additionalProperties": false
     },
     "grid-item": {
