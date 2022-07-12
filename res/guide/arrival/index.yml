@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2022 年 6 月 30 日
+time: 2022 年 7 月 12 日
 grey: true
 shareable: true
 content:
@@ -17,7 +17,8 @@ content:
 
   - tag: text
     type: tip
-    text: 请妥善保管好出行车票，以备学校后期追踪调查。
+    text: |-
+      请妥善保管好出行信息 (如: 线上购票记录、单据等)，以备学校、疾控中心后期追踪调查。
 
   - tag: list
     header: 到本部校区
