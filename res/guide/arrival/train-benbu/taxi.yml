@@ -1,6 +1,6 @@
 title: 长春站-到本部-打车
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 13 日
 shareable: true
 content:
   - tag: p
@@ -44,24 +44,24 @@ content:
     text: 出租车乘降中心位置
 
   - tag: text
-    heading: 北出站口 B1
+    heading: 出站口 4
     text:
-      - 从北出站口 B1 出来后，请右转直行。
+      - 从出站口 4 出来后，请右转直行。
       - 在直行过程中，请留意头上和左手边指示，乘降中心通道在左手边。
 
   - tag: text
-    heading: 北出站口 B2
+    heading: 出站口 5
     text:
-      - 从北出站口 B2 出来之后请左转，约十步即可在右侧看到出租车乘降中心的牌子。
+      - 从出站口 5 出来之后请左转，约十步即可在右侧看到出租车乘降中心的牌子。
 
   - tag: img
     src: $img/arrival/train-north-taxi.jpg
     desc: 长春站北侧乘降中心指示牌
 
   - tag: text
-    heading: 南出站口
+    heading: 出站口 3
     text:
-      - 从南出站口出来时，请走到头并右转 (不要上楼)
+      - 从出站口 3 出来时，请走到头并右转 (不要上楼)
       - 继续直行，您即可在右手边看到出租车乘降中心。
 
   - tag: img

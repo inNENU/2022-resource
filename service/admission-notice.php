@@ -69,6 +69,6 @@ if ($postData->type === 'fetch') {
   if (count($info)) {
     echo ('{"status": "error", "msg": "' . $info[1] . '"}');
   } else {
-    echo ('{"status": "error", "info": "' . $result . '"}');
+    echo ('{"status": "success", "info": "' . $result . '"}');
   }
 }

@@ -1,6 +1,6 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 13 日
 grey: true
 shareable: true
 cite: http://jl.gov.cn/jxm/
@@ -29,10 +29,11 @@ content:
         path: faq
 
   - tag: text
+    type: info
     heading: 自助扫码
     text:
-      - 目前长春各地点已经基本安放了扫码机器。
-      - 人员需要自行在机器上完成扫码。
+      - 和国内其他很多城市自主扫场所码不同，在长春市内出行需要出示吉祥码并自助通过扫码机被扫。
+      - 长春市内各出入口大多都已安装了自助扫码机，进入人员需要自行在机器上完成扫码。
 
   - tag: img
     src: $img/arrival/jixiang-code-scan.jpg

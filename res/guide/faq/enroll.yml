@@ -1,6 +1,6 @@
 title: 录取相关问答
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 13 日
 shareable: true
 content:
   - tag: title
@@ -62,10 +62,8 @@ content:
   - tag: text
     type: info
     heading: 我该如何查询自己的录取通知书物流?
-    text: 您可以访问 http://bkzsw.nenu.edu.cn/col_000018_000169.html 进行查询。
-
-  - tag: action
-    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+    text:
+      - 目前招生办官方尚未提供 2022 年录取查询方式。
 
   - tag: text
     type: info

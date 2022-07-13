@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 13 日
 shareable: true
 content:
   - tag: title
@@ -9,9 +9,9 @@ content:
   - tag: text
     text: 录取通知书会在每批录取工作全部完成之后，陆续制作。
 
-  - tag: action
-    header: 2021 年本科录取通知书快递单号查询网址
-    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+  - tag: text
+    type: warning
+    text: 目前招生办公室尚未提供 2022 年本科录取查询方式。
 
   - tag: text
     type: info

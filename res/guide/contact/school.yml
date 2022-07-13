@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2022 年 7 月 11 日
+time: 2022 年 7 月 13 日
 shareable: true
 content:
   - tag: title
@@ -34,6 +34,14 @@ content:
     text:
       - 下列群聊均为非官方群，也就是没有经过辅导员或学院团委老师批准，学长学姐自发建立的。
       - Mr.Hope 只会偶尔监控一下各群状态是否正常，不对群的正规性以及加群产生的任何后果负责。
+
+  - tag: img
+    src: $img/about/chemistry-2022.jpg
+    desc: 化学学院
+
+  - tag: img
+    src: $img/about/pe-2022.jpg
+    desc: 体育学院
 
   - tag: ul
     type: info

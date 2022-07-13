@@ -1,6 +1,6 @@
 title: 录取通知书相关
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 13 日
 shareable: true
 content:
   - tag: text
@@ -13,10 +13,7 @@ content:
     heading: 录取通知书什么时候发?
     text:
       - 我校会根据批次、地区分批发出录取通知书。可以在招生办官方查询快递单号。
-
-  - tag: action
-    header: 录取查询
-    content: http://bkzsw.nenu.edu.cn/col_000018_000169.html
+      - 目前招生办公室尚未提供 2022 年本科录取查询方式。
 
   - tag: text
     type: info
