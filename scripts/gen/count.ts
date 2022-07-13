@@ -26,11 +26,11 @@ export const getWords = (path: string): number => {
   let words = 0;
 
   getFileList(path, ".json").forEach((filePath) => {
-    const pageContent = JSON.parse(
+    const pageContent = <PageOptions>JSON.parse(
       readFileSync(resolve(path, filePath), {
         encoding: "utf-8",
       })
-    ) as PageOptions;
+    );
 
     const content = getJSONValue(pageContent);
 

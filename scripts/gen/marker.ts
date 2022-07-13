@@ -43,7 +43,7 @@ export const resolveMarker = (data: MarkerOption): MarkerConfig => {
   ];
 
   let id = 0;
-  const markers = { all: [] } as Record<string, MarkerData[]>;
+  const markers = <Record<string, MarkerData[]>>{ all: [] };
 
   categories.forEach((category) => {
     markers[category] = data[category].content.map((marker) =>

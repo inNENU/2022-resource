@@ -20,8 +20,8 @@ export const genPEScore = (config: PEConfig): PEConfig => {
    * 读取相应配置文件
    * 转换长跑时间
    */
-  config.longRun = (config.longRun as string[]).map((element: string) => {
-    const time = element.split(":");
+  config.longRun = config.longRun.map((element) => {
+    const time = element.toString().split(":");
 
     return Number(time[0]) * 60 + Number(time[1]);
   });

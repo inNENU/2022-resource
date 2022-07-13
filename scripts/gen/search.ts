@@ -22,7 +22,7 @@ const createSearchMap = (folder: string): SearchInfo => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const pageConfig = JSON.parse(content) as PageOptions;
+    const pageConfig = <PageOptions>JSON.parse(content);
     const pathName = `${folder}/${filePath}`.replace(
       /\.\/r\/(.*)\.json/u,
       "$1"

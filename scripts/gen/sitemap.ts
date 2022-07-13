@@ -33,9 +33,9 @@ export interface SiteMapRule {
 export const genSitemap = (): void => {
   console.log("Generating Sitemap...");
   const fileList = getFileList("./res/guide", "yml");
-  const sitemapContent = JSON.parse(
-    readFileSync("../app/sitemap.json", { encoding: "utf-8" })
-  ) as { rules: SiteMapRule[] };
+  const sitemapContent = <{ rules: SiteMapRule[] }>(
+    JSON.parse(readFileSync("../app/sitemap.json", { encoding: "utf-8" }))
+  );
 
   sitemapContent.rules[0].params = fileList.map(
     (filePath) => `scene=${filePath.replace(/\.yml$/u, "")}`

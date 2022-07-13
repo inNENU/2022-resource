@@ -7,14 +7,11 @@ export const resolveLocationPage = (
   data: PageConfig & { photo?: string[] },
   filePath: string
 ): PageOptions & { photo?: string[] } => {
-  data.photo?.forEach((link, index) => {
-    // `$` alias resolve and file check
-    (data.photo as string[])[index] = aliasResolve(
-      link,
-      "Image",
-      `${filePath}.photos[${index}]`
+  if (data.photo)
+    data.photo = data.photo.map((link, index) =>
+      // `$` alias resolve and file check
+      aliasResolve(link, "Image", `${filePath}.photos[${index}]`)
     );
-  });
 
   return resolvePage(data, filePath);
 };

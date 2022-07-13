@@ -57,9 +57,9 @@ export const genResource = (): void => {
   const diffResult = execSync("git status -s").toString();
 
   /** 版本信息 */
-  const versionInfo = JSON.parse(
-    readFileSync("./r/version.json", { encoding: "utf-8" })
-  ) as { version: Record<string, number>; size: Record<string, number> };
+  const versionInfo = <
+    { version: Record<string, number>; size: Record<string, number> }
+  >JSON.parse(readFileSync("./r/version.json", { encoding: "utf-8" }));
   /** 更新列表 */
   const updateList: string[] = [];
 

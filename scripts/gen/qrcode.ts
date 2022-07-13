@@ -27,7 +27,7 @@ const removeQRCode = (name: string): void => {
 
 const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
   axios
-    .post(
+    .post<string>(
       `https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=${accessToken}`,
       {
         page: "module/page",
@@ -37,7 +37,7 @@ const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
       },
       { responseType: "arraybuffer" }
     )
-    .then(({ data }) => data as string);
+    .then(({ data }) => data);
 
 const getQRCode = (name: string): Promise<void> => {
   const fileList = getFileList(`./res/${name}`, ".yml").map((filePath) =>
