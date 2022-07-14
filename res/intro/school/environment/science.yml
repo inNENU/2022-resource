@@ -1,7 +1,7 @@
 title: 环境科学
 desc: |-
   来源: 2022 本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
 shareable: true
@@ -26,6 +26,12 @@ content:
       - 区域环境规划
       - 环境管理学
       - 综合实习
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年
 
   - tag: title
     text: 就业方向

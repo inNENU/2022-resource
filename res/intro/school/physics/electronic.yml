@@ -1,7 +1,7 @@
 title: 电子信息科学与技术
 desc: |-
   来源: 2022 年本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
 shareable: true
@@ -33,6 +33,12 @@ content:
       - 现代数字系统设计
       - 电子系统综合实验
       - 专业实习
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年
 
   - tag: title
     text: 就业方向

@@ -1,7 +1,7 @@
 title: 体育教育
 desc: |-
   来源: 2022 本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
 shareable: true
@@ -34,6 +34,14 @@ content:
       - 武术
       - 速度滑冰
       - 专项训练与理论
+
+  - tag: title
+    text: 学费价格
+
+  - tag: ul
+    text:
+      - 体育教育 (公费师范) 无，国家公费培养
+      - 体育教育为 4620 元/年
 
   - tag: title
     text: 就业方向

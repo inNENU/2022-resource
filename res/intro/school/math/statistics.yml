@@ -1,6 +1,6 @@
 title: 统计学专业
 desc: "来源: 数学与统计学院官网"
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 14 日
 shareable: true
 content:
   - tag: title
@@ -28,6 +28,12 @@ content:
       - 抽样调查与试验设计
       - 多元统计分析
       - 时间序列分析
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年
 
   - tag: title
     text: 就业方向

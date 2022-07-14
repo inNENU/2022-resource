@@ -1,6 +1,6 @@
 title: 历史文化学院招生
 author: Mr.Hope
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 shareable: true
 content:
   - tag: title
@@ -23,7 +23,7 @@ content:
     header: 本科各专业介绍
     items:
       - text: 历史学(公费师范)
-        path: history-free
+        path: normal
 
       - text: 历史学
         path: history

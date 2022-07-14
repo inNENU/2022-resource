@@ -1,7 +1,7 @@
 title: 日语
 desc: |-
   来源: 2022 年本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
 shareable: true
@@ -22,6 +22,12 @@ content:
       - 日本文学
       - 日本文化
       - 日本语言学
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年
 
   - tag: title
     text: 就业方向

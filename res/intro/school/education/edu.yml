@@ -1,7 +1,7 @@
 title: 教育学专业介绍
 desc: |-
   来源: 2022 年本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
   - http://edu.nenu.edu.cn/rcpy/bksjy1/bkzs.htm
@@ -45,6 +45,12 @@ content:
       - 教育人类学
       - 比较教育学
       - 高等教育学
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年。
 
   - tag: title
     text: 就业方向

@@ -412,7 +412,7 @@
         }
       },
       "default": { "tag": "text", "text": [""] },
-      "required": ["tag", "text"],
+      "required": ["tag"],
       "additionalProperties": false
     },
     "list-component": {
@@ -953,9 +953,6 @@
           "description": "音频组件",
           "properties": {
             "tag": {
-              "const": "media"
-            },
-            "type": {
               "const": "audio"
             },
             "src": {
@@ -989,9 +986,6 @@
           "description": "视频组件",
           "properties": {
             "tag": {
-              "const": "media"
-            },
-            "type": {
               "const": "video"
             },
             "src": {
@@ -1026,8 +1020,8 @@
           "additionalProperties": false
         }
       ],
-      "required": ["tag", "type", "src"],
-      "default": { "tag": "media", "type": "", "src": "" }
+      "required": ["tag", "src"],
+      "default": { "tag": "video", "src": "" }
     },
     "functional-list-component": {
       "$comment": "https://mrhope.site/code/mini-app/framework/tag-list.html#functional-list",

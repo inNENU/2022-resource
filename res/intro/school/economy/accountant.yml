@@ -1,7 +1,7 @@
 title: 会计学专业
 desc: |-
   来源: 2022 年本科招生指南
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 14 日
 cite:
   - https://book.eol.cn/books/cusm/mobile/index.html
   - http://bs.nenu.edu.cn/xsgz/bksjy/bkzysz_jj/hjxzy1.htm
@@ -28,6 +28,12 @@ content:
       - 高级财务会计
       - 财务管理
       - 审计学
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 3850 元/年
 
   - tag: title
     text: 就业方向
