@@ -56,10 +56,7 @@ if ($postData->type === 'fetch') {
       'info' => ['name', 'id'],
       'verifyCode' => '',
       'notice' => '考生姓名只需输入前三个汉字',
-      'detail' => [
-        'title' => "",
-        'content' => '',
-      ],
+      'detail' => null,
     ];
     echo (json_encode($info, 320));
   }
