@@ -103,14 +103,38 @@ if ($postData->type === 'fetch') {
       echo (json_encode([
         'status' => 'success',
         'info' => [
-          'testId' => $testId[1],
-          'name' => $name[1],
-          'way' => $way[1],
-          'address' => $address[1],
-          'phone' => $phone[1],
-          'contact' => $contact[1],
-          'receiver' => $receiver[1],
-          'expressId' => $expressId[1],
+          [
+            'text' => '考生号',
+            'value' => $testId[1]
+          ],
+          [
+            'text' => '考生姓名',
+            'value' => $name[1]
+          ],
+          [
+            'text' => '获取方式',
+            'value' => $way[1]
+          ],
+          [
+            'text' => '通信地址',
+            'value' => $address[1]
+          ],
+          [
+            'text' => '移动电话',
+            'value' => $phone[1]
+          ],
+          [
+            'text' => '家庭成员电话',
+            'value' => $contact[1]
+          ],
+          [
+            'text' => '收件人',
+            'value' => $receiver[1]
+          ],
+          [
+            'text' => '快递单号',
+            'value' => $expressId[1]
+          ]
         ]
       ], 320));
     }

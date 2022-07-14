@@ -1,6 +1,6 @@
 title: 净月本科寝室安排
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 14 日
 shareable: true
 content:
   - tag: text
@@ -35,13 +35,13 @@ content:
     text: 春华公寓
 
   - tag: text
-    text: 女生宿舍楼，分 A、B 两栋，楼高 6 层，入住信息技术、外国语(除英语系外其它专业)、传媒、环境科学学院学生。
+    text: 女生宿舍楼，分 A、B 两栋，楼高 6 层，入住信科、外国语(除英语系外其它专业)、传媒、环境学院学生。
 
   - tag: title
     text: 夏华公寓
 
   - tag: text
-    text: 共 6 层。A 栋为男生宿舍楼，B 栋为女生宿舍楼，入住信息科学与技术、音乐、政法、环境学院学生。
+    text: 共 6 层。A 栋为男生宿舍楼，B 栋为女生宿舍楼，入住信科、音乐、政法、环境学院学生。
 
   - tag: img
     src: $img/dorm/xiahua.jpg
