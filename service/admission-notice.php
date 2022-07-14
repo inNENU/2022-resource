@@ -25,7 +25,6 @@ $postDataArray = json_decode(file_get_contents('php://input'), true);
 
 $client = new \GuzzleHttp\Client();
 
-
 if ($postData->type === 'fetch') {
   if ($postData->level === '本科生') {
     $jar = new \GuzzleHttp\Cookie\CookieJar(true);
@@ -37,15 +36,32 @@ if ($postData->type === 'fetch') {
       ['cookies' => $jar],
     );
 
-    $base64Code =
+    $base64Image =
       "data:image/png;base64," . base64_encode($response->getBody()->getContents());
+    $info = [
+      'cookies' => $jar->toArray(),
+      'info' => ['name', 'id', 'testId'],
+      'verifyCode' => $base64Image,
+      'notice' => '目前招生办尚未提供 2022 年高考录取查询方式',
+      'detail' => [
+        'title' => "暂未公布",
+        'content' => '目前学校招生办公室尚未提供任何有效的高考录取查询方式。',
+      ],
+    ];
 
-    $cookieArray = $jar->toArray();
-
-    echo (json_encode(['cookies' => $cookieArray, 'verifyCode' => $base64Code], 320));
-  } else    if ($postData->level === '研究生') {
-
-    echo (json_encode(['cookies' => [], 'verifyCode' => ''], 320));
+    echo (json_encode($info, 320));
+  } else if ($postData->level === '研究生') {
+    $info = [
+      'cookies' => [],
+      'info' => ['name', 'id'],
+      'verifyCode' => '',
+      'notice' => '考生姓名只需输入前三个汉字',
+      'detail' => [
+        'title' => "",
+        'content' => '',
+      ],
+    ];
+    echo (json_encode($info, 320));
   }
 } else if ($postData->type === 'search') {
   if ($postData->level === '本科生') {
@@ -74,7 +90,14 @@ if ($postData->type === 'fetch') {
     if (count($info)) {
       echo ('{"status": "error", "msg": "' . $info[1] . '"}');
     } else {
-      echo ('{"status": "success", "info": "' . $content . '"}');
+      // TODO: do something with $content
+
+      $info = [];
+
+      echo (json_encode([
+        'status' => 'success',
+        'info' => $info,
+      ], 320));
     }
   } else if ($postData->level === '研究生') {
     $content = $client->send(
@@ -100,42 +123,44 @@ if ($postData->type === 'fetch') {
       preg_match('/<li class="label_short">收 件 人：<\/li>\s*<li class="bz">(.*?)<\/li>/', $content, $receiver);
       preg_match('/<li class="label_short">详情单号：<\/li>\s*<li class="bz"><a href=\'http:\/\/www.ems.com.cn\' target=\'_blank\'>(.*?)<\/a><\/li>/', $content, $expressId);
 
+      $info = [
+        [
+          'text' => '考生号',
+          'value' => $testId[1]
+        ],
+        [
+          'text' => '考生姓名',
+          'value' => $name[1]
+        ],
+        [
+          'text' => '获取方式',
+          'value' => $way[1]
+        ],
+        [
+          'text' => '通信地址',
+          'value' => $address[1]
+        ],
+        [
+          'text' => '移动电话',
+          'value' => $phone[1]
+        ],
+        [
+          'text' => '家庭成员电话',
+          'value' => $contact[1]
+        ],
+        [
+          'text' => '收件人',
+          'value' => $receiver[1]
+        ],
+        [
+          'text' => '快递单号',
+          'value' => $expressId[1]
+        ]
+      ];
+
       echo (json_encode([
         'status' => 'success',
-        'info' => [
-          [
-            'text' => '考生号',
-            'value' => $testId[1]
-          ],
-          [
-            'text' => '考生姓名',
-            'value' => $name[1]
-          ],
-          [
-            'text' => '获取方式',
-            'value' => $way[1]
-          ],
-          [
-            'text' => '通信地址',
-            'value' => $address[1]
-          ],
-          [
-            'text' => '移动电话',
-            'value' => $phone[1]
-          ],
-          [
-            'text' => '家庭成员电话',
-            'value' => $contact[1]
-          ],
-          [
-            'text' => '收件人',
-            'value' => $receiver[1]
-          ],
-          [
-            'text' => '快递单号',
-            'value' => $expressId[1]
-          ]
-        ]
+        'info' => $info,
       ], 320));
     }
   }
