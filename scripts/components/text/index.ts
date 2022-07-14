@@ -16,10 +16,6 @@ export const resolveText = (
   // 处理段落
   if (typeof element.text === "string") element.text = [element.text];
 
-  // 处理段落缩进
-  if (element.tag === "p")
-    element.style = `text-indent: 1.5em; ${element.style || ""}`;
-
   if (element.path) {
     if (element.type === "none" || !element.type)
       console.warn(`${location}: A type must be set when path is set`);
