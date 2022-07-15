@@ -1,6 +1,6 @@
 title: 使用 KMS 激活微软产品
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 15 日
 shareable: true
 content:
   - tag: text
@@ -13,7 +13,7 @@ content:
     text: 激活方式
 
   - tag: text
-    text: 通过自建 KMS 服务，你可以巧妙地对计算机中的微软产品进行激活。
+    text: 通过自建 KMS 服务，您可以巧妙地对计算机中的微软产品进行激活。
 
   - tag: action
     header: 工具地址
