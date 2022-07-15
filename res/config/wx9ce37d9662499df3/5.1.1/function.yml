@@ -4,6 +4,12 @@ grey: true
 hidden: true
 content:
   - tag: card
+    cover: $img/tab/admission.png
+    title: 录取查询
+    logo: letter
+    url: admission
+
+  - tag: card
     cover: $img/tab/map.jpg
     title: 校园地图
     logo: map
@@ -33,11 +39,11 @@ content:
     logo: calculate
     url: PEcal
 
-  # - tag: card
-  #   cover: $img/tab/media.jpg
-  #   title: 校园媒体
-  #   logo: account
-  #   url: account
+  - tag: card
+    cover: $img/tab/media.jpg
+    title: 校园媒体
+    logo: account
+    url: account
 
   - tag: card
     cover: $img/tab/website.jpg

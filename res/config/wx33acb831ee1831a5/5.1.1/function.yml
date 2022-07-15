@@ -4,6 +4,12 @@ grey: true
 hidden: true
 content:
   - tag: card
+    cover: $img/tab/admission.png
+    title: 录取查询
+    logo: letter
+    url: admission
+
+  - tag: card
     cover: $img/tab/map.jpg
     title: 校园地图
     logo: map

@@ -1,6 +1,6 @@
 title: 学校家长群
 author: Mr.Hope
-time: 2022 年 7 月 11 日
+time: 2022 年 7 月 15 日
 shareable: true
 content:
   - tag: text
@@ -17,6 +17,18 @@ content:
 
   - tag: img
     src: $img/about/parent.png
+    env:
+      - wx
+
+  - tag: functional-list
+    items:
+      - text: 加入东北师范大学家长群
+        icon: qq-group
+        type: button
+        openType: openGroupProfile
+        groupId: "154562293"
+    env:
+      - qq
 
   - tag: text
     type: warning

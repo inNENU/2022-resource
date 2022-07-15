@@ -1,11 +1,11 @@
 title: 学校新生群
 author: Mr.Hope
-time: 2022 年 7 月 11 日
+time: 2022 年 7 月 15 日
 shareable: true
 content:
   - tag: text
     type: note
-    text: 由于学校官方没有学校范围的大群，Mr.Hope 自己建立了一个拥有身份验证，群内氛围和谐的学校范围新生群。
+    text: 由于学校官方没有学校范围的大群，Mr.Hope 自己建立了几个拥有身份验证，群内氛围和谐的学校范围新生群。
 
   - tag: text
     type: warning
@@ -17,11 +17,40 @@ content:
     path: cheat
 
   - tag: title
-    text: 东北师范大学 2022 新生群
+    text: 东北师范大学 2022 本科新生群
 
   - tag: img
-    src: $img/about/hope.jpg
-    desc: 这是一个需要严格身份验证，同时每天长期监控的群
+    src: $img/about/under.jpg
+    env:
+      - wx
+
+  - tag: functional-list
+    items:
+      - text: 加入东北师范大学 2022 本科新生群
+        icon: qq-group
+        type: button
+        openType: openGroupProfile
+        groupId: "594493757"
+    env:
+      - qq
+
+  - tag: title
+    text: 东北师范大学研究生交流群
+
+  - tag: img
+    src: $img/about/post.jpg
+    env:
+      - wx
+
+  - tag: functional-list
+    items:
+      - text: 加入东北师范大学研究生交流群
+        icon: qq-group
+        type: button
+        openType: openGroupProfile
+        groupId: "670581382"
+    env:
+      - qq
 
   - tag: title
     text: 相关说明
@@ -37,4 +66,41 @@ content:
   - tag: ul
     type: warning
     text:
-      - 由于高考结束至录取完成的这段时间里，新生没有办法自证身份不得已要放开限制，所以可能会有骗子装作新生混入。如果您遇到没有头衔(也就是未认证)的人加您好友，请及时向管理员举报进行踢出。
+      - 会有骗子装作新生混入。如果您遇到没有头衔 (也就是未认证) 的人加您好友，请及时向管理员举报进行踢出。
+
+  - tag: title
+    text: 东北师范大学交流群
+
+  - tag: img
+    src: $img/about/hope.jpg
+    desc: 这是一个需要严格身份验证，同时每天长期监控的群
+    env:
+      - wx
+
+  - tag: functional-list
+    items:
+      - text: 加入东北师范大学交流群
+        icon: qq-group
+        type: button
+        openType: openGroupProfile
+        groupId: "594493757"
+    env:
+      - qq
+
+  - tag: title
+    text: 东北师大频道
+
+  - tag: text
+    text: 请在 QQ 频道手动搜索“东北师大”。
+    env:
+      - wx
+
+  - tag: functional-list
+    items:
+      - text: 加入东北师大频道
+        icon: qq-group
+        type: button
+        openType: openGuildProfile
+        guildId: "5684461640601496"
+    env:
+      - qq
