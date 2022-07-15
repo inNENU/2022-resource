@@ -12,6 +12,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入 in 东师咨询群
         icon: qq-group

@@ -21,6 +21,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入东北师范大学家长群
         icon: qq-group

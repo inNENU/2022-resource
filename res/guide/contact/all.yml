@@ -25,6 +25,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入东北师范大学 2022 本科新生群
         icon: qq-group
@@ -43,6 +44,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入东北师范大学研究生交流群
         icon: qq-group
@@ -78,6 +80,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入东北师范大学交流群
         icon: qq-group
@@ -96,6 +99,7 @@ content:
       - wx
 
   - tag: functional-list
+    header: false
     items:
       - text: 加入东北师大频道
         icon: qq-group
