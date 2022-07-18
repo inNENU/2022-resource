@@ -1,6 +1,6 @@
 title: QQ 群
 author: Mr.Hope
-time: 2022 年 7 月 13 日
+time: 2022 年 7 月 18 日
 grey: true
 shareable: true
 content:
@@ -10,6 +10,10 @@ content:
       - text: 常见网上诈骗
         icon: alert
         path: /guide/prepare/cheat
+
+      - text: 诈骗群聊
+        icon: alert
+        path: cheat
 
   - tag: list
     header: 找到组织
