@@ -1,6 +1,6 @@
 title: 军训
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 18 日
 grey: true
 shareable: true
 content:
@@ -10,6 +10,14 @@ content:
         icon: intro
         path: intro
 
+      - text: 军训保健班申请
+        icon: apply
+        path: exempt
+
       - text: 军训详情
         icon: detail
         path: detail
+
+      - text: 军训贴士
+        icon: idea
+        path: exempt

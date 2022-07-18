@@ -13,18 +13,6 @@ content:
         icon: search
         path: intro/enroll/under/search
 
-      - text: 研究生调档
-        icon: archive
-        path: guide/archive/post-in
-
-      - text: 研究生党员组织关系接转
-        icon: league
-        path: guide/prepare/league
-
-      - text: 研究生团员组织关系接转
-        icon: league
-        path: guide/prepare/group
-
   # - tag: text
   #   type: tip
   #   text:
