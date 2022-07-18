@@ -1,13 +1,21 @@
 title: 致谢名单
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 19 日
 shareable: true
 content:
   - tag: title
     text: 内容贡献
 
-  - tag: p
-    text: 感谢倾澜、苏凛、孙祎凡、小艺、张楚贡献内容。
+  - tag: text
+    text:
+      - 感谢倾澜、苏凛、孙祎凡、战俊华、小艺、张楚、晴子贡献内容。
+      - 感谢董玥彤、林传舜、张歌扬、顾卓成贡献优秀毕业生建议。
+      - 感谢黄禧愿意接受约稿，稿费 200元 / 852字。(因质量未予采纳)
+
+  - tag: list
+    items:
+      - text: 黄禧稿件原文
+        url: page?path=Odropped/huangxi
 
   - tag: title
     text: 早期版本

@@ -718,6 +718,11 @@
           "type": "object",
           "$ref": "#/definitions/location"
         },
+        "mail": {
+          "description": "主体的电子邮件",
+          "type": "string",
+          "pattern": "^\\w(?:[\\w._-]*\\w)?@(?:\\w(?:[\\w-]*\\w)?\\.)*\\w+$"
+        },
         "site": {
           "description": "主题的网站",
           "type": "string",
@@ -727,7 +732,7 @@
           "$ref": "#/definitions/env"
         }
       },
-      "required": ["tag", "content"],
+      "required": ["tag", "name", "logo"],
       "default": { "tag": "account", "name": "", "logo": "" },
       "additionalProperties": false
     },

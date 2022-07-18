@@ -3,6 +3,25 @@ id: main
 grey: true
 hidden: true
 content:
+  - tag: card
+    cover: $img/tab/faq.png
+    title: 找到组织
+    logo: qq-group
+    url: page?id=Gcontact/index
+
+  - tag: list
+    items:
+      - text: 报到时间
+        icon: time
+        path: guide/check/location-and-time
+
+  # - tag: text
+  #   type: tip
+  #   text:
+  #     - 到校需出示吉祥码、返校健康码和 48 小时内核酸报告。
+  #     - 本部开放东北门 (动植物公园对面)，净月开放 2 号门 (雕塑门)。
+  #     - 入校时会进行核酸检测。
+
   # - tag: title
   #   text: 希望工作室长期招新
 
@@ -18,29 +37,95 @@ content:
   - tag: grid
     header: 您可能想关注
     items:
-      - text: 校历
-        color: mauve
-        name: Calendar
-        icon: calendar
-        url: calendar
+      - text: 入学准备
+        color: red
+        name: Prepare
+        icon: prepare
+        path: guide/prepare/
 
-      - text: 火车票购买
+      - text: 需带物品
+        color: olive
+        name: Necessity
+        icon: necessity
+        path: guide/necessity/
+
+      - text: 寝室
         color: blue
-        name: Ticket
-        icon: train
-        path: guide/traffic/train/
+        name: Dorm
+        icon: dorm
+        path: guide/dorm/
+
+      - text: 食堂
+        color: orange
+        name: Dining
+        icon: dining
+        path: guide/dining/
+
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: express
+        path: guide/express/
+
+      - text: 超市
+        color: olive
+        name: Shop
+        icon: shop
+        path: guide/shop/
+
+      - text: 洗浴
+        color: red
+        name: Bath
+        icon: bath
+        path: guide/bath/
+
+      - text: 社团
+        color: orange
+        name: Association
+        icon: association
+        path: guide/association/
+
+      - text: 校园卡
+        color: red
+        name: Card
+        icon: card
+        path: guide/card/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: network
+        path: guide/network/
+
+      - text: 生活
+        color: purple
+        name: Life
+        icon: life
+        path: guide/life/
+
+      - text: 专业介绍
+        color: olive
+        name: Major
+        icon: about
+        path: intro/school/major
+
+      - text: 转专业
+        color: red
+        name: Change Major
+        icon: change
+        path: guide/change-major/
+
+      - text: 师范生
+        color: purple
+        name: Normal
+        icon: teacher
+        path: guide/normal/
 
       - text: 课程
         color: orange
         name: Course
         icon: content
         path: guide/course/
-
-      - text: 教务系统
-        color: red
-        name: System
-        icon: system
-        path: guide/system/
 
       - text: 学习
         color: mauve
@@ -54,23 +139,23 @@ content:
         icon: library
         path: intro/apt/library/
 
-      - text: 校内考试
-        color: olive
-        name: Test
-        icon: test
-        path: guide/test/
-
-      - text: 生活
-        color: olive
-        name: Life
-        icon: life
-        path: guide/life/
+      - text: 校历
+        color: mauve
+        name: Calendar
+        icon: calendar
+        url: calendar
 
     footer: 更多内容请详见下方其他 Tab 页
 
   - tag: card
-    cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
-    title: 招纳小程序志愿者
-    logo: $img/inNENU.png
-    name: in 东师
-    url: page?path=Oguide/volunteer
+    cover: $img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=Gfaq/
+
+  # - tag: card
+  #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+  #   title: 招纳小程序志愿者
+  #   logo: $img/inNENU.png
+  #   name: in 东师
+  #   url: page?path=Oguide/volunteer

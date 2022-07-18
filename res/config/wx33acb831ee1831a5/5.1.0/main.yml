@@ -3,15 +3,17 @@ id: main
 grey: true
 hidden: true
 content:
+  - tag: card
+    cover: $img/tab/faq.png
+    title: 找到组织
+    logo: qq-group
+    url: page?id=Gcontact/index
+
   - tag: list
     items:
       - text: 报到时间
         icon: time
         path: guide/check/location-and-time
-
-      - text: 本科录取通知书查询
-        icon: search
-        path: intro/enroll/under/search
 
   # - tag: text
   #   type: tip
@@ -40,12 +42,6 @@ content:
         name: Prepare
         icon: prepare
         path: guide/prepare/
-
-      - text: 找到组织
-        color: olive
-        name: Contact
-        icon: qq-group
-        path: guide/contact/
 
       - text: 需带物品
         color: olive

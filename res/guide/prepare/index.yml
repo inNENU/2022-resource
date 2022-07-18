@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022 年 7 月 11 日
+time: 2022 年 7 月 19 日
 grey: true
 shareable: true
 content:
@@ -47,7 +47,7 @@ content:
   - tag: list
     header: 找到组织
     items:
-      - text: 专业所属学院
+      - text: 专业所属学院、校区
         icon: content
         path: /intro/enroll/under/major/2022
 
