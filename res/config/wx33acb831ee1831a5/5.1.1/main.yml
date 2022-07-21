@@ -56,11 +56,11 @@ content:
   - tag: grid
     header: 您可能想关注
     items:
-      - text: 专业介绍
-        color: olive
-        name: Major
-        icon: about
-        path: intro/school/major
+      # - text: 专业介绍
+      #   color: olive
+      #   name: Major
+      #   icon: about
+      #   path: intro/school/major
 
       - text: 转专业
         color: red
