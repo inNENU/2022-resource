@@ -116,6 +116,10 @@ if ($postData->type === 'fetch') {
           'text' => '所在学院',
           'value' => $result[1]
         ],
+        [
+          'text' => '录取通知书单号',
+          'value' => '暂无'
+        ],
       ];
 
       echo (json_encode([
