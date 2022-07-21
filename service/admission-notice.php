@@ -79,7 +79,7 @@ if ($postData->type === 'fetch') {
         "upgrade-insecure-requests" =>  "1",
         "Referrer-Policy" =>  "strict-origin-when-cross-origin"
       ],
-      'en_zkz=' . $postData->testid . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . $postData->verifyCode
+      'en_zkz=' . $postData->testId . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . $postData->verifyCode
     )))->getBody()->getContents();
 
     preg_match('/<script language="javascript">alert\("(.*)"\);history.back\(-1\);<\/script>/', $content, $info);
@@ -87,13 +87,41 @@ if ($postData->type === 'fetch') {
     if (count($info)) {
       echo ('{"status": "error", "msg": "' . $info[1] . '"}');
     } else {
-      // TODO: do something with $content
+      // TODO: add express number
 
-      $info = [];
+      preg_match('/<td width="20%" align="right">姓　　名：<\/td>\s*?<td width="40%">(.*?)<\/td>/', $content, $name);
+      preg_match('/<td align="right">身份证号：<\/td>\s*?<td>(.*?)<\/td>/', $content, $id);
+      preg_match('/<td align="right">考&nbsp;&nbsp;生&nbsp;&nbsp;号：<\/td>\s*?<td>(.*)<\/td>/', $content, $testId);
+      preg_match('/<td align="right">省　　份：<\/td>\s*?<td>(.*?)<\/td>/', $content, $province);
+      preg_match('/<td colspan="3" align="center"><font color="#FF0000" style="font-size:16px;"><p>恭喜你，你已经被我校 <\/p><p>(.*?)&nbsp;&nbsp;(.*?)&nbsp;&nbsp;专业录取！<\/p><\/font><\/td>/', $content, $result);
+
+      $info = [
+        [
+          'text' => '姓名',
+          'value' => $name[1]
+        ],
+        [
+          'text' => '考生号',
+          'value' => $testId[1]
+        ],
+        [
+          'text' => '省份',
+          'value' => $province[1]
+        ],
+        [
+          'text' => '录取专业',
+          'value' => $result[2]
+        ],
+        [
+          'text' => '所在学院',
+          'value' => $result[1]
+        ],
+      ];
 
       echo (json_encode([
         'status' => 'success',
         'info' => $info,
+        'raw' => $content,
       ], 320));
     }
   } else if ($postData->level === '研究生') {
