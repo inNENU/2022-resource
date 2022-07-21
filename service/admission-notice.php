@@ -42,10 +42,10 @@ if ($postData->type === 'fetch') {
       'cookies' => $jar->toArray(),
       'info' => ['name', 'id', 'testId'],
       'verifyCode' => $base64Image,
-      'notice' => '目前招生办尚未提供 2022 年高考录取查询方式',
+      'notice' => '目前学校招生办公室暂未录入 2022 年高考录取数据',
       'detail' => [
         'title' => "暂未公布",
-        'content' => '目前学校招生办公室尚未提供任何有效的高考录取查询方式。',
+        'content' => '目前学校招生办公室暂未录入 2022 年高考录取数据。',
       ],
     ];
 

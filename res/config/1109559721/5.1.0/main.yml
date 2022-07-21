@@ -4,7 +4,7 @@ grey: true
 hidden: true
 content:
   - tag: card
-    cover: $img/tab/faq.png
+    cover: $img/tab/qq-group.png
     title: 找到组织
     logo: qq-group
     url: page?id=Gcontact/index
