@@ -3,43 +3,24 @@ id: main
 grey: true
 hidden: true
 content:
-  # - tag: title
-  #   text: 本科招生
+  - tag: card
+    cover: $img/tab/qq-group.png
+    title: 找到组织
+    logo: qq-group
+    url: page?id=Gcontact/index
 
-  # - tag: list
-  #   header: false
-  #   items:
-  #     - text: 2022 年本科招生简章
-  #       icon: rule
-  #       path: intro/enroll/under/rule/
+  - tag: list
+    items:
+      - text: 报到时间
+        icon: time
+        path: guide/check/location-and-time
 
-  #     - text: 2022 年招生计划与历史分数线
-  #       icon: time
-  #       path: intro/enroll/under/info
-
-  #     - text: 招生咨询群
-  #       icon: qq-group
-  #       path: intro/enroll/under/qq-group
-
-  #     - text: 招生直播活动
-  #       icon: activity
-  #       path: intro/enroll/under/activity
-
-  #     - text: 更多信息
-  #       icon: more
-  #       path: intro/enroll/under/
-
-  # - tag: list
-  #   header: 研究生
-  #   items:
-  #     - text: 研究生调档
-  #       path: guide/archive/post-in
-
-  #     - text: 研究生党员组织关系接转
-  #       path: guide/prepare/league
-
-  #     - text: 研究生团员组织关系接转
-  #       path: guide/prepare/group
+  # - tag: text
+  #   type: tip
+  #   text:
+  #     - 到校需出示吉祥码、返校健康码和 48 小时内核酸报告。
+  #     - 本部开放东北门 (动植物公园对面)，净月开放 2 号门 (雕塑门)。
+  #     - 入校时会进行核酸检测。
 
   # - tag: title
   #   text: 希望工作室长期招新
@@ -56,6 +37,72 @@ content:
   - tag: grid
     header: 您可能想关注
     items:
+      - text: 入学准备
+        color: red
+        name: Prepare
+        icon: prepare
+        path: guide/prepare/
+
+      - text: 需带物品
+        color: olive
+        name: Necessity
+        icon: necessity
+        path: guide/necessity/
+
+      - text: 寝室
+        color: blue
+        name: Dorm
+        icon: dorm
+        path: guide/dorm/
+
+      - text: 食堂
+        color: orange
+        name: Dining
+        icon: dining
+        path: guide/dining/
+
+      - text: 快递
+        color: mauve
+        name: Express
+        icon: express
+        path: guide/express/
+
+      - text: 超市
+        color: olive
+        name: Shop
+        icon: shop
+        path: guide/shop/
+
+      - text: 洗浴
+        color: red
+        name: Bath
+        icon: bath
+        path: guide/bath/
+
+      - text: 社团
+        color: orange
+        name: Association
+        icon: association
+        path: guide/association/
+
+      - text: 校园卡
+        color: red
+        name: Card
+        icon: card
+        path: guide/card/
+
+      - text: 校园网
+        color: purple
+        name: Network
+        icon: network
+        path: guide/network/
+
+      - text: 生活
+        color: purple
+        name: Life
+        icon: life
+        path: guide/life/
+
       - text: 专业介绍
         color: olive
         name: Major
@@ -74,41 +121,11 @@ content:
         icon: teacher
         path: guide/normal/
 
-      - text: 寝室
-        color: blue
-        name: Dorm
-        icon: dorm
-        path: guide/dorm/
-
-      - text: 食堂
-        color: orange
-        name: Dining
-        icon: dining
-        path: guide/dining/
-
-      - text: 洗浴
-        color: red
-        name: Bath
-        icon: bath
-        path: guide/bath/
-
-      - text: 生活
-        color: purple
-        name: Life
-        icon: life
-        path: guide/life/
-
       - text: 课程
         color: orange
         name: Course
         icon: content
         path: guide/course/
-
-      # - text: 找到组织
-      #   color: olive
-      #   name: Contact
-      #   icon: qq-group
-      #   path: guide/contact/
 
       - text: 学习
         color: mauve
@@ -116,25 +133,19 @@ content:
         icon: study
         path: guide/study/
 
+      - text: 图书馆
+        color: blue
+        name: Library
+        icon: library
+        path: intro/apt/library/
+
       - text: 校历
         color: mauve
         name: Calendar
         icon: calendar
         url: calendar
 
-      - text: 常见问题
-        color: cyan
-        name: FAQ
-        icon: faq
-        path: guide/faq/
-
     footer: 更多内容请详见下方其他 Tab 页
-
-  - tag: card
-    cover: $img/tab/map.jpg
-    title: 校园地图与导航
-    logo: map
-    url: map
 
   - tag: card
     cover: $img/tab/faq.png
