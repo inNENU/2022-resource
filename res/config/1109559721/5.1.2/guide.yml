@@ -12,11 +12,11 @@ content:
         icon: prepare
         path: guide/prepare/
 
-      # - text: 找到组织
-      #   color: olive
-      #   name: Contact
-      #   icon: qq-group
-      #   path: guide/contact/
+      - text: 找到组织
+        color: olive
+        name: Contact
+        icon: qq-group
+        path: guide/contact/
 
       - text: 新生入学教育
         color: blue
@@ -180,11 +180,11 @@ content:
         icon: degree
         path: guide/degree/
 
-      # - text: 专业介绍
-      #   color: olive
-      #   name: Major
-      #   icon: about
-      #   path: intro/school/major
+      - text: 专业介绍
+        color: olive
+        name: Major
+        icon: about
+        path: intro/school/major
 
       - text: 转专业
         color: red

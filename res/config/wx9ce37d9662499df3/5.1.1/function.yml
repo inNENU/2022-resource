@@ -7,7 +7,7 @@ content:
     cover: $img/tab/admission.png
     title: 录取查询
     logo: letter
-    url: admission
+    url: admission?type=search
 
   - tag: card
     cover: $img/tab/map.jpg
