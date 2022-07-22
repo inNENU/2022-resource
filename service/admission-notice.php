@@ -44,7 +44,7 @@ if ($postData->type === 'fetch') {
       'verifyCode' => $base64Image,
       'notice' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息',
       'detail' => [
-        'title' => "暂未公布",
+        'title' => "信息录入中",
         'content' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息，部分省份录取信息也在录入中。',
       ],
     ];

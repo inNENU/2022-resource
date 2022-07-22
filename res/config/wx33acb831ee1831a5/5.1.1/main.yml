@@ -4,10 +4,22 @@ grey: true
 hidden: true
 content:
   - tag: card
+    cover: $img/tab/admission.png
+    title: 录取查询
+    logo: letter
+    url: admission
+
+  - tag: card
     cover: $img/tab/qq-group.png
     title: 找到组织
     logo: qq-group
     url: page?id=Gcontact/index
+
+  - tag: card
+    cover: $img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=Gfaq/
 
   - tag: list
     items:
@@ -146,12 +158,6 @@ content:
         url: calendar
 
     footer: 更多内容请详见下方其他 Tab 页
-
-  - tag: card
-    cover: $img/tab/faq.png
-    title: 常见问题
-    logo: faq
-    url: page?id=Gfaq/
 
   # - tag: card
   #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
