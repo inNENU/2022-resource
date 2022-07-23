@@ -1,6 +1,6 @@
 title: 师范生介绍
 author: Mr.Hope
-time: 2022 年 6 月 29 日
+time: 2022 年 7 月 24 日
 grey: true
 shareable: true
 content:
@@ -45,6 +45,10 @@ content:
       - text: 师范类专业认证解释
         icon: idea
         path: authorize/explain
+
+      - text: 师范类专业认证情况
+        icon: about
+        path: authorize/status
 
   - tag: list
     header: 常见问题

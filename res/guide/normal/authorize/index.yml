@@ -1,6 +1,6 @@
 title: 师范类专业认证
 author: Mr.Hope
-time: 2022 年 6 月 29 日
+time: 2022 年 7 月 24 日
 grey: true
 shareable: true
 content:
@@ -13,3 +13,7 @@ content:
       - text: 师范类专业认证解释
         icon: idea
         path: explain
+
+      - text: 师范类专业认证情况
+        icon: about
+        path: status
