@@ -55,7 +55,7 @@ if ($postData->type === 'fetch') {
       'notice' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息',
       'detail' => [
         'title' => "录取信息",
-        'content' => str_replace('<br>', '\n', $notice[1]),
+        'content' => str_replace('<br>', "\n", $notice[1]),
       ],
     ];
 
