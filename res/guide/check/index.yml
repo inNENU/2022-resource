@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: list
@@ -49,9 +49,13 @@ content:
         icon: medical-exam
         path: medical-examination
 
-      - text: 党团组织关系迁移
+      - text: 党员组织关系接转
         icon: league
         path: /guide/prepare/league
+
+      - text: 团员组织关系接转
+        icon: league
+        path: /guide/prepare/group
 
       - text: 户口迁移
         icon: more

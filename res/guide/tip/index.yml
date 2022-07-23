@@ -9,7 +9,7 @@ content:
     items:
       - text: 优秀毕业生建议
         icon: study
-        path: /guide/study/advice
+        path: /guide/advice/
 
   - tag: list
     header: 数码相关

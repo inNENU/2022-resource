@@ -1,6 +1,6 @@
 title: 普通话水平测试
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: text
@@ -23,7 +23,7 @@ content:
       - 我校每年春季 3 月份、秋季 9 月份组织报名；学生报名须登录《普通话水平测试在线报名系统》。
 
   - tag: action
-    content: http://jl.cltt.org/Web/SignUpOnLine/Default.aspx
+    content: http://jlbm.cltt.org/pscweb/index.html
 
   - tag: text
     text:

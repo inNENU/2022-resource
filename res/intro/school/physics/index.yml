@@ -1,6 +1,6 @@
 title: 物理学院
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: account
@@ -24,3 +24,14 @@ content:
       - text: 专业介绍
         icon: intro
         path: enroll
+
+  - tag: list
+    header: 优秀毕业生建议
+    items:
+      - text: 顾卓成
+        icon: idea
+        path: /guide/advice/physics/gu
+
+      - text: 张歌扬
+        icon: idea
+        path: /guide/advice/physics/zhang
