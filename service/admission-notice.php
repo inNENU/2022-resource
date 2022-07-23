@@ -29,21 +29,21 @@ if ($postData->type === 'fetch') {
   if ($postData->level === '本科生') {
     $jar = new \GuzzleHttp\Cookie\CookieJar(true);
 
-
     // fetch info
     $response = $client->get(
       'http://bkzsw.nenu.edu.cn/col_000018_000169.html',
       ['cookies' => $jar],
     );
 
+    $content = $response->getBody()->getContents();
+
+    preg_match('/<td colspan="2" align="left">截止 (.*?)<\/td>/', $content, $notice);
 
     // fetch code
     $response = $client->get(
       'http://bkzsw.nenu.edu.cn/include/webgetcode.php?width=85&height=28&sitex=15&sitey=6',
       ['cookies' => $jar],
     );
-
-    preg_match('/<td colspan="2" align="left">(截止.*)<\/td>/', $content, $info);
 
     $base64Image =
       "data:image/png;base64," . base64_encode($response->getBody()->getContents());
@@ -55,7 +55,7 @@ if ($postData->type === 'fetch') {
       'notice' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息',
       'detail' => [
         'title' => "录取信息",
-        'content' => str_replace('<br/>', '\n', $info[1]),
+        'content' => str_replace('<br>', '\n', $notice[1]),
       ],
     ];
 
@@ -89,7 +89,7 @@ if ($postData->type === 'fetch') {
         "upgrade-insecure-requests" =>  "1",
         "Referrer-Policy" =>  "strict-origin-when-cross-origin"
       ],
-      'en_zkz=' . $postData->testId . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . $postData->verifyCode
+      'en_zkz=' . $postData->testId . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . strlen($postData->verifyCode) ? $postData->verifyCode : $postDataArray['verify-code']
     )))->getBody()->getContents();
 
     preg_match('/<script language="javascript">alert\("(.*)"\);history.back\(-1\);<\/script>/', $content, $info);
