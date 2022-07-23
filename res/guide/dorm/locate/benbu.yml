@@ -1,6 +1,6 @@
 title: 本部本科寝室安排
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: text
@@ -55,13 +55,3 @@ content:
 
   - tag: text
     text: 楼高 21 层，为女生寝室楼，本部校区最高建筑。入住地理、生科、数学、教育、心理、历史学院学生，马克思主义学部学生。
-
-  - tag: title
-    text: 体育公寓
-
-  - tag: text
-    text: 共 6 层，中间分隔，北半侧为男生宿舍，南半侧为女生宿舍，入住体育学院学生。
-
-  - tag: img
-    src: $img/dorm/PEdorm.jpg
-    desc: 体育公寓

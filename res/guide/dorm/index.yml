@@ -1,7 +1,7 @@
 title: 寝室
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: list
@@ -14,6 +14,9 @@ content:
 
       - text: 本部校区本科寝室
         path: locate/benbu
+
+      - text: 本部校区体育公寓
+        path: locate/pe
 
       - text: 本部校区研究生寝室
         path: locate/benbu-master

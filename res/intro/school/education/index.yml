@@ -1,7 +1,7 @@
 title: 教育学部
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 19 日
+time: 2022 年 7 月 23 日
 shareable: true
 content:
   - tag: account
@@ -40,8 +40,8 @@ content:
     items:
       - text: 董玥彤
         icon: idea
-        path: advice/2
+        path: /guide/advice/education/dong
 
       - text: 林传舜
         icon: idea
-        path: advice/1
+        path: /guide/advice/education/lin

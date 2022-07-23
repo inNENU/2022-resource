@@ -317,7 +317,16 @@
         "color": {
           "description": "网格颜色",
           "type": "string",
-          "enum": ["red", "blue", "purple", "orange", "mauve", "olive", "cyan"]
+          "enum": [
+            "red",
+            "blue",
+            "purple",
+            "orange",
+            "grey",
+            "mauve",
+            "olive",
+            "cyan"
+          ]
         },
         "name": {
           "description": "网格项目英文名称",

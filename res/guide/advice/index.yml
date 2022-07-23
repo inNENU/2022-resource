@@ -1,0 +1,37 @@
+title: 优秀毕业生建议
+desc: |-
+  Mr.Hope 诚邀各专业优秀毕业生与在校生为学弟学妹们送出自己的建议。
+author: Mr.Hope
+time: 2022 年 7 月 23 日
+grey: true
+shareable: true
+content:
+  - tag: title
+    text: 教育学部
+
+  - tag: list
+    header: false
+    items:
+      - text: 董玥彤
+        icon: idea
+        path: education/dong
+
+      - text: 林传舜
+        icon: idea
+        path: education/lin
+
+  - tag: title
+    text: 物理学院
+
+  - tag: list
+    header: false
+    items:
+      - text: 顾卓成
+        desc: 公费师范
+        icon: idea
+        path: /intro/school/physics/normal
+
+      - text: 张歌扬
+        desc: 物理学
+        icon: idea
+        path: /intro/school/physics/physics

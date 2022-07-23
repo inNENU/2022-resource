@@ -27,6 +27,13 @@ content:
         icon: intro
         path: /intro/school/education/enroll
 
-      - text: 优秀毕业生建议
+  - tag: list
+    header: 优秀毕业生建议
+    items:
+      - text: 董玥彤
         icon: idea
-        path: /intro/school/education/advice/
+        path: /guide/advice/education/dong
+
+      - text: 林传舜
+        icon: idea
+        path: /guide/advice/education/lin

@@ -180,11 +180,11 @@ content:
         icon: degree
         path: guide/degree/
 
-      # - text: 专业介绍
-      #   color: olive
-      #   name: Major
-      #   icon: about
-      #   path: intro/school/major
+      - text: 专业介绍
+        color: olive
+        name: Major
+        icon: about
+        path: intro/school/major
 
       - text: 转专业
         color: red
@@ -233,6 +233,12 @@ content:
         name: Exam
         icon: exam
         path: guide/exam/
+
+      - text: 优秀毕业生建议
+        color: purple
+        name: Advice
+        icon: idea
+        path: guide/advice/
 
   - tag: grid
     header: 东师贴士

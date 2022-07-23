@@ -1,12 +1,15 @@
 title: 小贴士
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 23 日
 grey: true
 shareable: true
 content:
-  - tag: text
-    type: tip
-    text: 此页面内容仍在完善中...
+  - tag: list
+    header: 学习相关
+    items:
+      - text: 优秀毕业生建议
+        icon: study
+        path: /guide/study/advice
 
   - tag: list
     header: 数码相关

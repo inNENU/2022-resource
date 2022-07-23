@@ -234,6 +234,12 @@ content:
         icon: exam
         path: guide/exam/
 
+      - text: 优秀毕业生建议
+        color: purple
+        name: Advice
+        icon: idea
+        path: guide/advice/
+
   - tag: grid
     header: 东师贴士
     items:
