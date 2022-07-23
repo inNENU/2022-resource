@@ -30,22 +30,32 @@ if ($postData->type === 'fetch') {
     $jar = new \GuzzleHttp\Cookie\CookieJar(true);
 
 
+    // fetch info
+    $response = $client->get(
+      'http://bkzsw.nenu.edu.cn/col_000018_000169.html',
+      ['cookies' => $jar],
+    );
+
+
     // fetch code
     $response = $client->get(
       'http://bkzsw.nenu.edu.cn/include/webgetcode.php?width=85&height=28&sitex=15&sitey=6',
       ['cookies' => $jar],
     );
 
+    preg_match('/<td colspan="2" align="left">(截止.*)<\/td>/', $content, $info);
+
     $base64Image =
       "data:image/png;base64," . base64_encode($response->getBody()->getContents());
+
     $info = [
       'cookies' => $jar->toArray(),
       'info' => ['name', 'id', 'testId'],
       'verifyCode' => $base64Image,
       'notice' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息',
       'detail' => [
-        'title' => "信息录入中",
-        'content' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息，部分省份录取信息也在录入中。',
+        'title' => "录取信息",
+        'content' => str_replace('<br/>', '\n', $info[1]),
       ],
     ];
 
