@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2022 年 7 月 13 日
+time: 2022 年 7 月 24 日
 shareable: true
 content:
   - tag: title
@@ -9,9 +9,11 @@ content:
   - tag: text
     text: 录取通知书会在每批录取工作全部完成之后，陆续制作。
 
-  - tag: text
-    type: warning
-    text: 目前招生办公室尚未提供 2022 年本科录取查询方式。
+  - tag: card
+    cover: $img/tab/admission.png
+    title: 录取查询
+    logo: letter
+    url: admission?type=search
 
   - tag: text
     type: info

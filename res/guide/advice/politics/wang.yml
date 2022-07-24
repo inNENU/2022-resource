@@ -21,7 +21,7 @@ content:
     align: right
     text: 政法学院 王文辛 2018 级法学专业
     style:
-      font-size: 17px
+      font-size: 15px
 
   - tag: p
     text:

@@ -29,16 +29,6 @@ if ($postData->type === 'fetch') {
   if ($postData->level === '本科生') {
     $jar = new \GuzzleHttp\Cookie\CookieJar(true);
 
-    // fetch info
-    $response = $client->get(
-      'http://bkzsw.nenu.edu.cn/col_000018_000169.html',
-      ['cookies' => $jar],
-    );
-
-    $content = $response->getBody()->getContents();
-
-    preg_match('/<td colspan="2" align="left">截止 (.*?)<\/td>/', $content, $notice);
-
     // fetch code
     $response = $client->get(
       'http://bkzsw.nenu.edu.cn/include/webgetcode.php?width=85&height=28&sitex=15&sitey=6',
@@ -47,6 +37,15 @@ if ($postData->type === 'fetch') {
 
     $base64Image =
       "data:image/png;base64," . base64_encode($response->getBody()->getContents());
+
+    // fetch info
+    $response = $client->get(
+      'http://bkzsw.nenu.edu.cn/col_000018_000169.html',
+    );
+
+    $content = $response->getBody()->getContents();
+
+    preg_match('/<td colspan="2" align="left">截止 (.*?)<\/td>/', $content, $notice);
 
     $info = [
       'cookies' => $jar->toArray(),

@@ -1,6 +1,23 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/06/30
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新东师学科介绍与排名
+      - 更新对外合作办学介绍
+
+  - tag: title
+    text: 2022/06/29
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 补充部分专业介绍
+
+  - tag: title
     text: 2022/06/28
 
   - tag: ul
