@@ -51,7 +51,7 @@ if ($postData->type === 'fetch') {
       'cookies' => $jar->toArray(),
       'info' => ['name', 'id', 'testId'],
       'verifyCode' => $base64Image,
-      'notice' => '目前学校招生办公室暂未录入 2022 年高考录取通知书单号信息',
+      'notice' => '部分省份信息正在录入中，点击查看详情',
       'detail' => [
         'title' => "录取信息",
         'content' => str_replace('<br>', "\n", $notice[1]),
