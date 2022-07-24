@@ -88,7 +88,7 @@ if ($postData->type === 'fetch') {
         "upgrade-insecure-requests" =>  "1",
         "Referrer-Policy" =>  "strict-origin-when-cross-origin"
       ],
-      'en_zkz=' . $postData->testId . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . strlen($postData->verifyCode) ? $postData->verifyCode : $postDataArray['verify-code']
+      'en_zkz=' . $postData->testId . '&en_sfz=' . $postData->id . '&en_xm=' . urlencode($postData->name) . '&en_code=' . (strlen($postData->verifyCode) ? $postData->verifyCode : $postDataArray['verify-code'])
     )))->getBody()->getContents();
 
     preg_match('/<script language="javascript">alert\("(.*)"\);history.back\(-1\);<\/script>/', $content, $info);
@@ -103,6 +103,12 @@ if ($postData->type === 'fetch') {
       preg_match('/<td align="right">考&nbsp;&nbsp;生&nbsp;&nbsp;号：<\/td>\s*?<td>(.*)<\/td>/', $content, $testId);
       preg_match('/<td align="right">省　　份：<\/td>\s*?<td>(.*?)<\/td>/', $content, $province);
       preg_match('/<td colspan="3" align="center"><font color="#FF0000" style="font-size:16px;"><p>恭喜你，你已经被我校 <\/p><p>(.*?)&nbsp;&nbsp;(.*?)&nbsp;&nbsp;专业录取！<\/p><\/font><\/td>/', $content, $result);
+      preg_match('/<td align="right">通讯书邮寄地址：<\/td>\s*?<td colspan="2" align="left">(.*?)<\/td>/', $content, $address);
+      preg_match('/<td align="right">邮政编码：<\/td>\s*?<td align="left">(.*?)<\/td>/', $content, $postCode);
+      preg_match('/<td align="right">收&nbsp;&nbsp;件&nbsp;&nbsp;人：<\/td>\s*?<td align="left">(.*?)<\/td>/', $content, $receiver);
+      preg_match('/<td align="right">联系电话：<\/td>\s*?<td align="left">(.*?)<\/td>/', $content, $phone);
+      preg_match('/id="emsdh">(.*?)<\/a>/', $content, $expressNumber);
+
 
       $info = [
         [
@@ -127,9 +133,29 @@ if ($postData->type === 'fetch') {
         ],
         [
           'text' => '录取通知书单号',
-          'value' => '暂无'
+          'value' => ($expressNumber ? $expressNumber[1] : '暂无')
         ],
       ];
+
+      if ($address) array_push($info, [
+        'text' => '通讯地址',
+        'value' => $address[1]
+      ]);
+
+      if ($postCode) array_push($info, [
+        'text' => '邮政编码',
+        'value' => $postCode[1]
+      ]);
+
+      if ($receiver) array_push($info, [
+        'text' => '收件人',
+        'value' => $receiver[1]
+      ]);
+
+      if ($phone) array_push($info, [
+        'text' => '联系电话',
+        'value' => $phone[1]
+      ]);
 
       echo (json_encode([
         'status' => 'success',
