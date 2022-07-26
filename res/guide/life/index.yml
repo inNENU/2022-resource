@@ -1,6 +1,6 @@
 title: 生活
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 27 日
 shareable: true
 content:
   - tag: text
@@ -32,7 +32,7 @@ content:
     items:
       - text: 食堂
         name: Dining
-        color: mavue
+        color: mauve
         icon: dining
         path: /guide/dining/benbu
 
@@ -71,7 +71,7 @@ content:
 
       - text: 理发
         name: Haircut
-        color: mavue
+        color: mauve
         icon: haircut
         path: haircut/benbu
 
@@ -149,7 +149,7 @@ content:
     items:
       - text: 食堂
         name: Dining
-        color: mavue
+        color: mauve
         icon: dining
         path: /guide/dining/jingyue
 
@@ -188,7 +188,7 @@ content:
 
       - text: 理发
         name: Haircut
-        color: mavue
+        color: mauve
         icon: haircut
         path: haircut/jingyue
 
@@ -229,7 +229,7 @@ content:
         name: ATM
         color: red
         icon: atm
-        path: atm/
+        path: atm/jingyue
 
       - text: 就医
         name: Hospital

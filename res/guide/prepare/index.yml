@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022 年 7 月 19 日
+time: 2022 年 7 月 27 日
 grey: true
 shareable: true
 content:
@@ -58,6 +58,10 @@ content:
   - tag: list
     header: 师范生
     items:
-      - text: 师范生相关
-        icon: teacher
+      - text: 师范生协议填写说明
+        icon: idea
+        path: /guide/normal/fill
+
+      - text: 更多师范生相关
+        icon: more
         path: /guide/normal/
