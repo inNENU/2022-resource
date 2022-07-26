@@ -1,6 +1,6 @@
 title: 录取通知书
 author: Mr.Hope
-time: 2022 年 7 月 24 日
+time: 2022 年 7 月 26 日
 shareable: true
 content:
   - tag: title
@@ -59,8 +59,8 @@ content:
     desc: 录取通知书邮寄袋
 
   - tag: img
-    src: $img/prepare/admission-letter-back.jpg
+    src: $img/prepare/admission-letter.png
+    desc: 录取通知书
 
   - tag: img
-    src: $img/prepare/admission-letter.jpg
-    desc: 录取通知书
+    src: $img/prepare/admission-letter-back.jpg
