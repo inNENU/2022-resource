@@ -2,7 +2,7 @@ title: 优秀毕业生建议
 desc: |-
   Mr.Hope 诚邀各专业优秀毕业生与在校生为学弟学妹们送出自己的建议。
 author: Mr.Hope
-time: 2022 年 7 月 24 日
+time: 2022 年 7 月 27 日
 grey: true
 shareable: true
 content:
@@ -35,6 +35,11 @@ content:
         desc: 物理学
         icon: idea
         path: physics/zhang
+
+      - text: 张哲
+        desc: 材料物理
+        icon: idea
+        path: physics/zhe
 
   - tag: title
     text: 生命科学学院

@@ -1,9 +1,13 @@
 title: 军训
 author: Mr.Hope
-time: 2022 年 7 月 19 日
+time: 2022 年 7 月 27 日
 grey: true
 shareable: true
 content:
+  - tag: text
+    type: info
+    text: 由于疫情原因，2022 级军训开学暂不进行。具体安排等待后续通知。
+
   - tag: list
     items:
       - text: 军训介绍
