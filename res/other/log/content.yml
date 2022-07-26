@@ -1,6 +1,170 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/07/26
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 部分学院迎新群
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新 2022 录取通知书照片
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 部分老乡群
+      - 部分描述错误
+
+  - tag: title
+    text: 2022/07/24
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 生命科学学院优秀毕业生建议
+      - 政法学院优秀毕业生建议
+
+  - tag: title
+    text: 2022/07/21
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 体育学院情况介绍
+      - 体育公寓介绍
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 将优秀毕业生建议单设板块
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修复普通话链接错误
+
+  - tag: title
+    text: 2022/07/20
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 优化录取通知书查询提示
+
+  - tag: title
+    text: 2022/07/19
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新优秀毕业生建议
+      - 更新致谢
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修订部分排版与错字
+
+  - tag: title
+    text: 2022/07/18
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新军训介绍
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修订部分排版
+
+  - tag: title
+    text: 2022/07/15
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新诈骗群聊描述
+      - 更新地图 Key
+
+  - tag: title
+    text: 2022/07/14
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 为所有专业补充学费
+
+  - tag: title
+    text: 2022/07/13
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 2022 年招生专业
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 完善部分专业介绍
+
+  - tag: title
+    text: 2022/07/12
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 完善部分专业介绍
+
+  - tag: title
+    text: 2022/07/11
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新通信行程卡介绍
+      - 更新吉祥码介绍
+      - 更新到校要求
+      - 删除不再受到重视的一些民间学校排行榜
+      - 补充报到时的校区选择
+      - 更新欢迎页
+
+  - tag: title
+    text: 2022/07/10
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 选课通知
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修正选课系统开放时间
+
+  - tag: title
+    text: 2022/07/04
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新选课系统 VPN 登录与操作方式
+      - 更新 2022 年秋季学期选课时间说明
+
+  - tag: title
+    text: 2022/07/03
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新 2022 导员说明
+      - 更新新生群介绍
+
+  - tag: title
     text: 2022/06/30
 
   - tag: ul
@@ -8,6 +172,7 @@ content:
     text:
       - 更新东师学科介绍与排名
       - 更新对外合作办学介绍
+      - 更新部分公众号内容
 
   - tag: title
     text: 2022/06/29
