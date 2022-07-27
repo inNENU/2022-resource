@@ -1,6 +1,22 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/07/28
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 2022 年感谢页面
+
+  - tag: title
+    text: 2022/07/27
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 材料物理优秀毕业生建议
+
+  - tag: title
     text: 2022/07/26
 
   - tag: ul
