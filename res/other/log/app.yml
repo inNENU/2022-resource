@@ -1,6 +1,15 @@
 title: 小程序更新日志
 content:
   - tag: title
+    text: 已知问题
+
+  - tag: list
+    items:
+      - text: |-
+          iOS QQ 客户端地图 includePoints 功能异常
+          单个点时会造成客户端崩溃
+
+  - tag: title
     text: 近期更新
 
   - tag: list
