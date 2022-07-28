@@ -27,7 +27,7 @@ content:
     desc: 物理学院
 
   - tag: img
-    src: $img/about/psychology-2022.png
+    src: $img/about/psychology-2022.jpg
     desc: 心理学院
 
   - tag: img

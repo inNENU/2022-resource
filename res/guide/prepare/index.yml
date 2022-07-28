@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022 年 7 月 27 日
+time: 2022 年 7 月 28 日
 grey: true
 shareable: true
 content:
@@ -22,19 +22,38 @@ content:
         path: cheat
 
   - tag: list
-    header: 报到之前
+    header: 本科生报道之前准备
     items:
       - text: 录取通知书详情
         icon: letter
-        path: admission-notice
+        path: under-admission-notice
 
-      - text: 导员姓名与联系方式
-        icon: phone
-        path: counselor/2022
+      - text: 档案邮寄
+        icon: archive
+        path: /guide/archive/under-in
 
       - text: 新生入学前课程学习
         icon: study
         path: /guide/yiban/
+
+      - text: 党员组织关系接转
+        icon: league
+        path: league
+
+      - text: 团员组织关系接转
+        icon: league
+        path: group
+
+  - tag: list
+    header: 研究生报道之前准备
+    items:
+      - text: 录取通知书详情
+        icon: letter
+        path: post-admission-notice
+
+      - text: 档案邮寄
+        icon: archive
+        path: /guide/archive/post-in
 
       - text: 党员组织关系接转
         icon: league

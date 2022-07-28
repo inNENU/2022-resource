@@ -1,6 +1,6 @@
 title: 本科生档案转入
 author: Mr.Hope
-time: 2022 年 7 月 15 日
+time: 2022 年 7 月 28 日
 shareable: true
 content:
   - tag: title
@@ -11,6 +11,35 @@ content:
       - 对于本科生来说，转入的具体细则主要由高中所在地以及学校决定。
       - 如果您的所在省份和学校要求对公邮寄，那么请直接在收到自己的录取通知书后，按照当年新生手册上的档案邮寄地址和接收人上报高中学校进行邮寄。
       - 如果您所在的省份和学校不开展线上寄送要求考生自携，那么请持录取通知书在规定的事件前往高中学校领取档案并妥善保管。报到时携带档案并提交。
+
+  - tag: title
+    text: 档案接收地址
+
+  - tag: action
+    header: 本部地址
+    content: 吉林省长春市南关区南岭街道人民大街 5268 号 XX 学院 (部)
+
+  - tag: action
+    header: 本部邮编
+    content: "130024"
+
+  - tag: action
+    header: 净月地址
+    content: 吉林省长春市南关区净月街道净月大街 2555 号 XX 学院 (部)
+
+  - tag: action
+    header: 净月邮编
+    content: "130117"
+
+  - tag: title
+    text: 档案接收人
+
+  - tag: list
+    header: false
+    items:
+      - text: 2022 年档案接收人
+        icon: contact
+        path: 2022-contact
 
   - tag: text
     type: info
