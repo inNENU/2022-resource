@@ -1,6 +1,6 @@
 title: 入学准备
 author: Mr.Hope
-time: 2022 年 7 月 28 日
+time: 2022 年 7 月 29 日
 grey: true
 shareable: true
 content:
@@ -45,7 +45,7 @@ content:
         path: group
 
       - text: 户口迁移
-        icon: more
+        icon: change
         path: hukou
 
   - tag: list
@@ -68,7 +68,7 @@ content:
         path: group
 
       - text: 户口迁移
-        icon: more
+        icon: change
         path: hukou
 
   - tag: list

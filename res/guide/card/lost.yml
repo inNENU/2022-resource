@@ -1,6 +1,6 @@
 title: 校园卡丢失
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 29 日
 shareable: true
 content:
   - tag: ol
@@ -31,7 +31,7 @@ content:
   - tag: title
     text: 关于补办的卡
 
-  - tag: p
+  - tag: text
     text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
 
   - tag: ul

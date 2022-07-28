@@ -1,6 +1,6 @@
 title: 本科录取通知书
 author: Mr.Hope
-time: 2022 年 7 月 28 日
+time: 2022 年 7 月 29 日
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
 
   - tag: text
     type: info
-    text: 我校录取通知书使用 EMS，发航空件，速度会很快。
+    text: 我校本科生录取通知书使用 EMS，发航空件，速度会很快。
 
   - tag: title
     text: 录取通知书内容
@@ -47,12 +47,15 @@ content:
     text: 师范生协议
 
   - tag: text
-    text: 协议只有报考了公费师范生和优师专项师范生的同学会有，且教育部门的章已经盖好。
+    text:
+      - 报考了公费师范生和优师专项师范生的同学录取通知书中会包含师范生协议，且教育部门的章已经盖好。
 
   - tag: ul
     text:
-      - 公费师范生协议书应为 4️⃣份
-      - 优师专项师范生协议书应为 5️⃣份
+      - |-
+        公费师范生: 4️⃣份协议书
+      - |-
+        优师专项师范生: 5️⃣份协议书
 
   - tag: img
     src: $img/prepare/admission-bag.png
