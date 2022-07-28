@@ -9,50 +9,52 @@ content:
     logo: letter
     url: admission?type=search
 
-  - tag: card
-    cover: $img/tab/map.jpg
-    title: 校园地图
-    logo: map
-    url: map
+  - tag: grid
+    items:
+      # - text: 录取查询
+      #   color: red
+      #   name: Admission
+      #   icon: letter
+      #   url: admission?type=search
 
-  - tag: card
-    cover: $img/tab/calendar.jpg
-    title: 校历
-    logo: calendar
-    url: calendar
+      - text: 校历
+        color: olive
+        name: Calendar
+        icon: calendar
+        url: calendar
 
-  - tag: card
-    cover: $img/tab/headphone.jpg
-    title: 音悦东师
-    logo: cd
-    url: music
+      - text: 音悦东师
+        color: blue
+        name: Music
+        icon: cd
+        url: music
 
-  - tag: card
-    cover: $img/tab/video.jpg
-    title: 影约东师
-    logo: media
-    url: video?type=video
+      - text: 影约东师
+        color: mauve
+        name: Media
+        icon: media
+        url: video?type=video
 
-  - tag: card
-    cover: $img/tab/sport-field.jpg
-    title: 体测计算器
-    logo: calculate
-    url: PEcal
+      - text: 体测计算器
+        color: olive
+        name: PE Calculator
+        icon: calculate
+        url: PEcal
 
-  - tag: card
-    cover: $img/tab/media.jpg
-    title: 校园媒体
-    logo: account
-    url: account
+      - text: 校园媒体
+        color: grey
+        name: Accounts
+        icon: account
+        url: account
 
-  - tag: card
-    cover: $img/tab/website.jpg
-    title: 东师网站
-    logo: network
-    url: website
+      - text: 东师网站
+        color: orange
+        name: Websites
+        icon: network
+        url: website
 
-  - tag: card
-    cover: $img/tab/phone.jpg
-    title: 师大黄页
-    logo: phone
-    url: phone
+      - text: 师大黄页
+        color: purple
+        name: Contact
+        icon: phone
+        url: phone
