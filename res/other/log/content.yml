@@ -7,6 +7,12 @@ content:
     heading: 新增
     text:
       - 2022 年感谢页面
+      - 部分学员迎新群
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 优化部分措辞
 
   - tag: title
     text: 2022/07/27
@@ -984,3 +990,9 @@ content:
       - 净月生活板块部分内容
       - 新生报到流程
       - 企业号相关介绍包括认证、手机号更改、功能简介等。
+
+  - tag: title
+    text: 更早
+
+  - tag: text
+    text: 小程序早期三年的更新并未准确记录内容更新日志。
