@@ -1,8 +1,12 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 28 日
 shareable: true
 content:
+  - tag: text
+    type: warning
+    text: 目前 2022 级新生账号尚未录入，不可登录。
+
   - tag: title
     text: 获得学号
 
