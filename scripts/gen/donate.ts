@@ -17,12 +17,15 @@ export const genDonate = (data: Donate, filePath: string): PageConfig => {
 
   const bestData = data.donations
     .filter((item) => item[1] >= 50)
+    .sort(([, a], [, b]) => b - a)
     .map((item) => `${item[0]} ￥${item[1]}`);
   const normalData = data.donations
     .filter((item) => item[1] < 50 && item[1] >= 10)
+    .sort(([, a], [, b]) => b - a)
     .map((item) => `${item[0]} ￥${item[1]}`);
   const specialData = data.donations
     .filter((item) => item[1] < 10)
+    .sort(([, a], [, b]) => b - a)
     .map((item) => `${item[0]}`);
 
   const pageData: PageOptions = {
