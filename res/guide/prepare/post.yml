@@ -40,6 +40,10 @@ content:
         icon: league
         path: group
 
+      - text: 户口迁移
+        icon: more
+        path: hukou
+
   - tag: list
     header: 找到组织
     items:

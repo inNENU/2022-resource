@@ -1,6 +1,6 @@
 title: PC 使用缴费系统缴费
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 28 日
 shareable: true
 content:
   - tag: text
@@ -22,7 +22,14 @@ content:
     heading: 校内用户登录
     text:
       - 请选择“本校师生”
-      - 默认账号为学号，初始密码为学号。
+      - 默认账号和密码同统一身份认证账号和密码。
+
+  - tag: list
+    header: false
+    items:
+      - text: 统一身份认证
+        icon: account
+        path: /guide/account/authorize/
 
   - tag: text
     heading: 校外用户登录

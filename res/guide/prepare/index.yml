@@ -44,6 +44,10 @@ content:
         icon: league
         path: group
 
+      - text: 户口迁移
+        icon: more
+        path: hukou
+
   - tag: list
     header: 研究生报道之前准备
     items:
@@ -62,6 +66,10 @@ content:
       - text: 团员组织关系接转
         icon: league
         path: group
+
+      - text: 户口迁移
+        icon: more
+        path: hukou
 
   - tag: list
     header: 找到组织

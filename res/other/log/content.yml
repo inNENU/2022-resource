@@ -16,6 +16,11 @@ content:
     text:
       - 优化部分措辞
 
+  - tag: ul
+    heading: 修正
+    text:
+      - 修正校园缴费平台初始密码
+
   - tag: title
     text: 2022/07/27
 
