@@ -1,6 +1,15 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/07/31
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新学校概况板块
+      - 辅导员通讯录
+
+  - tag: title
     text: 2022/07/30
 
   - tag: ul

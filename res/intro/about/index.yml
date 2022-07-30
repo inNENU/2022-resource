@@ -1,7 +1,7 @@
 title: 学校概况
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 11 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: list
@@ -23,16 +23,24 @@ content:
         icon: history
         path: history
 
+      - text: 校情统计
+        icon: data
+        path: basic
+
+      - text: 领导机构
+        icon: leader
+        path: leader
+
   - tag: list
     header: 东师实力
     items:
       - text: 师资队伍
         icon: teacher
-        path: teacher
+        path: teacher/intro
 
       - text: 杰出人才
         icon: star
-        path: talent
+        path: teacher/talent
 
       - text: 学科建设
         icon: content
@@ -41,17 +49,6 @@ content:
       - text: 对外合作办学
         icon: student-org
         path: cop
-
-  - tag: list
-    header: 信息公开
-    items:
-      - text: 领导机构
-        icon: leader
-        path: public/leader
-
-      - text: 校情统计
-        icon: data
-        path: public/basic
 
   - tag: action
     header: 信息公开网

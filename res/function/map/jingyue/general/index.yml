@@ -39,7 +39,7 @@ content:
     items:
       - text: 师资队伍
         icon: teacher
-        path: /intro/about/teacher
+        path: /intro/about/teacher/
 
       - text: 学科建设
         icon: content
