@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 29 日
+time: 2022 年 7 月 30 日
 shareable: true
 content:
   - tag: list
@@ -60,10 +60,6 @@ content:
       - text: 户口迁移
         icon: change
         path: /guide/prepare/hukou
-
-      - text: 保险
-        icon: insurance
-        path: insurance/
 
   - tag: list
     header: 防盗防骗攻略

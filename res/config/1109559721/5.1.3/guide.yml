@@ -12,11 +12,11 @@ content:
         icon: prepare
         path: guide/prepare/
 
-      # - text: 找到组织
-      #   color: olive
-      #   name: Contact
-      #   icon: qq-group
-      #   path: guide/contact/
+      - text: 找到组织
+        color: olive
+        name: Contact
+        icon: qq-group
+        path: guide/contact/
 
       - text: 新生入学教育
         color: blue
@@ -80,6 +80,12 @@ content:
         name: Pay
         icon: money
         path: guide/pay/
+
+      - text: 保险
+        color: blue
+        name: Insurance
+        icon: insurance
+        path: /guide/insurance/
 
       - text: 规章制度
         color: orange
