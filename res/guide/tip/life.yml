@@ -1,6 +1,6 @@
 title: 生活贴士
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 31 日
 grey: true
 shareable: true
 content:
@@ -26,26 +26,6 @@ content:
       - text: 机洗技巧
         icon: idea
         path: washing/machine
-
-  - tag: list
-    header: 交通出行
-    items:
-      - text: 轨道交通出行
-        icon: train
-        path: /guide/traffic/railway/
-
-      - text: 铁路出行
-        icon: railway
-        path: /guide/traffic/train/
-
-      - text: 飞机出行
-        icon: plane
-        desc: 制作中
-        # path: /guide/traffic/plane/
-
-      - text: 公交出行
-        icon: bus
-        path: /guide/traffic/bus/
 
   - tag: list
     header: 过冬贴士

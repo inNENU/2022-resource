@@ -2,7 +2,7 @@ title: 优秀毕业生建议
 desc: |-
   Mr.Hope 诚邀各专业优秀毕业生与在校生为学弟学妹们送出自己的建议。
 author: Mr.Hope
-time: 2022 年 7 月 27 日
+time: 2022 年 7 月 31 日
 grey: true
 shareable: true
 content:
@@ -19,6 +19,16 @@ content:
       - text: 林传舜
         icon: idea
         path: education/lin
+
+  - tag: title
+    text: 文学院
+
+  - tag: list
+    header: false
+    items:
+      - text: 李雨徽
+        icon: idea
+        path: chinese/li
 
   - tag: title
     text: 物理学院

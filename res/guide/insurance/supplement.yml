@@ -1,6 +1,6 @@
 title: 大学生医疗补充保险
 author: Mr.Hope
-time: 2022 年 7 月 30 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: text
@@ -38,7 +38,7 @@ content:
     text: 保险内容
 
   - tag: img
-    src: $img/check/insurance-supplement-1.jpg
+    src: $img/insurance/supplement-1.jpg
 
   - tag: title
     text: 理赔流程

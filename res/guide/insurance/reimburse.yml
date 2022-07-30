@@ -1,6 +1,6 @@
 title: 长春市城乡居民基本医疗保险报销
 author: Mr.Hope
-time: 2022 年 7 月 30 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: text
@@ -19,6 +19,26 @@ content:
     text:
       - 由于特殊原因不能当时提供医保卡的，三日内必须出示医保卡办理入院手续
       - (吉大一二三院除外，其系统不支持，24 小时之内可以)
+
+  - tag: p
+    heading: 报销比例
+    text:
+      - 国家药品名录分为甲乙丙三类。
+      - 甲类药品 100% 在核报范围之内
+      - 乙类药品 90% 在核报范围内
+      - 丙类药品 100% 全部不在核报范围内。
+      - 医保统筹基金支付乙类的药品、诊疗项目 (含医用 耗材) 和服务设施项目费用时，个人先行自付比例为10%  (有特 殊规定的除外) ；支付甲类的药品、诊疗项目和服务设施项目费用时，不再另行设定个人先行自付比例。
+
+  - tag: p
+    heading: 支付范围
+    text:
+      - 城乡居民基本医疗保险支付范围，按照全省统一的医保药品目录、诊疗项目目录及医疗服务设施项目目录，以及国家和省其他有关规定执行。
+
+  - tag: p
+    heading: 起付标准
+    text:
+      - 参保人员在定点医疗机构发生的符合城乡居民基本医疗保险基金支付范围的住院费用，分别设个人起付标准、支付比例和年度基金支付限额。
+      - 参保人员在市级统筹区域内定点医疗机构就医且发生符合规定的转诊住院，由低级别转往高级别医院，应支付住院起付标准差额部分；由高级别转往低级别医院，不再支付住院起付。
 
   - tag: text
     type: info
@@ -45,6 +65,9 @@ content:
     type: info
     heading: 核报比例
     text: 长春市内标准
+
+  - tag: img
+    src: $img/insurance/percent.png
 
   - tag: title
     text: 异地住院
@@ -126,10 +149,10 @@ content:
     text: 相关信息
 
   - tag: img
-    src: $img/check/insurance-base-1.jpg
+    src: $img/insurance/base-1.jpg
 
   - tag: img
-    src: $img/check/insurance-base-2.jpg
+    src: $img/insurance/base-2.jpg
 
   - tag: title
     text: 补充说明
