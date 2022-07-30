@@ -1,6 +1,9 @@
 title: 校情统计
-desc: "来源: 东北师范大学官网"
-time: 2022 年 6 月 27 日
+desc: |-
+  来源: 东北师范大学官网
+cite:
+  - https://www.nenu.edu.cn/xxgk1/xqtj1.htm
+time: 2022 年 7 月 30 日
 shareable: true
 content:
   - tag: title

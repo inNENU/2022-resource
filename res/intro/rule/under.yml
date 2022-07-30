@@ -1,0 +1,64 @@
+title: 规章制度
+grey: true
+author: Mr.Hope
+time: 2022 年 7 月 30 日
+shareable: true
+content:
+  - tag: list
+    header: 学校章程
+    items:
+      - text: 东北师范大学章程
+        icon: rule
+        path: rule
+
+  - tag: doc
+    name: 东北师范大学学生管理规定
+    url: $file/student/manage.pdf
+
+  - tag: list
+    header: 校园管理
+    items:
+      - text: 东北师范大学学生违纪惩处办法
+        icon: rule
+        path: /intro/apt/student/rule
+
+      - text: 常见犯错以及相关处罚规定
+        icon: punish
+        path: /intro/apt/student/punish
+
+  - tag: list
+    header: 宿舍管理
+    items:
+      - text: 东北师范大学学生公寓管理办法
+        icon: rule
+        path: /intro/apt/logistics/rule
+
+      - text: 常见违禁物品
+        icon: ban
+        path: /guide/dorm/ban
+
+  - tag: list
+    header: 学位管理
+    items:
+      - text: 东北师范大学关于本科荣誉学位管理的指导意见
+        desc: 试行
+        icon: plan
+        path: under-honor-degree
+
+  - tag: list
+    header: 学籍管理
+    items:
+      - text: 本科学生学籍管理条例
+        icon: plan
+        path: under-school-roll
+
+  - tag: list
+    header: 考试相关
+    items:
+      - text: 普通高等学校招生违规行为处理暂行办法
+        icon: rule
+        path: enroll-obey
+
+      - text: 国家教育考试违规处理办法
+        icon: rule
+        path: national-exam-obey

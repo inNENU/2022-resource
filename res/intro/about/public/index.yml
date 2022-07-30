@@ -1,6 +1,6 @@
 title: 公开信息
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 30 日
 grey: true
 shareable: true
 content:
@@ -13,18 +13,6 @@ content:
       - text: 校情统计
         icon: data
         path: basic
-
-      - text: 东北师范大学章程
-        icon: rule
-        path: rule
-
-      - text: 本科学生学籍管理条例
-        icon: plan
-        path: school-roll1
-
-      - text: 研究生学籍管理规定
-        icon: plan
-        path: school-roll2
 
   - tag: text
     text: 信息公开网地址

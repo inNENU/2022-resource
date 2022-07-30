@@ -91,7 +91,7 @@ content:
         color: orange
         name: Rule
         icon: rule
-        path: guide/rule/
+        path: intro/rule/
 
       - text: 常见服务
         color: mauve
