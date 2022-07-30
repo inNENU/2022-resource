@@ -1,6 +1,6 @@
 title: 钱包金额查看
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 30 日
 shareable: true
 content:
   - tag: title
@@ -11,5 +11,5 @@ content:
     desc: 点击个人中心
 
   - tag: img
-    src: $img/bath/wallet.png
+    src: $img/bath/wallet.jpg
     desc: 个人中心页面会显示钱包余额

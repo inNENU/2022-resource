@@ -4,12 +4,14 @@ time: 2022 年 6 月 27 日
 shareable: true
 content:
   - tag: text
+    type: info
     text:
       - 学校每年都会组织学生办理“长春市城乡居民基本医疗保险”。
 
-  - tag: text
-    type: info
-    heading: 城镇居民基本医疗保险
+  - tag: title
+    text: 简介
+
+  - tag: p
     text: 城镇居民基本医疗保险是社会医疗保险的组成部分，采取以政府为主导，以居民个人 (家庭) 缴费为主，政府适度补助为辅的筹资方式，按照缴费标准和待遇水平相一致的原则，为城镇居民提供医疗需求的医疗保险制度。
 
   - tag: text
