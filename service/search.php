@@ -274,14 +274,15 @@ function getMatchList(array $words, array $indexContent)
 function getResult(string $searchWord, object $searchIndex)
 {
   $wordsInfo = generateWords($searchWord);
-  $result = [];
+  $wordResult = [];
+  $splitResult = [];
 
   foreach ($searchIndex as $pageID => $indexContent) {
     $matchResult = getMatchList($wordsInfo['words'], $indexContent);
 
     if ($matchResult['weight']) {
-      $result[$pageID] = [
-        'weight' => $matchResult['weight'] * 4096,
+      $wordResult[$pageID] = [
+        'weight' => $matchResult['weight'],
         'index' => $matchResult['matchList'],
       ];
     } else {
@@ -289,7 +290,7 @@ function getResult(string $searchWord, object $searchIndex)
         $matchResult = getMatchList($wordsInfo['index'][$index]['items'], $indexContent);
 
         if ($matchResult['weight']) {
-          $result[$pageID] = [
+          $splitResult[$pageID] = [
             'weight' => $matchResult['weight'] * $wordsInfo['index'][$index]['level'],
             'index' => $matchResult['matchList'],
           ];
@@ -300,13 +301,28 @@ function getResult(string $searchWord, object $searchIndex)
     }
   }
 
-  array_multisort(array_column($result, 'weight'), SORT_DESC, $result);
 
   $searchResult = [];
 
   $count = 0;
 
-  foreach ($result as $pageID => $indexList) {
+  array_multisort(array_column($wordResult, 'weight'), SORT_DESC, $wordResult);
+
+  foreach ($wordResult as $pageID => $indexList) {
+    // max 30 pages
+    if ($count < 30) {
+      $count++;
+      array_push($searchResult, [
+        'title' => $searchIndex->$pageID[0],
+        'id' => $pageID,
+        'index' => $indexList['index'],
+      ]);
+    }
+  }
+
+  array_multisort(array_column($splitResult, 'weight'), SORT_DESC, $splitResult);
+
+  foreach ($splitResult as $pageID => $indexList) {
     // max 30 pages
     if ($count < 30) {
       $count++;
@@ -327,7 +343,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
   $data = json_decode(file_get_contents('php://input'));
 
   $scope = isset($data->scope) ? $data->scope : 'all';
-  $word = isset($data->scope) ? $data->word : '';
+  $word = isset($data->word) ? $data->word : '';
   $type = isset($data->type) ? $data->type : '';
 
   $filename = $data->scope . "-search.json";
