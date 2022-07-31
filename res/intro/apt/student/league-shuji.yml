@@ -1,21 +1,27 @@
 title: 学院党委副书记通讯录
 desc: |-
   信息来源: 学生处官网
-time: 2022 年 6 月 27 日
+cite:
+  - https://xsc.nenu.edu.cn/dwjs/jcdw/fsj.htm
+time: 2022 年 7 月 31 日
 shareable: true
 content:
+  - tag: img
+    src: $img/apartment/shuji-contact.png
+    desc: 汇总表格
+
   - tag: title
     text: 教育学部
 
   - tag: phone
-    lName: 韩
-    fName: 东
+    lName: 董
+    fName: 俊
     num: 0431-85099547
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: handong@nenu.edu.cn
+    mail: dongj315@nenu.edu.cn
 
   - tag: title
     text: 心理学院
@@ -34,14 +40,14 @@ content:
     text: 政法学院
 
   - tag: phone
-    lName: 李
-    fName: 红权
+    lName: 赵
+    fName: 雪
     num: 0431-84536166
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    mail: lihq146@nenu.edu.cn
+    mail: zhaox717@nenu.edu.cn
 
   - tag: title
     text: 经济与管理学院
@@ -60,64 +66,66 @@ content:
     text: 文学院
 
   - tag: phone
-    fName: 未知
+    lName: 吴
+    fName: 晓庆
     num: 0431-85099364
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
+    mail: wuxq827@nenu.edu.cn
 
   - tag: title
     text: 历史文化学院
 
   - tag: phone
-    lName: 董
-    fName: 俊
+    lName: 王
+    fName: 屾
     num: 0431-85099092
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: dongj315@nenu.edu.cn
+    mail: wang0037@nenu.edu.cn
 
   - tag: title
     text: 外国语学院
 
   - tag: phone
-    lName: 商
-    fName: 应美
-    num: 0431-85099727
+    lName: 仇
+    fName: 云龙
+    num: 0431-85099725
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: shangym238@nenu.edu.cn
+    mail: chouyl726@nenu.edu.cn
 
   - tag: title
     text: 音乐学院
 
   - tag: phone
-    lName: 董
-    fName: 琰
+    lName: 张
+    fName: 丽伟
     num: 0431-84536269
     title: 党委副书记
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    mail: dongy211@nenu.edu.cn
+    mail: zhanglw347@nenu.edu.cn
 
   - tag: title
     text: 美术学院
 
   - tag: phone
     lName: 赵
-    fName: 雪
-    num: 0431-84536269
+    fName: 轩
+    num: 0431-84537617
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    mail: zhaox717@nenu.edu.cn
+    mail: zhaox703@nenu.edu.cn
 
   - tag: title
     text: 马克思主义学部
@@ -136,40 +144,40 @@ content:
     text: 数学与统计学院
 
   - tag: phone
-    lName: 任
-    fName: 丽涛
+    lName: 曹
+    fName: 威威
     num: 0431-85099577
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: renlt124@nenu.edu.cn
+    mail: caoww829@nenu.edu.cn
 
   - tag: title
     text: 信息科学与技术学院
 
   - tag: phone
-    lName: 滕
-    fName: 继波
+    lName: 韩
+    fName: 冬
     num: 0431-84536227
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
-    mail: tengjb030@nenu.edu.cn
+    mail: handong@nenu.edu.cn
 
   - tag: title
     text: 物理学院
 
   - tag: phone
-    lName: 臧
-    fName: 丹
+    lName: 吉
+    fName: 喆
     num: 0431-85099649
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: zangd764@nenu.edu.cn
+    mail: jiz888@nenu.edu.cn
 
   - tag: title
     text: 化学学院
@@ -201,35 +209,22 @@ content:
     text: 地理科学学院
 
   - tag: phone
-    lName: 陈
-    fName: 静
+    lName: 杨
+    fName: 成岭
     num: 0431-85099216
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: chenjing@nenu.edu.cn
+    mail: yangcl359@nenu.edu.cn
 
   - tag: title
     text: 环境学院
 
   - tag: phone
-    lName: 赵
-    fName: 轩
-    num: 0431-89165618
-    title: 党委副书记兼副院长
-    org: 东北师范大学
-    street: 吉林省长春市人民大街 5268 号
-    postCode: 130024
-    mail: zhaox703@nenu.edu.cn
-
-  - tag: title
-    text: 体育学院
-
-  - tag: phone
     lName: 常
     fName: 益
-    num: 0431-85099616
+    num: 0431-89165618
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
@@ -237,30 +232,30 @@ content:
     mail: changy123@nenu.edu.cn
 
   - tag: title
+    text: 体育学院
+
+  - tag: phone
+    lName: 杨
+    fName: 志
+    num: 0431-85099616
+    title: 党委副书记兼副院长
+    org: 东北师范大学
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    mail: yangz984@nenu.edu.cn
+
+  - tag: title
     text: 传媒科学学院
 
   - tag: phone
     lName: 张
-    fName: 奎山
+    fName: 丹
     num: 0431-84536478
     title: 党委副书记兼副院长
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号
     postCode: 130024
-    mail: zhangks007@nenu.edu.cn
-
-  - tag: title
-    text: 民族教育学院
-
-  - tag: phone
-    lName: 马
-    fName: 荣华
-    num: 0431-84536306
-    title: 党委副书记兼副院长
-    org: 东北师范大学
-    street: 吉林省长春市净月大街 2555 号
-    postCode: 130117
-    mail: mronghua@nenu.edu.cn
+    mail: zhangd@nenu.edu.cn
 
   - tag: title
     text: 罗格斯大学纽瓦克学院
@@ -274,16 +269,3 @@ content:
     street: 吉林省长春市净月大街 2555 号
     postCode: 130117
     mail: zhaoyb571@nenu.edu.cn
-
-  - tag: title
-    text: 国际汉学院
-
-  - tag: phone
-    lName: 刘
-    fName: 国军
-    num: 0431-85099525
-    title: 党委副书记兼副院长
-    org: 东北师范大学
-    street: 吉林省长春市人民大街 5268 号
-    postCode: 130024
-    mail: 85099525@nenu.edu.cn

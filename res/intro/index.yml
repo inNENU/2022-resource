@@ -1,7 +1,6 @@
 title: 东师介绍
 id: intro
 grey: true
-hidden: true
 content:
   - tag: grid
     header: 学校介绍

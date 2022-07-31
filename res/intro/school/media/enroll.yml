@@ -1,22 +1,16 @@
 title: 传媒科学学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
-    text: 本科招生情况
+    text: 本科招生概况
 
   - tag: p
     text: 传媒科学学院下设广播电视编导、播音与主持艺术、新闻学、广告学、数字媒体技术五个本科专业，其中新闻学和广告学使用新闻传播学类进行招生。
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/F/A3/EE/3B09C25A7672419491A7945A56B_2B2A9CD7_1515D839.mp4?e=.mp4
-
   - tag: list
-    header: 本科专业介绍
+    header: 专业详情
     items:
       - text: 广播电视编导
         path: director
@@ -29,6 +23,15 @@ content:
 
       - text: 数字媒体技术
         path: digital
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 这里是传媒
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/B/FD/E0/B957821D6B82F9580DD9F92FDE2_4D0DC8A6_C3F8934.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况

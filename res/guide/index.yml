@@ -1,7 +1,6 @@
 title: 东师指南
 id: guide
 grey: true
-hidden: true
 content:
   - tag: grid
     header: 你好东师

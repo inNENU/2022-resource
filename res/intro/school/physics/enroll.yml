@@ -1,6 +1,6 @@
 title: 物理学院招生
 author: Mr.Hope
-time: 2022 年 6 月 28 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -9,20 +9,23 @@ content:
   - tag: p
     text: 物理学从 2020 年开始按照物理学类进行大类招生，大二开学进行专业分流。
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/D/97/BA/4498E328D4D6FA1629968C37C0B_326AFBEB_E91C1FF.mp4?e=.mp4
-
   - tag: list
-    header: 本科各专业介绍
+    header: 专业详情
     items:
       - text: 物理学 (公费师范)
         path: normal
 
       - text: 物理学类
         path: class
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 格物致知 穷理笃行
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/3/C1/D2/686B61ED3EBDEAE0D46E71C0B7B_C82DBF07_AE6DD05.mp4?e=.mp4
 
   - tag: title
     text: 硕士招生概况

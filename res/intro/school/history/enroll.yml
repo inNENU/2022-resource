@@ -1,6 +1,6 @@
 title: 历史文化学院招生
 author: Mr.Hope
-time: 2022 年 7 月 14 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -9,18 +9,11 @@ content:
   - tag: p
     text: 历史文化学院自 1948 年开始招生，现设有历史学、旅游管理 2 个本科专业，其中历史学专业分为公费师范类和非公费师范类(普通类)两类招生。
 
-  # - tag: title
-  #   text: 专业介绍视频
-
-  # - tag: media
-  #   type: video
-  #   src: http://zsb.nenu.edu.cn/_vsl/47993B33DF0ACE5BFA0DA15131D2392B/F046F014/3930242F?e=.mp4?e=.mp4
-
   - tag: img
     src: $img/enroll/history-major.png
 
   - tag: list
-    header: 本科各专业介绍
+    header: 专业详情
     items:
       - text: 历史学(公费师范)
         path: normal
@@ -31,6 +24,15 @@ content:
       # - text: 旅游管理
       #   path: travel
       #   desc: 已停招
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 青蓝康续 守正创新
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/D/0E/DE/368F0A2462BF4AE715C3C5100B5_33E09BE8_14BC1E63.mp4?e=.mp4
 
   - tag: title
     text: 历史文化学院硕士专业设置

@@ -1,6 +1,6 @@
 title: 环境学院招生
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -11,14 +11,8 @@ content:
       - 为普通类专业，实施大类招生方案，按照环境科学与工程类进行大类招生。
       - 学生入学一年后，根据自身专业志趣，通过双向选择，在环境科学、环境工程和生态学三个专业中选择一个作为自己的主修专业。
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/B/27/0B/C28F64C377565C2D4F3A742EB78_21C472D9_117F3DB9.mp4?e=.mp4
-
   - tag: list
-    header: 本科专业介绍
+    header: 专业详情
     items:
       - text: 环境科学
         path: science
@@ -28,6 +22,15 @@ content:
 
       - text: 生态学
         path: ecology
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 生态环境 薪火相传
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/9/86/9E/7E9F1A082F502D600D29492F7FB_5736E06D_904F276.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况

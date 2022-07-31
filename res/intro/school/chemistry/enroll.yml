@@ -1,6 +1,6 @@
 title: 化学学院专业
 author: Mr.Hope
-time: 2022 年 7 月 14 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -11,19 +11,23 @@ content:
       - "化学(公费师范): 公费培养"
       - "化学: ￥3850/年"
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/E/CB/93/B83A3A45DE8802AB5C09FD37F12_AB2234A1_E4AABBB.mp4?e=.mp4
-
   - tag: list
+    header: 专业详情
     items:
       - text: 化学
         path: chemistry
 
       - text: 化学(公费师范)
         path: normal
+
+  - tag: text
+    heading: 专业介绍视频
+
+  - tag: text
+    heading: 美丽化学 寄情东师
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/A/A9/A8/BF70AAB196C8AAAA5864F0DD193_78093819_1BBA265C.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况

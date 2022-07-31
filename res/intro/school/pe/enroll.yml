@@ -1,13 +1,12 @@
 title: 体育学院招生
 author: Mr.Hope
-time: 2022 年 7 月 27 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
     text: 本科招生概况
 
   - tag: ul
-    heading: 体育学院
     text:
       - "体育教育(公费师范): 公费培养"
       - "体育教育: ￥4620/年"
@@ -15,14 +14,8 @@ content:
       - "运动训练: ￥9000/年"
       - "武术与民族传统体育: ￥9000/年"
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/5/79/AB/6643A47802D586F1FF312990C67_E4CCDFC7_17232DEB.mp4?e=.mp4
-
   - tag: list
-    header: 本科各专业介绍
+    header: 专业详情
     items:
       - text: 体育教育 (含公费师范)
         path: education
@@ -35,6 +28,15 @@ content:
 
       - text: 武术与民族传统体育
         path: martial
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 东师体院等你来
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/7/79/E6/018F1D890AA8113DBCC89D0E012_3EAA55FF_119FD258.mp4?e=.mp4
 
   - tag: title
     text: 硕士招生概况

@@ -1,6 +1,6 @@
 title: 教育学部招生
 desc: 研究生招生信息来自研究生院
-time: 2022 年 7 月 14 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -9,14 +9,8 @@ content:
   - tag: p
     text: 教育学部自 1951 年开始招收培养本科生，2022 年招生专业为教育学类、学前教育(公费师范)、小学教育(公费师范)，全部是国家级一流本科专业建设点。
 
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: http://zsb.nenu.edu.cn/__local/7/F6/CF/7A5A8154456418A356354C8F71B_DD2F51BA_FC688C7.mp4?e=.mp4
-
   - tag: list
-    header: 各专业介绍
+    header: 专业详情
     items:
       - text: 教育学类
         path: class
@@ -26,6 +20,15 @@ content:
 
       - text: 学前教育(公费师范)
         path: before-normal
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 松高芝兰 教育诗篇
+
+  - tag: video
+    src: https://www.nenu.edu.cn/__local/E/E6/64/9007D5AFAE7394E7634FB10B334_9F427052_54D380A0.mp4?e=.mp4
 
   - tag: title
     text: 本科招生咨询电话
