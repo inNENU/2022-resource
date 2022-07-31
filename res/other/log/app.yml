@@ -4,6 +4,7 @@ content:
     text: 已知问题
 
   - tag: list
+    header: false
     items:
       - text: |-
           iOS QQ 客户端地图 includePoints 功能异常

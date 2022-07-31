@@ -1,7 +1,7 @@
 title: 体育学院
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: account
@@ -30,3 +30,9 @@ content:
       - text: 学科建设
         icon: degree
         path: subject
+
+  - tag: list
+    items:
+      - text: 体育学院管理介绍
+        icon: idea
+        path: tip

@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 7 月 31 日
 shareable: true
 content:
   - tag: title
@@ -112,20 +112,6 @@ content:
   #   src: $img/check/benbu-stage.jpg
   #   desc: 本部摆台地点示意图
 
-  # - tag: img
-  #   src: $img/check/benbu-scene-2020-1.jpg
-
-  # - tag: img
-  #   src: $img/check/benbu-scene-2020-2.jpg
-
-  # - tag: img
-  #   src: $img/check/benbu-scene-2020-3.jpg
-  #   desc: 本部迎新现场
-
-  # - tag: img
-  #   src: $img/check/benbu-scene-2020-4.jpg
-  #   desc: 本部摆台旁的学生证展板(Mr.Hope 本人)
-
   - tag: text
     text: 净月校区在正门通道处
 
@@ -135,5 +121,5 @@ content:
   - tag: location
     title: 净月正门
     points:
-      - latitude: 43.86409
-        longitude: 125.33468
+      - latitude: 43.82738
+        longitude: 125.4274
