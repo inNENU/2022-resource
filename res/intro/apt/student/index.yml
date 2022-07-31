@@ -36,6 +36,10 @@ content:
         icon: punish
         path: punish
 
+      - text: 加强本科生宿舍门禁管的通知
+        icon: notice
+        path: dorm-door
+
   - tag: doc
     name: 东北师范大学学生管理规定
     url: $file/student/manage.pdf
