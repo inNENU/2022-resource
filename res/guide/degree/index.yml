@@ -1,6 +1,6 @@
 title: 学位
 author: Mr.Hope
-time: 2022 年 8 月 1 日
+time: 2022 年 8 月 2 日
 grey: true
 shareable: true
 content:
@@ -16,15 +16,31 @@ content:
         path: class/rule
 
   - tag: list
+    header: 学位介绍
     items:
-      # - text: 学位介绍
-      #   icon: intro
-      #   path: intro
+      - text: 学士学位介绍
+        icon: degree
+        path: bachelor
+
+      - text: 第二学士学位
+        icon: degree
+        path: second-degree
 
       - text: 双学位与辅修
         icon: degree
         path: double-degree
 
-      - text: 第二学士学位
-        icon: degree
-        path: second-degree
+  - tag: list
+    header: 相关条例
+    items:
+      - text: 中华人民共和国学位条例
+        icon: rule
+        path: rule
+
+      - text: 中华人民共和国学位条例暂行实施办法
+        icon: notice
+        path: method
+
+      - text: 学士学位授权与授予管理办法
+        icon: rule
+        path: bachelor-rule
