@@ -26,9 +26,19 @@ content:
         icon: degree
         path: second-degree
 
-      - text: 双学位与辅修
+      - text: 双学士学位
         icon: degree
         path: double-degree
+
+      - text: 辅修学士学位
+        icon: degree
+        path: minor
+
+  - tag: list
+    items:
+      - text: Mr.Hope 的个人建议
+        icon: idea
+        path: advice
 
   - tag: list
     header: 相关条例
@@ -44,3 +54,7 @@ content:
       - text: 学士学位授权与授予管理办法
         icon: rule
         path: bachelor-rule
+
+      - text: 关于深化本科教育教学改革全面提高人才培养质量的意见
+        icon: notice
+        path: under-opinion
