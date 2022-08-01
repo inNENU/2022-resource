@@ -1,6 +1,6 @@
 title: 常见故障及解决办法
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -68,14 +68,12 @@ content:
     text: 咨询电话
 
   - tag: phone
-    header: 人工服务电话
     num: 0431-85099005
     fName: 人工服务电话
     org: 东北师范大学信息化办
     site: https://xxhb.nenu.edu.cn/
 
   - tag: phone
-    header: 24 小时自助服务电话
     num: 0431-85099119
     fName: 24 小时自助服务电话
     org: 东北师范大学信息化办

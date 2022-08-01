@@ -1,7 +1,7 @@
 title: 心理咨询服务
 desc: |-
   信息来源: 学生处官网
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -59,7 +59,6 @@ content:
     text: 其他服务方式
 
   - tag: phone
-    header: 生涯咨询预约电话
     fName: 生涯咨询预约电话
     num: 0431-85098816
     org: 东北师范大学
@@ -67,18 +66,15 @@ content:
     postCode: 130024
 
   - tag: phone
-    header: 长春市心理援助热线
     fName: 长春市心理援助热线
     num: 0431-89685000
     workNum: 0431-89685333
 
   - tag: phone
-    header: 教育部华中师范大学心理援助热线 (24 小时)
     fName: 教育部华中师范大学心理援助热线 (24 小时)
     num: 400-967-8920
 
   - tag: phone
-    header: 清华大学公益心理服务热线 (每日 10:00-22:00)
     fName: 清华大学公益心理服务热线 (每日 10:00-22:00)
     num: 4000-100-525
 

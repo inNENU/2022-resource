@@ -1,7 +1,7 @@
 title: 信访
 desc: |-
   信息来源: 学校办公室官网
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 shareable: true
 cite: http://office.nenu.edu.cn/dpzw.jsp?urltype=tree.TreeTempUrl&wbtreeid=1103
 content:
@@ -15,8 +15,7 @@ content:
     text: 信访渠道
 
   - tag: phone
-    header: 来访电话
-    fName: 来访电话
+    fName: 信访来访电话
     num: 0431-85098666
     org: 东北师范大学
     street: 吉林省长春市人民大街 5268 号

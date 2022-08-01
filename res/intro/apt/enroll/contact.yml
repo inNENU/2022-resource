@@ -1,6 +1,6 @@
 title: 招生办公室联系方式
 desc: 信息来自东北师范大学本科招生网
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: text
@@ -12,7 +12,6 @@ content:
     text: "130024"
 
   - tag: phone
-    header: 电话
     fName: 招生办公室
     num: 0431-85098500
     org: 东北师范大学
