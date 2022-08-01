@@ -1,6 +1,6 @@
 title: 证件材料类
 author: Mr.Hope
-time: 2022 年 7 月 15 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -21,12 +21,16 @@ content:
   - tag: text
     type: info
     heading: 党团组织关系材料
-    text: 除介绍信外还包括团员证与党员证
+    text:
+      - 省外党员需要有介绍信 (团员和省内党员无需介绍信)
+      - 团员证或党员证
 
   - tag: text
     type: info
     heading: 档案材料
-    text: 学生档案就是高中母校交给同学们的装在牛皮档案里的材料
+    text:
+      - 就是高中母校交给同学们的装在牛皮档案里的材料
+      - 一般为个人档案，个人档案数据电子化的省份可能只有团籍档案
 
   - tag: text
     type: info
