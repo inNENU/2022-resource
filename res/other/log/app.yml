@@ -7,8 +7,7 @@ content:
     header: false
     items:
       - text: |-
-          iOS QQ 客户端地图 includePoints 功能异常
-          单个点时会造成客户端崩溃
+          iOS QQ 客户端夜间模式异常
 
   - tag: title
     text: 近期更新

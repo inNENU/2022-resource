@@ -210,11 +210,11 @@ content:
         icon: office
         path: intro/apt/office/
 
-      # - text: 校团委
-      #   color: purple
-      #   name: League
-      #   icon: league
-      #   path: intro/apt/youth-league/
+      - text: 校团委
+        color: purple
+        name: League
+        icon: league
+        path: intro/apt/youth-league/
 
       - text: 后勤管理处
         color: cyan
