@@ -1,6 +1,6 @@
 title: 开学活动
 author: Mr.Hope
-time: 2022 年 7 月 18 日
+time: 2022 年 8 月 1 日
 grey: true
 shareable: true
 content:
@@ -37,3 +37,14 @@ content:
       - text: 选择导师
         icon: teacher
         path: choose
+
+  - tag: list
+    header: 征兵工作
+    items:
+      - text: 征兵工作实施细则
+        icon: rule
+        path: conscription/rule
+
+      - text: 参军入伍待遇解释
+        icon: idea
+        path: conscription/explain

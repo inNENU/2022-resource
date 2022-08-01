@@ -1,7 +1,7 @@
 title: 规章制度
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 30 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: list
@@ -13,7 +13,7 @@ content:
 
   - tag: doc
     name: 东北师范大学学生管理规定
-    url: $file/student/manage.pdf
+    url: $file/manage/student-rule.pdf
 
   - tag: list
     header: 校园管理

@@ -1,6 +1,6 @@
 title: 本科生处分
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -19,3 +19,7 @@ content:
   - tag: doc
     name: 学生纪律处分呈报表
     url: $file/action/sanction.docx
+
+  - tag: doc
+    name: 本科生违纪处分和解除违纪处分工作流程
+    url: $file/manage/sanction-flow.pdf

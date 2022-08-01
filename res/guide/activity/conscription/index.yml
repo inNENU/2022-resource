@@ -1,0 +1,15 @@
+title: 参军入伍
+author: Mr.Hope
+time: 2022 年 8 月 1 日
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 征兵工作实施细则
+        icon: rule
+        path: rule
+
+      - text: 参军入伍待遇解释
+        icon: idea
+        path: explain

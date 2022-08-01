@@ -1,6 +1,6 @@
 title: 宿舍开门时间
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
 
   - tag: doc
     name: 宿舍门禁期间出入申请单
-    url: $file/apartment/dorm-door-lock-apply.docx
+    url: $file/manage/dorm-door-lock-apply.docx
 
   - tag: text
     type: info
@@ -38,7 +38,7 @@ content:
     heading: 违反后果
     text:
       - 根据《东北师范大学学生违纪惩处办法》第十八条第二款，在校内登记住宿，无故晚归、夜不归宿，经教育不改的，视情节、性质、后果等，给予警告以上处分。
-      - 学生处会将违反宿舍门禁管理的情况反馈至各学院（部）予以核实，并对经教育不改的学生给予相应处分。
+      - 学生处会将违反宿舍门禁管理的情况反馈至各学院 (部) 予以核实，并对经教育不改的学生给予相应处分。
 
   - tag: title
     text: Mr.Hope の 提示
