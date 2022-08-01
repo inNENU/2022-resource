@@ -1,6 +1,23 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/08/01
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 征兵政策与解释
+      - 大类招生介绍与分流指导意见
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 基地班说明
+      - 更新师大黄页
+      - 更新页面电话组件
+      - 更新团员转接材料
+
+  - tag: title
     text: 2022/07/31
 
   - tag: ul

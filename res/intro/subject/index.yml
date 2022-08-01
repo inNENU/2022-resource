@@ -1,7 +1,7 @@
 title: 学科建设
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 29 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: list
@@ -17,3 +17,22 @@ content:
       - text: 专业排名
         icon: rank
         path: rank
+
+  - tag: title
+    text: 第三方排名
+
+  - tag: action
+    header: QS 世界大学排名
+    content: https://www.topuniversities.com/
+
+  - tag: action
+    header: THE 世界大学排名
+    content: https://www.timeshighereducation.com/
+
+  - tag: action
+    header: US NEWS 世界最佳大学排名
+    content: https://www.usnews.com/education/best-global-universities
+
+  - tag: action
+    header: 软科排名
+    content: https://www.shanghairanking.cn/rankings

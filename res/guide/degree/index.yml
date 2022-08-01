@@ -1,9 +1,20 @@
 title: 学位
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 1 日
 grey: true
 shareable: true
 content:
+  - tag: list
+    header: 大类招生
+    items:
+      - text: 大类招生介绍
+        icon: about
+        path: class/intro
+
+      - text: 本科大类招生专业分流工作指导意见
+        icon: notice
+        path: class/rule
+
   - tag: list
     items:
       # - text: 学位介绍
