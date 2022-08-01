@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 1 日
 shareable: true
 content:
   - tag: title
@@ -121,5 +121,5 @@ content:
   - tag: location
     title: 净月正门
     points:
-      - latitude: 43.82738
-        longitude: 125.4274
+      - latitude: 43.828368
+        longitude: 125.430668

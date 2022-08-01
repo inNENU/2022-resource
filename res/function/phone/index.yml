@@ -1,88 +1,119 @@
+# https://www.nenu.edu.cn/cyfw1/sdhy/jxjg1.htm
+
 - name: 教学机构
   list:
     - name: 教育学部
       num: 85099557
       locate: benbu
+      mail: fed@nenu.edu.cn
+      site: https://edu.nenu.edu.cn/
 
     - name: 心理学院
       num: 85098050
       locate: benbu
+      mail: psy@nenu.edu.cn
+      site: https://psy.nenu.edu.cn/
 
     - name: 政法学院
       num: 84536465
       locate: jingyue
+      site: https://zf.nenu.edu.cn/
 
-    - name: 经济学院
+    - name: 经济与管理学院
       num: 84536212
       locate: jingyue
-
-    - name: 商学院
-      num: 84536036
-      locate: jingyue
+      site: https://bs.nenu.edu.cn/
 
     - name: 文学院
       num: 85099492
       locate: benbu
+      mail: chinese@nenu.edu.cn
+      site: http://chinese.nenu.edu.cn/home
 
     - name: 历史文化学院
       num: 85099418
       locate: benbu
+      mail: sohac@nenu.edu.cn
+      site: https://sohac.nenu.edu.cn/
 
     - name: 外国语学院
       num: 85099679
       locate: benbu
+      mail: wy@nenu.edu.cn
+      site: https://wy.nenu.edu.cn/
 
     - name: 外国语学院净月
       num: 85096254
       locate: jingyue
+      mail: wy@nenu.edu.cn
+      site: https://wy.nenu.edu.cn/
 
     - name: 音乐学院
       num: 85099901
       locate: jingyue
+      mail: yyxy@nenu.edu.cn
+      site: https://music.nenu.edu.cn/
 
     - name: 美术学院
       num: 84537628
       locate: jingyue
+      mail: nenuart@nenu.edu.cn
+      site: https://fineart.nenu.edu.cn/
 
     - name: 马克思主义学部
       num: 85099562
       locate: benbu
+      site: https://marxism.nenu.edu.cn/
 
     - name: 数学与统计学院
       num: 85099589
       locate: benbu
+      site: https://math.nenu.edu.cn/
 
     - name: 信息科学与技术学院
       num: 84536338
       locate: jingyue
+      site: http://www.ist.nenu.edu.cn/
 
     - name: 物理学院
       num: 85099666
       locate: benbu
+      site: http://www.phy.nenu.edu.cn/
 
     - name: 化学学院
       num: 85099667
       locate: benbu
+      mail: chem@nenu.deu.cn
+      site: https://chem.nenu.edu.cn/
 
     - name: 生命科学学院
       num: 85099590
       locate: benbu
+      mail: sky@nenu.edu.cn
+      site: https://sky.nenu.edu.cn/
 
     - name: 地理科学学院
       num: 85099550
       locate: benbu
+      mail: dili@nenu.edu.cn
+      site: https://geo.nenu.edu.cn/
 
     - name: 环境学院
       num: 89165610
       locate: jingyue
+      site: https://hjxy.nenu.edu.cn
 
     - name: 体育学院
       num: 85099598
       locate: benbu
+      mail: pe@nenu.edu.cn
+      site: https://pe.nenu.edu.cn/
 
     - name: 传媒科学学院
       num: 84536486
       locate: jingyue
+      mail: chuanmei@nenu.edu.cn
+      site: http://chuanmei.nenu.edu.cn/
 
     - name: 远程与继续教育学院/民族教育学院
       num: 85099508
