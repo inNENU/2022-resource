@@ -13,6 +13,10 @@ export const resolveText = (
   if (typeof element.style === "object")
     element.style = resolveStyle(element.style);
 
+  // TODO: Remove this
+  if (element.tag === "p")
+    element.style = `${element.style || ""};display: inline-block`;
+
   // 处理段落
   if (typeof element.text === "string") element.text = [element.text];
 
