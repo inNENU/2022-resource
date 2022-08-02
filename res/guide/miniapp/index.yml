@@ -1,6 +1,6 @@
 title: 东师 e 起战疫
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 2 日
 grey: true
 shareable: true
 content:
@@ -15,7 +15,7 @@ content:
         icon: intro
         path: intro
 
-      - text: 小程序登陆
+      - text: 小程序登录
         icon: account
         path: login
 
