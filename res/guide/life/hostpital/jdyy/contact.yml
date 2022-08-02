@@ -12,7 +12,7 @@ content:
     org: 吉林大学白求恩第一医院
     street: 长春市新民大街 71 号
     postCode: 130033
-    site: http://www.zrlyyy.com/dzb/
+    site: https://jdyy.cn/
 
   - tag: phone
     header: 门诊一
@@ -21,7 +21,7 @@ content:
     org: 吉林大学白求恩第一医院
     street: 长春市新民大街 71 号
     postCode: 130033
-    site: http://www.zrlyyy.com/dzb/
+    site: https://jdyy.cn/
 
   - tag: phone
     header: 门诊二
@@ -30,7 +30,7 @@ content:
     org: 吉林大学白求恩第一医院
     street: 长春市新民大街 71 号
     postCode: 130033
-    site: http://www.zrlyyy.com/dzb/
+    site: https://jdyy.cn/
 
   - tag: phone
     header: 门诊三
@@ -39,4 +39,4 @@ content:
     org: 吉林大学白求恩第一医院
     street: 长春市新民大街 71 号
     postCode: 130033
-    site: http://www.zrlyyy.com/dzb/
+    site: https://jdyy.cn/

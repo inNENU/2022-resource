@@ -39,6 +39,7 @@ content:
   - tag: p
     type: info
     heading: 中心医院
+    path: center/
     text:
       - 长春市三甲，患者相对比较少，医生会更加耐心一些。
       - 乘坐地铁一号线可直达，去北环城路方向，在人民广场站下车，从 A 口出。
