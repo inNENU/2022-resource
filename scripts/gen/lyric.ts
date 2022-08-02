@@ -26,6 +26,7 @@ export const genLyric = (): void => {
       const result = /\[(.*)\](.*)?/u.exec(lyric);
 
       if (result) {
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
         const timeResult = /(.*):(.*)/u.exec(result[1])!;
         /** 正确的时间 */
         const time = Number(

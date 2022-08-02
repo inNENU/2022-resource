@@ -18,7 +18,7 @@ export interface AccountConfig {
   account: AccountInfo[];
 }
 
-const decodeText = (text: string) =>
+const decodeText = (text: string): string =>
   text
     .replace("&quot;", '"')
     .replace("&amp;", "&")
