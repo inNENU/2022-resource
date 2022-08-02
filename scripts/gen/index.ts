@@ -45,7 +45,8 @@ convertYml2Json("./res/function", "./r/function", (data, filePath) =>
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
     ? resolveLocationPage(data as PageConfig & { photo?: string[] }, filePath)
-    : /PEcal\/(male|female)-(low|high)/u.exec(filePath)
+    : // TODO: Remove me
+    /(?:PEcal|pe-calculator)\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
     : /account\//u.exec(filePath)
     ? checkAccount(data as AccountConfig[], filePath)

@@ -15,6 +15,9 @@ export const pushPages = (): Promise<void> => {
     );
 
   const pageLists = fileList.map((filePath) => ({
+    // TODO: Change me
+    // page: "pages/info/info",
+
     path: "module/page",
     query: `path=${filePath}`,
   }));

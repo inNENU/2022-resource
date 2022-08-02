@@ -30,6 +30,9 @@ const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
     .post<string>(
       `https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=${accessToken}`,
       {
+        // TODO: Change me
+        // page: "pages/info/info",
+
         page: "module/page",
         scene,
         // eslint-disable-next-line @typescript-eslint/naming-convention
@@ -63,6 +66,8 @@ const getQRCode = (name: string): Promise<void> => {
               return toFile(
                 resolve(`./qrcode`, appid, name, `${filePath}.png`),
                 `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
+                  // TODO: Change me
+                  // `pages/info/info?path=/${filePath}`
                   `module/page?path=/${filePath}`
                 )}`
               ).then(() => {
