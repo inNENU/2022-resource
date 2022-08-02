@@ -1,6 +1,19 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/08/02
+
+  - tag: ul
+    heading: 新增
+    text:
+      - Ice Power 街舞社
+      - 吉大一院介绍
+      - 中心医院介绍
+      - 中日联谊医院介绍
+      - 中医药三院介绍
+      - 长春市核酸地图
+
+  - tag: title
     text: 2022/08/01
 
   - tag: ul

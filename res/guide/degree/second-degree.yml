@@ -21,7 +21,7 @@ content:
     text: 招生简章
 
   - tag: list
-    header: header
+    header: false
     items:
       - text: 2022 年第二学士学位招生简章
         icon: rule

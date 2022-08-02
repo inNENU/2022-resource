@@ -1,6 +1,6 @@
 title: 净月就医
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 2 日
 shareable: true
 content:
   - tag: title
@@ -19,4 +19,7 @@ content:
     text: 校外医院
 
   - tag: text
-    text: 待补充...
+    type: info
+    heading: 中医药大学附属第三临床医院
+    text: 是距离校区最近的医院，属于市三甲。
+    path: czdsfy/
