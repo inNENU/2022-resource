@@ -1,6 +1,6 @@
 title: 到校路线
 author: Mr.Hope
-time: 2022 年 7 月 28 日
+time: 2022 年 8 月 2 日
 grey: true
 shareable: true
 content:
@@ -14,6 +14,10 @@ content:
       - text: 专业所在校区
         icon: map
         path: /guide/check/locate
+
+      - text: 长春市核酸检测点
+        icon: map
+        path: /guide/life/nucleic-acid
 
   - tag: text
     type: tip
