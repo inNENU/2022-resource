@@ -2,7 +2,7 @@ title: 文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 2 日
 shareable: true
 content:
   - tag: title
@@ -34,6 +34,10 @@ content:
       - text: 爱创影视协会
         icon: $img/association/aichuang.png
         path: aichuang
+
+      - text: Ice Power 街舞社
+        icon: $img/association/ice-power-logo.png
+        path: ice-power
 
       - text: 安仁国风社
         path: anren

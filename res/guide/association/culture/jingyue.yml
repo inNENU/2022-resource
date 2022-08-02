@@ -2,7 +2,7 @@ title: 净月文化体育类社团
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 2 日
 grey: true
 shareable: true
 content:
@@ -12,6 +12,10 @@ content:
       - text: 师说曲艺社
         icon: $img/association/quyi.png
         path: quyi
+
+      - text: Ice Power 街舞社
+        icon: $img/association/ice-power-logo.png
+        path: ice-power
 
       - text: 逗号文学社
         path: comma
