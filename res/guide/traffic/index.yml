@@ -1,6 +1,6 @@
 title: 交通出行
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 3 日
 grey: true
 shareable: true
 content:
@@ -28,8 +28,7 @@ content:
 
       - text: 飞机出行
         icon: plane
-        desc: 制作中
-        # path: plane/
+        path: plane/
 
       - text: 公交出行
         icon: bus
