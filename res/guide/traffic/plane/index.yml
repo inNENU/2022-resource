@@ -1,6 +1,6 @@
 title: 飞机小贴士
 author: Mr.Hope
-time: 2022 年 8 月 3 日
+time: 2022 年 8 月 4 日
 grey: true
 shareable: true
 content:
@@ -12,7 +12,7 @@ content:
     header: 介绍
     items:
       - text: 购飞机票
-        icon: buy
+        icon: money
         path: ticket
 
       - text: 乘坐飞机流程

@@ -40,13 +40,12 @@ convertYml2Json("./res/account", "./r/account", (data, filePath) =>
 );
 
 // 功能大厅
-// TODO: Remove PEcal
 convertYml2Json("./res/function", "./r/function", (data, filePath) =>
   /map\/marker\/(benbu|jingyue)/u.exec(filePath)
     ? resolveMarker(data as MarkerOption)
     : /map\/(benbu|jingyue)\//u.exec(filePath)
     ? resolveLocationPage(data as PageConfig & { photo?: string[] }, filePath)
-    : /(?:PEcal|pe-calculator)\/(male|female)-(low|high)/u.exec(filePath)
+    : /pe-calculator\/(male|female)-(low|high)/u.exec(filePath)
     ? genPEScore(data as PEConfig)
     : /account\//u.exec(filePath)
     ? checkAccount(data as AccountConfig[], filePath)

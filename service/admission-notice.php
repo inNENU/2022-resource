@@ -96,8 +96,6 @@ if ($postData->type === 'fetch') {
     if (count($info)) {
       echo ('{"status": "error", "msg": "' . $info[1] . '"}');
     } else {
-      // TODO: add express number
-
       preg_match('/<td width="20%" align="right">姓　　名：<\/td>\s*?<td width="40%">(.*?)<\/td>/', $content, $name);
       preg_match('/<td align="right">身份证号：<\/td>\s*?<td>(.*?)<\/td>/', $content, $id);
       preg_match('/<td align="right">考&nbsp;&nbsp;生&nbsp;&nbsp;号：<\/td>\s*?<td>(.*)<\/td>/', $content, $testId);

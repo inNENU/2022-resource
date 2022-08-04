@@ -25,22 +25,23 @@ const removeQRCode = (name: string): void => {
   });
 };
 
-const getWechatQRCode = (accessToken: string, scene: string): Promise<string> =>
+const getWechatQRCode = (accessToken: string, scene: string): Promise<Buffer> =>
   axios
-    .post<string>(
+    .post<Buffer | { errcode: number; errmsg: string }>(
       `https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=${accessToken}`,
       {
-        // TODO: Change me
-        // page: "pages/info/info",
-
-        page: "module/page",
+        page: "pages/info/info",
         scene,
         // eslint-disable-next-line @typescript-eslint/naming-convention
         auto_color: true,
       },
       { responseType: "arraybuffer" }
     )
-    .then(({ data }) => data);
+    .then(({ data }) => {
+      if ("errcode" in data) throw new Error("QRCode Error");
+
+      return data;
+    });
 
 const getQRCode = (name: string): Promise<void> => {
   const fileList = getFileList(`./res/${name}`, ".yml").map((filePath) =>
@@ -66,9 +67,7 @@ const getQRCode = (name: string): Promise<void> => {
               return toFile(
                 resolve(`./qrcode`, appid, name, `${filePath}.png`),
                 `https://m.q.qq.com/a/p/${appid}?s=${encodeURI(
-                  // TODO: Change me
-                  // `pages/info/info?path=/${filePath}`
-                  `module/page?path=/${filePath}`
+                  `pages/info/info?path=/${filePath}`
                 )}`
               ).then(() => {
                 console.log(`${appid}: ${name}/${filePath}.png 生成完成`);
@@ -116,16 +115,20 @@ const getQRCode = (name: string): Promise<void> => {
                 return new Promise((resolve) => resolve());
               }
 
-              return getWechatQRCode(accessToken, scene).then((data) => {
-                console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
+              return getWechatQRCode(accessToken, scene)
+                .then((data) => {
+                  console.log(`${appid}: ${name}/${filePath}.png 下载完成`);
 
-                writeFileSync(
-                  resolve(`./qrcode`, appid, name, `${filePath}.png`),
-                  data
-                );
+                  writeFileSync(
+                    resolve(`./qrcode`, appid, name, `${filePath}.png`),
+                    data
+                  );
 
-                console.log(`${appid}: ${name}/${filePath}.png 写入完成`);
-              });
+                  console.log(`${appid}: ${name}/${filePath}.png 写入完成`);
+                })
+                .catch(() => {
+                  console.error(`${appid}: ${name}/${filePath}.png 下载出错`);
+                });
             } else return new Promise((resolve) => resolve());
           }
       );
