@@ -1,2 +1,4 @@
-/r/
-/resource/
+r/
+
+service/vendor/
+service/composer.lock
