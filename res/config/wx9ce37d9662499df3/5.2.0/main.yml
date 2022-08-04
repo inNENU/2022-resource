@@ -4,51 +4,30 @@ grey: true
 hidden: true
 content:
   - tag: card
-    cover: $img/tab/admission.png
-    title: 录取查询
-    logo: letter
-    url: admission?type=search
-
-  - tag: card
     cover: $img/tab/qq-group.png
     title: 找到组织
     logo: qq-group
     url: page?id=Gcontact/index
 
-  - tag: card
-    cover: $img/tab/faq.png
-    title: 常见问题
-    logo: faq
-    url: page?id=Gfaq/
-
   - tag: list
     items:
+      - text: 经验分享直播与答疑
+        icon: activity
+        url: page?path=OMrHope/streaming
+
       - text: 报到时间
         icon: time
         path: guide/check/location-and-time
 
-  # - tag: text
-  #   type: tip
-  #   text:
-  #     - 到校需出示吉祥码、返校健康码和 48 小时内核酸报告。
-  #     - 本部开放东北门 (动植物公园对面)，净月开放 2 号门 (雕塑门)。
-  #     - 入校时会进行核酸检测。
-
-  # - tag: title
-  #   text: 希望工作室长期招新
-
-  # - tag: list
-  #   header: false
-  #   items:
-  #     - text: 招新详情
-  #       url: page?path=Ohope-studio/invite
-
-  # - tag: title
-  #   text: 此处有搜索👆 您可以对小程序内容进行查找
-
   - tag: grid
     header: 您可能想关注
     items:
+      - text: 录取查询
+        color: purple
+        name: Admission
+        icon: letter
+        url: admission?type=search
+
       - text: 入学准备
         color: red
         name: Prepare
@@ -158,6 +137,12 @@ content:
         url: calendar
 
     footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: card
+    cover: $img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: page?id=Gfaq/
 
   # - tag: card
   #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
