@@ -1,7 +1,7 @@
 title: 资助
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 5 日
 shareable: true
 content:
   - tag: p
@@ -18,9 +18,25 @@ content:
         icon: subsidize-apply
         path: application
 
+      - text: 资助计划
+        desc: 金额与人数
+        icon: money
+        path: plan
+
       - text: 资助工作机构
         icon: office
         path: agency
+
+  - tag: list
+    header: 通知公告
+    items:
+      - text: 2021 - 2022 学年资助对象评定
+        icon: notice
+        path: notice
+
+      - text: 2021 至 2022 学年学校助学金评审通知
+        icon: notice
+        path: help-notice
 
   - tag: list
     header: 助学贷款
