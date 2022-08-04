@@ -1,6 +1,6 @@
 title: 学校新生群
 author: Mr.Hope
-time: 2022 年 7 月 15 日
+time: 2022 年 8 月 4 日
 shareable: true
 content:
   - tag: text
@@ -31,7 +31,7 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
-        groupId: "594493757"
+        groupId: "670581382"
     env:
       - qq
 
@@ -50,7 +50,7 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
-        groupId: "670581382"
+        groupId: "284291586"
     env:
       - qq
 
