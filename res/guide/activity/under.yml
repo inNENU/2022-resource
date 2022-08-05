@@ -1,11 +1,11 @@
 title: 本科生开学活动
 author: Mr.Hope
-time: 2022 年 7 月 29 日
+time: 2022 年 8 月 5 日
 grey: true
 shareable: true
 content:
   - tag: list
-    header: 开学活动
+    header: 重要活动
     items:
       - text: 体检
         icon: medical-exam
@@ -22,3 +22,21 @@ content:
       - text: 军训
         icon: military
         path: military/
+
+  - tag: list
+    header: 其他活动
+    items:
+      - text: 银行卡办理
+        icon: card
+        path: bank-card
+
+  - tag: list
+    header: 征兵工作
+    items:
+      - text: 征兵工作实施细则
+        icon: rule
+        path: conscription/rule
+
+      - text: 参军入伍待遇解释
+        icon: idea
+        path: conscription/explain
