@@ -17,6 +17,12 @@ content:
       #   icon: letter
       #   url: admission?type=search
 
+      - text: 校园地图
+        color: orange
+        name: Map
+        icon: map
+        url: map
+
       - text: 校历
         color: olive
         name: Calendar
