@@ -2,7 +2,7 @@ title: 优秀毕业生建议
 desc: |-
   Mr.Hope 诚邀各专业优秀毕业生与在校生为学弟学妹们送出自己的建议。
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 5 日
 grey: true
 shareable: true
 content:
@@ -70,6 +70,16 @@ content:
       - text: 王文辛
         icon: idea
         path: politics/wang
+
+  - tag: title
+    text: 心理学院
+
+  - tag: list
+    header: false
+    items:
+      - text: 黄技鹏
+        icon: idea
+        path: psychology/huang
 
   - tag: text
     type: note
