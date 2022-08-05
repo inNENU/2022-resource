@@ -2,6 +2,10 @@ title: 纽瓦克学院介绍
 desc: "来源: 东北师范大学罗格斯大学纽瓦克学院官网"
 shareable: true
 content:
+  - tag: text
+    type: warning
+    text: 罗格斯大学·纽瓦克学院现已停招。
+
   - tag: title
     text: 学院简介
 

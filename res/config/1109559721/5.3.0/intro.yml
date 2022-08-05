@@ -153,23 +153,23 @@ content:
         icon: media
         path: intro/school/media/
 
-      - text: 民族教育学院
-        color: olive
-        name: People
-        icon: people
-        path: intro/school/people/
-
       - text: 国际汉学院
         color: mauve
         name: Internation
         icon: network
         path: intro/school/internation/
 
-      - text: 纽瓦克学院
-        color: blue
-        name: Newark
-        icon: school
-        path: intro/school/newark/
+      # - text: 民族教育学院
+      #   color: olive
+      #   name: People
+      #   icon: people
+      #   path: intro/school/people/
+
+      # - text: 纽瓦克学院
+      #   color: blue
+      #   name: Newark
+      #   icon: school
+      #   path: intro/school/newark/
 
   - tag: grid
     header: 机构介绍

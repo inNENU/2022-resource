@@ -4,6 +4,13 @@ content:
     text: 2022/08/05
 
   - tag: ul
+    heading: 新增
+    text:
+      - 辅导员介绍
+      - 心理学院优秀毕业生建议，感谢黄技鹏
+      - 信科学院官方群
+
+  - tag: ul
     heading: 更新
     text:
       - 资助中心评定安排

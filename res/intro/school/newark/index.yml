@@ -1,9 +1,13 @@
 title: 纽瓦克学院
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 5 日
 shareable: true
 content:
+  - tag: text
+    type: warning
+    text: 罗格斯大学·纽瓦克学院现已停招。
+
   - tag: list
     items:
       - text: 学院简介

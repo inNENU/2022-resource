@@ -1,7 +1,7 @@
 title: 学院迎新群
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2022 年 7 月 28 日
+time: 2022 年 8 月 5 日
 shareable: true
 content:
   - tag: title
@@ -33,6 +33,10 @@ content:
   - tag: img
     src: $img/about/economy-2022.png
     desc: 经济与管理学院
+
+  - tag: img
+    src: $img/about/ist-2022.jpg
+    desc: 信息技术与科学学院
 
   - tag: text
     type: tip

@@ -1,11 +1,15 @@
 title: 民族教育学院介绍
 desc: "来源: 东北师范大学民族教育学院官网"
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 5 日
 shareable: true
 content:
   - tag: carousel
     images:
       - $img/school/people.jpg
+
+  - tag: text
+    type: warning
+    text: 民族教育学院现已停止运营，预科生在自己所属学员管理。
 
   - tag: title
     text: 学院简介

@@ -1,9 +1,13 @@
 title: 民族教育学院
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 5 日
 shareable: true
 content:
+  - tag: text
+    type: warning
+    text: 民族教育学院现已停止运营，预科生在自己所属学员管理。
+
   - tag: list
     items:
       - text: 学院简介
