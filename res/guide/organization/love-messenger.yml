@@ -10,6 +10,9 @@ content:
     qqid: 17F38DAF9852AAF6AE979ECDFB419F18
     qqcode: $img/media/aixinshizhe-qq.jpg
 
+  - tag: img
+    src: $img/organization/aixinshizhe-2.png
+
   - tag: title
     text: 组织介绍
 
