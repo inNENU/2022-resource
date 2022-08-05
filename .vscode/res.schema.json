@@ -987,7 +987,15 @@
             },
             "author": {
               "description": "音频作者",
-              "type": "string"
+              "oneOf": [
+                { "type": "string" },
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              ]
             },
             "env": {
               "$ref": "#/definitions/env"

@@ -78,7 +78,7 @@ export interface PageConfig {
   /** 页面描述 */
   desc?: string;
   /** 页面作者 */
-  author?: string;
+  author?: string[] | string;
   /** 页面最后更新时间 */
   time?: string;
   /** 页面标识 */

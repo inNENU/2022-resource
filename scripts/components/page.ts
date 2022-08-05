@@ -39,13 +39,16 @@ export const resolvePage = (
   if (!page.content)
     throw new Error(`${pagePath}.content doesn't contain anything`);
 
-  const id = page.id || pagePath;
+  const { id = pagePath, author, cite, content, ...others } = page;
   const images: string[] = [];
   const pageData: PageOptions = {
-    ...page,
-    cite: typeof page.cite === "string" ? [page.cite] : page.cite || [],
+    ...others,
     id,
-    content: page.content.map((element, index) => {
+    ...(author
+      ? { author: Array.isArray(author) ? author.join("、") : author }
+      : {}),
+    cite: typeof cite === "string" ? [cite] : cite || [],
+    content: content.map((element, index) => {
       const { tag } = element;
       /** 当前位置 */
       const position = `${pagePath} page.content[${index}]`;
