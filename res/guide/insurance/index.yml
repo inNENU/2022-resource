@@ -1,6 +1,6 @@
 title: 保险
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 7 日
 grey: true
 shareable: true
 content:
@@ -25,13 +25,17 @@ content:
   - tag: list
     header: 更多
     items:
+      - text: 城乡居民基本医疗保险缴费
+        icon: money
+        path: base-pay
+
+      - text: 城乡居民基本医疗保险报销
+        icon: insurance
+        path: reimburse
+
       - text: 医保卡
         icon: card
         path: card
-
-      - text: 长春市城乡居民基本医疗保险报销
-        icon: insurance
-        path: reimburse
 
       - text: 常见流程
         icon: flow
