@@ -1,6 +1,6 @@
 title: 开学活动
 author: Mr.Hope
-time: 2022 年 8 月 5 日
+time: 2022 年 8 月 8 日
 grey: true
 shareable: true
 content:
@@ -26,6 +26,10 @@ content:
       - text: 基地班选拔考试
         icon: star
         path: base
+
+      - text: 注册课程
+        icon: content
+        path: /guide/select/register
 
       - text: 更多活动
         icon: more

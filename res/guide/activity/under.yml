@@ -23,16 +23,20 @@ content:
         icon: military
         path: military/
 
+      - text: 注册课程
+        icon: content
+        path: /guide/select/register
+
   - tag: list
     header: 其他活动
     items:
-      - text: 注册学籍
-        icon: rule
-        path: /guide/system/under/school-roll
-
       - text: 学费缴纳
         icon: money
         path: /guide/pay/
+
+      - text: 注册学籍
+        icon: rule
+        path: /guide/system/under/school-roll
 
       - text: 银行卡办理
         icon: card
@@ -42,6 +46,10 @@ content:
         desc: 自愿
         icon: insurance
         path: /guide/insurance/
+
+      - text: 火车优惠卡申领
+        icon: train
+        path: train-card
 
   - tag: list
     header: 征兵工作
