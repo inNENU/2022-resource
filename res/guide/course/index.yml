@@ -1,6 +1,6 @@
 title: 课程
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 8 日
 grey: true
 shareable: true
 content:
@@ -8,7 +8,7 @@ content:
     text: 本科课程
 
   - tag: list
-    header: 课程设置
+    header: 课程类别
     items:
       - text: 通识教育课程
         icon: content

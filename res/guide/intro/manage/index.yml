@@ -1,0 +1,15 @@
+title: 大学管理
+author: Mr.Hope
+time: 2022 年 8 月 8 日
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 组织设立
+        icon: student-org
+        path: organization
+
+      - text: 日常生活
+        icon: life
+        path: life
