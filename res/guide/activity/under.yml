@@ -1,6 +1,6 @@
 title: 本科生开学活动
 author: Mr.Hope
-time: 2022 年 8 月 7 日
+time: 2022 年 8 月 8 日
 grey: true
 shareable: true
 content:
@@ -28,7 +28,7 @@ content:
     items:
       - text: 注册学籍
         icon: rule
-        path: /guide/system/under/school/roll
+        path: /guide/system/under/school-roll
 
       - text: 学费缴纳
         icon: money

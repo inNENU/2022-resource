@@ -1,6 +1,6 @@
 title: 银行卡办理
 author: Mr.Hope
-time: 2022 年 8 月 7 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: text
@@ -28,9 +28,39 @@ content:
     text:
       - 开学后几天，学校会在两校区内邀请交通银行的工作人员进入两个校区摆台。同学们需要按照通知，持身份证和手机在自己学院所在时间到摆台排队办理开卡手续。
 
-  # - tag: title
-  #   text: 常见问题
+  - tag: title
+    text: 注意事项
 
-  # - tag: text
-  #   heading: 无法使用网银或绑定支付宝与微信
-  #   text: 请按照如下步骤绑定手机短信安全码作为安全工具。
+  - tag: text
+    text: 开卡后必须在 10 个月内有至少一笔动账 (支出)，否则卡会被冻结。
+
+  - tag: title
+    text: 常见问题
+
+  - tag: text
+    heading: 无法使用网银或绑定支付宝与微信
+    text: 请按照如下步骤绑定手机短信安全码作为安全工具。
+
+  - tag: text
+    text: 在首页中点击“全部”
+
+  - tag: img
+    src: $img/activity/bank-card-tool1.png
+
+  - tag: text
+    text: 下拉，在“助手”中找到“我的安全”
+
+  - tag: img
+    src: $img/activity/bank-card-tool2.png
+
+  - tag: text
+    text: 点击“身份认证工具”
+
+  - tag: img
+    src: $img/activity/bank-card-tool3.png
+
+  - tag: text
+    text: 选择申领短信密码
+
+  - tag: img
+    src: $img/activity/bank-card-tool4.png
