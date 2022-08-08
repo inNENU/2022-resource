@@ -1,6 +1,6 @@
 title: 入学教育课程
 author: Mr.Hope
-time: 2022 年 8 月 8 日
+time: 2022 年 8 月 9 日
 grey: true
 shareable: true
 content:
@@ -12,9 +12,13 @@ content:
 
   - tag: list
     items:
-      - text: 新生入学教育课程介绍
+      - text: 入学教育课程介绍
         icon: about
         path: intro
+
+      - text: 入学教育课程知识点
+        icon: star
+        path: answer
 
   - tag: list
     header: 客户端
