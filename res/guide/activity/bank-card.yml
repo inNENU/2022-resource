@@ -42,19 +42,19 @@ content:
     text: 请按照如下步骤绑定手机短信安全码作为安全工具。
 
   - tag: text
-    text: 在首页中点击“全部”
+    text: 在首页中点击『全部』
 
   - tag: img
     src: $img/activity/bank-card-tool1.png
 
   - tag: text
-    text: 下拉，在“助手”中找到“我的安全”
+    text: 下拉，在『助手』中找到『我的安全』
 
   - tag: img
     src: $img/activity/bank-card-tool2.png
 
   - tag: text
-    text: 点击“身份认证工具”
+    text: 点击『身份认证工具』
 
   - tag: img
     src: $img/activity/bank-card-tool3.png

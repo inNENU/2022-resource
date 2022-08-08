@@ -1,10 +1,10 @@
 title: 易班网页注册流程
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: text
-    text: 首先打开浏览器访问 https://www.yiban.cn/。点右上角的【注册】按钮。
+    text: 首先打开浏览器访问 https://www.yiban.cn/。点右上角的『注册』按钮。
 
   - tag: action
     content: https://www.yiban.cn/
@@ -19,7 +19,7 @@ content:
     src: $img/yiban/web-register.png
 
   - tag: text
-    text: 直接点击【马上去校方认证】
+    text: 直接点击『马上去校方认证』
 
   - tag: img
     src: $img/yiban/web-verify.png
@@ -35,13 +35,14 @@ content:
   - tag: ul
     text:
       - 填写学号。(学号为录取通知书编号，2021 开头的 10 位数字)
-      - 点击【立即认证】，完成校方认证。
+      - 点击『立即认证』，完成校方认证。
 
   - tag: text
     type: warning
     text:
       - 请注意我们学校只导入了学号，使用其他方式无法成功验证!
       - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
+      - 如果您确认您输入了正确的信息但仍无法完成认证，请向你的导员反馈。
 
   - tag: img
     src: $img/yiban/web-verify2.png

@@ -1,6 +1,6 @@
 title: 学籍注册
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: title
@@ -18,25 +18,25 @@ content:
     text: 申请流程
 
   - tag: text
-    text: 双击【学籍管理】
+    text: 双击『学籍管理』
 
   - tag: img
     src: $img/system/school-roll1.png
 
   - tag: ul
     text:
-      - 点击【注册学籍】，进入学生注册学籍页面
+      - 点击『注册学籍』，进入学生注册学籍页面
 
   - tag: img
     src: $img/system/school-roll4.png
 
   - tag: ul
     text:
-      - 点击【注册学籍】，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
+      - 点击『注册学籍』，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
 
   - tag: img
     src: $img/system/school-roll5.png
 
   - tag: text
     type: tip
-    text: 如个人学籍信息有误，可通过【学籍修改】进行修改
+    text: 如个人学籍信息有误，可通过『学籍修改』进行修改

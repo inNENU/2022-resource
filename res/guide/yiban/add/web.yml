@@ -1,6 +1,6 @@
 title: Web 新生课程添加
 author: Mr.Hope
-time: 2022 年 7 月 24 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: text
@@ -16,10 +16,10 @@ content:
     src: $img/yiban/web-add2.png
 
   - tag: text
-    text: 点击添加课群，输入『尚未公布的课程邀请码』并点击确定 ↓
+    text: 点击添加课群，输入『V5LUHDRN』并点击确定 ↓
 
   - tag: action
-    content: 『尚未公布的课程邀请码』
+    content: V5LUHDRN
 
   - tag: img
     src: $img/yiban/web-add3.jpg

@@ -1,6 +1,6 @@
 title: 易班客户端注册流程
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: title
@@ -12,7 +12,7 @@ content:
 
   - tag: ul
     heading: 注册流程
-    text: 点击【新用户注册】进行注册。
+    text: 点击『新用户注册』进行注册。
 
   - tag: img
     src: $img/yiban/mobile-register1.png
@@ -32,7 +32,7 @@ content:
     src: $img/yiban/mobile-register3.jpg
 
   - tag: ul
-    text: 直接点击【马上去校方认证】
+    text: 直接点击『马上去校方认证』
 
   - tag: img
     src: $img/yiban/mobile-register4.png
@@ -40,7 +40,7 @@ content:
   - tag: ul
     text:
       - 填写学校(东北师范大学)、真实姓名和学号(录取通知书编号，2021 开头的 10 位数字)
-      - 点击【立即认证】，完成校方认证。
+      - 点击『立即认证』，完成校方认证。
 
   - tag: img
     src: $img/yiban/mobile-register5.jpg
@@ -50,3 +50,4 @@ content:
     text:
       - 请注意我们学校只导入了学号，使用其他方式无法成功验证!
       - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
+      - 如果您确认您输入了正确的信息但仍无法完成认证，请向你的导员反馈。

@@ -1,17 +1,9 @@
 title: 入学教育课程
 author: Mr.Hope
-time: 2022 年 7 月 29 日
+time: 2022 年 8 月 8 日
 grey: true
 shareable: true
 content:
-  - tag: text
-    type: warning
-    text:
-      - 请注意，目前既无法完成校方认证，课程邀请码也未被公开。
-      - 根据学生处往年的一贯作风，他们会等到录取全部结束之后统一在易班上导入新生的数据，而不会和招生办联动每天导入。
-      - 所以目前已经收到录取通知书的同学们，您无法完成入学教育课程，请耐心等待。
-      - 可以完成校方认证且课程邀请码公开后，此页面会进行更新，同时 Mr.Hope 会在自己的新生群内发公告通知。
-
   - tag: text
     type: info
     text:

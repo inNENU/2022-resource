@@ -1,6 +1,6 @@
 title: 选课系统使用说明
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: title
@@ -22,7 +22,7 @@ content:
   - tag: ul
     text:
       - 输入用户名和密码
-      - 点击【登录系统】按钮
+      - 点击『登录系统』按钮
 
   - tag: img
     src: $img/select/login.png
@@ -34,7 +34,7 @@ content:
 
   - tag: p
     heading: 步骤二
-    text: 系统登录成功后，进入选课系统登录信息确认，确认无问题，点击右下方【进入选课】按钮，等待约 3 秒钟正式进入选课系统
+    text: 系统登录成功后，进入选课系统登录信息确认，确认无问题，点击右下方『进入选课』按钮，等待约 3 秒钟正式进入选课系统
 
   - tag: img
     src: $img/select/info.png
@@ -52,11 +52,11 @@ content:
 
   - tag: p
     heading: 课程自定义检索区
-    text: 课程检索区。选择条件，点击【查询】，检索自己期望的课程。
+    text: 课程检索区。选择条件，点击『查询』，检索自己期望的课程。
 
   - tag: p
     heading: 待选课程显示区
-    text: 默认显示的为当前学期，任务中的授课对象含有学生所在的年级及专业的课程；若是在区域 2(自定义检索区)输入条件后点击【查询】，则显示根据区域 2(自定义检索区)的查询条件检索出的课程。
+    text: 默认显示的为当前学期，任务中的授课对象含有学生所在的年级及专业的课程；若是在区域 2(自定义检索区)输入条件后点击『查询』，则显示根据区域 2(自定义检索区)的查询条件检索出的课程。
 
   - tag: p
     heading: 个人学分统计区
@@ -86,11 +86,11 @@ content:
 
   - tag: img
     src: $img/select/select2.jpg
-    desc: 在区域 5(操作区)点击【选课】填写自己的志愿
+    desc: 在区域 5(操作区)点击『选课』填写自己的志愿
 
   - tag: img
     src: $img/select/select3.jpg
-    desc: 在区域 5(操作区)点击【选课】填写自己的志愿
+    desc: 在区域 5(操作区)点击『选课』填写自己的志愿
 
   - tag: img
     src: $img/select/select4.jpg
@@ -105,15 +105,15 @@ content:
 
   - tag: img
     src: $img/select/refund1.jpg
-    desc: 在区域 6(个人课表区)选择要【退选】的课程信息，在区域 5(操作区)会显示相应的课程
+    desc: 在区域 6(个人课表区)选择要『退选』的课程信息，在区域 5(操作区)会显示相应的课程
 
   - tag: img
     src: $img/select/refund2.jpg
-    desc: 在区域 5(操作区)点击对应课程前的【退选】按钮
+    desc: 在区域 5(操作区)点击对应课程前的『退选』按钮
 
   - tag: img
     src: $img/select/refund3.jpg
-    desc: 在弹出的对话框中选择【退选】，点击【确定】即可
+    desc: 在弹出的对话框中选择『退选』，点击『确定』即可
 
   - tag: img
     src: $img/select/refund4.jpg
