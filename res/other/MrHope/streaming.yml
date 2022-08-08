@@ -1,6 +1,6 @@
 title: 直播安排
 author: Mr.Hope
-time: 2022 年 8 月 4 日
+time: 2022 年 8 月 8 日
 shareable: true
 content:
   - tag: p
@@ -11,11 +11,17 @@ content:
   - tag: title
     text: 直播预告
 
+  - tag: text
+    type: warning
+    text: 由于家中临时有事，原定 8 月 8 日的直播暂停，推延至 10 号前后，具体时间待定。
+
   - tag: ul
     heading: 2022 年 8 月 8 日
     text:
       - 上午 10:00 开始，预计时间为 120 分钟，进行东师概况介绍与答疑
       - 下午14:00 开始，预计时间为 140 分钟，进行东师的课程设置、学习安排、课程选择与考核、以及大学学习经验分享。
+    style:
+      text-decoration: line-through
 
   - tag: action
     header: 直播地址

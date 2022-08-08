@@ -1,6 +1,27 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/08/06
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 开学活动新增银行卡办卡介绍
+      - 开学活动新增火车优惠词条
+      - 新增大学介绍板块
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 重构保险板块
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 分班考试介绍
+      - 修复错别字
+
+  - tag: title
     text: 2022/08/05
 
   - tag: ul
@@ -15,6 +36,11 @@ content:
     text:
       - 资助中心评定安排
       - 资助对象封顶金额
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 重新显示校园地图
 
   - tag: title
     text: 2022/08/04
