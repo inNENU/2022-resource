@@ -1,7 +1,17 @@
 title: 内容更新日志
 content:
   - tag: title
-    text: 2022/08/06
+    text: 2022/08/07
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新入学课程介绍
+      - 更新入学课程知识点
+      - 新增部分学院迎新群
+
+  - tag: title
+    text: 2022/08/07
 
   - tag: ul
     heading: 新增
@@ -9,6 +19,9 @@ content:
       - 开学活动新增银行卡办卡介绍
       - 开学活动新增火车优惠磁条
       - 新增大学介绍板块
+
+  - tag: title
+    text: 2022/08/06
 
   - tag: ul
     heading: 更新
