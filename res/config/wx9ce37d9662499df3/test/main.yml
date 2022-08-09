@@ -4,10 +4,11 @@ grey: true
 hidden: true
 content:
   - tag: card
-    cover: $img/tab/qq-group.png
-    title: 找到组织
-    logo: qq-group
-    url: page?id=Gcontact/index
+    cover: $img/tab/yiban.jpg
+    title: 入学教育课程
+    desc: 入学教育课程现已开放
+    logo: study
+    url: page?id=Gyiban/
 
   - tag: list
     items:
@@ -18,6 +19,10 @@ content:
       - text: 报到时间
         icon: time
         path: guide/check/location-and-time
+
+      - text: 找到组织
+        icon: qq-group
+        path: guide/contact/
 
   - tag: grid
     header: 您可能想关注
