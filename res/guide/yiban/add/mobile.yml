@@ -1,22 +1,22 @@
 title: 客户端新生课程添加
 author: Mr.Hope
-time: 2022 年 8 月 8 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
-    text: 点击图中的精品课程 ↓
+    text: 点击图中的『精品优程』 ↓
 
   - tag: img
-    src: $img/yiban/mobile-add1.jpg
+    src: $img/yiban/mobile-add1.png
 
   - tag: text
-    text: 之后点击右下角课群 ↓
+    text: 之后点击右下角『课群』 ↓
 
   - tag: img
     src: $img/yiban/mobile-add2.jpg
 
   - tag: text
-    text: 点击下方的添加课程 ↓
+    text: 点击下方的『添加课程』 ↓
 
   - tag: img
     src: $img/yiban/mobile-add4.jpg
@@ -28,7 +28,7 @@ content:
     content: V5LUHDRN
 
   - tag: img
-    src: $img/yiban/mobile-add5.jpg
+    src: $img/yiban/mobile-add3.png
 
   - tag: text
     text: 选择自己的学院并加入 ↓

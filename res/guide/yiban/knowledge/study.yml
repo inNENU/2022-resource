@@ -44,7 +44,7 @@ content:
     heading: 缓考
     text:
       - 对于因病或其它特殊情况不能正常参加期末考试者，须出具县级以上医院证明等材料，方能申请『缓考』。
-    path: /guide/study/exemption
+    path: /guide/study/aftertake
 
   - tag: ul
     type: info
