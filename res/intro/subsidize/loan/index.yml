@@ -1,23 +1,31 @@
 title: 贷款
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: list
+    header: 介绍
     items:
-      - text: 国家助学贷款介绍
+      - text: 国家助学贷款
         icon: about
         path: intro
 
+      - text: 生源地信用助学贷款
+        icon: home
+        path: hometown
+
+      - text: 生源地信用助学贷款
+        icon: school
+        path: school
+
+  - tag: list
+    header: 申请
+    items:
       - text: 助学贷款的申请条件和程序
         icon: apply
         path: apply
 
-      - text: 生源地信用助学贷款政策
-        icon: home
-        path: hometown
-
       - text: 校园地国家助学贷款常见问题
-        icon: school
-        path: school
+        icon: faq
+        path: school-faq

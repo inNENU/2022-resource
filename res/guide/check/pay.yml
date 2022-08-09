@@ -1,6 +1,6 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
@@ -16,8 +16,8 @@ content:
   - tag: text
     type: tip
     text:
-      - 如果您缴纳学费有困难，请通过绿色通道进行入学。
-    path: green-tunnel
+      - 如果您缴纳学费有困难，请预先申请，并通过入学绿色通道进行入学。
+    path: /intro/subsidize/green-tunnel
 
   - tag: title
     text: 缴费方式

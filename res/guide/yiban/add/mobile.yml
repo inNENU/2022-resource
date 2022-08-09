@@ -13,7 +13,7 @@ content:
     text: 之后点击右下角『课群』 ↓
 
   - tag: img
-    src: $img/yiban/mobile-add2.jpg
+    src: $img/yiban/mobile-add2.png
 
   - tag: text
     text: 点击下方的『添加课程』 ↓

@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 30 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: list
@@ -30,9 +30,9 @@ content:
         icon: money
         path: pay
 
-      - text: 绿色通道
+      - text: 入学绿色通道
         icon: green-tunnel
-        path: green-tunnel
+        path: /intro/subsidize/green-tunnel
 
   - tag: list
     header: 相关事务

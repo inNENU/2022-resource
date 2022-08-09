@@ -1,7 +1,7 @@
 title: 学习
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 23 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: list
@@ -54,7 +54,7 @@ content:
     items:
       - text: 本科生奖学金介绍
         icon: metal
-        path: scholarship/undergraduate
+        path: scholarship/under
 
       - text: 本科奖学金评审说明
         icon: intro
@@ -62,7 +62,7 @@ content:
 
       - text: 研究生奖学金介绍
         icon: metal
-        path: scholarship/postgraduate
+        path: scholarship/post
 
       - text: 奖学金申请
         icon: apply

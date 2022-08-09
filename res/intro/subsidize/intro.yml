@@ -1,14 +1,25 @@
 title: 资助体系介绍
 author: Mr.Hope
-time: 2022 年 8 月 5 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: title
-    text: 奖 贷 助 补 免
+    text: 资助体系介绍
 
-  - tag: p
-    heading: “奖” 包括国家设立的国家奖学金、国家励志奖学金等
-    text: 国家奖学金奖励标准为每生每年 8000 元，用于奖励我校全日制本科特别优秀的学生；国家励志奖学金资助标准为每生每年 5000 元，用于奖励我校品学兼优的家庭经济困难学生。
+  - tag: text
+    text:
+      - 我校目前的资助政策体系包括『奖、贷、助、补、勤、减、免』七个方向。
+
+  - tag: title
+    text: 相关详情
+
+  - tag: ul
+    type: info
+    heading: “奖”
+    text:
+      - 国家设立的国家奖学金、国家励志奖学金
+      - 学校设立的学校励志奖学金
+    path: scholarship
 
   - tag: text
     heading: “贷” 指国家助学贷款
