@@ -7,7 +7,7 @@ content:
   - tag: text
     type: info
     text:
-      - 报到前每位本科新生同学必须在 8 月 14 日 - 8 月 27 日间，在易班上完成课程学习，并通过考试、完成作业并参与互评。
+      - 报到前每位本科新生同学必须在 8 月 27 日前，在易班上完成课程学习，并通过考试、完成作业并参与互评。
       - 研究生无需进行此入学教育课程。
 
   - tag: list
@@ -16,9 +16,15 @@ content:
         icon: about
         path: intro
 
+  - tag: list
+    header: 知识点
+    items:
       - text: 入学教育课程知识点
         icon: star
-        path: answer
+        path: knowledge/
+
+  - tag: title
+    text: 流程指引
 
   - tag: list
     header: 客户端
