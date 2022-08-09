@@ -1,6 +1,6 @@
 title: 致谢名单
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     header: false
     items:
       - text: 黄禧稿件原文
-        url: page?path=Odropped/huangxi
+        url: info?path=Odropped/huangxi
 
   - tag: title
     text: 早期版本
@@ -47,16 +47,16 @@ content:
     header: 感谢名单
     items:
       - text: 2018 年
-        url: page?path=Odonate/2018
+        url: info?path=Odonate/2018
 
       - text: 2019 年
-        url: page?path=Odonate/2019
+        url: info?path=Odonate/2019
 
       - text: 2020 年
-        url: page?path=Odonate/2020
+        url: info?path=Odonate/2020
 
       - text: 2021 年
-        url: page?path=Odonate/2021
+        url: info?path=Odonate/2021
 
       - text: 2022 年
-        url: page?path=Odonate/2022
+        url: info?path=Odonate/2022

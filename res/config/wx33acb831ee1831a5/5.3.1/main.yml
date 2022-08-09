@@ -48,7 +48,7 @@ content:
   #   header: false
   #   items:
   #     - text: 招新详情
-  #       url: page?path=Ohope-studio/invite
+  #       url: info?path=Ohope-studio/invite
 
   # - tag: title
   #   text: 此处有搜索👆 您可以对小程序内容进行查找
@@ -134,11 +134,11 @@ content:
     cover: $img/tab/faq.png
     title: 常见问题
     logo: faq
-    url: page?id=Gfaq/
+    url: info?id=Gfaq/
 
   # - tag: card
   #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
   #   title: 招纳小程序志愿者
   #   logo: $img/inNENU.png
   #   name: in 东师
-  #   url: page?path=Oguide/volunteer
+  #   url: info?path=Oguide/volunteer

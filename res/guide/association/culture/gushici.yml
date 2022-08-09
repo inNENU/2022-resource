@@ -10,7 +10,7 @@ content:
     cover: $img/association/gushici-cover.jpg
     logo: $img/association/gushici.png
     title: 我们纳新了
-    url: page?id=Gassociation/culture/poem-intake
+    url: info?id=Gassociation/culture/poem-intake
 
   - tag: title
     text: 简介

@@ -57,7 +57,7 @@ content:
     header: false
     items:
       - text: 致谢名单
-        url: page?path=Oabout/thanks
+        url: info?path=Oabout/thanks
 
   - tag: title
     text: 未来展望

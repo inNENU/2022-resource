@@ -37,7 +37,7 @@ content:
     cover: $img/tab/sport-field.jpg
     title: 体测计算器
     logo: calculate
-    url: PEcal
+    url: pe-calculator
 
   - tag: card
     cover: $img/tab/media.jpg

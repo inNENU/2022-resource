@@ -55,16 +55,16 @@ content:
     header: false
     items:
       - text: 工作室介绍
-        url: page?path=Ohope-studio/about
+        url: info?path=Ohope-studio/about
 
       - text: 学习内容
-        url: page?path=Ohope-studio/study
+        url: info?path=Ohope-studio/study
 
       - text: 工作内容
-        url: page?path=Ohope-studio/work
+        url: info?path=Ohope-studio/work
 
       - text: 招新要求
-        url: page?path=Ohope-studio/need
+        url: info?path=Ohope-studio/need
 
       - text: 常见问题
-        url: page?path=Ohope-studio/desc
+        url: info?path=Ohope-studio/desc

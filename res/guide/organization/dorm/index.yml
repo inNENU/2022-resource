@@ -17,7 +17,7 @@ content:
     logo: $img/organization/xiaowo.png
     name: 东师小窝
     title: 我们在纳新
-    url: page?id=/guide/organization/dorm/intake
+    url: info?id=/guide/organization/dorm/intake
 
   - tag: title
     text: 组织介绍

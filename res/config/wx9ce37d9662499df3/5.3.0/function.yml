@@ -45,7 +45,7 @@ content:
         color: olive
         name: PE Calculator
         icon: calculate
-        url: PEcal
+        url: pe-calculator
 
       - text: 校园媒体
         color: grey

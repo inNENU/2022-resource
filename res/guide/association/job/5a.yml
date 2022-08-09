@@ -10,7 +10,7 @@ content:
     cover: $img/association/5a-cover.jpg
     logo: $img/association/5Alogo.png
     title: 我们纳新啦
-    url: page?id=Gassociation/job/5a-intake
+    url: info?id=Gassociation/job/5a-intake
 
   - tag: title
     text: 社团简介

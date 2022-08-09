@@ -1,7 +1,7 @@
 title: 体测
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: ul
@@ -49,4 +49,4 @@ content:
     cover: $img/tab/sport-field.jpg
     title: 体测计算器
     logo: calculate
-    url: PEcal
+    url: pe-calculator

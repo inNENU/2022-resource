@@ -10,7 +10,7 @@ content:
     cover: $img/association/ea-cover.jpg
     logo: $img/association/ea.jpg
     title: 英协纳新啦
-    url: page?id=Gassociation/culture/ea-intake
+    url: info?id=Gassociation/culture/ea-intake
 
   - tag: title
     text: 简介

@@ -1,7 +1,7 @@
 title: “东师之声”校园广播站
 desc: |-
   来源: 校团委官网
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: account
@@ -20,7 +20,7 @@ content:
     logo: $img/organization/voice.png
     name: “东师之声”校园广播站
     title: 我们在纳新
-    url: page?id=/guide/organization/voice/intake
+    url: info?id=/guide/organization/voice/intake
 
   - tag: title
     text: 组织简介

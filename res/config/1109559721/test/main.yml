@@ -8,13 +8,13 @@ content:
     title: 入学教育课程
     desc: 入学教育课程现已开放
     logo: study
-    url: page?id=Gyiban/
+    url: info?id=Gyiban/
 
   - tag: list
     items:
       - text: 经验分享直播与答疑
         icon: activity
-        url: page?path=OMrHope/streaming
+        url: info?path=OMrHope/streaming
 
       - text: 报到时间
         icon: time
@@ -147,11 +147,11 @@ content:
     cover: $img/tab/faq.png
     title: 常见问题
     logo: faq
-    url: page?id=Gfaq/
+    url: info?id=Gfaq/
 
   # - tag: card
   #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
   #   title: 招纳小程序志愿者
   #   logo: $img/inNENU.png
   #   name: in 东师
-  #   url: page?path=Oguide/volunteer
+  #   url: info?path=Oguide/volunteer

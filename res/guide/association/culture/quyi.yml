@@ -14,7 +14,7 @@ content:
     logo: $img/association/quyi.png
     name: 师说曲艺社
     title: 我们在纳新
-    url: page?id=/guide/association/culture/quyi-in
+    url: info?id=/guide/association/culture/quyi-in
 
   - tag: text
     text:

@@ -1,6 +1,6 @@
 title: 别有用心群汇总
 author: Mr.Hope
-time: 2022 年 7 月 18 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
@@ -27,7 +27,7 @@ content:
     header: false
     items:
       - text: 校友群
-        url: page?path=Ocheat/alumnus
+        url: info?path=Ocheat/alumnus
 
       - text: 推销团队
-        url: page?path=Ocheat/youpin
+        url: info?path=Ocheat/youpin

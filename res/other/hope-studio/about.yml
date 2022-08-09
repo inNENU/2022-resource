@@ -33,4 +33,4 @@ content:
       - type: navigator
         text: 招新详情
         openType: redirect
-        url: page?path=Ohope-studio/invite
+        url: info?path=Ohope-studio/invite

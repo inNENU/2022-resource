@@ -53,4 +53,4 @@ content:
     items:
       - text: 查看详细日志
         icon: time
-        url: page?path=Olog/history/
+        url: info?path=Olog/history/

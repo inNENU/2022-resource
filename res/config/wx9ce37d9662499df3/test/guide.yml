@@ -316,6 +316,6 @@ content:
         color: blue
         name: Advice
         icon: idea
-        url: page?path=Oadvice/
+        url: info?path=Oadvice/
 
     footer: " "

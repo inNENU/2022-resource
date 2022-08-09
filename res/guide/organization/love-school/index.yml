@@ -10,7 +10,7 @@ content:
     cover: $img/organization/love-school-cover.png
     logo: $img/organization/love-school.png
     title: 我们纳新啦
-    url: page?id=Gorganization/love-school/intake
+    url: info?id=Gorganization/love-school/intake
 
   - tag: p
     heading: " "

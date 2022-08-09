@@ -1,6 +1,6 @@
 title: 全英辩论俱乐部
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: account
@@ -13,7 +13,7 @@ content:
     title: 我们在纳新
     name: 全英辩论俱乐部
     logo: $img/association/nenudc.png
-    url: page?id=/guide/association/culture/debate-in
+    url: info?id=/guide/association/culture/debate-in
 
   - tag: title
     text: 社团简介
