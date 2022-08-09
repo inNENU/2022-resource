@@ -1,17 +1,19 @@
 title: 本部校区校门
 author: Mr.Hope
-time: 2022 年 7 月 15 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
     type: note
-    text: 由于疫情原因，报到期间只会开放东北门。
+    text:
+      # - 由于疫情原因，报到期间只会开放正门 (西门)。
+      - 由于疫情原因，报到期间只会开放北门。
 
   - tag: title
-    text: 本部东北门(动植物园对面)
+    text: 本部北门(动植物园对面)
 
   - tag: location
-    title: 东北门
+    title: 北门
     points:
       - latitude: 43.86409
         longitude: 125.33468
@@ -56,17 +58,17 @@ content:
     text:
       - 这是学校的正门，进门正对着就是学校的图书馆。
       - 很多公交车如 6 / 66 / 306 的车站都在正门附近。
-      # - 如果下车到了这个门，那么您需要走的路是最远的，当然学校不是太大，所以您不会走太久。要去报到的话从图书馆北侧那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
+      # - 进门后直行走到图书馆，之后从图书馆北侧 (左手边) 那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
 
   - tag: title
-    text: 本部北门(东师会馆、幼儿园旁)
+    text: 本部西北门(东师会馆、幼儿园旁)
 
   - tag: text
     type: danger
     text: 疫情报到期间此门关闭!
 
   - tag: location
-    title: 北门
+    title: 西北门
     points:
       - latitude: 43.86393
         longitude: 125.33015

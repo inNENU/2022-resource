@@ -1,12 +1,12 @@
 title: 查询档案邮寄情况
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
     type: info
     text:
-      - 您必须在校期间关注东北师大企业微信号并完成身份认证。
+      - 您需要在校期间关注东北师大企业微信号并完成身份认证。
 
   - tag: img
     src: $img/archive/account.png

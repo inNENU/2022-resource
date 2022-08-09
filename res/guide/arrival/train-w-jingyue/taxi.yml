@@ -1,6 +1,6 @@
 title: 长春西站-到净月-打车
 author: Mr.Hope
-time: 2022 年 7 月 15 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: p
@@ -23,6 +23,7 @@ content:
       - 右侧掉头并前往出租车乘降中心
       - 排队候车并上车
       - 告知师傅到东北师范大学净月校区，在净月大街上的正门下车
+      # - 告知师傅到东北师范大学净月校区，在博硕路上的 2 号门下车
 
   - tag: img
     src: $img/arrival/train-west-exit.jpg

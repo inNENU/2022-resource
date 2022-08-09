@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2022 年 8 月 1 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: title
@@ -29,8 +29,10 @@ content:
     type: warning
     heading: 因疫情防控需要
     text:
-      - 本部仅开放东北门 (动植物公园正门对面)
-      - 净月校区仅开放正门 (1 号门)。
+      - 本部仅开放正门 (西门、在人民大街上)
+      # - 本部仅开放北门 (动植物公园正门对面)
+      - 净月校区仅开放 2 号门 (雕塑门)。
+      # - 净月校区仅开放正门 (1 号门)。
       - 学生家长、亲友不能陪同学生进入校园。新生报到时，校园内配备服务车转运行李，学生志愿者提供服务保障。
 
   - tag: list
@@ -64,21 +66,7 @@ content:
     type: note
     text:
       - 学校暂无 2022 年准确的接待时间信息，后续会根据通知进行更新。
-      - 往年一般为第一天 13:30 - 22:00，第二天 6:00 - 22:00
-
-  # - tag: text
-  #   heading: 临时接待
-  #   text: 2019 年 8 月 14 日 13:30 - 8 月 15 日 13:30
-
-  # - tag: text
-  #   heading: 本科生
-  #   text:
-  #     - 2021 年 9 月 3 日 6:00 - 22:00
-
-  # - tag: text
-  #   heading: 研究生
-  #   text:
-  #     - 2021 年 9 月 1 日 6:00 - 22:00
+      - 往年一般为 6:00 - 22:00
 
   - tag: title
     text: 报到(接待)地点
@@ -99,10 +87,12 @@ content:
   #   url: $file/checkin2019.pdf
 
   - tag: text
-    text: 本部校区在东北门(动植物公园正门对面)进门的街道
+    text:
+      # - 本部校区在同心路上
+      - 本部校区在北门(动植物公园正门对面)进门的街道
 
   - tag: location
-    title: 本部东北门
+    title: 本部北门
     points:
       - latitude: 43.86409
         longitude: 125.33468

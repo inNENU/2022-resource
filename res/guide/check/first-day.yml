@@ -1,6 +1,6 @@
 title: 大学第一天
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: p
@@ -38,17 +38,22 @@ content:
   - tag: list
     header: false
     items:
-      - text: "第四步: 激活校园卡"
+      - text: "第四步: 前往校园快递中心取行李"
+        path: /guide/express/
+
+      - text: "第五步: 清理寝室灰尘，整理行李"
+
+      - text: "第六步: 激活校园卡，并完成充值"
         path: /guide/card/prepare
 
   - tag: text
     type: warning
     text:
-      - 由于今天全天都会是充值高峰期，会有更大的到账延迟 (尤其是支付宝途径)。
+      - 由于报到全天都会是充值高峰期，会有更大的到账延迟 (尤其是支付宝途径)。
       - 所以请务必在使用前提前完成校园卡充值。
 
   - tag: list
     header: false
     items:
-      - text: "第五步: 准备各类用品"
+      - text: "第五步: 校内采购生活用品"
         path: /guide/necessity/

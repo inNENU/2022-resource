@@ -1,6 +1,6 @@
 title: 长春西站-到本部-公交
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 9 日
 shareable: true
 content:
   - tag: text
@@ -19,7 +19,15 @@ content:
     text: 有轨电车-公交(不推荐)
 
   - tag: p
-    text: 乘坐 55 路有轨电车到工农大路站，到马路(一定要到马路对面，要不就惨了)对面转乘 80 路到东北师范大学站下车。
+    text:
+      - 乘坐 55 路有轨电车到工农大路站，到马路对面转乘 80 路到东北师范大学站下车。
+
+  - tag: text
+    type: warning
+    text: 一定要到马路对面，要不就惨了
+
+  - tag: title
+    text: 注意事项
 
   - tag: text
     type: info
@@ -34,4 +42,4 @@ content:
     type: danger
     heading: 乘坐 160 路需注意
     text:
-      - 下车的站名为站名动植物公园，千万不要到东北师范大学站才下车，那个是净月校区!!!
+      - 下车的站名为动植物公园，千万不要到东北师范大学站才下车，那个是净月校区!!!

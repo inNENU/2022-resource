@@ -1,4 +1,4 @@
-title: 北门
+title: 西北门
 author: Mr.Hope
 time: 2020 年 9 月 1 日
 photo:
@@ -9,3 +9,7 @@ content:
 
   - tag: p
     text: 从这个门进去右手边是师大附属幼儿园。平时鲜有车通行。
+
+  - tag: text
+    type: warning
+    text: 由于疫情原因，目前此门常态化关闭。
