@@ -51,11 +51,11 @@ content:
         icon: psychology
         path: intro/school/psychology/
 
-      # - text: 政法学院
-      #   color: red
-      #   name: Politics
-      #   icon: politics
-      #   path: intro/school/politics/
+      - text: 政法学院
+        color: red
+        name: Politics
+        icon: politics
+        path: intro/school/politics/
 
       - text: 经济与管理学院
         color: purple
@@ -93,11 +93,11 @@ content:
         icon: art
         path: intro/school/art/
 
-      # - text: 马克思主义学部
-      #   color: red
-      #   name: Marx
-      #   icon: marx
-      #   path: intro/school/marx/
+      - text: 马克思主义学部
+        color: red
+        name: Marx
+        icon: marx
+        path: intro/school/marx/
 
       - text: 数学与统计学院
         color: purple
@@ -209,11 +209,11 @@ content:
         icon: office
         path: intro/apt/office/
 
-      # - text: 校团委
-      #   color: purple
-      #   name: League
-      #   icon: league
-      #   path: intro/apt/youth-league/
+      - text: 校团委
+        color: purple
+        name: League
+        icon: league
+        path: intro/apt/youth-league/
 
       - text: 后勤管理处
         color: cyan
