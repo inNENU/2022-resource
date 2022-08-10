@@ -81,11 +81,11 @@ content:
         icon: network
         path: guide/network/
 
-      - text: 学费缴纳
-        color: olive
-        name: Pay
-        icon: money
-        path: guide/pay/
+      # - text: 学费缴纳
+      #   color: olive
+      #   name: Pay
+      #   icon: money
+      #   path: guide/pay/
 
       # - text: 保险
       #   color: blue
