@@ -1,7 +1,7 @@
 title: 资助
 grey: true
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 10 日
 shareable: true
 content:
   - tag: p
@@ -27,10 +27,6 @@ content:
         icon: office
         path: agency
 
-      - text: 入学绿色通道
-        icon: green-tunnel
-        path: green-tunnel
-
   - tag: list
     header: 助学贷款
     items:
@@ -51,12 +47,30 @@ content:
         path: loan/
 
   - tag: list
+    header: 入学
+    items:
+      - text: 入学绿色通道
+        icon: green-tunnel
+        path: green-tunnel
+
+  - tag: list
+    header: 助学金
+    items:
+      - text: 助学金介绍
+        icon: about
+        path: help/intro
+
+      - text: 助学金申请
+        icon: apply
+        path: help/apply
+
+      - text: 2021 至 2022 学年学校助学金评审通知
+        icon: notice
+        path: help/notice
+
+  - tag: list
     header: 通知公告
     items:
       - text: 2021 - 2022 学年资助对象评定
         icon: notice
         path: notice
-
-      - text: 2021 至 2022 学年学校助学金评审通知
-        icon: notice
-        path: help-notice

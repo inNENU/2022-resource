@@ -81,17 +81,17 @@ content:
         icon: network
         path: guide/network/
 
-      # - text: 学费缴纳
-      #   color: olive
-      #   name: Pay
-      #   icon: money
-      #   path: guide/pay/
+      - text: 学费缴纳
+        color: olive
+        name: Pay
+        icon: money
+        path: guide/pay/
 
-      # - text: 保险
-      #   color: blue
-      #   name: Insurance
-      #   icon: insurance
-      #   path: /guide/insurance/
+      - text: 保险
+        color: blue
+        name: Insurance
+        icon: insurance
+        path: /guide/insurance/
 
       - text: 规章制度
         color: orange
@@ -192,11 +192,11 @@ content:
         icon: degree
         path: guide/degree/
 
-      # - text: 专业介绍
-      #   color: olive
-      #   name: Major
-      #   icon: about
-      #   path: intro/school/major
+      - text: 专业介绍
+        color: olive
+        name: Major
+        icon: about
+        path: intro/school/major
 
       - text: 转专业
         color: red

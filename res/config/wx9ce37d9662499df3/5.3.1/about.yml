@@ -3,17 +3,13 @@
   items:
     - text: 小程序由校团委融媒体中心授权交由 Mr.Hope 开发。其全部代码均由 Mr.Hope 编写，其内容仅代表 Mr.Hope 个人观点。
 
-    - text: 小程序现有字数为 676807 字，其中东师介绍部分 240846 字，东师指南部分 366142 字，功能大厅部分 30355 字，其他部分 39464 字。
+    - text: 小程序现有字数为 678010 字，其中东师介绍部分 242034 字，东师指南部分 366157 字，功能大厅部分 30355 字，其他部分 39464 字。
 
     - text: 校团委融媒体中心介绍
       url: info?id=Gorganization/new-media-center
 
     - text: Mr.Hope 个人介绍
       url: info?path=Oabout/mrhope
-
-    - text: |-
-        记: in  东师
-      url: info?path=Oabout/history
 
     - text: 开发者访谈
       url: info?path=Oabout/interview

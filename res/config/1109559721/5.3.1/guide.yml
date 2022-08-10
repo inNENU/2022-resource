@@ -87,11 +87,11 @@ content:
         icon: money
         path: guide/pay/
 
-      # - text: 保险
-      #   color: blue
-      #   name: Insurance
-      #   icon: insurance
-      #   path: /guide/insurance/
+      - text: 保险
+        color: blue
+        name: Insurance
+        icon: insurance
+        path: /guide/insurance/
 
       - text: 规章制度
         color: orange

@@ -1,0 +1,144 @@
+title: 首页
+id: main
+grey: true
+hidden: true
+content:
+  # - tag: title
+  #   text: 本科招生
+
+  # - tag: list
+  #   header: false
+  #   items:
+  #     - text: 2022 年本科招生简章
+  #       icon: rule
+  #       path: intro/enroll/under/rule/
+
+  #     - text: 2022 年招生计划与历史分数线
+  #       icon: time
+  #       path: intro/enroll/under/info
+
+  #     - text: 招生咨询群
+  #       icon: qq-group
+  #       path: intro/enroll/under/qq-group
+
+  #     - text: 招生直播活动
+  #       icon: activity
+  #       path: intro/enroll/under/activity
+
+  #     - text: 更多信息
+  #       icon: more
+  #       path: intro/enroll/under/
+
+  # - tag: list
+  #   header: 研究生
+  #   items:
+  #     - text: 研究生调档
+  #       path: guide/archive/post-in
+
+  #     - text: 研究生党员组织关系接转
+  #       path: guide/prepare/league
+
+  #     - text: 研究生团员组织关系接转
+  #       path: guide/prepare/group
+
+  # - tag: title
+  #   text: 希望工作室长期招新
+
+  # - tag: list
+  #   header: false
+  #   items:
+  #     - text: 招新详情
+  #       url: info?path=Ohope-studio/invite
+
+  # - tag: title
+  #   text: 此处有搜索👆 您可以对小程序内容进行查找
+
+  - tag: grid
+    header: 您可能想关注
+    items:
+      # - text: 专业介绍
+      #   color: olive
+      #   name: Major
+      #   icon: about
+      #   path: intro/school/major
+
+      - text: 转专业
+        color: red
+        name: Change Major
+        icon: change
+        path: guide/change-major/
+
+      - text: 师范生
+        color: purple
+        name: Normal
+        icon: teacher
+        path: guide/normal/
+
+      - text: 寝室
+        color: blue
+        name: Dorm
+        icon: dorm
+        path: guide/dorm/
+
+      - text: 食堂
+        color: orange
+        name: Dining
+        icon: dining
+        path: guide/dining/
+
+      - text: 洗浴
+        color: red
+        name: Bath
+        icon: bath
+        path: guide/bath/
+
+      - text: 生活
+        color: purple
+        name: Life
+        icon: life
+        path: guide/life/
+
+      - text: 课程
+        color: orange
+        name: Course
+        icon: content
+        path: guide/course/
+
+      # - text: 找到组织
+      #   color: olive
+      #   name: Contact
+      #   icon: qq-group
+      #   path: guide/contact/
+
+      - text: 学习
+        color: mauve
+        name: Study
+        icon: study
+        path: guide/study/
+
+      - text: 校历
+        color: mauve
+        name: Calendar
+        icon: calendar
+        url: calendar
+
+      - text: 常见问题
+        color: cyan
+        name: FAQ
+        icon: faq
+        path: guide/faq/
+
+    footer: 更多内容请详见下方其他 Tab 页
+
+  - tag: card
+    cover: $img/tab/faq.png
+    title: 常见问题
+    logo: faq
+    url: info?id=Gfaq/
+
+  # - tag: card
+  #   cover: http://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
+  #   title: 招纳小程序志愿者
+  #   logo: $img/inNENU.png
+  #   name: in 东师
+  #   url: info?path=Oguide/volunteer

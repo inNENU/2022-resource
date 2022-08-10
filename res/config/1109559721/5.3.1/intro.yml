@@ -93,11 +93,11 @@ content:
         icon: art
         path: intro/school/art/
 
-      # - text: 马克思主义学部
-      #   color: red
-      #   name: Marx
-      #   icon: marx
-      #   path: intro/school/marx/
+      - text: 马克思主义学部
+        color: red
+        name: Marx
+        icon: marx
+        path: intro/school/marx/
 
       - text: 数学与统计学院
         color: purple
@@ -152,6 +152,7 @@ content:
         name: Media
         icon: media
         path: intro/school/media/
+
       - text: 国际汉学院
         color: mauve
         name: Internation
