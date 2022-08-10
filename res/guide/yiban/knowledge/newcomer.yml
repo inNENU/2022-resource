@@ -1,6 +1,6 @@
 title: 新生入学
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 10 日
 shareable: true
 content:
   - tag: ul
@@ -41,6 +41,13 @@ content:
     text:
       - 新生入学后的第一个学期采取『注课制』，一般在『学期初』进行。
     path: /guide/select/register
+
+  - tag: ul
+    type: info
+    heading: 校园卡
+    text:
+      - 我们在宿舍楼内洗漱、打水、洗衣服都需要用到的是『校园一卡通』。
+    path: /guide/card/
 
   - tag: ul
     type: info
