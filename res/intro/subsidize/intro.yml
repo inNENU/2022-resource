@@ -34,7 +34,7 @@ content:
 
       - text: 服兵役学生国家教育资助
         icon: military
-        path: military
+        path: military/intro
 
   - tag: ul
     type: info
