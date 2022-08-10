@@ -1,7 +1,41 @@
 title: 内容更新日志
 content:
   - tag: title
-    text: 2022/08/07
+    text: 2022/08/10
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 服兵役学生国家教育资助
+      - 勤工助学介绍
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新资助板块
+
+  - tag: title
+    text: 2022/08/09
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 助学金介绍
+      - 毕业生基层就业学费补偿
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新资助体系介绍
+      - 更新绿色通道
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 易班知识库部分题缺失与错误
+
+  - tag: title
+    text: 2022/08/08
 
   - tag: ul
     heading: 更新
