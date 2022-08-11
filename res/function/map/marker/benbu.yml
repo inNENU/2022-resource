@@ -30,8 +30,8 @@ gate:
 
     - latitude: 43.86393
       longitude: 125.33015
-      name: 西北门
-      detail: 东北师范大学西北门
+      name: 北门
+      detail: 东北师范大学北门
       path: north
 
     - latitude: 43.863324
@@ -42,8 +42,8 @@ gate:
 
     - latitude: 43.86409
       longitude: 125.33468
-      name: 北门
-      detail: 东北师范大学北门
+      name: 东北门
+      detail: 东北师范大学东北门
       path: north-east
 
     - latitude: 43.8598
