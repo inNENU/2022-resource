@@ -40,6 +40,11 @@
       logo: $img/media/official.png
       path: caiwuchu
 
+    - name: 东师资助
+      desc: 东北师范大学学生资助管理中心
+      logo: $img/media/subsidize.jpg
+      path: subsidize
+
     - name: 东师后勤
       desc: 东北师范大学后勤保障部
       logo: $img/media/logistics.jpg

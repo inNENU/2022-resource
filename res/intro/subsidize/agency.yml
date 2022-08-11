@@ -1,8 +1,17 @@
 title: 学生资助机构
 author: Mr.Hope
-time: 2022 年 7 月 28 日
+time: 2022 年 8 月 11 日
 shareable: true
 content:
+  - tag: account
+    name: 学生资助管理中心
+    logo: $img/media/subsidize.jpg
+    wxid: skyxxxczx2015
+    wxcode: $img/media/subsidize-qrcode.jpg
+    account: dongshizizhu
+    mail: zzzx@nenu.edu.cn
+    site: https://clzc.nenu.edu.cn/
+
   - tag: title
     text: 学生资助管理中心
 
