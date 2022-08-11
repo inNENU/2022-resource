@@ -2,7 +2,7 @@ title: 大学英语水平测试报名
 author:
   - Mr.Hope
   - 张楚
-time: 2022 年 8 月 5 日
+time: 2022 年 8 月 11 日
 shareable: true
 content:
   - tag: title
@@ -16,11 +16,19 @@ content:
 
   - tag: text
     heading: 四级笔试
-    text: 全体在籍本科生和在籍研究生。(即大一学生可以参加 12 月份的考试)
+    text: 全体在籍本科生和在籍研究生。
+
+  - tag: text
+    type: note
+    text: 即大一学生可以参加 12 月份的考试。
 
   - tag: text
     heading: 六级笔试
-    text: 全国大学英语四级考试成绩 425 分以上(含 425 分)的在籍本科生和在籍研究生。(即大一学生 12 月份的考试通过后可以参加 6 月份的六级考试)
+    text: 全国大学英语四级考试成绩 425 分以上(含 425 分)的在籍本科生和在籍研究生。
+
+  - tag: text
+    type: note
+    text: 即大一学生 12 月份的考试通过后可以参加 6 月份的六级考试。
 
   - tag: text
     heading: 笔试容量限制
