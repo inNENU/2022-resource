@@ -2,7 +2,7 @@ name: 东师资助
 detail: 学生资助管理中心
 desc: “满溢着爱”做资助
 id: dongshizizhu
-logo: $img/media/subsidize.png
+logo: $img/media/subsidize.jpg
 qrcode: $img/media/subsidize-qrcode.jpg
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ktic6Y2YEZc3myKIyYS4DaBCaHX5rv4ZZkicIUibc7TJibUZibCiaVb7oysWgr1InHWjev9uMCK0cH1zWpLhF3icoyEyQ/0?wx_fmt=jpeg

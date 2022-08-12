@@ -1,7 +1,7 @@
 title: 校园邮箱
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: text
@@ -19,11 +19,11 @@ content:
 
       - text: 安卓邮箱客户端设置
         icon: android
-        path: Android
+        path: android
 
       - text: iOS 邮箱客户端设置
         icon: apple
-        path: iOS
+        path: ios
 
       - text: Windows 邮箱客户端设置
         icon: windows

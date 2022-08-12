@@ -1,6 +1,6 @@
 title: 东师 e 起战疫登陆
 author: Mr.Hope
-time: 2022 年 7 月 28 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: title
@@ -35,7 +35,7 @@ content:
       - qq
 
   - tag: img
-    src: $img/epidemic/miniprogram-login1.jpg
+    src: $img/epidemic/zhane-login1.jpg
     env:
       - qq
 
@@ -50,21 +50,20 @@ content:
     text: 单击 “点击登录”
 
   - tag: img
-    src: $img/epidemic/miniprogram-login2.jpg
+    src: $img/epidemic/zhane-login2.jpg
 
   - tag: ul
     text:
       - 选择 “我是学生”
-      - 输入自己的学号
+      - 输入自己统一账户账号和密码。
 
   - tag: text
-    type: warning
-    text:
-      - 录取通知书右下角编号，即“2022”开头的十位数字就是学号。
-      - 如果您尚未收到录取通知书，您可以联系您的导员获取您的学号。
+    type: info
+    heading: 统一身份认证
+    path: /guide/account/authorize/
 
   - tag: img
-    src: $img/epidemic/miniprogram-login3.jpg
+    src: $img/epidemic/zhane-login3.jpg
 
   - tag: ul
     type: warning

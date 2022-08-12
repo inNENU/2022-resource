@@ -24,7 +24,7 @@ content:
     header: false
     items:
       - text: 奖学金详情
-        icon: scholarship
+        icon: metal
         path: scholarship
 
   - tag: list
