@@ -1,6 +1,6 @@
 title: 净月校区校门
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: title
@@ -9,33 +9,11 @@ content:
   - tag: text
     type: note
     text:
-      - 由于疫情原因，报到期间只会开放正门(又叫北门、1 号门)。
-      # - 由于疫情原因，报到期间只会开放 2 号门 (又叫雕塑门)
-
-  - tag: title
-    text: 净月 1 号门 (正门、东北门)
-
-  - tag: location
-    title: 正门
-    points:
-      - latitude: 43.82853
-        longitude: 125.43107
-        detail: 1 号门
-
-  - tag: img
-    src: $img/scenery/jingyue/gate/east.jpg
-
-  - tag: p
-    text:
-      - 从此门进入直行、即可看到迎新摆台。
-      # - 这个门正对着图书馆，进门后一直往前走(这条路有点长)，越过紫光桥，经过“大菜花”(其实官方称号叫生命树)后再往前走，走到头就是图书馆前的空地了，迎新摆台就在那里。
+      # - 由于疫情原因，报到期间只会开放正门(又叫北门、1 号门)。
+      - 由于疫情原因，报到期间只会开放 2 号门 (又叫雕塑门)
 
   - tag: title
     text: 净月北门(雕塑门、2 号门)
-
-  - tag: text
-    type: danger
-    text: 疫情报到期间此门关闭!
 
   - tag: location
     title: 北门
@@ -51,3 +29,25 @@ content:
     text:
       - 此门名称的由来是门口有雕塑。
       # - 进门后一直往前走(这条路有点长)，经过“大菜花”(其实官方称号叫生命树)后右转直行，走到头就是图书馆前的空地了，迎新摆台就在那里。
+
+  - tag: title
+    text: 净月 1 号门 (正门、东北门)
+
+  - tag: text
+    type: danger
+    text: 疫情报到期间此门关闭!
+
+  - tag: location
+    title: 正门
+    points:
+      - latitude: 43.82853
+        longitude: 125.43107
+        detail: 1 号门
+
+  - tag: img
+    src: $img/scenery/jingyue/gate/east.jpg
+
+  - tag: p
+    text:
+      - 从此门进入直行、即可看到迎新摆台。
+      # - 这个门正对着图书馆，进门后一直往前走(这条路有点长)，越过紫光桥，经过“大菜花”(其实官方称号叫生命树)后再往前走，走到头就是图书馆前的空地了，迎新摆台就在那里。

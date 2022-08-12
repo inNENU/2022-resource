@@ -1,6 +1,6 @@
 title: 打车提示
 author: Mr.Hope
-time: 2022 年 8 月 11 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: title
@@ -26,8 +26,8 @@ content:
       - 本部北侧有东北门(动植物公园对面那个门)和北门(幼儿园那个门，或东师会馆那个门)。但是北门因为疫情原因不开。
       - 另外北侧自由大路中央有分割围栏，过马路需要走过街天桥，所以如果从北出口打车走了高架桥，请明确告知师傅到动植物公园正门西侧的天桥下即可。
       # - 本部正门也就是西门。如在人民大街西侧下车需要横穿马路才能到达学校，学校正门处有斑马线但没有红绿灯，请注意安全。
-      - 净月 1 号门 (正门、东北门) 在净月大街上。
-      # - 净月 2 号门 (雕塑门) 在博硕路上。
+      # - 净月 1 号门 (正门、东北门) 在净月大街上。
+      - 净月 2 号门 (雕塑门) 在博硕路上。
 
   - tag: functional-list
     header: 导航
@@ -40,8 +40,8 @@ content:
 
       - type: navigator
         text: 导航到净月
-        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
         # 2号门
-        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.82886,"longitude":125.42689,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.82886,"longitude":125.42689,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
     env:
       - wx

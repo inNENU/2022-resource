@@ -1,6 +1,6 @@
 title: 资助体系介绍
 author: Mr.Hope
-time: 2022 年 8 月 10 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: title
@@ -15,12 +15,17 @@ content:
     text: 资助体系详情
 
   - tag: ul
-    type: info
     heading: “奖”
     text:
       - 国家设立的国家奖学金、国家励志奖学金
       - 学校设立的学校励志奖学金
-    path: scholarship
+
+  - tag: list
+    header: false
+    items:
+      - text: 奖学金详情
+        icon: scholarship
+        path: scholarship
 
   - tag: list
     header: “贷”
@@ -38,14 +43,19 @@ content:
         path: military/intro
 
   - tag: ul
-    type: info
     heading: “助”
     text:
       - 国家助学金
       - 学校助学金
       - 本科生助学金
       - 社会捐助奖助学金
-    path: help/intro
+
+  - tag: list
+    header: false
+    items:
+      - text: 助学金详情
+        icon: heart
+        path: help/intro
 
   - tag: ul
     heading: “补”
@@ -58,11 +68,16 @@ content:
         学校设立暖心工程、励志工程、就业形象提升工程等多种个性化资助项目，为家庭经济困难学生成长成才助力赋能。
 
   - tag: text
-    type: info
     heading: “勤”
     text:
       - 勤工助学是学校资助育人的主渠道、主阵地，是同学们获得资助的有效途径，也是做好大学期间能力储备和积累的有效平台。
-    path: work
+
+  - tag: list
+    header: false
+    items:
+      - text: 勤工助学详情
+        icon: more
+        path: work
 
   - tag: text
     heading: “减”
