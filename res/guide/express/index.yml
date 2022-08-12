@@ -1,6 +1,6 @@
 title: 快递
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
   - tag: text
@@ -9,36 +9,39 @@ content:
       - 由于疫情原因，开学学校会封校至少两周。
       - 所以 Mr.Hope 建议同学们请尽量选择在校内有快递点的快递。
 
-  - tag: title
-    text: 本部
-
-  - tag: action
-    header: 邮寄地址
-    content: 吉林省长春市南关区南岭街道人民大街 5268 号
-
-  - tag: action
-    header: 邮编
-    content: "130024"
+  - tag: list
+    header: 提示
+    items:
+      - text: 新生邮寄快递提示
+        icon: idea
+        path: tip
 
   - tag: list
-    header: 更多详情
+    header: 本部
     items:
-      - text: 本部快递详情
+      - text: 快递介绍
+        icon: about
         path: benbu
 
-  - tag: title
-    text: 净月
+      - text: 菜鸟驿站
+        icon: cainiao
+        path: cainiao
 
-  - tag: action
-    header: 邮寄地址
-    content: 吉林省长春市南关区净月街道净月大街 2555 号
+      - text: 快递柜
+        icon: express-cabinet
+        path: benbu-cabinet
 
-  - tag: action
-    header: 邮编
-    content: "130117"
+      - text: 临时取件点
+        icon: express
+        path: benbu-temp
 
   - tag: list
-    header: 更多详情
+    header: 净月
     items:
-      - text: 净月快递详情
+      - text: 快递介绍
+        icon: about
         path: jingyue
+
+      - text: 近邻宝
+        icon: express
+        path: jinlinbao

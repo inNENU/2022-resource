@@ -1,11 +1,16 @@
-title: 本部校区快递
+title: 本部校区快递介绍
 author: Mr.Hope
-time: 2022 年 8 月 5 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
+  - tag: title
+    text: 校内快递点
+
   - tag: text
-    text: |-
-      由于疫情封校，本部快递点在校园内的有:
+    text:
+      - 由于疫情封校，新生邮寄快递最好选择快递点在校园内部的快递服务。
+      - |-
+        本部快递点在校园内的有:
 
   - tag: ul
     text:
@@ -18,8 +23,16 @@ content:
       - 京东
       - 中通
 
-  - tag: text
-    text: 如果要寄快递的话最好选择它们。
+  - tag: title
+    text: 邮寄地址
+
+  - tag: action
+    header: 本部地址
+    content: 吉林省长春市南关区南岭街道人民大街 5268 号
+
+  - tag: action
+    header: 邮编
+    content: "130024"
 
   - tag: title
     text: 收件点
@@ -40,40 +53,18 @@ content:
         path: benbu-temp
 
   - tag: title
-    text: 南门
+    text: 其他
 
   - tag: text
+    heading: 南门
     text: 本部南门(文昌路)是露天快递集中地，一些在校园内未设点的快递均会选择在那里等待同学们取件。在南门附近的快递有宅急送、天天快递、德邦快递、品骏快递、唯品会等。如果您需要取快递，您需要填写出校申请出校取快递。
 
   - tag: text
     type: tip
     text: 取件地点是文昌路北侧的小面包。
 
-  # - tag: title
-  #   text: 中通快递
-
-  # - tag: text
-  #   type: tip
-  #   text:
-  #     - 为了方便学生，在新生报到期间，中通在校内设置临时取件点。
-
-  # - tag: text
-  #   text: 中通快递在五舍研究生楼墙外的代理点处。如果您需要取快递，您需要填写出校申请出校取快递。
-
-  # - tag: text
-  #   type: danger
-  #   text:
-  #     - 中通快递点非常的远! 非常的远! 非常的远!
-  #     - 除非必须，请尽量不要用这家快递，否则您取快递可能会怀疑人生。😑
-
-  # - tag: img
-  #   src: $img/express/zto.jpg
-  #   desc: 快递点
-
-  - tag: title
-    text: EMS 邮政
-
   - tag: text
+    heading: EMS、邮政
     text:
-      - EMS 邮政寄件比较具体，如果具体填写行政楼或各学院都可收到。
-      - 地址可以只填入东北师范大学，默认会被送到菜鸟驿站。
+      - EMS、邮政寄件比较具体，会派送到各楼宇。如果具体填写行政楼或各学院会送到对应建筑的传达室。
+      - 地址可以只填入东北师范大学，会被送到菜鸟驿站。

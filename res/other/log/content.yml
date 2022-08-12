@@ -1,6 +1,36 @@
 title: 内容更新日志
 content:
   - tag: title
+    text: 2022/08/12
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新快递介绍
+      - 更新智慧团建流程指引
+      - 更新 e 起战疫小程序登录
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修正报到校门
+
+  - tag: title
+    text: 2022/08/11
+
+  - tag: ul
+    heading: 新增
+    text:
+      - 学生资助中心微信媒体号
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新报道要求
+      - 更新历史学院年级群
+      - 更新校历
+
+  - tag: title
     text: 2022/08/10
 
   - tag: ul

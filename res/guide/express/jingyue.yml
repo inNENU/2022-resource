@@ -1,11 +1,16 @@
-title: 净月快递
+title: 净月校区快递介绍
 author: Mr.Hope
-time: 2022 年 8 月 1 日
+time: 2022 年 8 月 12 日
 shareable: true
 content:
+  - tag: title
+    text: 校内快递点
+
   - tag: text
-    text: |-
-      由于疫情封校，净月快递点在校园内的有:
+    text:
+      - 由于疫情封校，新生邮寄快递最好选择快递点在校园内部的快递服务。
+      - |-
+        净月快递点在校园内的有:
 
   - tag: ul
     text:
@@ -21,56 +26,23 @@ content:
       - 邮政
       - EMS
 
-  - tag: text
-    text: 如果要寄快递的话最好选择它们 (基本全了)。
+  - tag: title
+    text: 邮寄地址
+
+  - tag: action
+    header: 净月地址
+    content: 吉林省长春市南关区净月街道净月大街 2555 号
+
+  - tag: action
+    header: 邮编
+    content: "130117"
 
   - tag: title
     text: 快递中心
 
-  - tag: location
-    title: 快递中心
-    points:
-      - latitude: 43.82504
-        longitude: 125.424923
-
-  - tag: text
-    text: 净月快递站 (又叫近邻宝) 位于秋华公寓对面的二食堂一层(基本餐为二楼)，周围是一些商家和京东便利店。
-
-  - tag: img
-    src: $img/express/jingyue-express-center.jpg
-
-  - tag: text
-    heading: 营业时间
-    text:
-      - 8:30🕣 - 19:00🕖
-      - 四季时间不变，节假日不休息
-      - (实际上是有可能提前一小段时间关门的)
-
-  - tag: text
-    heading: 内部设施
-    text:
-      - 近邻宝快递站中共有四个智能快递柜(均为免费)、两个固定外驻柜台和一个人工取件区(通称为 5 号柜)。
-      - 物流量大时，快递中心会在门外搭设临时快递点。
-
-  - tag: img
-    src: $img/express/jingyue-express-detail1.jpg
-
-  - tag: img
-    src: $img/express/jingyue-express-detail2.jpg
-
-  - tag: text
-    heading: 取件
-    text: 同学们可关注公众号“近邻宝校园”，通过公众要下发的消息获得快递具体所在的位置。
-
-  - tag: text
-    heading: 智能快递柜操作
-    text: 每个快递柜配有一个交互操作台，同学们可通过输入密钥或扫码的方式打开专属快递柜，也可通过小程序内部打开指定快递柜(由于小程序不能准确获得您的地理位置，所以提示您离快递柜距离超过 20 米是正常现象)。
-
-  - tag: img
-    src: $img/express/jingyue-express-shelf.jpg
-    desc: 智能快递柜
-
-  - tag: phone
-    num: 18943901323
-    fName: 快递中心服务电话
-    org: 东北师范大学
+  - tag: list
+    header: false
+    items:
+      - text: 近邻宝
+        icon: express
+        path: jinlinbao
