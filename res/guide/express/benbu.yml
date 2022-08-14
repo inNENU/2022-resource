@@ -1,6 +1,6 @@
 title: 本部校区快递介绍
 author: Mr.Hope
-time: 2022 年 8 月 12 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: title
@@ -14,14 +14,16 @@ content:
 
   - tag: ul
     text:
-      - 申通
-      - 圆通
-      - 百世
       - 顺丰
-      - 韵达
-      - 邮政
+      - 邮政 EMS
+      - 邮政小包
       - 京东
+      - 韵达
+      - 圆通
+      - 申通
       - 中通
+      - 百世
+      - 黄马甲
 
   - tag: title
     text: 邮寄地址

@@ -1,6 +1,6 @@
 title: 长春市城乡居民基本医疗保险报销
 author: Mr.Hope
-time: 2022 年 7 月 31 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: text
@@ -53,6 +53,13 @@ content:
       - |-
         大额段核报金额合计 30 万 (实报金额)。
         住院现金累计合规医疗费用: 费用总额 - 统筹支付 - 大额支付 - 丙类费用 - 封锁费用 - 乙类个人自理费用 - 起付线
+
+  - tag: text
+    type: info
+    heading: 意外伤害报销比例
+    text:
+      - |-
+        ￥100 - ￥5000: 80%
 
   - tag: title
     text: 转外住院

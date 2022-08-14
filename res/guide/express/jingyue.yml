@@ -1,6 +1,6 @@
 title: 净月校区快递介绍
 author: Mr.Hope
-time: 2022 年 8 月 12 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: title
@@ -15,16 +15,16 @@ content:
   - tag: ul
     text:
       - 中通
-      - 圆通
-      - 申通
       - 韵达
+      - 申通
+      - 百世
+      - 天天
+      - 邮政小包
       - 顺丰
       - 京东
       - 苏宁
-      - 百世
-      - 天天
-      - 邮政
-      - EMS
+      - 邮政 EMS
+      - 圆通
 
   - tag: title
     text: 邮寄地址
