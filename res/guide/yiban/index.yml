@@ -1,7 +1,6 @@
 title: 入学教育课程
 author: Mr.Hope
-time: 2022 年 8 月 9 日
-grey: true
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: text
@@ -11,14 +10,12 @@ content:
       - 研究生无需进行此入学教育课程。
 
   - tag: list
+    header: 简介
     items:
       - text: 入学教育课程介绍
         icon: about
         path: intro
 
-  - tag: list
-    header: 知识点
-    items:
       - text: 入学教育课程知识点
         icon: star
         path: knowledge/

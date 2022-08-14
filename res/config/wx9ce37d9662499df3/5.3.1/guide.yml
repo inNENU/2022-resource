@@ -54,6 +54,12 @@ content:
         icon: activity
         path: guide/activity/
 
+      - text: 防盗防骗
+        color: olive
+        name: Safety
+        icon: safe
+        path: guide/safety/
+
       - text: 常见问题
         color: cyan
         name: FAQ

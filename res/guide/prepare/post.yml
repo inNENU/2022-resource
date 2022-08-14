@@ -1,6 +1,6 @@
 title: 研究生入学准备
 author: Mr.Hope
-time: 2022 年 8 月 7 日
+time: 2022 年 8 月 14 日
 grey: true
 shareable: true
 content:
@@ -17,9 +17,9 @@ content:
   - tag: list
     header: 防止诈骗
     items:
-      - text: 常见网上诈骗
+      - text: 常上诈骗手段与防范
         icon: alert
-        path: cheat
+        path: /guide/safety/
 
   - tag: list
     header: 入学准备

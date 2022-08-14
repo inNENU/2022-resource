@@ -1,6 +1,6 @@
 title: 返校/报到常见问题
 author: Mr.Hope
-time: 2022 年 8 月 11 日
+time: 2022 年 8 月 14 日
 shareable: true
 outdated: true
 content:
@@ -32,7 +32,7 @@ content:
     type: info
     heading: 小程序某一天忘记打卡了能否返校?
     text:
-      - 不能，无特殊情况请重新打卡打满 14 天。
+      - 不能，无特殊情况请重新打卡打满 7 天。
 
   - tag: text
     type: info

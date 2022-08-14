@@ -1,0 +1,19 @@
+title: 常见网上诈骗
+author: Mr.Hope
+time: 2022 年 8 月 14 日
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 订阅类
+        path: subscribe
+
+      - text: 兼职类
+        path: part-time
+
+      - text: 传销类
+        path: mlm
+
+      - text: 更多
+        path: more

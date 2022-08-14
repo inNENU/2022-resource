@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: list
@@ -41,10 +41,6 @@ content:
         icon: card
         path: /guide/card/prepare
 
-      - text: 防盗防骗攻略
-        icon: safe
-        path: guard
-
       - text: 入学体检
         icon: medical-exam
         path: medical-examination
@@ -66,4 +62,4 @@ content:
     items:
       - text: 防盗防骗攻略
         icon: safe
-        path: guard
+        path: /guide/safety/

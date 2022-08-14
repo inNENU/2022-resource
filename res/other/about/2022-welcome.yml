@@ -1,6 +1,6 @@
 title: 欢迎加入 2022 本科新生群
 author: Mr.Hope
-time: 2022 年 8 月 10 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: title
@@ -91,7 +91,7 @@ content:
     type: warning
     heading: 多样化的诈骗手段
     text: 我们建议您查看常见网上诈骗介绍，以防止您遭受金钱上的损失。
-    path: /guide/prepare/cheat
+    path: /guide/safety/
 
   - tag: title
     text: |-

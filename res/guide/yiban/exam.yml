@@ -1,6 +1,6 @@
 title: 新生课程考试与作业
 author: Mr.Hope
-time: 2022 年 8 月 10 日
+time: 2022 年 8 月 14 日
 shareable: true
 content:
   - tag: title
@@ -24,6 +24,11 @@ content:
       - 每个人有 20 次考试的机会。
       - 点击重考后，原有的考试成绩作废，以新考试的成绩为准。
       - 及格即可，学校、辅导员对成绩不做额外要求。
+
+  - tag: text
+    type: info
+    heading: 考试相关知识点
+    path: knowledge/
 
   - tag: title
     text: 互动
