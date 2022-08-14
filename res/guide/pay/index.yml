@@ -1,11 +1,25 @@
 title: 缴费相关
 author: Mr.Hope
-time: 2022 年 7 月 30 日
+time: 2022 年 8 月 14 日
+cite:
+  - https://publish.nenu.edu.cn/info/1068/2632.htm
+  - https://publish.nenu.edu.cn/info/1068/2634.htm
 shareable: true
 content:
   - tag: text
     type: danger
     text: 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!!
+
+  - tag: title
+    text: 学费标准
+
+  - tag: doc
+    name: 2022 级本科生学分学费收费标准
+    url: $file/intro/2022-under-fee.pdf
+
+  - tag: doc
+    name: 2022 级研究生学费标准
+    url: $file/intro/2022-post-fee.pdf
 
   - tag: title
     text: 缴费方式

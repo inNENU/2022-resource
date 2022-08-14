@@ -7,6 +7,7 @@ content:
     heading: 新增
     text:
       - 新增防盗防骗板块
+      - 新增学费和住宿费收费详情
 
   - tag: ul
     heading: 修正
