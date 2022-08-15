@@ -1,6 +1,6 @@
 title: 常见故障及解决办法
 author: Mr.Hope
-time: 2022 年 8 月 1 日
+time: 2022 年 8 月 15 日
 shareable: true
 content:
   - tag: title
@@ -45,15 +45,6 @@ content:
   - tag: text
     type: tip
     text: 如果您补办了一张新卡，并激活了直饮水服务后，您可能需要长达 24 小时才能使用它接直饮水。
-
-  - tag: title
-    text: 洗浴不出水报错
-
-  - tag: ol
-    heading: 问题原因
-    text:
-      - 卡消磁(罕见)，请您到信息化办对卡重新初始化或补办新卡；
-      - 卡消费异常(多次消费或远超过当日限额)，请向室友借卡或次日再进行洗浴。该问题十分罕见。
 
   - tag: title
     text: 无法在食堂或超市刷卡
