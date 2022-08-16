@@ -1,7 +1,7 @@
 title: 学习
 grey: true
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 17 日
 shareable: true
 content:
   - tag: list
@@ -41,29 +41,3 @@ content:
       - text: 成绩单与成绩档案
         icon: score
         path: grade
-
-  - tag: list
-    header: 学习方法
-    items:
-      - text: 优秀毕业生建议
-        icon: study
-        path: /guide/advice/
-
-  - tag: list
-    header: 奖学金
-    items:
-      - text: 本科生奖学金介绍
-        icon: metal
-        path: scholarship/under
-
-      - text: 本科奖学金评审说明
-        icon: intro
-        path: scholarship/explain
-
-      - text: 研究生奖学金介绍
-        icon: metal
-        path: scholarship/post
-
-      - text: 奖学金申请
-        icon: apply
-        path: scholarship/apply

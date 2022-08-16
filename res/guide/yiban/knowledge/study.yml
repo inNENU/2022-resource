@@ -1,6 +1,6 @@
 title: 课程与学习
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 17 日
 shareable: true
 content:
   - tag: title
@@ -30,7 +30,7 @@ content:
       - 学校的本科生奖学金包括『学校奖学金、国家奖学金、社会奖学金』。
       # 暂无
       - 学校设立奖学金的目的是为了『激励学生勤奋学习、努力进取』；『激励学生在德、智、体、美等方面全面发展』；『通过奖学金对学生实现的每一个小目标给予认可』；『奖励品学兼优、特别优秀的学生』。
-    path: /guide/study/scholarship/
+    path: /guide/scholarship/
 
   - tag: ul
     type: info

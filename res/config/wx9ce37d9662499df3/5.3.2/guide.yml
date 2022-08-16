@@ -222,6 +222,12 @@ content:
         icon: study
         path: guide/study/
 
+      - text: 奖学金
+        color: purple
+        name: Scholarship
+        icon: scholarship
+        path: guide/scholarship/
+
       - text: 选课
         color: cyan
         name: Select
