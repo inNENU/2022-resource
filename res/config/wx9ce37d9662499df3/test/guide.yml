@@ -231,7 +231,7 @@ content:
       - text: 奖学金
         color: purple
         name: Scholarship
-        icon: scholarship
+        icon: metal
         path: guide/scholarship/
 
       - text: 选课
