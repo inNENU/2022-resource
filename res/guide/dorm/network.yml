@@ -1,6 +1,6 @@
 title: 宿舍供网
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 18 日
 shareable: true
 content:
   - tag: title
@@ -19,7 +19,7 @@ content:
       - "夏华公寓: 全天"
       - "天华公寓: 与供电时间一致"
 
-  - tag: text
+  - tag: ul
     heading: 提示
     text:
       - 研究生宿舍全天供网。

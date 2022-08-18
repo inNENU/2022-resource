@@ -1,13 +1,13 @@
 title: 超市
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 18 日
 shareable: true
 content:
-  - tag: text
-    type: tip
-    text:
-      - 由于新冠疫情学校封闭管控，而且考虑到同学们自身的安全，Mr.Hope 不建议频繁到校外超市进行小额采购。
-      - 如果您对学校的零售价格不满，您可以考虑网购。
+  - tag: list
+    items:
+      - text: Mr.Hope 的建议
+        icon: idea
+        path: tip
 
   - tag: title
     text: 本部

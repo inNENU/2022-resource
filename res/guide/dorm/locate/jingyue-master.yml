@@ -1,7 +1,7 @@
 title: 净月研究生寝室安排
 desc: 部分图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 18 日
 shareable: true
 content:
   - tag: title
@@ -42,7 +42,7 @@ content:
     text: 人华公寓
 
   - tag: text
-    text: 居住美术和音乐学院研究生
+    text: 居住美术学院和音乐学院研究生
 
   - tag: img
     src: $img/dorm/ren-hua.jpg
@@ -51,7 +51,9 @@ content:
     text: 冬华公寓
 
   - tag: text
-    text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语研究生。
+    text:
+      - 男寝
+      - 居住美术学院、音乐学院、信息技术与科学学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生。
 
   - tag: img
     src: $img/dorm/dong-hua.jpg
@@ -60,7 +62,8 @@ content:
     text: 星华公寓
 
   - tag: text
-    text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生。
+    text:
+      - 居住美术学院、音乐学院、信息技术与科学学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生。
 
   - tag: img
     src: $img/dorm/xing-hua.jpg
@@ -69,7 +72,7 @@ content:
     text: 月华公寓
 
   - tag: text
-    text: 居住美术、音乐、信科、政法、环境、经管、传媒、外国语学院研究生
+    text: 居住美术学院、音乐学院、信息技术与科学学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生
 
   - tag: img
     src: $img/dorm/yue-hua.jpg

@@ -1,6 +1,6 @@
 title: 净月校外超市
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 18 日
 shareable: true
 content:
   - tag: title
@@ -13,8 +13,10 @@ content:
     text: 出行方式
 
   - tag: text
-    heading: 步行(捷径)
-    text: 体育场旁边的小门出去，穿过小区，右转便是，大约 10 分钟路程。
+    heading: 步行
+    text:
+      - 从雕塑门出去，使用地图导航，步行时间约 25 分钟。
+      - 体育场旁边的小门出去，穿过小区，右转便是，大约 10 分钟路程。
 
   - tag: ul
     heading: 公交

@@ -987,15 +987,7 @@
             },
             "author": {
               "description": "音频作者",
-              "oneOf": [
-                { "type": "string" },
-                {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                }
-              ]
+              "type": "string"
             },
             "env": {
               "$ref": "#/definitions/env"
@@ -1097,7 +1089,15 @@
     },
     "author": {
       "description": "页面作者",
-      "type": "string"
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ]
     },
     "time": {
       "description": "页面更新时间",
