@@ -1,7 +1,7 @@
 title: 校园卡
 grey: true
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 19 日
 shareable: true
 content:
   - tag: text
@@ -53,7 +53,7 @@ content:
       - text: 更多业务办理
         desc: 信息化办
         icon: pc
-        path: office
+        path: /intro/apt/xxhb/
 
   - tag: list
     items:

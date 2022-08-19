@@ -1,11 +1,12 @@
 title: 统一身份认证
 author: Mr.Hope
-time: 2022 年 8 月 18 日
+time: 2022 年 8 月 19 日
 shareable: true
 content:
   - tag: text
-    type: info
-    text: 目前 2022 级新生账号已在录入中，大部分人可以登录了。
+    type: warning
+    text: 目前 2022 级新生账号已录入完成，如果您不能登录，请您联系信息化办。
+    path: /guide/card/office
 
   - tag: title
     text: 获得学号
@@ -21,7 +22,12 @@ content:
       - 访问 https://authserver.nenu.edu.cn/authserver/login 并使用学号与默认密码进行登录。
 
   - tag: action
+    header: 校内地址
     content: https://authserver.nenu.edu.cn/authserver/login
+
+  - tag: action
+    header: 校外地址
+    content: https://authserver-443.webvpn.nenu.edu.cn/authserver/login
 
   - tag: text
     type: info

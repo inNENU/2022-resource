@@ -1,6 +1,6 @@
 title: 登陆选课系统
 author: Mr.Hope
-time: 2022 年 7 月 6 日
+time: 2022 年 8 月 19 日
 shareable: true
 content:
   - tag: text
@@ -79,7 +79,7 @@ content:
 
       - text: 信息化办
         icon: pc
-        path: /guide/card/office
+        path: /intro/apt/xxhb/
 
   - tag: title
     text: Mr.Hope の 吐槽
