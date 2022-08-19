@@ -6,7 +6,7 @@ content:
   - tag: text
     type: warning
     text: 目前 2022 级新生账号已录入完成，如果您不能登录，请您联系信息化办。
-    path: /guide/card/office
+    path: /intro/apt/xxhb/
 
   - tag: title
     text: 获得学号
