@@ -1,6 +1,6 @@
 title: 常见网上诈骗
 author: Mr.Hope
-time: 2022 年 8 月 14 日
+time: 2022 年 8 月 19 日
 grey: true
 shareable: true
 content:
@@ -14,3 +14,6 @@ content:
 
       - text: 伪装官方
         path: official
+
+      - text: 盗号
+        path: account

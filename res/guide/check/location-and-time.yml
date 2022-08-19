@@ -1,6 +1,6 @@
 title: 报到时间地点
 author: Mr.Hope
-time: 2022 年 8 月 12 日
+time: 2022 年 8 月 19 日
 shareable: true
 content:
   - tag: title
@@ -73,7 +73,7 @@ content:
 
   - tag: text
     type: note
-    text: 学校暂无 2022 年准确的接待时间信息，后续会根据通知进行更新。
+    text: 学校暂无 2022 年准确的接待地点信息，后续会根据通知进行更新。
 
   # - tag: text
   #   heading: 临时接待
@@ -103,13 +103,21 @@ content:
   #   desc: 本部摆台地点示意图
 
   - tag: text
-    text: 净月校区在正门通道处
+    text:
+      - 净月校区在雕塑门 (2 号门)
+      # - 净月校区在正门通道处
 
   # - tag: img
   #   src: $img/check/jingyue-stage.jpg
 
   - tag: location
-    title: 净月正门
+    title: 净月 2 号门
     points:
-      - latitude: 43.828368
-        longitude: 125.430668
+      - latitude: 43.82886
+        longitude: 125.42689
+
+  # - tag: location
+  #   title: 净月正门
+  #   points:
+  #     - latitude: 43.828368
+  #       longitude: 125.430668
