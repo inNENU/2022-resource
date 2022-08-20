@@ -1,43 +1,32 @@
 title: 校园邮箱
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 20 日
 shareable: true
 content:
   - tag: title
-    text: 账号获取
+    text: 邮箱账号
+
+  - tag: p
+    text:
+      - 我校邮箱使用网易企业邮箱，学校会为每一名同学分配一个终身有效的校园邮箱地址，格式为 <用户名@nenu.edu.cn>
+      - 学校邮箱在功能上其他邮箱一样，并无特殊之处。但是其特殊的 .edu.cn 后缀，是其作为教育邮箱的体现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
 
   - tag: text
-    text: 请先完成“东北师范大学”企业微信认证。之后下载企业微信 App 并完成登录。
+    heading: 邮箱账号
 
   - tag: list
     header: false
     items:
-      - text: 企业号认证
-        icon: apply
-        path: ../wechat/authorize
+      - text: 对于 2021 级及之前的同学，邮箱账号是系统自动分配的。
+      - text: 获取账号
+        path: get
 
-  - tag: action
-    header: 安卓下载企业微信
-    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=android&from=wwindex
-
-  - tag: action
-    header: iOS 下载企业微信
-    content: https://work.weixin.qq.com/wework_admin/commdownload?platform=ios&from=wwindex
-
-  - tag: ol
-    text:
-      - 下载安装完成后，请通过微信登陆企业微信
-      - 在侧边栏中选择“东北师范大学”机构
-      - 点击下方 Tab 栏中的 “工作台”
-      - 在工作台中找到“个人中心”并进入
-      - 点击个人中心下方菜单栏中的“信息查询”-“人员信息”
-
-  # - tag: list
-  #   header: false
-  #   items:
-  #     - text: 邮箱账户获取
-  #       icon: apply
-  #       path: ../authorize
+  - tag: list
+    header: false
+    items:
+      - text: 对于 2022 级及之后的同学，邮箱账号是自行申请的。
+      - text: 申请邮箱
+        path: apply
 
   - tag: text
     type: info
@@ -48,8 +37,7 @@ content:
   - tag: text
     type: warning
     text:
-      - 我校邮箱使用网易企业邮，邮箱拥有自己的账号系统。
-      - 换言之，您需要在邮箱内部的“设置”中进行密码管理，且该密码不与学校统一身份认证同步。
+      - 因为校园邮箱使用网易企业邮，邮箱拥有自己的账号系统。换言之，您需要在邮箱内部的“设置”中进行密码管理，且该密码不与学校统一身份认证同步。
 
   - tag: title
     text: 登陆地址
@@ -60,7 +48,7 @@ content:
   - tag: text
     type: warning
     text:
-      - 账号只需输入别名，无需且不要输入 "@nenu.edu.cn"
+      - 账号只需输入用户名，无需且不要输入 "@nenu.edu.cn"
 
   - tag: text
     type: tip
@@ -70,14 +58,6 @@ content:
   - tag: img
     src: $img/account/email-login.jpg
     desc: 邮箱登录页面
-
-  - tag: title
-    text: 邮箱使用
-
-  - tag: text
-    text:
-      - 学校邮箱在功能上其他邮箱一样，并无特殊之处。
-      - 其特殊的 .edu.cn 后缀，是其作为教育邮箱的体现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
 
   - tag: img
     src: $img/account/email.jpg

@@ -1,15 +1,14 @@
 title: 校园邮箱
 grey: true
 author: Mr.Hope
-time: 2022 年 8 月 12 日
+time: 2022 年 8 月 20 日
 shareable: true
 content:
   - tag: text
     type: info
     heading: 校园邮箱
     text:
-      - 学校会为每名同学发放一个终身有效的教育邮箱，以 "@nenu.edu.cn" 后缀结尾。
-      - 邮箱的账户目前不可自定义，默认为“姓全拼+名首字母缩写+三位数字序号”。
+      - 学校允许每名同学申请一个终身有效的校园邮箱，以 "@nenu.edu.cn" 后缀结尾。
 
   - tag: list
     items:
@@ -17,6 +16,17 @@ content:
         icon: email
         path: intro
 
+      - text: 邮箱申请
+        icon: apply
+        path: apply
+
+      - text: 邮箱账号获取
+        icon: account
+        path: get
+
+  - tag: list
+    header: 客户端设置
+    items:
       - text: 安卓邮箱客户端设置
         icon: android
         path: android
