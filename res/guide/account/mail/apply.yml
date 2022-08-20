@@ -13,6 +13,11 @@ content:
     text: 申请流程
 
   - tag: text
+    type: warning
+    text:
+      - 目前在手机页面下会出现申请失败，请在浏览器的菜单中使用 PC 版网页进行申请。
+
+  - tag: text
     text:
       - 1. 登录网上服务大厅
 
@@ -76,3 +81,8 @@ content:
     items:
       - text: 登陆邮箱
         path: intro
+
+  - tag: text
+    type: warning
+    text:
+      - 请妥善截图或记录初始密码，退出账号后无法再次查看。

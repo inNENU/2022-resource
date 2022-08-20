@@ -4,15 +4,15 @@ time: 2022 年 8 月 20 日
 shareable: true
 content:
   - tag: title
-    text: 邮箱账号
+    text: 邮箱简介
 
   - tag: p
     text:
-      - 我校邮箱使用网易企业邮箱，学校会为每一名同学分配一个终身有效的校园邮箱地址，格式为 <用户名@nenu.edu.cn>
+      - 我校邮箱使用网易企业邮箱，学校会为每一名同学分配一个终身有效的校园邮箱地址，格式为 <用户名@nenu.edu.cn>。
       - 学校邮箱在功能上其他邮箱一样，并无特殊之处。但是其特殊的 .edu.cn 后缀，是其作为教育邮箱的体现，通过它可以在部分软件、网站上验证学生身份，并获得学生的专属优惠及待遇。
 
-  - tag: text
-    heading: 邮箱账号
+  - tag: title
+    text: 邮箱账号
 
   - tag: list
     header: false
@@ -22,11 +22,13 @@ content:
         path: get
 
   - tag: list
-    header: false
     items:
       - text: 对于 2022 级及之后的同学，邮箱账号是自行申请的。
       - text: 申请邮箱
         path: apply
+
+  - tag: title
+    text: 邮箱密码
 
   - tag: text
     type: info
