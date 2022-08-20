@@ -55,6 +55,11 @@ content:
         icon: heart
         path: blood-donate
 
+      - text: 团学组织纳新宣讲
+
+      - text: 学籍图像采集
+        desc: 好好照
+
   - tag: list
     header: 征兵工作
     items:

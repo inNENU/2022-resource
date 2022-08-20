@@ -1,6 +1,6 @@
 title: 大学生活简介
 author: Mr.Hope
-time: 2022 年 8 月 8 日
+time: 2022 年 8 月 21 日
 grey: true
 shareable: true
 content:
@@ -55,3 +55,14 @@ content:
       - text: 选课参考
         icon: reference
         path: /guide/select/reference
+
+  - tag: list
+    header: 校园活动
+    items:
+      - text: 运动会
+
+      - text: 足球赛
+
+      - text: “精英杯”篮球赛
+
+      - text: 教师技能大赛
