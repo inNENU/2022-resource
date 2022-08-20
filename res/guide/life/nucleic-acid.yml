@@ -1,6 +1,6 @@
 title: 长春市核酸监测点
 author: Mr.Hope
-time: 2022 年 8 月 2 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
     desc: 核酸地图展示
     name: 灵动长春
     options:
-      appId: wx5f0c843a23b032cc
+      appId: wx237ea1660ddf11e6
       path: pages/index/index
 
   - tag: img

@@ -1,7 +1,7 @@
 title: 疫情管理
 grey: true
 author: Mr.Hope
-time: 2022 年 7 月 11 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: text
@@ -16,9 +16,9 @@ content:
         icon: alert
         path: requirement
 
-      # - text: 长春疫情管控地区
-      #   icon: ban
-      #   path: changchun-restrict
+      - text: 长春疫情管控地区
+        icon: ban
+        path: changchun-restrict
 
       - text: 疫情管理调整
         icon: virus

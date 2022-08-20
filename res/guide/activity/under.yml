@@ -1,6 +1,6 @@
 title: 本科生开学活动
 author: Mr.Hope
-time: 2022 年 8 月 8 日
+time: 2022 年 8 月 21 日
 grey: true
 shareable: true
 content:
@@ -50,6 +50,10 @@ content:
       - text: 火车优惠卡申领
         icon: train
         path: train-card
+
+      - text: 献血
+        icon: heart
+        path: blood-donate
 
   - tag: list
     header: 征兵工作

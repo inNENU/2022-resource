@@ -1,6 +1,6 @@
 title: 研究生开学活动
 author: Mr.Hope
-time: 2022 年 8 月 7 日
+time: 2022 年 8 月 21 日
 grey: true
 shareable: true
 content:
@@ -33,6 +33,10 @@ content:
         desc: 自愿
         icon: insurance
         path: /guide/insurance/
+
+      - text: 献血
+        icon: heart
+        path: blood-donate
 
   - tag: list
     header: 征兵工作

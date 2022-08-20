@@ -1,7 +1,7 @@
 title: 报到
 grey: true
 author: Mr.Hope
-time: 2022 年 8 月 14 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: list
@@ -14,6 +14,10 @@ content:
       - text: 专业所在校区
         icon: gate
         path: locate
+
+      - text: 长春市核酸检测点
+        icon: map
+        path: /guide/life/nucleic-acid
 
   - tag: list
     header: 报到流程

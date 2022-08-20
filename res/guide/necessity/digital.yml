@@ -1,20 +1,21 @@
 title: 数码产品类
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: title
     text: 电脑
 
   - tag: ol
-    heading: 电脑在大学生活中有如下需求
+    heading: 使用场景
     text:
       - 进入大学参加社团、学生组织后，一些材料会需要电脑完成；
       - 选课、退课、学籍注册、各类考试报名
       - 课程中，撰写课程论文、网上提交作业等
       - 部分专业如计算机类，专业课作业以及课后实战
 
-  - tag: text
+  - tag: p
+    type: tip
     heading: 电脑是必需品么
     text:
       - 不是，学校图书馆专门开设有电子阅览室可供同学使用。如果您的家庭拮据，您可以选择不购买电脑。

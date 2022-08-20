@@ -1,6 +1,6 @@
 title: 报到流程
 author: Mr.Hope
-time: 2022 年 8 月 9 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: text
@@ -228,6 +228,18 @@ content:
   - tag: text
     text:
       - 按照小程序需带物品章节对自身携带物品进行核对，并列出购物清单前往学校超市进行购买
+    align: center
+
+  - tag: text
+    text: 👇
+    align: center
+    style:
+      font-weight: "500"
+      font-size: 20px
+
+  - tag: text
+    text:
+      - 到校园快递中心 (本部菜鸟驿站、净月近邻宝) 取快递
     align: center
 
   - tag: text

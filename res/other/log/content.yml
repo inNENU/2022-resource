@@ -7,6 +7,18 @@ content:
     heading: 新增
     text:
       - 新增校园邮箱申请流程
+      - 新增献血
+
+  - tag: ul
+    heading: 更新
+    text:
+      - 更新吉祥码介绍
+      - 更新教师教育研究院所在校区
+
+  - tag: ul
+    heading: 修复
+    text:
+      - 修复核酸地图小程序跳转
 
   - tag: title
     text: 2022/08/19

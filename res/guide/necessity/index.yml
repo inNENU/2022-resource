@@ -1,10 +1,11 @@
 title: 各类物品
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 21 日
+grey: true
 shareable: true
 content:
   - tag: p
-    heading: 可选品
+    type: note
     text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。此物品清单仅作参考! 并不是每个人都需要买。
 
   - tag: text
@@ -12,7 +13,6 @@ content:
     text: 标记 “*” 的意味着校内超市有售
 
   - tag: list
-    header: false
     items:
       - text: 校内外超市
         icon: shop
@@ -53,21 +53,13 @@ content:
         icon: digital
         path: digital
 
-  - tag: title
-    text: 违禁物品
-
   - tag: list
-    header: false
     items:
       - text: 寝室违禁物品
         icon: ban
         path: /guide/dorm/ban
 
-  - tag: title
-    text: Mr.Hope 的建议
-
   - tag: list
-    header: false
     items:
       - text: Mr.Hope 的建议
         icon: idea

@@ -1,6 +1,6 @@
 title: 宿舍神器类
 author: Mr.Hope
-time: 2022 年 6 月 27 日
+time: 2022 年 8 月 21 日
 shareable: true
 content:
   - tag: title
@@ -9,6 +9,10 @@ content:
   - tag: ul
     text:
       - 可用于放抽纸、床头书、手机、电脑、水瓶等
+
+  - tag: text
+    type: warning
+    text:
       - 强烈推荐线下购买，快递邮过来可能会变形...
 
   - tag: img
